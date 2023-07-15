@@ -1,0 +1,63 @@
+"cond-mat/9208025","Atsushi Yamagata","Atsushi Yamagata","Interfacial adsorption phenomena of the three-dimensional three-state
+  Potts model","14 pages",,"10.1088/0305-4470/26/9/008",,"cond-mat",,"  We study the interfacial adsorption phenomena of the three-state
+ferromagnetic Potts model on the simple cubic lattice by the Monte Carlo
+method. Finite-size scaling analyses of the net-adsorption yield the evidence
+of the phase transition being of first-order and $k_{\rm B} T_{\rm C} / J =
+1.8166 (2)$.
+","[{""version"":""v1"",""created"":""Mon, 31 Aug 1992 02:03:00 GMT""}]","2009-10-22"
+"hep-ph/9208260",,"K. S. Babu and R. R. Volkas","Bounds on mini-charged neutrinos in the minimal standard model","13 pages, LaTeX, UM-P-92/27","Phys.Rev.D46:2764-2768,1992","10.1103/PhysRevD.46.R2764",,"hep-ph",,"  In the minimal Standard Model (MSM) with three generations of quarks and
+leptons, neutrinos can have tiny charges consistent with electromagnetic gauge
+invariance. There are three types of non-standard electric charge, given by
+$Q_{st} + \epsilon(L_i - L_j)$, where $i, j = e, \mu, \tau$ $(i \neq j)$,
+$Q_{st}$ is standard electric charge, $L_i$ is a family-lepton--number, and
+$\epsilon$ is an arbitrary parameter which is put equal to zero in the usual
+incarnation of the MSM. These three non-standard electric charges are of
+considerable theoretical interest because they are compatible with the MSM
+Lagrangian and $SU(3)_c \otimes SU(2)_L \otimes U(1)_Y$ gauge anomaly
+cancellation. The two most conspicuous implications of such non-standard
+electric charges are the presence of two generations of massless charged
+neutrinos and a breakdown in electromagnetic universality for $e$, $\mu$ and
+$\tau$. We use results from (i) charge conservation in $\beta$-decay, (ii)
+physical consequences of charged atoms in various contexts, (iii) the anomalous
+magnetic moments of charged leptons, (iv) neutrino-electron scattering, (v)
+energy loss in red giant and white dwarf stars, and (vi) limits on a
+cosmologically induced thermal photon mass, to place bounds on $\epsilon$.
+While the constraints derived for $\epsilon$ 10^{-21}$), the $L_{\mu}-L_{\tau}$
+case allows $\epsilon$ to be as large as $10^{-14}$.
+","[{""version"":""v1"",""created"":""Mon, 31 Aug 1992 06:00:41 GMT""}]","2009-12-30"
+"hep-ph/9208261","L. Kaschluhn","Yu. L. Kalinovsky, L. Kaschluhn","Bilocal Field Approach and Semileptonic Heavy Meson Decays","27 pages and 2 figures (available upon request), DESY 92-071",,,,"hep-ph",,"  In this paper we consider the bilocal field approach for $QCD$. We obtain a
+bilocal effective meson action with a potential kernel given in relativistic
+covariant form. The corresponding Schwinger--Dyson and Bethe--Salpeter
+equations are investigated in detail. By introducing weak interactions into the
+theory we study heavy meson properties as decay constants and semileptonic
+decay amplitudes. Thereby, the transition from the bilocal field description to
+the heavy quark effective theory is discussed. Considering as example the
+semileptonic decay of a pseudoscalar $B$--meson into a pseudoscalar $D$--meson
+we obtain an integral expression for the corresponding Isgur--Wise function in
+terms of meson wave functions.
+","[{""version"":""v1"",""created"":""Mon, 31 Aug 1992 08:09:00 GMT""}]","2007-05-23"
+"hep-ph/9208262","Cliff Burgess","C.P. Burgess, James M. Cline and Markus Luty","New Neutrino Physics Without Fine Tuning","6 pages, (LaTeX) McGill-92/36",,,,"hep-ph",,"  We show how a 17 keV neutrino, the solar neutrino problem, and the
+atmospheric muon-neutrino deficit could all be the low-energy residues of the
+same pattern of lepton-number breaking at and above the weak scale, with no
+requirement for fine-tuning a symmetry-breaking scale at lower energies. Talk
+given at ``Beyond the Standard Model III'', Carleton University, June 1992.
+","[{""version"":""v1"",""created"":""Mon, 31 Aug 1992 15:31:29 GMT""}]","2007-05-23"
+"hep-th/9208078",,"Tom\'as Ort\'in","Electric-Magnetic Duality and Supersymmetry in Stringy Black Holes","22 pages","Phys.Rev. D47 (1993) 3136-3143","10.1103/PhysRevD.47.3136",,"hep-th",,"  We present a generalization of the $U(1)^{2}$ charged dilaton black holes
+family whose main feature is that both $U(1)$ fields have electric and magnetic
+charges, the axion field still being trivial. We show the supersymmetry of
+these solutions in the extreme case, in which the corresponding generalization
+of the Bogomolnyi bound is saturated and a naked singularity is on the verge of
+being visible to external observers. Then we study the action of a subset of
+the $SL(2,R)$ group of electric-magnetic duality rotations that generates a
+non-trivial axion field on those solutions. This group of transformations is an
+exact symmetry of the $N=4$ $d=4$ ungauged supergravity equations of motion. It
+has been argued recently that it could be an exact symmetry of the full
+effective string theory. The generalization of the Bogomolnyi bound is
+invariant under the full $SL(2,R)$ and the solutions explicitly rotated are
+shown to be supersymmetric if the originals are. We conjecture that any
+$SL(2,R)$ transformation will preserve supersymmetry.
+","[{""version"":""v1"",""created"":""Mon, 31 Aug 1992 02:24:00 GMT""}]","2016-08-14"
+"hep-th/9208079","Atsushi Matsuo","A. Matsuo","Free Field Representation of Quantum Affine Algebra U_q(\hat{sl}_2)","11 pages","Phys.Lett. B308 (1993) 260-265","10.1016/0370-2693(93)91282-R",,"hep-th",,"  A Fock representation of the quantum affine algebra $U_q(\widehat{\sl}_2)$ is
+constructed by three bosonic fields for an arbitrary level with the help of the
+Drinfeld realization.
+","[{""version"":""v1"",""created"":""Mon, 31 Aug 1992 11:56:40 GMT""}]","2009-10-22"

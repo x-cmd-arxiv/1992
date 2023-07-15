@@ -1,0 +1,138 @@
+"cond-mat/9207014",,"B. D. Lubachevsky, V. Privman, S.C. Roy","Morphology of Amorphous Layers Ballistically Deposited on a Planar
+  Substrate","20 pages, TeX (plain)","Phys.Rev.E47:48-53,1993","10.1103/PhysRevE.47.48",,"cond-mat",,"  We report numerical simulation of the deposition of spherical particles on a
+planar surface, by ballistic, straight-line trajectory transport, and assuming
+irreversible adhesion on contact with the surface or previously deposited
+particles. Our data indicate that the deposit formed has a loosely layered
+structure within few diameters from the surface. This structure can be
+explained by a model of growth via chain formation. Away from the surface we
+found evidence of a monotonic, power-law approach to the bulk density. Both
+density and contact-statistics results suggest that the deposit formed is
+sparse: the space-filling fraction is about 15%, and the average number of
+contacts is 2. The morphology of the deposit both near the surface and in the
+bulk seems to be a result of competition of screening and branching; nearly
+half of all the spheres are either single-contact dangling ends, or branching
+nodes with more than two contacts.
+","[{""version"":""v1"",""created"":""Wed, 15 Jul 1992 12:01:03 GMT""}]","2014-10-13"
+"cond-mat/9207015",,"V. Privman, M. D. Grynberg","Fast-diffusion mean-field theory for k-body reactions in one dimension","16 pages, TeX (plain)","J.Phys.A25:6567-6576,1992","10.1088/0305-4470/25/24/011",,"cond-mat",,"  We derive an improved mean-field approximation for k-body annihilation
+reactions kA --> inert, for hard-core diffusing particles on a line,
+annihilating in groups of k neighbors with probability 0 < q <= 1. The hopping
+and annihilation processes are correlated to mimic chemical reactions. Our new
+mean-field theory accounts for hard-core particle properties and has a larger
+region of applicability than the standard chemical rate equation especially for
+large k values. Criteria for validity of the mean-field theory and its use in
+phenomenological data fits are derived. Numerical tests are reported for
+k=3,4,5,6.
+","[{""version"":""v1"",""created"":""Wed, 15 Jul 1992 14:40:34 GMT""}]","2014-10-13"
+"cond-mat/9207016",,"Matthias Troyer and Diethelm W\""urtz","Ferromagnetism of the 1-D Kondo Lattice Model: A Quantum Monte Carlo
+  Study","9 pages 5 Postscript figures and the dvi and Postscript file of the
+  paper are available by anonymous ftp from maggia.ethz.ch (directory:
+  /reports/92-10)","Phys. Rev. B 47, 2886 (1993)","10.1103/PhysRevB.47.2886",,"cond-mat",,"  The one dimensional Kondo lattice model is investigated using Quantum Monte
+Carlo and transfer matrix techniques. In the strong coupling region
+ferromagnetic ordering is found even at large band fillings. In the weak
+coupling region the system shows an RKKY like behavior.
+","[{""version"":""v1"",""created"":""Wed, 15 Jul 1992 15:25:37 GMT""}]","2007-05-23"
+"hep-lat/9207012","Gerrit Schierholz","M. Goeckeler and G. Schierholz","A Proposal for Simulating Chiral Fermions","10 pages, HLRZ 92-33",,"10.1016/0920-5632(92)90013-I",,"hep-lat",,"  We describe a method for evaluating chiral gauge theories that is not plagued
+by the doubling problem. To demonstrate the efficiency of the approach, we
+apply our ideas to the chiral Schwinger model.
+","[{""version"":""v1"",""created"":""Wed, 15 Jul 1992 13:23:14 GMT""}]","2009-10-22"
+"hep-lat/9207013","M. Mueller-Preussker","N. Schultka and M. M\""uller-Preussker","The Topological Susceptibility of the Lattice CP(n-1) Model on the Torus
+  and the Sphere","20 pages, 14 figures not included, sorry, HU Berlin-IEP-92/2, Nucl.
+  Phys. B in print","Nucl.Phys. B386 (1992) 193-214","10.1016/0550-3213(92)90180-J",,"hep-lat",,"  The topological vacuum structure of the two-dimensional $~CP^{n-1}~$ model
+for $~n = 3,5,7~$ is studied on the lattice. In particular we investigate the
+small-volume limit on the torus as well as on the sphere and compare with
+continuum results. For $~n \ge 5~$ , where lattice artifacts should be
+suppressed, the topological susceptibility shows unexpectedly strong deviations
+from asymptotic scaling. On the other hand there is an indication for a
+convergence to values obtained analytically within the limit $~n \rightarrow
+\infty~$ .
+","[{""version"":""v1"",""created"":""Wed, 15 Jul 1992 14:36:49 GMT""}]","2009-10-22"
+"hep-ph/9207239","Martin White","Martin White","Contribution of Long Wavelength Gravitational Waves to the CMB
+  Anisotropy","(LaTeX 16 pages), 2 figures not included, YCTP-P16-92","Phys.Rev.D46:4198-4205,1992","10.1103/PhysRevD.46.4198",,"hep-ph astro-ph",,"  We present an in depth discussion of the production of gravitational waves
+from an inflationary phase that could have occurred in the early universe,
+giving derivations for the resulting spectrum and energy density. We also
+consider the large-scale anisotropy in the cosmic microwave background
+radiation coming from these waves. Assuming that the observed quadrupole
+anisotropy comes mostly from gravitational waves (consistent with the
+predictions of a flat spectrum of scalar density perturbations and the measured
+dipole anisotropy) we describe in detail how to derive a value for the scale of
+inflation of $(1.5-5)\times 10^{16}$GeV, which is at a particularly interesting
+scale for particle physics. This upper limit corresponds to a 95\% confidence
+level upper limit on the scale of inflation assuming only that the quadrupole
+anisotropy from gravitational waves is not cancelled by another source. Direct
+detection of gravitational waves produced by inflation near this scale will
+have to wait for the next generation of detectors.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 16:12:00 GMT""}]","2016-09-01"
+"hep-ph/9207240","K. Yuan","L. Clavelli, P.W. Coulter, B. Fenyi, C. Hester, Peter Povinec, and
+  Kajia Yuan","Squarks Below the Z","9 pages, 4 figures not included","Phys.Lett. B291 (1992) 426-430","10.1016/0370-2693(92)91398-S","UAHEP9210","hep-ph",,"  We investigate the possibility that the difference between the measurements
+of $\alpha_3(M_Z)$ from the hadronic branching ratio of the $Z^0$ and the world
+average of other measurements is due to the decay of the $Z^0$ into quark,
+anti-squark, and gluino. Consequences for supersymmetry breaking models are
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 15 Jul 1992 01:47:23 GMT""}]","2009-10-22"
+"hep-th/9207049","Stephan Stieberger","J. Erler, D. Jungnickel, M. Spalinski and S. Stieberger","Higher Twisted Sector Couplings of $Z_N$ Orbifolds","32 pages","Nucl.Phys. B397 (1993) 379-416","10.1016/0550-3213(93)90348-S",,"hep-th",,"  We derive the basic correlation functions of twist fields coming from
+arbitrary twisted sectors in symmetric $Z_N$ orbifold conformal field theories,
+keeping all the admissible marginal perturbations, in particular those
+corresponding to the antisymmetric tensor background field. This allows a
+thorough investigation of modular symmetries in this type of string
+compactification. Such a study is explicitly carried out for the group
+generated by duality transformations. Thus, apart from being of
+phenomenological use, our couplings are also interesting from the mathematical
+point of view as they represent automorphic functions for a large class of
+discrete groups.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 18:20:50 GMT""}]","2009-10-22"
+"hep-th/9207050","Galperin","F. Delduc, A. Galperin, P. Howe and E. Sokatchev","A twistor formulation of the heterotic D=10 superstring with manifest
+  (8,0) worldsheet supersymmetry","29 pages, LATEX file, BONN-HE-92-19, JHU-TIPAC-920018,
+  ENSLAPP-L-392-92","Phys.Rev.D47:578-593,1993","10.1103/PhysRevD.47.578",,"hep-th",,"  We propose a new formulation of the heterotic $D=10$ Green-Schwarz
+superstring whose worldsheet is a superspace with two even and eight odd
+coordinates. The action is manifestly invariant under both target-space
+supersymmetry and a worldsheet reparametrisation supergroup. It contains only a
+finite set of auxiliary fields. The key ingredient are the commuting spinor
+(twistor) variables, which naturally arise as worldsheet superpartners of the
+target space Grassmann coordinates. These spinors parametrise the sphere $S^8$
+regarded as a coset space of the $D=10$ Lorentz group. The sphere is associated
+with the lightlike vector of one of the string Virasoro constraints. The origin
+of the on-shell $D=10$ fermionic kappa symmetry of the standard Green-Schwarz
+formulation is explained. An essential and unusual feature is the appearance of
+the string tension only on shell as an integration constant.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 21:57:00 GMT""}]","2011-05-05"
+"hep-th/9207051",,"B. Sathiapalan","Loop Variables and the Virasoro Group","23 pages, PSU/TH","Nucl.Phys. B405 (1993) 367-388","10.1016/0550-3213(93)90551-Y",,"hep-th",,"  We derive an expression in closed form for the action of a finite element of
+the Virasoro Group on generalized vertex operators. This complements earlier
+results giving an algorithm to compute the action of a finite string of
+generators of the Virasoro Algebra on generalized vertex operators. The main
+new idea is to use a first order formalism to represent the infinitesimal group
+element as a loop variable. To obtain a finite group element it is necessary to
+thicken the loop to a band of finite thickness. This technique makes the
+calculation very simple.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 23:33:00 GMT""}]","2009-10-22"
+"hep-th/9207053",,"Ashoke Sen","Electric Magnetic Duality in String Theory","20 pages, phyzzx.tex, TIFR-TH-92-41 (The section on dyonic black
+  holes has been modified and expanded, minor corrections have been made in the
+  other sections)","Nucl.Phys.B404:109-126,1993","10.1016/0550-3213(93)90475-5",,"hep-th",,"  The electric-magnetic duality transformation in four dimensional heterotic
+string theory discussed by Shapere, Trivedi and Wilczek is shown to be an exact
+symmetry of the equations of motion of low energy effective field theory even
+after including the scalar and the vector fields, arising due to
+compactification, in the effective field theory. Using this duality
+transformation we construct rotating black hole solutions in the effective
+field theory carrying both, electric and magnetic charges. The spectrum of
+extremal magnetically charged black holes turns out to be similar to that of
+electrically charged elementary string excitations. We also discuss the
+possibility that the duality symmetry is an exact symmetry of the full string
+theory under which electrically charged elementary string excitations get
+exchanged with magnetically charged soliton like solutions. This proposal might
+be made concrete following the suggestion of Dabholkar et. al. that fundamental
+strings may be regarded as soliton like classical solutions in the effective
+field theory.
+","[{""version"":""v1"",""created"":""Wed, 15 Jul 1992 10:15:14 GMT""},{""version"":""v2"",""created"":""Tue, 6 Oct 1992 08:06:00 GMT""}]","2009-09-15"
+"hep-th/9207054","David Boulware","David G. Boulware","Quantum Field Theory in Spaces with Closed Time-Like Curves","48 pages","Phys.Rev. D46 (1992) 4421-4441","10.1103/PhysRevD.46.4421",,"hep-th gr-qc",,"  Gott spacetime has closed timelike curves, but no locally anomalous
+stress-energy. A complete orthonormal set of eigenfunctions of the wave
+operator is found in the special case of a spacetime in which the total deficit
+angle is $2\pi$. A scalar quantum field theory is constructed using these
+eigenfunctions. The resultant interacting quantum field theory is not unitary
+because the field operators can create real, on-shell, particles in the acausal
+region. These particles propagate for finite proper time accumulating an
+arbitrary phase before being annihilated at the same spacetime point as that at
+which they were created. As a result, the effective potential within the
+acausal region is complex, and probability is not conserved. The stress tensor
+of the scalar field is evaluated in the neighborhood of the Cauchy horizon; in
+the case of a sufficiently small Compton wavelength of the field, the stress
+tensor is regular and cannot prevent the formation of the Cauchy horizon.
+","[{""version"":""v1"",""created"":""Wed, 15 Jul 1992 15:57:32 GMT""}]","2009-10-22"

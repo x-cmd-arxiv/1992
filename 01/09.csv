@@ -1,0 +1,59 @@
+"hep-th/9201009","High Energy Theory Group","Eva Silverstein","Large-Small Equivalence in String Theory","12 pages (figures not included)","Phys.Lett.B278:111-118,1992","10.1016/0370-2693(92)90720-O",,"hep-th",,"  The simplest toroidally compactified string theories exhibit a duality
+between large and small radii: compactification on a circle, for example, is
+invariant under R goes to 1/R. Compactification on more general Lorentzian
+lattices (i.e. toroidal compactification in the presence of background metric,
+antisymmetric tensor, and gauge fields) yields theories for which large-small
+invariance is not so simple. Here an equivalence is demonstrated between large
+and small geometries for all toroidal compactifications. By repeatedly
+transforming the momentum mode corresponding to the smallest winding length to
+another mode on the lattice, it is possible to increase the volume to exceed a
+finite lower bound.
+","[{""version"":""v1"",""created"":""Wed, 8 Jan 1992 16:23:00 GMT""}]","2010-11-01"
+"hep-th/9201010",,"A.Marshakov, A.Mironov and A.Morozov","From Virasoro Constraints in Kontsevich's Model to $\cal W$-constraints
+  in 2-matrix Models","13 pages (August 1991)","Mod.Phys.Lett.A7:1345-1360,1992","10.1142/S0217732392001014",,"hep-th",,"  The Ward identities in Kontsevich-like 1-matrix models are used to prove at
+the level of discrete matrix models the suggestion of Gava and Narain, which
+relates the degree of potential in asymmetric 2-matrix model to the form of
+$\cal W$-constraints imposed on its partition function.
+","[{""version"":""v1"",""created"":""Wed, 8 Jan 1992 18:57:00 GMT""}]","2014-11-18"
+"hep-th/9201011",,"A.Marshakov, A.Mironov and A.Morozov","On Equivalence of Topological and Quantum 2d Gravity","14 pages (August 1991)","Phys. Lett. B274 (1992) 280","10.1016/0370-2693(92)91987-K",,"hep-th",,"  We demonstrate the equivalence of Virasoro constraints imposed on continuum
+limit of partition function of Hermitean 1-matrix model and the Ward identities
+of Kontsevich's model. Since the first model describes ordinary $d = 2$ quantum
+gravity, while the second one is supposed to coincide with Witten's topological
+gravity, the result provides a strong implication that the two models are
+indeed the same.
+","[{""version"":""v1"",""created"":""Wed, 8 Jan 1992 19:09:00 GMT""}]","2009-10-22"
+"hep-th/9201012",,"A.Mironov and A.Zabrodin","The Asymptotics of the Correlations Functions in $(1+1)d$ Quantum Field
+  Theory From Finite Size Effects in Conformal Theories","33 pages without figures (October 1991)","Int. J. Mod. Phys. A7 (1992) 3885-3910","10.1142/S0217751X92001745",,"hep-th",,"  Using the finite-size effects the scaling dimensions and correlation
+functions of the main operators in continuous and lattice models of 1d spinless
+Bose-gas with pairwise interaction of rather general form are obtained. The
+long-wave properties of these systems can be described by the Gaussian model
+with central charge $c=1$. The disorder operators of the extended Gaussian
+model are found to correspond to some non-local operators in the {\it XXZ}
+Heisenberg antiferromagnet. Just the same approach is applicable to fermionic
+systems. Scaling dimensions of operators and correlation functions in the
+systems of interacting Fermi-particles are obtained. We present a universal
+treatment for $1d$ systems of different kinds which is independent of the exact
+integrability and gives universal expressions for critical exponents through
+the thermodynamic characteristics of the system.
+","[{""version"":""v1"",""created"":""Wed, 8 Jan 1992 19:13:00 GMT""}]","2015-06-26"
+"hep-th/9201013",,"S.Kharchev, A.Marshakov, A.Mironov, A.Morozov and A.Zabrodin","Towards unified theory of $2d$ gravity","67 pages (October 1991)","Nucl.Phys.B380:181-240,1992","10.1016/0550-3213(92)90521-C",,"hep-th",,"  We introduce a new 1-matrix model with arbitrary potential and the
+matrix-valued background field. Its partition function is a $\tau$-function of
+KP-hierarchy, subjected to a kind of ${\cal L}_{-1}$-constraint. Moreover,
+partition function behaves smoothly in the limit of infinitely large matrices.
+If the potential is equal to $X^{K+1}$, this partition function becomes a
+$\tau$-function of $K$-reduced KP-hierarchy, obeying a set of ${\cal W}
+_K$-algebra constraints identical to those conjectured in \cite{FKN91} for
+double-scaling continuum limit of $(K-1)$-matrix model. In the case of $K=2$
+the statement reduces to the early established \cite{MMM91b} relation between
+Kontsevich model and the ordinary $2d$ quantum gravity . Kontsevich model with
+generic potential may be considered as interpolation between all the models of
+$2d$ quantum gravity with $c<1$ preserving the property of integrability and
+the analogue of string equation.
+","[{""version"":""v1"",""created"":""Wed, 8 Jan 1992 19:09:00 GMT""}]","2011-05-05"
+"hep-th/9201014",,"P. Berglund and T. H\""ubsch","A Generalized Construction of Mirror Manifolds","16 pages","Nucl.Phys. B393 (1993) 377-391","10.1016/0550-3213(93)90250-S",,"hep-th",,"  We generalize the known method for explicit construction of mirror pairs of
+$(2,2)$-superconformal field theories, using the formalism of Landau-Ginzburg
+orbifolds. Geometrically, these theories are realized as Calabi-Yau
+hypersurfaces in weighted projective spaces. This generalization makes it
+possible to construct the mirror partners of many manifolds for which the
+mirror was not previously known.
+","[{""version"":""v1"",""created"":""Thu, 9 Jan 1992 11:02:40 GMT""}]","2009-10-22"

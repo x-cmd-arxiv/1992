@@ -1,0 +1,66 @@
+"funct-an/9209001","Graziano Crasta","Alberto Bressan and Graziano Crasta","Extremal Selections of Multifunctions Generating a Continuous Flow","18 pages",,,,"funct-an math.FA",,"  Let $F:[0,T]\times\R^n\mapsto 2^{\R^n}$ be a continuous multifunction with
+compact, not necessarily convex values. In this paper, we prove that, if $F$
+satisfies the following Lipschitz Selection Property: \begin{itemize}
+\item[{(LSP)}] {\sl For every $t,x$, every $y\in \overline{co} F(t,x)$ and
+$\varepsilon>0$, there exists a Lipschitz selection $\phi$ of $\overline{co}F$,
+defined on a neighborhood of $(t,x)$, with $|\phi(t,x)-y|<\varepsilon$.}
+\end{itemize} then there exists a measurable selection $f$ of $ext F$\ such
+that, for every $x_0$, the Cauchy problem $$ \dot x(t)=f(t,x(t)),\qquad\qquad
+x(0)=x_0 $$ has a unique Caratheodory solution, depending continuously on
+$x_0$. We remark that every Lipschitz multifunction with compact values
+satisfies (LSP). Another interesting class, for which (LSP) holds, consists of
+those continuous multifunctions $F$ whose values are compact and have convex
+closure with nonempty interior.
+","[{""version"":""v1"",""created"":""Wed, 9 Sep 1992 16:52:21 GMT""}]","2016-08-31"
+"hep-lat/9209016",,"Martin Hasenbusch","Direct Monte Carlo Measurement of the Surface Tension in Ising Models","15 pages, no figures, report KL--TH 16/92",,"10.1051/jp1:1993160",,"hep-lat",,"  I present a cluster Monte Carlo algorithm that gives direct access to the
+interface free energy of Ising models. The basic idea is to simulate an
+ensemble that consists of both configurations with periodic and with
+antiperiodic boundary conditions. A cluster algorithm is provided that
+efficently updates this joint ensemble. The interface tension is obtained from
+the ratio of configurations with periodic and antiperiodic boundary conditions,
+respectively. The method is tested for the 3-dimensional Ising model.
+","[{""version"":""v1"",""created"":""Thu, 10 Sep 1992 13:47:08 GMT""}]","2009-10-22"
+"hep-ph/9209223",,"E. Nardi","Z', new fermions and flavor changing processes, constraints on E$_6$
+  models from $\mu$ --> eee","plain tex, 22 pages + 2 pages figures in PostScript (appended after
+  `\bye'), UM-TH 92-19","Phys.Rev. D48 (1993) 1240-1247","10.1103/PhysRevD.48.1240",,"hep-ph",,"  We study a new class of flavor changing interactions, which can arise in
+models based on extended gauge groups (rank $>$4) when new charged fermions are
+present together with a new neutral gauge boson. We discuss the cases in which
+the flavor changing couplings in the new neutral current coupled to the
+$Z^\prime$ are theoretically expected to be large, implying that the observed
+suppression of neutral flavor changing transitions must be provided by heavy
+$Z^\prime$ masses together with small $Z$-$Z^\prime$ mixing angles.
+Concentrating on E$_6$ models, we show how the tight experimental limit on $\mu
+\rightarrow eee$ implies serious constraints on the $Z^\prime$ mass and mixing
+angle. We conclude that if the value of the flavor changing parameters is
+assumed to lie in a theoretically natural range, in most cases the presence of
+a $Z^\prime$ much lighter than 1 TeV is unlikely.
+","[{""version"":""v1"",""created"":""Wed, 9 Sep 1992 17:07:00 GMT""}]","2009-10-22"
+"hep-ph/9209224",,"A. H. Chamseddine, G. Felder and J. Fr\""ohlich","Grand Unification in Non-Commutative Geometry","25 pages, ZU-TH-30/1992 and ETH/TH/92-41","Nucl.Phys.B395:672-700,1993","10.1016/0550-3213(93)90053-R",,"hep-ph hep-th",,"  The formalism of non-commutative geometry of A. Connes is used to construct
+models in particle physics. The physical space-time is taken to be a product of
+a continuous four-manifold by a discrete set of points. The treatment of Connes
+is modified in such a way that the basic algebra is defined over the space of
+matrices, and the breaking mechanism is planted in the Dirac operator. This
+mechanism is then applied to three examples. In the first example the discrete
+space consists of two points, and the two algebras are taken respectively to be
+those of $2\times 2$ and $1\times 1$ matrices. With the Dirac operator
+containing the vacuum breaking $SU(2)\times U(1)$ to $U(1)$, the model is shown
+to correspond to the standard model. In the second example the discrete space
+has three points, two of the algebras are identical and consist of $5\times 5$
+complex matrices, and the third algebra consists of functions. With an
+appropriate Dirac operator this model is almost identical to the minimal
+$SU(5)$ model of Georgi and Glashow. The third and final example is the
+left-right symmetric model $SU(2)_L\times SU(2)_R\times U(1)_{B-L}.$
+","[{""version"":""v1"",""created"":""Thu, 10 Sep 1992 15:45:00 GMT""}]","2008-11-26"
+"math/9209204","Menachem Kojman","Menachem Kojman","$\mu$-complete Souslin trees on $\mu^+$",,,,"Logic E-prints September 10, 1992","math.LO",,"  We prove that $\mu=\mu^{<\mu}$, $2^\mu=\mu^+$ and ``there is a non reflecting
+stationary subset of $\mu^+$ composed of ordinals of cofinality $<\mu$'' imply
+that there is a $\mu$-complete Souslin tree on $\mu^+$.
+","[{""version"":""v1"",""created"":""Thu, 10 Sep 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9209213",,"Jesus Bastero, J. Buernes, A. Pena","The theorems of Caratheodory and Gluskin for $0<p<1$",,,,"Banach Archive 9/10/92","math.FA",,"  In this note we investigate some aspects of the local structure of finite
+dimensional $p$-Banach spaces. The well known theorem of Gluskin gives a sharp
+lower bound of the diameter of the Minkowski compactum. In [Gl] it is proved
+that diam$({\cal M}_n^1)\geq cn$ for some absolute constant $c$. Our purpose is
+to study this problem in the $p$-convex setting. In [Pe], T. Peck gave an upper
+bound of the diameter of ${\cal M}_n^p$, the class of all $n$-dimensional
+$p$-normed spaces, namely, diam$({\cal M}_n^p)\leq n^{2/p-1}$. We will show
+that such bound is optimum.
+","[{""version"":""v1"",""created"":""Thu, 10 Sep 1992 15:49:17 GMT""}]","2016-09-06"

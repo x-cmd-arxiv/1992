@@ -1,0 +1,48 @@
+"hep-ph/9203201",,"M. Dine, R.G. Leigh, P. Huet, A.D. Linde and D.A. Linde","Comments on the Electroweak Phase Transition","14 pages, 2 figures (not included)","Phys.Lett.B283:319-325,1992","10.1016/0370-2693(92)90026-Z",,"hep-ph",,"  We report on an investigation of various problems related to the theory of
+the electroweak phase transition. This includes a determination of the nature
+of the phase transition, a discussion of the possible role of higher order
+radiative corrections and the theory of the formation and evolution of the
+bubbles of the new phase. We find in particular that no dangerous linear terms
+appear in the effective potential. However, the strength of the first order
+phase transition is 2/3 times less than what follows from the one-loop
+approximation. This rules out baryogenesis in the minimal version of the
+electroweak theory.
+","[{""version"":""v1"",""created"":""Mon, 24 Feb 1992 20:07:00 GMT""}]","2009-09-29"
+"hep-th/9202082",,"Haye Hinrichsen and Vladimir Rittenberg","The Pokrovski-Talapov Phase Transitions and Quantum Groups","9 pages",,,,"hep-th",,"  We show that the XY quantum chain in a magnetic field is invariant under a
+two parameter deformation of the $SU(1/1)$ superalgebra. One is led to an
+extension of the braid group and the Hecke algebras which reduce to the known
+ones when the two parameter coincide. The physical significance of the two
+parameters is discussed. When both are equal to one, one gets a
+Pokrovski-Talapov phase transition. We also show that the representation theory
+of the quantum superalgebras indicates how to take the appropriate
+thermodynamical limits.
+","[{""version"":""v1"",""created"":""Mon, 24 Feb 1992 16:14:53 GMT""}]","2007-05-23"
+"hep-th/9202083",,"Makoto Sakamoto and Masayoshi Tabuse","The General Class of String Theories on Orbifolds","35 pages",,,,"hep-th",,"  We investigate the following three consistency conditions for constructing
+string theories on orbifolds: i) the invariance of the energy-momentum tensors
+under twist operators, ii) the duality of amplitudes and iii) modular
+invariance of partition functions. It is shown that this investigation makes it
+possible to obtain the general class of consistent orbifold models, which
+includes a new class of orbifold models.
+","[{""version"":""v1"",""created"":""Tue, 25 Feb 1992 08:17:31 GMT""},{""version"":""v2"",""created"":""Mon, 2 Mar 1992 10:17:08 GMT""}]","2008-02-03"
+"hep-th/9202084",,"Tsutomu Horiguchi, Makoto Sakamoto and Masayoshi Tabuse","Cocycle Properties of String Theories on Orbifolds","40 pages (Talk given at Workshop on ``Recent Developments in String
+  and Field theory"", Kyoto, Japan on September 9-12, 1991.)","Prog.Theor.Phys.Suppl.110:229-260,1992","10.1143/PTPS.110.229",,"hep-th",,"  We study cocycle properties of vertex operators and present an operator
+representation of cocycle operators, which are attached to vertex operators to
+ensure the duality of amplitudes. It is shown that this analysis makes it
+possible to obtain the general class of consistent string theories on
+orbifolds.
+","[{""version"":""v1"",""created"":""Tue, 25 Feb 1992 08:22:23 GMT""},{""version"":""v2"",""created"":""Mon, 2 Mar 1992 10:20:56 GMT""}]","2008-11-26"
+"hep-th/9202085","Andy Felce","C. Callan, A. Felce, and D. Freed","Critical Theories of the Dissipative Hofstadter Model","42 pages (25 reduced)","Nucl.Phys. B392 (1993) 551-592","10.1016/0550-3213(93)90517-S",,"hep-th",,"  It has recently been shown that the dissipative Hofstadter model (dissipative
+quantum mechanics of an electron subject to uniform magnetic field and periodic
+potential in two dimensions) exhibits critical behavior on a network of lines
+in the dissipation/magnetic field plane. Apart from their obvious condensed
+matter interest, the corresponding critical theories represent non-trivial
+solutions of open string field theory, and a detailed account of their
+properties would be interesting from several points of view. A subject of
+particular interest is the dependence of physical quantities on the magnetic
+field since it, much like $\theta_{\rm QCD}$, serves only to give relative
+phases to different sectors of the partition sum. In this paper we report the
+results of an initial investigation of the free energy, $N$-point functions and
+boundary state of this type of critical theory. Although our primary goal is
+the study of the magnetic field dependence of these quantities, we will present
+some new results which bear on the zero magnetic field case as well.
+","[{""version"":""v1"",""created"":""Mon, 24 Feb 1992 21:27:45 GMT""}]","2009-10-22"

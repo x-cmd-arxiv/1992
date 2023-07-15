@@ -1,0 +1,54 @@
+"hep-th/9204058","Jae-Suk Park","Jae-Suk Park","Algebraic Structures of Topological Yang-Mills Theory","30 pages, (Errors are fixed and some parts are rewritten.)",,,"ESENAT-92-04","hep-th",,"  We discuss the algebraic structure of the various BRST symmetries associated
+with topological Yang-Mills theory as a generalization of the BRS analysis
+developed for the non-Abelian anomaly in the local Yang-Mills theory. We show
+that our BRST algebra leads to an extended {\it Russian formula\/} and {\it
+descent equations}, which contains the descent equation of Yang-Mills theory as
+sub-relations. We propose the non-Abelian anomaly counterpart in Topological
+Yang-Mills theory using the extended descent equation. We also discuss the
+geometrical structure of our BRST symmetry and some explicit solutions of the
+extended descent equation are calculated.
+","[{""version"":""v1"",""created"":""Mon, 20 Apr 1992 02:02:00 GMT""},{""version"":""v2"",""created"":""Mon, 27 Apr 1992 04:33:00 GMT""},{""version"":""v3"",""created"":""Mon, 19 Oct 1992 06:57:00 GMT""}]","2008-02-03"
+"hep-th/9204059","Hideaki Aoyama","Hideaki Aoyama and Arihiro Tamura","Path-Integral for Quantum Tunneling","25 pages + 12 figures (not included, but available upon request) [No
+  changed in content in this version. Problem with line length fixed.]","Nucl.Phys. B384 (1992) 229-250","10.1016/0550-3213(92)90467-P",,"hep-th",,"  Path-integral for theories with degenerate vacua is investigated. The origin
+of the non Borel-summability of the perturbation theory is studied. A new
+prescription to deal with small coupling is proposed. It leads to a series,
+which at low orders and small coupling differs from the ordinary perturbative
+series by nonperturbative amount, but is Borel-summable.
+","[{""version"":""v1"",""created"":""Mon, 20 Apr 1992 06:40:11 GMT""},{""version"":""v2"",""created"":""Thu, 23 Apr 1992 05:21:55 GMT""}]","2009-10-22"
+"hep-th/9204060",,"A.Klemm and R.Schimmrigk","Landau-Ginzburg String Vacua","92pp","Nucl.Phys. B411 (1994) 559-583","10.1016/0550-3213(94)90462-6",,"hep-th",,"  We investigate a class of (2,2) supersymmetric string vacua which may be
+represented as Landau--Ginzburg theories with a quasihomogeneous potential
+which has an isolated singularity at the origin. There are at least three
+thousand distinct models in this class. All vacua of this type lead to Euler
+numbers which lie in the range $-960 \leq \chi \leq 960$. The Euler
+characteristics do not pair up completely hence the space of Landau--Ginzburg
+ground states is not mirror symmetric even though it exhibits a high degree of
+symmetry. We discuss in some detail the relation between Landau--Ginzburg
+models and Calabi--Yau manifolds and describe a subtlety regarding
+Landau--Ginzburg potentials with an arbitrary number of fields. We also show
+that the use of topological identities makes it possible to relate
+Landau-Ginzburg theories to types of Calabi-Yau manifolds for which the usual
+Landau-Ginzburg framework does not apply.
+","[{""version"":""v1"",""created"":""Mon, 20 Apr 1992 08:35:07 GMT""}]","2009-10-22"
+"hep-th/9204061",,"J.P. Rodrigues and A.J. van Tonder","Marinari-Parisi and Supersymmetric Collective Field Theory","45 pages","Int. J. Mod. Phys. A8 (1993) 2517-2550","10.1142/S0217751X93001004","CNLS-92-02","hep-th",,"  A field theoretic formulation of the Marinari-Parisi supersymmetric matrix
+model is established and shown to be equivalent to a recently proposed
+supersymmetrization of the bosonic collective string field theory. It also
+corresponds to a continuum description of super-Calogero models. The
+perturbation theory of the model is developed and, in this approach, an
+infinite sequence of vertices is generated. A class of potentials is identified
+for which the spectrum is that of a massless boson and Majorana fermion. For
+the harmonic oscillator case, the cubic vertices are obtained in an oscillator
+basis. For a rather general class of potentials it is argued that one cannot
+generate from Marinari-Parisi models a continuum limit similar to that of the
+d=1 bosonic string.
+","[{""version"":""v1"",""created"":""Mon, 20 Apr 1992 12:13:19 GMT""}]","2007-05-23"
+"math/9204241","Folkert Tangerman","Feliks Przytycki, Folkert Tangerman","Cantor sets in the line: scaling function and the smoothness of the
+  shift map",,,,"Stony Brook IMS 1992/6","math.DS",,"  Consider $d$ disjoint closed subintervals of the unit interval and consider
+an orientation preserving expanding map which maps each of these subintervals
+to the whole unit interval. The set of points where all iterates of this
+expanding map are defined is a Cantor set. Associated to the construction of
+this Cantor set is the scaling function which records the infinitely deep
+geometry of this Cantor set. This scaling function is an invariant of $C^1$
+conjugation. We solve the inverse problem posed by Dennis Sullivan: given a
+scaling function, determine the maximal possible smoothness of any expanding
+map which produces it.
+","[{""version"":""v1"",""created"":""Mon, 20 Apr 1992 00:00:00 GMT""}]","2008-02-03"

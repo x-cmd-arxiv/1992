@@ -1,0 +1,114 @@
+"hep-lat/9210007",,"F.Gliozzi","The infrared limit of QCD effective string","24 pages (latex), DFTT- 45/92","Acta Phys.Polon.B23:971-990,1992",,,"hep-lat",,"  Some model-independent properties of the effective string of gauge field
+systems in the confining phase , for very large quark separations, are
+described in terms of two-dimensional conformal field theories. The constraints
+induced by the gauge theory at the boundaries of the effective string induce a
+Coulomb- like term in the interquark potential which is universal, but
+different from the one proposed by L\""uscher. Some universal relations among
+the string tension, the thickness of the colour flux tube, the location of the
+deconfining temperature and a lower bound of the glueball spectrum are
+discussed. (Lectures given at the XXXII Cracow School of Theoretical Physics,
+Zakopane, Poland 2-12 June 1992)
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 13:05:00 GMT""}]","2011-04-15"
+"hep-ph/9210209",,"Hai-Yang Cheng","Large-$N_c$ Higher Order Weak Chiral Lagrangians for Nonleptonic and
+  Radiative Kaon Decays","15 pages (input of phyzzx.tex is required), IP-ASTP-17-92",,,,"hep-ph",,"  In pure chiral perturbation theory (ChPT) the couplings of higher order
+Lagrangian terms are running parameters and hence can be determined only
+empirically from various low-energy hadronic processes. While this scenario
+works well for strong interactions, it is unsatisfactory for nonleptonic and
+radiative nonleptonic weak interactions: It is impossible, from the outset, to
+determine all unknown higher-order chiral couplings by experiment; theory is
+tested only by certain chiral constraints rather than by its quantitative
+predictions. Based on a QCD-motivated model for $p^4$ strong chiral Lagrangian
+valid in the limit of large $N_c$, one can derive large-$N_c$ fourth-order
+effective chiral Lagrangians for $\Delta S=1$ nonleptonic weak interactions and
+radiative weak transitions. Applications to
+$K\ri\pi\pi\pi,~K\ri\pi\gamma\gamma$, and $K\ri\pi\pi\gamma$ are discussed.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 20:21:00 GMT""}]","2007-05-23"
+"hep-ph/9210210","Jaewan Kim","Jooyoo Hong, Jaewan Kim, and Pierre Sikivie","Wiggly Relativistic Strings","10 pages, LaTeX, UFIFT-HEP-92-10","Phys.Rev.Lett. 69 (1992) 2611-2614; Erratum-ibid. 74 (1995) 4099","10.1103/PhysRevLett.69.2611",,"hep-ph astro-ph",,"  We derive the equations of motion for general strings, i.e. strings with
+arbitrary relation between tension $\tau$ and energy per unit length
+$\epsilon$. The renormalization of $\tau$ and $\epsilon$ that results from
+averaging out small scale wiggles on the string is obtained in the general case
+to lowest order in the amount of wiggliness. For Nambu-Goto strings we find
+deviations from the equation of state $\epsilon \tau = {\rm constant}$ in
+higher orders. Finally we argue that wiggliness may radically modify the gauge
+cosmic string scenario.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 16:31:33 GMT""}]","2009-10-22"
+"hep-ph/9210212","Greg Mahlon","G. Mahlon, T.M. Yan, and C. Dunn","Generalized Gluon Currents and Applications in QCD","80 pages, 2 figures (appended in pictex), CLNS 91/1120","Phys.Rev. D48 (1993) 1337-1374","10.1103/PhysRevD.48.1337",,"hep-ph",,"  We consider the process containing two quark lines and an arbitrary number of
+gluons in a spinor helicity framework. A current with two off-shell gluons
+appears in the amplitude. We first study this modified gluon current using
+recursion relations. The recursion relation for the modified gluon current is
+solved for the case of like-helicity gluons. We apply the modified gluon
+current to compute the amplitude for $q \bar q \rightarrow q \bar q gg \cdots
+g$ in the like-helicity gluon case.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 18:13:55 GMT""}]","2009-10-22"
+"hep-ph/9210213","Greg Mahlon","G. Mahlon and T.M. Yan","Multiphoton Production at High Energies in the Standard Model I","75 pages, CLNS 91/1119","Phys.Rev. D47 (1993) 1776-1811","10.1103/PhysRevD.47.1776",,"hep-ph",,"  We examine multiphoton production in the electroweak sector of the Standard
+Model in the high energy limit using the equivalence theorem in combination
+with spinor helicity techniques. We obtain recursion relations for currents
+consisting of a charged scalar, spinor, or vector line that radiates $n$
+photons. Closed form solutions to these recursion relations for arbitrary $n$
+are presented for the cases of like-helicity and one unlike-helicity photon
+production. We apply the currents singly and in pairs to obtain amplitudes for
+processes involving the production of $n$ photons with up to two unlike
+helicities from a pair of charged particles. The replacement of one or more
+photons by transversely polarized $$Z$-bosons is also discussed.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 18:14:29 GMT""}]","2009-10-22"
+"hep-ph/9210214","Greg Mahlon","G. Mahlon","Multiphoton Production at High Energies in the Standard Model II","73 pages, 2 figures (appended in pictex), CLNS 92/1154","Phys.Rev. D47 (1993) 1812-1841","10.1103/PhysRevD.47.1812",,"hep-ph",,"  We examine multiphoton production in the electroweak sector of the Standard
+Model in the high energy limit using the equivalence theorem in combination
+with spinor helicity techniques. We utilize currents consisting of a charged
+scalar, spinor, or vector line that radiates $n$ photons. Only one end of the
+charged line is off shell in these currents, which are known for the cases of
+like-helicity and one unlike-helicity photons. We obtain a wide variety of
+helicity amplitudes for processes involving two pairs of charged particles by
+considering combinations of four currents. We examine the situation with
+respect to currents which have both ends of the charged line off-shell, and
+present solutions for the case of like-helicity photons. These new currents may
+be combined with two of the original currents to produce additional amplitudes
+involving Higgs, longitudinal $Z$ or neutrino pairs.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 18:14:58 GMT""}]","2009-10-22"
+"hep-th/9210022","Judy Mack","C. R. Hagen","Comment on Gauge-Independent Analysis of Chern-Simons Theory with Matter
+  Coupling","4 pages","Phys.Rev.Lett. 70 (1993) 3518","10.1103/PhysRevLett.70.3518","UR-1280","hep-th",,"  It is shown that a recently proposed relativistic field theory of anyons is
+mathematically flawed and also does not satisfy reasonable criteria for such a
+theory.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 16:37:00 GMT""}]","2009-10-22"
+"hep-th/9210023","Shahn Majid","S. Majid","Infinite Braided Tensor Products and 2-D quantum Gravity","4 pages, LATEX, to appear Proc. XXI DGM, Nankai, China 1992",,,,"hep-th",,"  Braided tensor products have been introduced by the author as a systematic
+way of making two quantum-group-covariant systems interact in a covariant way,
+and used in the theory of braided groups. Here we study infinite braided tensor
+products of the quantum plane (or other constant Zamolodchikov algebra). It
+turns out that such a structure precisely describes the exchange algebra in 2D
+quantum gravity in the approach of Gervais. We also consider infinite braided
+tensor products of quantum groups and braided groups.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 16:21:33 GMT""}]","2007-05-23"
+"hep-th/9210024","Shahn Majid","T. Brzezinski and S. Majid","Quantum Group Gauge Theory on Classical Spaces","12 pages, LATEX, DAMTP/92-51","Phys.Lett.B298:339-343,1993","10.1016/0370-2693(93)91830-G",,"hep-th",,"  We study the quantum group gauge theory developed elsewhere in the limit when
+the base space (spacetime) is a classical space rather than a general quantum
+space. We show that this limit of the theory for gauge quantum group $U_q(g)$
+is isomorphic to usual gauge theory with Lie algebra $g$. Thus a new kind of
+gauge theory is not obtained in this way, although we do find some differences
+in the coupling to matter. Our analysis also illuminates certain
+inconsistencies in previous work on this topic where a different conclusion had
+been reached. In particular, we show that the use of the quantum trace in
+defining a Yang-Mills action in this setting is not appropriate.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 16:22:24 GMT""}]","2011-07-19"
+"hep-th/9210025","Tomoki Nakanishi","A. Kuniba and T. Nakanishi","Rogers dilogarithm in integrable systems","5 pages, harvmac.tex, (only title changed) HUTP-92/A046","Proc. of the XXI Differential Geometric Methods in Theoretical
+  Physics, ed. M.-L. Ge, World Scientific, Singapore, 1993, pp.419-422",,,"hep-th",,"  We dicuss some curious aspects of the Rogers dilogarithm and the functional
+relations in integrable systems in two dimensions. This is for the proceedings
+of the XX1 Differential Geometry Methods in Theoretical Physics, Tianjin,
+China, 5-9 June 1992.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 18:38:34 GMT""},{""version"":""v2"",""created"":""Tue, 6 Oct 1992 16:22:38 GMT""}]","2011-01-28"
+"hep-th/9210026","Jordi","Jordi Par\'is","Faddeev-Popov method for anomalous quasigroups","13 pages, LaTeX (macros included), UB-ECM-PF 92/24","Phys.Lett. B300 (1993) 104-110","10.1016/0370-2693(93)90755-7",,"hep-th",,"  A generalization of the Faddeev-Popov procedure to deal with either anomalous
+and non-anomalous gauge theories with closed, irreducible gauge algebra is
+presented. An expression for the Wess-Zumino action is obtained.
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 10:44:45 GMT""}]","2016-08-14"
+"hep-th/9210027",,"C. Destri, P. Maraner and E. Onofri","On the definition of Quantum Free Particle on Curved Manifolds","8 p., phyzzx macropackage","NuovoCim.A107:237-241,1994","10.1007/BF02781555",,"hep-th",,"  A selfconsistent definition of quantum free particle on a generic curved
+manifold emerges naturally by restricting the dynamics to submanifolds of
+co-dimension one.
+  PACS 0365 0240
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 11:12:28 GMT""}]","2008-11-26"
+"hep-th/9210028","Hirosi Ooguri","Hirosi Ooguri","Schwinger-Dyson equation in three-dimensional simplicial quantum gravity","32 pages, harvmac, HUTP-92/A051","Prog.Theor.Phys.89:1-22,1993","10.1143/PTP.89.1",,"hep-th",,"  We study the simplicial quantum gravity in three dimensions. Motivated by the
+Boulatov's model which generates a sum over simplicial complexes weighted with
+the Turaev-Viro invariant, we introduce boundary operators in the simplicial
+gravity associated to compact orientable surfaces. An amplitude of the boundary
+operator is given by a sum over triangulations in the interior of the boundary
+surface. It turns out that the amplitude solves the Schwinger-Dyson equation
+even if we restrict the topology in the interior of the surface, as far as the
+surface is non-degenerate. We propose a set of factorization conditions on the
+amplitudes which singles out a solution associated to triangulations of $S^3$.
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 15:39:32 GMT""}]","2009-09-17"

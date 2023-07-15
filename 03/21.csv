@@ -1,0 +1,44 @@
+"hep-th/9203056","Dany","Daniel Cangemi and Roman Jackiw","Gauge Invariant Formulations of Lineal Gravity","11 pp","Phys.Rev.Lett. 69 (1992) 233-236","10.1103/PhysRevLett.69.233",,"hep-th",,"  It is shown that the currently studied ``string-inspired'' model for gravity
+on a line can be formulated as a gauge invariant theory based on the Poincar\'e
+group with central extension -- a formulation that complements and simplifies
+H.~Verlinde's construction based on the unextended Poincar\'e group.
+","[{""version"":""v1"",""created"":""Fri, 20 Mar 1992 16:24:54 GMT""},{""version"":""v2"",""created"":""Mon, 30 Mar 1992 21:32:02 GMT""}]","2009-10-22"
+"hep-th/9203057","Matt Visser","Matt Visser","Dirty blackholes: Thermodynamics and horizon structure","[minor revisions] 22 pages, RevTeX","Phys.Rev.D46:2445-2451,1992","10.1103/PhysRevD.46.2445","WashU--HEP--92/71","hep-th",,"  Considerable interest has recently been expressed in (static spherically
+symmetric) blackholes in interaction with various classical matter fields (such
+as electromagnetic fields, dilaton fields, axion fields, Abelian Higgs fields,
+non--Abelian gauge fields, {\sl etc}). A common feature of these investigations
+that has not previously been remarked upon is that the Hawking temperature of
+such systems appears to be suppressed relative to that of a vacuum blackhole of
+equal horizon area. That is: $k T_H \leq \hbar/(4\pi r_H) \equiv
+\hbar/\sqrt{4\pi A_H}$. This paper will argue that this suppression is generic.
+Specifically, it will be shown that
+  \[ k T_H = {\hbar\over4\pi r_H} \; e^{-\phi(r_H)} \;
+  \left( 1 - 8\pi G \; \rho_H \; r_H^2 \right). \]
+  Here $\phi(r_H)$ is an integral quantity, depending on the distribution of
+matter, that is guaranteed to be positive if the Weak Energy Condition is
+satisfied. Several examples of this behaviour will be discussed.
+Generalizations of this behaviour to non--symmetric non--static blackholes are
+conjectured.
+","[{""version"":""v1"",""created"":""Fri, 20 Mar 1992 18:05:19 GMT""},{""version"":""v2"",""created"":""Tue, 23 Jun 1992 17:43:06 GMT""}]","2011-07-19"
+"hep-th/9203058","Jacques Distler","J. Distler, M. Doyle","World-Sheet Supersymmetry Without Contact Terms","14pp., 2 figures (included)","Phys.Lett. B287 (1992) 73-81","10.1016/0370-2693(92)91879-E",,"hep-th",,"  Green and Seiberg showed that, in simple treatments of fermionic string
+theory, it is necessary to introduce contact interactions when vertex operators
+collide. Otherwise, certain superconformal Ward identities would be violated.
+In this note, we show how these contact terms arise naturally when proper
+account is taken of the superconformal geometry involved when punctures
+collide. More precisely, we show that there is no contact term at all! Rather,
+corrections arise to the ``na\""\i ve"" formula when the boundary of moduli space
+is described correctly.
+","[{""version"":""v1"",""created"":""Fri, 20 Mar 1992 22:32:03 GMT""}]","2009-10-22"
+"hep-th/9203059","Steve Giddings","S.B. Giddings","Black Holes and Massive Remnants","16 pages + 3 Figs","Phys.Rev. D46 (1992) 1347-1352","10.1103/PhysRevD.46.1347",,"hep-th",,"  This paper revisits the conundrum faced when one attempts to understand the
+dynamics of black hole formation and evaporation without abandoning unitary
+evolution. Previous efforts to resolve this puzzle assume that information
+escapes in corrections to the Hawking process, that an arbitrarily large amount
+of information is transmitted by a planckian energy or contained in a
+Planck-sized remnant, or that the information is lost to another universe. Each
+of these possibilities has serious difficulties. This paper considers another
+alternative: remnants that carry large amounts of information and whose size
+and mass depend on their information content. The existence of such objects is
+suggested by attempts to incorporate a Planck scale cutoff into physics. They
+would greatly alter the late stages of the evaporation process. The main
+drawback of this scenario is apparent acausal behavior behind the horizon.
+","[{""version"":""v1"",""created"":""Sat, 21 Mar 1992 02:26:25 GMT""}]","2009-10-22"

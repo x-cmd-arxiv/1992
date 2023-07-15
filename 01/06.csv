@@ -1,0 +1,24 @@
+"hep-th/9201007",,"Mirjam Cvetic, Stephen Griffies, Soo-Jong Rey","Static Domain Walls in N=1 Supergravity","29 pages + 11 figures (not included)","Nucl.Phys.B381:301-328,1992","10.1016/0550-3213(92)90649-V",,"hep-th",,"  We study supersymmetric domain walls in N=1 supergravity theories, including
+those with modular-invariant superpotentials arising in superstring
+compactifications. Such domain walls are shown to saturate the Bogomol'nyi
+bound of wall energy per unit area. We find \sl static \rm and \sl reflection
+asymmetric \rm domain wall solutions of the self-duality equations for the
+metric and the matter fields. Our result establishes a new class of domain
+walls beyond those previously classified. As a corollary, we define a precise
+notion of vacuum degeneracy in the supergravity theories. In addition, we found
+examples of global supersymmetric domain walls that do not have an analog when
+gravity is turned on. This result establishes that in the case of extended
+topological defects gravity plays a crucial, nontrivial role.
+","[{""version"":""v1"",""created"":""Mon, 6 Jan 1992 00:00:00 GMT""}]","2009-09-17"
+"math/9201202",,"Tadek Figiel, William B. Johnson, and Gideon Schechtman","Factorizations of natural embeddings of l_p^n int L_r",,,,"Banach Archive 8/4/89","math.FA",,"  This is a continuation of the paper [FJS] with a similar title. Several
+results from there are strengthened, in particular:
+  1. If T is a ""natural"" embedding of l_2^n into L_1 then, for any well-bounded
+factorization of T through an L_1 space in the form T=uv with v of norm one, u
+well-preserves a copy of l_1^k with k exponential in n.
+  2. Any norm one operator from a C(K) space which well-preserves a copy of
+l_2^n also well-preserves a copy of l_{\infty}^k with k exponential in n.
+  As an application of these and other results we show the existence, for any
+n, of an n-dimensional space which well-embeds into a space with an
+unconditional basis only if the latter contains a copy of l_{\infty}^k with k
+exponential in n.
+","[{""version"":""v1"",""created"":""Mon, 6 Jan 1992 04:12:36 GMT""}]","2009-09-25"

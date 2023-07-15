@@ -1,0 +1,161 @@
+"alg-geom/9210006",,"Eugene Lerman and Reyer Sjamaar","Reductive group actions on K\""ahler manifolds","8 pages, AMS-LaTeX, version 1.1. (Reason for resubmission: have
+  inserted bibliography file into body of tex file, so don't need to run
+  bib.tex.)",,,,"alg-geom math.AG",,"  We prove that the action of a reductive complex Lie group on a K\""ahler
+manifold can be linearized in the neighbourhood of a fixed point, provided that
+the restriction of the action to some compact real form of the group is
+Hamiltonian with respect to the K\""ahler form.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 17:47:52 GMT""},{""version"":""v2"",""created"":""Thu, 15 Oct 1992 22:59:59 GMT""}]","2008-02-03"
+"cond-mat/9210011","Thierry Jolicoeur","L. Bergomi, J. P. Blaizot, Th. Jolicoeur and E. Dagotto","Generalized spin density wave state of the Hubbard model on the C12 and
+  C60 clusters","13 pages, plain TeX, 3figs not included","Phys.Rev.B47:5539-5542,1993","10.1103/PhysRevB.47.5539","SPhT/92-083","cond-mat",,"  The one-band Hubbard model at half-filling on a truncated tetrahedron
+(C$_{12}$), and on the C$_{60}$ molecule is studied. Within the Hartree-Fock
+approximation, we find a magnetic-like instability of the `Fermi sea' towards a
+spin-ordered phase for an intermediate value of the coupling ${\rm
+(U/t)_c}\approx 2.6$. The ordered phase presents a spin arrangement similar to
+that of the classical Heisenberg model defined on the same clusters. We study
+the linear excitations around the Hartree-Fock ground states using the
+random-phase approximation. On a finite cluster, we expect that these results
+signal the presence of a $rapid$ $crossover$ between a paramagnetic region and
+a regime where spin correlations are important. The relationship with the
+Heisenberg limit (large ${\rm U/t}$) is discussed. Finally, we comment on
+implications of our results for purely repulsive models of superconductivity in
+alkali-metal-doped fullerenes.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 16:32:00 GMT""}]","2014-10-13"
+"gr-qc/9210008","Jeff Greensite","J. Greensite","Dynamical Origin of the Lorentzian Signature of Spacetime","6 pages, LaTeX","Phys.Lett. B300 (1993) 34-37","10.1016/0370-2693(93)90744-3","NBI-HE-92-59","gr-qc hep-th",,"  It is suggested that not only the curvature, but also the signature of
+spacetime is subject to quantum fluctuations. A generalized D-dimensional
+spacetime metric of the form $g_{\mu \nu}=e^a_\mu \eta_{ab} e^b_\nu$ is
+introduced, where $\eta_{ab} = diag\{e^{i\theta},1,...,1\}$. The corresponding
+functional integral for quantized fields then interpolates from a Euclidean
+path integral in Euclidean space, at $\theta=0$, to a Feynman path integral in
+Minkowski space, at $\theta=\pi$. Treating the phase $e^{i\theta}$ as just
+another quantized field, the signature of spacetime is determined dynamically
+by its expectation value. The complex-valued effective potential $V(\theta)$
+for the phase field, induced by massless fields at one-loop, is considered. It
+is argued that $Re[V(\theta)]$ is minimized and $Im[V(\theta)]$ is stationary,
+uniquely in D=4 dimensions, at $\theta=\pi$, which suggests a dynamical origin
+for the Lorentzian signature of spacetime.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 21:02:16 GMT""}]","2009-10-22"
+"hep-ph/9210234","Fred Cooper","F.Cooper, H. Shepard, C Lucheroni and P. Sodano","Post-Gaussian Varioational Method for the Nonlinear Schrodinger Equation","12pages Latex (figures available on request)",,"10.1016/0167-2789(93)90129-O","LAUR 92-2869","hep-ph",,"  Gaussians to study soliton behavior and blowup in the nonlinear Schrodinger
+equation in arbitrary dimension d and with arbitrary nonlinearity parameter
+kappa
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 17:42:11 GMT""}]","2009-10-22"
+"hep-ph/9210235",,"Paul Langacker and Nir Polonsky","Uncertainties in Coupling Constant Unification","LaTex, 51 pages, 6 figures (available upon request), UPR-0513T","Phys.Rev. D47 (1993) 4028-4045","10.1103/PhysRevD.47.4028",,"hep-ph",,"  The status of coupling constant unification in the standard model and its
+supersymmetric extension are discussed. Uncertainties associated with the input
+coupling constants, $m_{t}$, threshold corrections at the low and high scales,
+and possible nonrenormalizable operators are parametrized and estimated. A
+simple parametrization of a general supersymmetric new particle spectrum is
+given. It is shown that an effective scale $M_{SUSY}$ can be defined, but for a
+realistic spectrum it may differ considerably from the typical new particle
+masses. The implications of the lower (higher) values of $\alpha_{s}(M_{Z})$
+suggested by low-energy ($Z$-pole) experiments are discussed.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 18:58:00 GMT""}]","2009-10-22"
+"hep-ph/9210236",,"Benjamin Grinstein","The SSC: Programme and Searches for New Particles","8 p",,,,"hep-ph",,"  Talk presented at the Trieste Workshop on the Search for New Elementary
+Particles: Status and Prospects.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 20:56:13 GMT""},{""version"":""v2"",""created"":""Thu, 15 Oct 1992 19:36:59 GMT""}]","2008-02-03"
+"hep-ph/9210237","Jiri Chyla","J.Ch\'yla, J.Fischer and P. Kol\'a\v{r}","On an asymptotic estimate of the $n$-loop correction in perturbative QCD","PRA-HEP-92/17, Latex, 20 pages of text plus 5 figures contained in 5
+  separate PS files. Four of them (corresponding to Figs.1,2,3,5) are appended
+  at the end of this file, the (somewhat larger one) corresponding to Fig.4 can
+  be obtained from any of the mentioned E-mail addresses upon request. E-mail
+  connections: J. Chyla - chyla@cspgas11.bitnet) or h1kchy@dhhdesy3 P. Kolar -
+  pkolar@cspgas11.bitnet)","Phys.Rev. D47 (1993) 2578-2587","10.1103/PhysRevD.47.2578",,"hep-ph",,"  A recently proposed method of estimating the asymptotic behaviour of QCD
+perturbation theory coefficients is critically reviewed and shown to contain
+numerous invalid mathematical operations and unsubstantiated assumptions. We
+discuss in detail why this procedure, based solely on renormalization group
+(RG) considerations and analyticity constraints, cannot lead to such estimates.
+We stress the importance of correct renormalization scheme (RS) dependence of
+any meaningful asymptotic estimate and argue that the unambiguous summation of
+QCD perturbation expansions for physical quantities requires information from
+outside of perturbation theory itself.
+","[{""version"":""v1"",""created"":""Thu, 15 Oct 1992 13:53:40 GMT""}]","2016-08-14"
+"hep-th/9210076",,"M.Billo', P.Fre', L.Girardello, A.Zaffaroni","Gravitational Instantons in Heterotic String Theory: The H-Map and the
+  Moduli Deformations of (4,4) Superconformal Field Theories","65 pages, PLAIN TEX, SISSA/159/92/EP, IFUM/431/92/FT (A few
+  references added)","Int. J. Mod. Phys. A8 (1993) 2351-2418","10.1142/S0217751X9300093X",,"hep-th",,"  We study the problem of string propagation in a general instanton background
+for the case of the complete heterotic superstring. We define the concept of
+generalized HyperK\"" ahler manifolds and we relate it to (4,4) superconformal
+theories. We propose a generalized h-map construction that predicts a universal
+SU(6) symmetry for the modes of the string excitations moving in an instanton
+background. We also discuss the role of abstract $N$=4 moduli and, applying it
+to the particular limit case of the solvable SU(2) X R instanton found by
+Callan et al. we show that it admits deformations and corresponds to a point in
+a 16-dimensional moduli space. The geometrical characterization of the other
+spaces in the same moduli-space remains an outstanding problem.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 17:24:05 GMT""},{""version"":""v2"",""created"":""Thu, 5 Nov 1992 13:56:23 GMT""}]","2009-10-22"
+"hep-th/9210077","Harnad John","J. Harnad and M.-A. Wisse","Isospectral flow in Loop Algebras and Quasiperiodic Solutions of the
+  Sine-Gordon Equation","12 pgs","J.Math.Phys. 34 (1993) 3518-3526","10.1063/1.530041","Univ. de Montr\'eal preprint, CRM-1831","hep-th",,"  The sine-Gordon equation is considered in the hamiltonian framework provided
+by the Adler-Kostant-Symes theorem. The phase space, a finite dimensional
+coadjoint orbit in the dual space $\grg^*$ of a loop algebra $\grg$, is
+parametrized by a finite dimensional symplectic vector space $W$ embedded into
+$\grg^*$ by a moment map. Real quasiperiodic solutions are computed in terms of
+theta functions using a Liouville generating function which generates a
+canonical transformation to linear coordinates on the Jacobi variety of a
+suitable hyperelliptic curve.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 17:30:03 GMT""}]","2009-10-22"
+"hep-th/9210078","Johannes Kellendonk","Johannes Kellendonk","On The Algebraic Characterization of Aperiodic Tilings Related To
+  ADE-Root Systems","29 pages LaTex, 2 figures not included (they may be send upon
+  request), BONN-HE-92-26",,,,"hep-th",,"  \noindent The algebraic characterization of classes of locally isomorphic
+aperiodic tilings, being examples of quantum spaces, is conducted for a certain
+type of tilings in a manner proposed by A. Connes.
+  These $2$-dimensional tilings are obtained by application of the strip method
+to the root lattice of an $ADE$-Coxeter group.
+  The plane along which the strip is constructed is determined by the canonical
+Coxeter element leading to the result that a $2$-dimensional tiling decomposes
+into a cartesian product of two $1$-dimensional tilings.
+  The properties of the tilings are investigated, including selfsimilarity, and
+the determination of the relevant algebraic invariant is considered, namely the
+ordered $K_0$-group of an algebra naturally assigned to the quantum space.
+  The result also yields an application of the $2$-dimensional abstract gap
+labelling theorem.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 21:17:51 GMT""},{""version"":""v2"",""created"":""Wed, 30 Dec 1992 14:40:40 GMT""}]","2008-02-03"
+"hep-th/9210079","Itzhak Bars","Itzhak Bars","Superstrings on Curved Spacetimes","(Lecture at Erice 1992 and Salamanca 1992) Revised version: eq.(3.17)
+  corrected. 24 pages, USC-92/HEP-B5",,,,"hep-th",,"  In this lecture I summarize recent developments on strings propagating in
+curved spacetime. Exact conformal field theories that describe gravitational
+backgrounds such as black holes and more intricate gravitational singularities
+have been discovered and investigated at the classical and quantum level. These
+models are described by gauged Wess-Zumino-Witten models, or equivalently
+current algebra G/H coset models based on non-compact groups, with a single
+time coordinate. The classification of such models for all dimensions is
+complete. Furthermore the heterotic superstrings in curved spacetime based on
+non-compact groups have also been constructed. For many of the $d\le 4$ models
+the gravitational geometry described by a sigma model has been determined. Some
+general results outlined here include a global analysis of the geometry and the
+exact classical geodesics for any G/H model. Moreover, in the quantized theory,
+the conformally exact metric and dilaton are obtained for all orders in an
+expansion of $k$ (the central extension). All such models have large-small (or
+mirror) duality properties which we reformulate as an inversion in group space.
+To illustrate model building techniques a specific 4-dimensional heterotic
+string in curved spacetime is presented. Finally the methods for investigating
+the quantum theory are outlined. The construction and analysis of these models
+at the classical and quantum level involve some aspects of noncompact groups
+which are not yet sufficiently well understood. Some of the open problems in
+the physics and mathematics areas are outlined.
+","[{""version"":""v1"",""created"":""Thu, 15 Oct 1992 02:23:47 GMT""},{""version"":""v2"",""created"":""Fri, 30 Oct 1992 22:26:46 GMT""}]","2008-02-03"
+"hep-th/9210080","Didier Depireux","Didier A Depireux and Jeremy Schiff","On The Hamiltonian Structures and The Reductions of The KP Hierarchy","8 pages with harvmac, IASSNS-HEP-92/66, LAVAL PHY-26-92",,,,"hep-th",,"  Recent work on a free field realization of the Hamiltonian structures of the
+classical KP hierarchy and of its flows is reviewed. It is shown that it
+corresponds to a reduction of KP to the NLS system. (Talk given by D.A.D. at
+the NSERC-CAP Workshop on Quantum Groups, Integrable Models and Statistical
+Systems, Kingston, Canada July 13-17 1992.)
+","[{""version"":""v1"",""created"":""Thu, 15 Oct 1992 03:19:18 GMT""}]","2007-05-23"
+"hep-th/9210081","Fiorenzo Bastianelli","Fiorenzo Bastianelli","A note on 2D chiral gravity and chiral bosons","7 pages, plain TeX, USITP-92-09 (minor correction in the list of
+  references)","Mod.Phys.Lett. A7 (1992) 3777-3782","10.1142/S0217732392003207",,"hep-th",,"  Quantization of two dimensional chiral matter coupled to gravity induces an
+effective action for the zweibein field which is both Weyl and Lorentz
+anomalous. Recently, the quantization of this induced action has been analyzed
+in the light-cone gauge as well as in the conformal gauge. An apparent mismatch
+between the results obtained in the two gauges is analyzed and resolved by
+properly treating the Lorentz field as a chiral boson.
+","[{""version"":""v1"",""created"":""Thu, 15 Oct 1992 12:17:00 GMT""},{""version"":""v2"",""created"":""Mon, 19 Oct 1992 18:15:00 GMT""}]","2009-10-22"
+"hep-th/9210082","Robert C. Myers","R.C. Myers and V. Periwal","Chiral Non-Critical Strings","13 pages (LaTeX) ( Talk reviews material in hep-th/9207117, and also
+  gives new results on correlation functions. )",,,"McGill/92-47","hep-th",,"  It is shown that conformal matter with $c_{\ssc L}\not=c_{\ssc R}$ can be
+consistently coupled to two-dimensional `frame' gravity. The theory is
+quantized in conformal gauge, following David, and Distler and Kawai. There is
+no analogue of the $c=1$ barrier found in nonchiral non-critical strings. A
+non-critical heterotic string is constructed---it has 744 states in its
+spectrum, transforming in the adjoint representation of $(E_8)^3.$ Correlation
+functions are calculated in this example, revealing the existence of extra
+discrete states.
+","[{""version"":""v1"",""created"":""Thu, 15 Oct 1992 15:44:14 GMT""}]","2007-05-23"
+"hep-th/9210091","E. P. Zhidkov","O. N. Khudaverdian, A. P. Nersessian","Even and odd symplectic and K\""ahlerian structures on projective
+  superspaces","19 pages","J.Math.Phys.34:5533-5548,1993","10.1063/1.530320","JINR E2-92-411","hep-th math.DG",,"  Supergeneralization of $\DC P(N)$ provided by even and odd K\""ahlerian
+structures from Hamiltonian reduction are construct.Operator $ \Delta$ which
+used in Batalin-- Vilkovisky quantization formalism and mechanics which are
+bi-Hamiltonian under corresponding even and odd Poisson brackets are
+considered.
+","[{""version"":""v1"",""created"":""Thu, 15 Oct 1992 14:12:55 GMT""}]","2008-11-26"

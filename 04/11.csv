@@ -1,0 +1,64 @@
+"cond-mat/9204001","Subir Sachdev","Subir Sachdev and Jinwu Ye","Universal quantum critical dynamics of two-dimensional antiferromagnets","11 pages","Phys.Rev.Lett. 69 (1992) 2411","10.1103/PhysRevLett.69.2411",,"cond-mat",,"  The universal dynamic and static properties of two dimensional
+antiferromagnets in the vicinity of a zero-temperature phase transition from
+long-range magnetic order to a quantum disordered phase are studied. Random
+antiferromagnets with both N\'{e}el and spin-glass long-range magnetic order
+are considered. Explicit quantum-critical dynamic scaling functions are
+computed in a 1/N expansion to two-loops for certain non-random, frustrated
+square lattice antiferromagnets. Implications for neutron scattering
+experiments on the doped cuprates are noted.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 19:35:31 GMT""},{""version"":""v2"",""created"":""Mon, 20 Jul 1992 14:41:48 GMT""}]","2009-10-22"
+"cond-mat/9204002","Alexander V. Balatsky","Alexander Balatsky (Los Alamos National Laboratory)","Spin Singlet Quantum Hall Effect and Nonabelian Landau-Ginzburg Theory",,,"10.1142/S0217979292000463",,"cond-mat",,"  We show that the Halperin-Haldane SQHE wave function can be written in the
+form of a product of a wave function for charged semions in a magnetic field
+and a wave function for the Chiral Spin Liquid of neutral spin-$\12$ semions.
+We introduce field-theoretic model in which the electron operators are
+factorized in terms of charged spinless semions (holons) and neutral spin-$\12$
+semions (spinons). Broken time reversal symmetry and short ranged spin
+correlations lead to $SU(2)_{k=1}$ Chern-Simons term in Landau-Ginzburg action
+for SQHE phase. We construct appropriate coherent states for SQHE phase and
+show the existence of $SU(2)$ valued gauge potential. This potential appears as
+a result of ``spin rigidity"" of the ground state against any displacements of
+nodes of wave function from positions of the particles and reflects the
+nontrivial monodromy in the presence of these displacements. We argue that
+topological structure of $SU(2)_{k=1}$ Chern-Simons theory unambiguously
+dictates {\it semion} statistics of spinons.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 20:16:12 GMT""}]","2015-06-25"
+"cond-mat/9204003","Alexander V. Balatsky","Alexander Balatsky and Elihu Abrahams","A novel class of singlet superconductors","10 pages",,,,"cond-mat",,"  A new class of singlet superconductors with a gap function $\Delta(\bk,
+\omega_n)$ which is {\it odd} in both momentum and Matsubara frequency is
+considered. Some of the physical properties of this superconductivity are
+discussed and it is argued that: i) the electron-phonon interaction can produce
+this kind of pairing, ii) in many cases there is no gap in the quasiparticle
+spectrum, iii) these superconductors will exhibit a Meissner effect.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 20:31:18 GMT""}]","2007-05-23"
+"hep-th/9204025","Jeff Harvey","Ruth Gregory and Jeffrey Harvey","Quantum Fermion Hair","16pp (harvmac (l)) and 2 figs.(not included)","Phys.Rev. D46 (1992) 3302-3308","10.1103/PhysRevD.46.3302",,"hep-th",,"  It is shown that the Dirac operator in the background of a magnetic
+%Reissner-Nordstr\""om black hole and a Euclidean vortex possesses normalizable
+zero modes in theories containing superconducting cosmic strings. One
+consequence of these zero modes is the presence of a fermion condensate around
+magnetically charged black holes which violates global quantum numbers.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 22:33:59 GMT""}]","2009-10-22"
+"hep-th/9204026","Olaf Lechtenfeld","Olaf Lechtenfeld and Chiara Nappi","Dilaton Gravity and No-Hair Theorem in Two Dimensions","11 pages, no figures, macropackage=phyzzx","Phys.Lett. B288 (1992) 72-76","10.1016/0370-2693(92)91956-A",,"hep-th",,"  We study a general class of two-dimensional theories of the dilaton-gravity
+type inspired by string theory and show that they admit charged
+multiple-horizon black holes. These solutions are proved to satisfy scalar
+no-hair theorems.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 18:21:04 GMT""}]","2009-10-22"
+"hep-th/9204027","Miao Li","Miao Li","Gauge Symmetries and Amplitudes in N=2 Strings","16 pages","Nucl.Phys. B395 (1993) 129-143","10.1016/0550-3213(93)90211-7",,"hep-th",,"  Picture changed operators are discussed in $N=2$ strings with space-time
+signature $(2,2)$. A gauge symmetry algebra is derived in a background of torus
+space-time $T^{2,2}$ and its simple representation on the picture changed
+operators is given. Simple Ward identities associated with the gauge algebra
+and their consequences for three and four point amplitudes of arbitrary loops
+are also discussed.
+","[{""version"":""v1"",""created"":""Sat, 11 Apr 1992 01:44:05 GMT""}]","2009-10-22"
+"hep-th/9204028",,"Avinash Dhar, Gautam Mandal and Spenta R. Wadia","Classical Fermi Fluid and Geometric Action for $c=1$","31 pages. (Revised version)","Int.J.Mod.Phys.A8:325-350,1993","10.1142/S0217751X93000138",,"hep-th",,"  We formulate the $c=1$ matrix model as a quantum fluid and discuss its
+classical limit in detail, emphasizing the $\hbar$ corrections. We view the
+fermi fluid profiles as elements of \winf-coadjoint orbit and write down a
+geometric action for the classical phase space. In the specific representation
+of fluid profiles as `strings' the action is written in a four-dimensional form
+in terms of gauge fields built out of the embedding of the `string' in the
+phase plane. We show that the collective field action can be derived from the
+above action provided one restricts to quadratic fluid profiles and ignores the
+dynamics of their `turning points'.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 17:10:00 GMT""},{""version"":""v2"",""created"":""Fri, 17 Apr 1992 02:53:00 GMT""}]","2010-11-01"
+"hep-th/9204029","Husain Viqar","Viqar Husain","2+1 Gravity without dynamics","9 pages",,"10.1088/0264-9381/9/3/001",,"hep-th",,"  A three dimensional generally covariant theory is described that has a 2+1
+canonical decomposition in which the Hamiltonian constraint, which generates
+the dynamics, is absent. Physical observables for the theory are described and
+the classical and quantum theories are compared with ordinary 2+1 gravity.
+","[{""version"":""v1"",""created"":""Sat, 11 Apr 1992 13:38:36 GMT""}]","2009-10-22"

@@ -1,0 +1,193 @@
+"alg-geom/9210009","Mark Gross","I. Dolgachev and M. Gross","Elliptic Three-folds I: Ogg-Shafarevich Theory","39 pages, plain TeX",,,,"alg-geom math.AG",,"  We calculate the Tate-Shafarevich group of an elliptic three-fold
+$f:X\rightarrow S$ when $X$ and $S$ are regular and $f$ is flat, relating it to
+the Brauer group of $X$ and $S$. We show that given certain hypotheses on $f$,
+the Tate-Shafarevich group has the interpretation of isomorphism classes of
+elliptic curves over the function field of $S$ which have the same jacobian as
+the generic fibre of $f$, and for which there exists a relatively minimal model
+which has no multiple fibres. We use this to give examples of elliptic
+fibrations with isolated multiple fibres, and also to give a new counterexample
+to the Luroth problem in dimension three. This is a revised, hopefully
+improved, version with a few extra theorems and a few errors corrected.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 23:47:33 GMT""},{""version"":""v2"",""created"":""Fri, 16 Apr 1993 22:12:34 GMT""}]","2008-02-03"
+"astro-ph/9210006","Ethan Vishniac","Ethan T. Vishniac","On the Origin of the Galactic Magnetic Field","20 pages",,,,"astro-ph",,"  The galactic magnetic field is commonly supposed to be due to a dynamo acting
+on some large scale seed field. A major difficulty with this idea is that
+estimates of reasonable seed field strengths tend to be quite low, on the order
+of $\sim10^{-20}$ gauss. Here we examine the contribution due to the flux
+entrained in winds from protostars formed in the first dynamo e-folding time of
+a galaxy's existence. Using a minimal estimate of a protostellar magnetic field
+we find that if each protostar ejects a single current ring, sufficient to
+maintain flux freezing in the wind, than the large scale average dipole field
+from all such current rings will be at least 5 orders of magnitude larger than
+previous seed field estimates. Allowing for a reasonable amount of magnetic
+activity in protostars during an extended period of mass loss increases this to
+a dipole seed field of $\sim10^{-12}$ gauss. For the purposes of producing a
+seed field it is irrelevant whether or not this initial injection of flux takes
+place in a newly formed galactic disk, or in star forming proto-galactic
+clouds. The compression of this dipole field into a thin disk will lead to a
+large scale $B_r\sim 10^{-10.5}$ gauss. Initially, field strengths on smaller
+scales will be larger, but nowhere near current levels.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 16:24:39 GMT""}]","2007-05-23"
+"cond-mat/9210028","Kaare Olaussen","Jan Myrheim and K{\aa}re Olaussen","The Third Virial Coefficient of Free Anyons","8 pages + 4 Postscript figures","Phys.Lett. B299 (1993) 267-272; Erratum-ibid. B305 (1993) 428","10.1016/0370-2693(93)90258-J",,"cond-mat hep-th",,"  We use a path integral representation for the partition function of
+non-interacting anyons confined in a harmonic oscillator potential in order to
+prove that the third virial coefficient of free anyons is finite, and to
+calculate it numerically. Our results together with previously known results
+are consistent with a rapidly converging Fourier series in the statistics
+angle.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 17:07:51 GMT""}]","2009-10-22"
+"gr-qc/9210020","Fay Dowker","Fay Dowker","SO(4) Invariant States in Quantum Cosmology","15 pages","Class.Quant.Grav.10:1435-1446,1993","10.1088/0264-9381/10/8/006","FERMILAB-Pub-92/294-A","gr-qc",,"  The phenomenon of linearisation instability is identified in models of
+quantum cosmology that are perturbations of mini-superspace models. In
+particular, constraints that are second order in the perturbations must be
+imposed on wave functions calculated in such models. It is shown explicitly
+that in the case of a model which is a perturbation of the mini-superspace
+which has $S^3$ spatial sections these constraints imply that any wave
+functions calculated in this model must be SO(4) invariant. (This replaces the
+previous corrupted version.)
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 21:12:14 GMT""},{""version"":""v2"",""created"":""Mon, 2 Nov 1992 23:12:00 GMT""},{""version"":""v3"",""created"":""Tue, 3 Nov 1992 22:51:17 GMT""}]","2010-04-06"
+"hep-ph/9210280","My Account","J. Lopez, D. Nanopoulos, and A. Zichichi","The Simplest, String-Derivable, Supergravity Model and its Experimental
+  Predictions","29 pages plus nine figures (not included). CTP-TAMU-68/92,
+  CERN-TH.6667/92","Phys.Rev.D49:343-354,1994","10.1103/PhysRevD.49.343",,"hep-ph",,"  We present the simplest, string-derivable, supergravity model and discuss its
+experimental consequences. This model is a new string-inspired flipped $SU(5)$
+which unifies at the string scale $M_U=10^{18}\GeV$ due to the introduction of
+an additional pair of \r{10},\rb{10} flipped $SU(5)$ representations which
+contain new intermediate scale `gap' particles. We study various model-building
+issues which should be addressed in string-derived incarnations of this model.
+We focus our study on the no-scale supergravity mechanism and explore
+thoroughly the three-dimensional parameter space of the model ($m_{\tilde
+g},m_t,\tan\beta$), thus obtaining several simple relationships among the
+particle masses, such as: $m_{\tilde q}\approx m_{\tilde g}$, $m_{\tilde
+e_L}\approx m_{\tilde\nu}\approx0.30 m_{\tilde g}$, $m_{\tilde
+e_R}\approx0.18m_{\tilde g}$, and $m_{\chi^0_2}\approx2m_{\chi^0_1}\approx
+m_{\chi^\pm_1}$. In a strict interpretation of the no-scale supergravity
+scenario we solve for $\tan\beta$ as a function of $m_t$ and $m_{\tilde g}$,
+and show that $m_t$ determines not only the sign of the Higgs mixing parameter
+$\mu$ but also whether the lightest Higgs boson mass is above or below
+$100\GeV$. We also find that throughout the parameter space the neutralino
+relic abundance is within observational bounds ($\Omega_\chi h^2_0\lsim0.25$)
+and may account for a significant portion of the dark matter in the Universe.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 16:27:30 GMT""}]","2009-08-25"
+"hep-ph/9210281",,"G.P.Korchemsky and G.Marchesini","Structure functions for large $x$ and renormalization of Wilson loops","27 pages, LaTeX style; typos fixed, results for two-loop anomalous
+  dimensions corrected, a note added","Nucl.Phys.B406:225-258,1993","10.1016/0550-3213(93)90167-N","UPRF-92-354","hep-ph",,"  We discuss the relation between partonic distributions near the phase space
+boundary and Wilson loop expectation values calculated along paths partially
+lying on the light-cone. Due to additional light-cone singularities,
+multiplicative renormalizability for these expectation values is lost.
+Nevertheless we establish the renormalization group equation for the light like
+Wilson loops and show that it is equivalent to the evolution equation for the
+physical distributions. By performing a two-loop calculation we verify these
+properties and show that the universal form of the splitting function for large
+x originates from the cusp anomalous dimension of Wilson loops.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 16:55:00 GMT""},{""version"":""v2"",""created"":""Fri, 4 Feb 2005 13:02:31 GMT""}]","2008-11-26"
+"hep-th/9210160","David Gershon","David Gershon","Coset Models Obtained by Twisting WZW Models and Stringy Charged Black
+  Holes in Four Dimensions","22 pages","Phys.Rev. D49 (1994) 999-1006","10.1103/PhysRevD.49.999",,"hep-th",,"  We show that several WZW coset models can be obtained by applying O(d,d)
+symmetry transformations (referred to as twisting) on WZW models. This leads to
+a conjecture that WZW models gauged by U(1)^n subgroup can be obtained by
+twisting (ungauged) WZW models. In addition, a class of solutions that describe
+charged black holes in four dimensions is derived by twisting SL(2,R)\times
+SU(2) WZW.
+","[{""version"":""v1"",""created"":""Sat, 31 Oct 1992 00:52:12 GMT""},{""version"":""v2"",""created"":""Mon, 2 Nov 1992 01:55:59 GMT""}]","2016-09-06"
+"hep-th/9210161",,"H. O. Girotti, M. Gomes, J. L. deLyra, R. S. Mendes, J. R. S.
+  Nascimento and A. J. da Silva","Electron--Electron Bound States in QED$_{3}$","latex, 18 pages and eleven figures, IFUSP/P-1012",,,,"hep-th",,"  This paper is dedicated to the study of the existence and the properties of
+electron-electron bound states in QED$_3$. A detailed analysis of the infrared
+structure of the perturbative series of the theory is presented. We start by
+analyzing the two-point Green's function, in the Bloch-Nordsieck approximation.
+The theory appears to be plagued by severe infrared divergencies, which
+nevertheless disappear when vacuum-polarization effects are non-perturbatively
+taken into account. The dynamical induction of a Chern-Simons term is at the
+root of this mechanism. {}From the inspection of the electron-electron
+non-relativistic potential it then follows that equally charged fermions may
+either repel or attract and, moreover, that bound states do in fact exist in
+the theory. We calculate numerically the binding energies and average radius of
+the bound states. We find an accidental quasi-degeneracy of the ground state of
+the system, between the lowest-energy $l=-3$ and $l=-5$ states, which could be
+related to a radio-frequency resonance in high-$T_c$ superconductors.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 23:43:27 GMT""},{""version"":""v2"",""created"":""Wed, 4 Nov 1992 13:51:50 GMT""}]","2019-08-15"
+"hep-th/9210162","Feng Yu","Feng Yu and Yong-Shi Wu","On the KP Hierarchy, $\hat{W}_{\infty}$ Algebra, and Conformal
+  SL(2,R)/U(1) Model --- The Classical and Quantum Cases","(Invited talk given the second at the XXI International Conference on
+  Differential Geometric Methods in Theoretical Physics, Nankai Institute of
+  Mathematics, Tianjin, China; June 5-9, 1992; to appear in Proceedings.), 12p,
+  Latex file",,,,"hep-th",,"  We give a unified description of our recent results on the the
+inter-relationship between the integrable infinite KP hierarchy, nonlinear
+$\hat{W}_{\infty}$ current algebra and conformal noncompact $SL(2,R)/U(1)$
+coset model both at the classical and quantum levels. In particular, we present
+the construction of a quantum version of the KP hierarchy by deforming the
+second KP Hamiltonian structure through quantizing the $SL(2,R)_k/U(1)$ model
+and constructing an infinite set of commuting quantum $\hat{W}_{\infty}$
+charges (at least at $k$=1).
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 21:20:45 GMT""}]","2007-05-23"
+"hep-th/9210163",,"S.J. Gates, Jr. and H. Nishino","Supersymmetric Soluble Systems Embedded in Supersymmetric Self--Dual
+  Yang--Mills Theory","LATEX 13 pages","Phys.Lett. B299 (1993) 255-261","10.1016/0370-2693(93)90256-H","Maryland preprint, UMDEPP 93-51 (October, 1992)","hep-th",,"  We perform dimensional reductions of recently constructed self-dual $~N=2$~
+{\it supersymmetric} Yang-Mills theory in $~2+2\-$dimensions into
+two-dimensions. We show that the universal equations obtained in these
+dimensional reductions can embed supersymmetric exactly soluble systems, such
+as $~N=1$~ and $~N=2$~ supersymmetric Korteweg-de Vries equations, $~N=1$~
+supersymmetric Liouville theory or supersymmetric Toda theory. This is the
+first supporting evidence for the conjecture that the $~2+2\-$dimensional
+self-dual {\it supersymmetric} Yang-Mills theory generates {\it supersymmetric}
+soluble systems in lower-dimensions.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 20:45:00 GMT""}]","2012-08-27"
+"hep-th/9210164",,"Zongan Qiu (University of Florida)","Point-Like Interactions in String Theory Induced by 2-D Topological
+  Gravity","13 pages, 4 figures not included, plain TeX","Phys.Lett. B306 (1993) 261-268","10.1016/0370-2693(93)90077-U","UFIFT-HEP-92-26","hep-th",,"  We consider a string theory with two types of strings with geometric
+interaction. We show that the theory contains strings with constant Dirichlet
+boundary condition and those strings are glued together by 2-d topological
+gravity with macroscopic boundaries. A light-cone string field theory is given
+and the theory has interactions to all orders. (Postscript files of the figures
+can be obtained by anonymous ftp uful07.phys.ufl.edu and are in the directory
+/het/ufift-hep-92-26.)
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 22:09:39 GMT""}]","2009-10-22"
+"hep-th/9210165",,"Gerald Gilbert and Eric Raiten","All Or Nothing: On the Small Fluctuations of Two-Dimensional
+  String-Theoretic Black Holes","36 pages, (Note 1 completely replaced, Note 3 revised and extended.
+  Also minor typo corrections.)",,,"UMDEPP 93-061 ; FERMI-PUB-92/272-T","hep-th gr-qc",,"  A comprehensive analysis of small fluctuations about two-dimensional
+string-theoretic and string-inspired black holes is presented. It is shown with
+specific examples that two-dimensional black holes behave in a radically
+different way from all known black holes in four dimensions. For both the
+$SL(2,R)/U(1)$ black hole and the two-dimensional black hole coupled to a
+massive dilaton with constant field strength, it is shown that there are a {\it
+continuous infinity} of solutions to the linearized equations of motion, which
+are such that it is impossible to ascertain the classical linear response. It
+is further shown that the two-dimensional black hole coupled to a massive,
+linear dilaton admits {\it no small fluctuations at all}. We discuss possible
+implications of our results for the Callan-Giddings-Harvey-Strominger black
+hole.
+","[{""version"":""v1"",""created"":""Sat, 31 Oct 1992 05:24:00 GMT""},{""version"":""v2"",""created"":""Sun, 8 Nov 1992 05:18:00 GMT""},{""version"":""v3"",""created"":""Sun, 8 Nov 1992 05:28:00 GMT""}]","2008-02-03"
+"math/9210208","J\""org Wenzel","Joerg Wenzel","Mean Convergence of Vector--valued Walsh Series",,,,"Banach Archive 10/30/92","math.FA",,"  Given any Banach space $X$, let $L_2^X$ denote the Banach space of all
+measurable functions $f:[0,1]\to X$ for which
+  ||f||_2:=(int_0^1 ||f(t)||^2 dt)^{1/2}
+  is finite. We show that $X$ is a UMD--space (see \cite{BUR:1986}) if and only
+if
+  \lim_n||f-S_n(f)||_2=0 for all $f\in L_2^X$, where
+  S_n(f):=sum_{i=0}^{n-1} (f,w_i)w_i
+  is the $n$--th partial sum associated with the Walsh system $(w_i)$.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 18:56:19 GMT""}]","2016-09-06"
+"math/9210209",,"Paul F. X. M\""uller","Two Remarks on Marcinkiewicz decompositions by Holomorphic Martingales",,,,"Banach Archive 10/30/92","math.FA",,"  The real part of $H^\infty(\bT)$ is not dense in $L^\infty_{\tR}(\bT)$. The
+John-Nirenberg theorem in combination with the Helson-Szeg\""o theorem and the
+Hunt Muckenhaupt Wheeden theorem has been used to determine whether $f\in
+L^\infty_{\tR}(\bT)$ can be approximated by $\Re H^\infty(\bT)$ or not:
+$\dist(f,\Re H^\infty)=0$ if and only if for every $\e>0$ there exists $\l_0>0$
+so that for $\l>\l_0$ and any interval $I\sbe \bT$. $$|\{x\in I:|\tilde
+f-(\tilde f)_I|>\l\}|\le |I|e^{-\l/ \e},$$ where $\tilde f$ denotes the Hilbert
+transform of $f$. See [G] p. 259. This result is contrasted by the following
+  \begin{theor} Let $f\in L^\infty_{\tR}$ and $\e>0$. Then there is a function
+$g\in H^\infty(\bT)$ and a set $E\sb \bT$ so that $|\bT\sm E|<\e$ and $$f=\Re
+g\quad\mbox{ on } E.$$ \end{theor}
+  This theorem is best regarded as a corollary to Men'shov's correction
+theorem. For the classical proof of Men'shov's theorem see [Ba, Ch VI \S
+1-\S4].
+  Simple proofs of Men'shov's theorem -- together with significant extensions
+-- have been obtained by S.V. Khruschev in [Kh] and S.V. Kislyakov in [K1],
+[K2] and [K3].
+  In [S] C. Sundberg used $\bar\pa$-techniques (in particular [G, Theorem
+VIII.1. gave a proof of Theorem 1 that does not mention Men'shov's theorem.
+  The purpose of this paper is to use a Marcinkiewicz decomposition on
+Holomorphic Martingales to give another proof of Theorem 1. In this way we
+avoid uniformly convergent Fourier series as well as $\bar\pa$-techniques.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 18:56:19 GMT""}]","2016-09-06"
+"math/9210210",,"Spiros A. Argyros","Weakly Lindelof determined Banach spaces not containing $\ell^1(N)$",,,,"Banach Archive 10/30/92","math.FA",,"  The class of countably intersected families of sets is defined. For any such
+family we define a Banach space not containing $\ell^{1}(\NN )$. Thus we obtain
+counterexamples to certain questions related to the heredity problem for W.C.G.
+Banach spaces. Among them we give a subspace of a W.C.G. Banach space not
+containing $\ell^{1}(\NN )$ and not being itself a W.C.G. space.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 18:56:19 GMT""}]","2016-09-06"
+"math/9210211",,"P. K. Lin","Unrestricted products of contractions in Banach spaces",,,,"Banach Archive 10/30/92","math.FA",,"  Let $X$ be a reflexive Banach space such that for any $x \ne 0$ the set $$
+\{x^* \in X^*: \text {$\|x^*\|=1$ and $x^*(x)=\|x\|$}\} $$ is compact. We prove
+that any unrestricted product of of a finite number of $(W)$ contractions on
+$X$ converges weakly.
+","[{""version"":""v1"",""created"":""Fri, 30 Oct 1992 18:56:19 GMT""}]","2016-09-06"

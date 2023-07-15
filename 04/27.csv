@@ -1,0 +1,36 @@
+"astro-ph/9204002","Lawrence Krauss","Lawrence Krauss and Martin White","Gravitational Lensing and the Variability of G","13 pages plus figures (not included)","Astrophys.J.397:357,1992","10.1086/171792",,"astro-ph",,"  The four observables associated with gravitational lensing of distant quasars
+by intervening galaxies: image splittings, relative amplifications, time
+delays, and optical depths, provide separate measures of the strength of the
+gravitational constant $G$ at cosmological distances. These allow one, in
+principle, to factor out unknown lensing parameters to directly to probe the
+variation of $G$ over cosmological time. We estimate constraints on $\dot{G}$
+which may be derivable by this method both now and in the future. The limits
+one may obtain can compete or exceed other direct limits on $\dot{G}$ today,
+but unfortunately extracting this information, is not independent of the effort
+to fix other cosmological parameters such as $H_0$ and $\Omega_0$ from lensing
+observations.
+","[{""version"":""v1"",""created"":""Sun, 26 Apr 1992 17:54:00 GMT""}]","2009-08-18"
+"hep-lat/9204014",,"Achi Brandt","Multigrid Methods in Lattice Field Computations","44","Nucl.Phys.Proc.Suppl. 26 (1992) 137","10.1016/0920-5632(92)90234-J",,"hep-lat",,"  The multigrid methodology is reviewed. By integrating numerical processes at
+all scales of a problem, it seeks to perform various computational tasks at a
+cost that rises as slowly as possible as a function of $n$, the number of
+degrees of freedom in the problem. Current and potential benefits for lattice
+field computations are outlined. They include: $O(n)$ solution of Dirac
+equations; just $O(1)$ operations in updating the solution (upon any local
+change of data, including the gauge field); similar efficiency in gauge fixing
+and updating; $O(1)$ operations in updating the inverse matrix and in
+calculating the change in the logarithm of its determinant; $O(n)$ operations
+per producing each independent configuration in statistical simulations
+(eliminating CSD), and, more important, effectively just $O(1)$ operations per
+each independent measurement (eliminating the volume factor as well). These
+potential capabilities have been demonstrated on simple model problems.
+Extensions to real life are explored.
+","[{""version"":""v1"",""created"":""Mon, 27 Apr 1992 08:38:31 GMT""}]","2009-10-22"
+"hep-th/9204086","Yitzhak Frishman","Y. Frishman, J. Lukierski and W.J. Zakrzewski","Quantum Group $\sigma$ Models","20 pages","J.Phys. A26 (1993) 301-312","10.1088/0305-4470/26/2/017",,"hep-th",,"  Field-theoretic models for fields taking values in quantum groups are
+investigated. First we consider $SU_q(2)$ $\sigma$ model ($q$ real) expressed
+in terms of basic notions of noncommutative differential geometry. We discuss
+the case in which the $\sigma$ models fields are represented as products of
+conventional $\sigma$ fields and of the coordinate-independent algebra. An
+explicit example is provided by the $U_q(2)$ $\sigma$ model with $q\sp{N}=1$,
+in which case quantum matrices $U_q(2)$ are realised as $2N\times 2N$ unitary
+matrices. Open problems are pointed out.
+","[{""version"":""v1"",""created"":""Mon, 27 Apr 1992 14:43:20 GMT""}]","2009-10-22"

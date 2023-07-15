@@ -1,0 +1,97 @@
+"cond-mat/9205007",,"Victor M. Yakovenko","Theory of Thermodynamic Magnetic Oscillations in Quasi-One-Dimensional
+  Conductors","11 pages + 5 figures (included)",,"10.1103/PhysRevLett.68.3607",,"cond-mat",,"  The second order correction to free energy due to the interaction between
+electrons is calculated for a quasi-one-dimensional conductor exposed to a
+magnetic field perpendicular to the chains. It is found that specific heat,
+magnetization and torque oscillate when the magnetic field is rotated in the
+plane perpendicular to the chains or when the magnitude of magnetic filed is
+changed. This new mechanism of thermodynamic magnetic oscillations in metals,
+which is not related to the presence of any closed electron orbits, is applied
+to explain behavior of the organic conductor (TMTSF)$_2$ClO$_4$.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 00:50:47 GMT""}]","2009-10-22"
+"cond-mat/9205008",,"Victor M. Yakovenko","Metals in high magnetic field: a new universality class of Fermi liquids","13 pages + 4 figures (included)",,"10.1103/PhysRevB.47.8851",,"cond-mat",,"  Parquet equations, describing the competition between superconducting and
+density-wave instabilities, are solved for a three-dimensional isotropic metal
+in a high magnetic field when only the lowest Landau level is filled. In the
+case of a repulsive interaction between electrons, a phase transition to the
+density-wave state is found at finite temperature. In the opposite case of
+attractive interaction, no phase transition is found. With decreasing
+temperature $T$, the effective vertex of interaction between electrons
+renormalizes toward a one-dimensional limit in a self-similar way with the
+characteristic length (transverse to the magnetic field) decreasing as
+$\ln^{-1/6}(\omega_c/T)$ ($\omega_c$ is a cutoff). Correlation functions have
+new forms, previously unknown for conventional one-dimensional or
+three-dimensional Fermi-liquids.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 01:36:22 GMT""}]","2009-10-22"
+"hep-lat/9205010","Chris Michael","Chris Michael (University of Liverpool, Liverpool, UK)","The Running Coupling from Lattice Gauge Theory","8 pages Liverpool preprint LTH279, 24 Jan 1992 (1 figure not
+  enclosed) (Accepted for publication in Phys Lett B )","Phys.Lett.B283:103-106,1992","10.1016/0370-2693(92)91435-C",,"hep-lat",,"  From an accurate determination of the inter-quark potential, one can study
+the running coupling constant for a range of $R$-values and hence estimate the
+scale $\Lambda_{\msbar} $. Detailed results are presented for $SU(2)$ pure
+gauge theory to illustrate the method.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 13:25:24 GMT""}]","2008-11-26"
+"hep-ph/9205219","Cliff Burgess","David Atwood, C.P. Burgess and A. Soni","A General Lower Bound for Radiative B Decay","(Cosmetic changes: (1) an expanded discussion of the logarithmic GIM
+  suppression, (2) typos corrected and (3) updated references.) 10 pages
+  McGill-92/18, BNL-47586, hep-ph/9205219",,,,"hep-ph",,"  In a wide class of models -- including the standard model -- flavor-changing
+neutral currents are suppressed by an approximate chiral symmetry of the
+low-energy lagrangian. This symmetry allows the derivation of general relations
+among low-energy flavour-changing processes. We derive one such: the relative
+sizes of the decay rates b --> s gamma, b --> d gamma and s --> d gamma.
+Together with a unitarity-related lower bound on the rate for the
+strangeness-changing hyperon decay Omega^- --> Xi^- \gamma we obtain a
+reasonably model-independent lower bound for the inclusive b --> s gamma rate.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 03:06:48 GMT""},{""version"":""v2"",""created"":""Fri, 7 Aug 1992 14:34:12 GMT""}]","2008-02-03"
+"hep-th/9205035",,"HoSeong La","Sine-Gordon Solitons as Heterotic Fivebranes","9 pages","Phys.Lett. B288 (1992) 286-290","10.1016/0370-2693(92)91105-I","CTP-TAMU-96/91","hep-th",,"  The Euclidean analogues of the sine-Gordon solitons are used as sources of
+the heterotic fivebrane solutions in the ten-dimensional heterotic string
+theory. Some properties of these soliton solutions are discussed. These
+solitons in principle can appear as string-like objects in 4-dimensional
+space-time after proper compactifications.
+","[{""version"":""v1"",""created"":""Wed, 13 May 1992 17:41:06 GMT""}]","2009-10-22"
+"hep-th/9205036","Kareljan Schoutens","Alfred S. Goldhaber","Solitons with integer fermion number","12 pages",,,"ITP-SB-92-08","hep-th",,"  Necessary and sufficient conditions are found for any object in $3+1$
+dimensions to have integer rather than fractional fermion number. Nontrivial
+examples include the Jackiw-Rebbi monopole and the already well studied
+Su-Schrieffer-Heeger soliton, both displaying integer multiples of elementary
+charges in combinations that normally are forbidden.
+","[{""version"":""v1"",""created"":""Wed, 13 May 1992 20:27:18 GMT""}]","2007-05-23"
+"hep-th/9205037","Itzhak Bars","I. Bars and K. Sfetsos (USC)","Global Analysis of New Gravitational Singularities in String and
+  Particle Theories","31 pages, plus 4 figures","Phys.Rev. D46 (1992) 4495-4509","10.1103/PhysRevD.46.4495","USC-92/HEP-B1","hep-th",,"  We present a global analysis of the geometries that arise in non-compact
+current algebra (or gauged WZW) coset models of strings and particles
+propagating in curved space-time. The simplest case is the 2d black hole. In
+higher dimensions these geometries describe new and much more complex
+singularities. For string and particle theories (defined in the text) we
+introduce general methods for identifying global coordinates and give the
+general exact solution for the geodesics for any gauged WZW model for any
+number of dimensions. We then specialize to the 3d geometries associated with
+$SO(2,2)/SO(2,1)$ (and also $SO(3,1)/SO(2,1)$) and discuss in detail the global
+space, geodesics, curvature singularities and duality properties of this space.
+The large-small (or mirror) type duality property is reformulated as an
+inversion in group parameter space. The 3d global space has two topologically
+distinct sectors, with patches of different sectors related by duality. The
+first sector has a singularity surface with the topology of ``pinched double
+trousers"". It can be pictured as the world sheet of two closed strings that
+join into a single closed string and then split into two closed strings, but
+with a pinch in each leg of the trousers. The second sector has a singularity
+surface with the topology of ``double saddle"", pictured as the world sheets of
+two infinite open strings that come close but do not touch. We discuss the
+geodesicaly complete spaces on each side of these surfaces and interpret the
+motion of particles in physical terms. A cosmological interpretation is
+suggested and comments are mode on possible physical applications.
+","[{""version"":""v1"",""created"":""Wed, 13 May 1992 20:58:35 GMT""}]","2009-10-22"
+"hep-th/9205038",,"Abhay Ashtekar","Recent Developments in Classical and Quantum Theories of Connections,
+  Including General Relativity","13 pages",,,,"hep-th",,"  General relativity can be recast as a theory of connections by performing a
+canonical transformation on its phase space. In this form, its (kinematical)
+structure is closely related to that of Yang-Mills theory and topological field
+theories. Over the past few years, a variety of techniques have been developed
+to quantize all these theories non-perturbatively. These developments are
+summarized with special emphasis on loop space methods and their applications
+to quantum gravity.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 04:40:00 GMT""},{""version"":""v2"",""created"":""Thu, 14 May 1992 05:09:00 GMT""}]","2008-02-03"
+"hep-th/9205039","C. Schwiebert","P. P. Kulish, R. Sasaki and C. Schwiebert","Constant Solutions of Reflection Equations and Quantum Groups","31 pages","J.Math.Phys.34:286-304,1993","10.1063/1.530382","YITP-92-07","hep-th nlin.SI solv-int",,"  To the Yang-Baxter equation an additional relation can be added. This is the
+reflection equation which appears in various places, with or without spectral
+parameter. For example, in factorizable scattering on a half-line, integrable
+lattice models with non-periodic boundary conditions, non-commutative
+differential geometry on quantum groups, etc. We study two forms of spectral
+parameter independent reflection equations, chosen by the requirement that
+their solutions be comodules with respect to the quantum group coaction leaving
+invariant the reflection equations. For a variety of known solutions of the
+Yang-Baxter equation we give the constant solutions of the reflection
+equations. Various quadratic algebras defined by the reflection equations are
+also given explicitly.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 10:09:04 GMT""}]","2010-01-07"

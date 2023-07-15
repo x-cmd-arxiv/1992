@@ -1,0 +1,21 @@
+"hep-th/9203016",,"Gary Kleppe and R. P. Woodard","Nonlocal Yang-Mills","38 pages, figures available upon request. No macro needed","Nucl.Phys. B388 (1992) 81-112","10.1016/0550-3213(92)90546-N",,"hep-th",,"  We present a very simple and explicit procedure for nonlocalizing the action
+of any theory which can be formulated perturbatively. When the resulting
+nonlocal field theory is quantized using the functional formalism --- with unit
+measure factor --- its Green's functions are finite to all orders. The
+construction also ensures perturbative unitarity to all orders for scalars with
+nonderivative interactions, however, decoupling is lost at one loop when vector
+and tensor quanta are present. Decoupling can be restored (again, to all
+orders) if a suitable measure factor exists. We compute the required measure
+factor for pure Yang-Mills at order $g^2$ and then use it to evaluate the
+vacuum polarization at one loop. A peculiar feature of our regularization
+scheme is that the on-shell tree amplitudes are completely unaffected. This
+implies that the nonlocal field theory can be viewed as a highly noncanonical
+quantization of the original, local field equations.
+","[{""version"":""v1"",""created"":""Sat, 7 Mar 1992 18:54:42 GMT""}]","2009-10-22"
+"hep-th/9203017",,"Jouko Mickelsson","Current algebras and light-cone quantization in 3+1 dimensions","12 pages",,,,"hep-th",,"  A polarization of the Lie algebras $Map(C, G)$ of gauge transformations on
+the light-cone $C\subset\RM^4$ is introduced, using splitting of the initial
+data on $C$ for the wave operator to positive and negative frequencies. This
+generalizes the usual polarization of affine Kac-Moody algebras to positive and
+negative frequencies and paves the way to a generalization of the highest
+weight theory to the $3+1$ dimensional setting.
+","[{""version"":""v1"",""created"":""Sat, 7 Mar 1992 21:04:00 GMT""}]","2007-05-23"

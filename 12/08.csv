@@ -1,0 +1,207 @@
+"cond-mat/9212006",,"U.-J. Wiese and H.-P. Ying, (Bern University)","A determination of the low energy parameters of the 2-d Heisenberg
+  antiferromagnet","7 pages, 3 figures (appended as postscript files)",,,"BUTP-92/50","cond-mat hep-lat",,"  We perform numerical simulations of the 2-d antiferromagnetic quantum
+Heisenberg model using an efficient cluster algorithm. Comparing the finite
+size and finite temperature effects of various quantities with recent results
+from chiral perturbation theory we are able to determine the low energy
+parameters of the system very precisely. We find $e_0 = - 0.6693(1) J/a^2$ for
+the ground state energy density, ${\cal M}_s = 0.3074(4)/a^2$ for the staggered
+magnetization, $\hbar c = 1.68(1) J a$ for the spin wave velocity and $\rho_s =
+0.186(4) J$ for the spin stiffness. Our results agree with experimental data
+for the undoped precursor insulators of high-$T_c$ superconductors.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 16:18:00 GMT""}]","2007-05-23"
+"cond-mat/9212007","Yigal Meir","Y. Meir, N. S. Wingreen and P. A. Lee","Low Temperature Transport through a Quantum Dot: The Anderson Model out
+  of Equilibrium","16 pages + 2 figures (postscript files included), Latex (using
+  revtex)",,"10.1103/PhysRevLett.70.2601","NEC technical report 92-079-2-0077-1","cond-mat",,"  NEC technical report 92-079-2-0077-1.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 21:19:46 GMT""}]","2009-10-22"
+"cond-mat/9212008","Elbio Dagotto","Elbio Dagotto and Jose Riera","Indications of d_{x^2 - y^2} Superconductivity in the Two Dimensional
+  t-J Model","13 pages (figures not included), FSU-MARTECH-92-05",,"10.1103/PhysRevLett.70.682",,"cond-mat",,"  Superconducting correlations in the two dimensional ${\rm t-J}$ model at zero
+temperature are evaluated using numerical techniques. At the fermionic density
+$\langle n \rangle \sim 1/2$, strong signals of $\dx2y2$ superconductivity were
+observed in the ground state. These conclusions are based on a study of static
+pairing correlations, the Meissner effect, flux quantization, and other
+indicators of superconductivity. It is argued that these results can be
+explained using a spin dimer ``liquid'' state. A phase diagram of the two
+dimensional ${\rm t-J}$ model is presented.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 22:20:18 GMT""}]","2009-10-22"
+"cond-mat/9212009","Elbio Dagotto","Jose Riera and Elbio Dagotto","Basis Set Reduction Applied to the Two Dimensional t-Jz Model","14 pages (figures not included), MARTECH-FSU-92-11",,"10.1103/PhysRevB.47.15346",,"cond-mat",,"  A simple variation of the Lanczos method is discussed. The new technique is
+based on a systematic reduction of the size of the Hilbert space of the model
+under consideration. As an example, the two dimensional ${\rm t-J_z}$ model of
+strongly correlated electrons is studied. Accurate results for the ground state
+energy can be obtained on clusters of up to 50 sites, which are unreachable by
+conventional Lanczos approaches. In particular, the energy of one and two holes
+is analyzed as a function of ${\rm J_z/t}$. In the bulk limit, it is shown that
+a finite coupling ${\rm J_z/t ]_c} \sim 0.18$ is necessary to induce
+``binding'' of holes in the model. It is argued that this result implies that
+the two dimensional ${\rm t-J}$ model phase separates only for couplings larger
+than a $finite$ critical value.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 22:30:55 GMT""}]","2009-10-22"
+"cond-mat/9212010","Didier Poilblanc","Didier Poilblanc, Timothy Ziman, H.J. Schulz and Elbio Dagotto","Dynamical Properties of a Single Hole in an Antiferromagnet","33 pages (without figures)",,"10.1103/PhysRevB.47.14267",,"cond-mat",,"  A finite size scaling analysis of the spectral function and of the optical
+conductivity of a single hole moving in an antiferromagnetic background is
+performed. It is shown that both the low energy quasiparticle peak and the
+broad higher energy structure are robust with increasing cluster size from
+$4\times 4$ to $\sqrt{26}\times\sqrt{26}$ sites. In the abscence of spin
+fluctuations, for most static or dynamical quantities saturation occurs when
+the size exceeds a characteristic size $N_c(J_z)$. Typically, 16 and 26 site
+clusters give reliable results for $J_z>0.75$ and $J_z>0.3$ respectively. The
+hole optical mass is shown to be very large ($>20$) in agreement with the small
+bandwidth. Due to the energy gap to flip a spin in the vicinity of a hole, a
+small gap $\propto J_z$ separates the low energy delta-function from the rest
+of the spectrum in the dynamical correlation functions. On the other hand, with
+$J_\perp$ this gap seems to disappear with increasing system size as one would
+expect since the spin waves are gapless in the thermodynamic limit. The large
+momentum dependence of the quasiparticle weight in the isotropic case is
+inconsistent with a string picture but agrees well with the self-consistent
+Born approximation. An accurate estimation of the higher energy part of the
+spectral functions of the t--J model can be made for momenta close to $(0,0)$
+or $(\pi,\pi)$;
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 23:10:27 GMT""}]","2009-10-22"
+"hep-lat/9212006",,"M. Baig and D. Espriu","The Crumpling Transition Revisited","Contribution to Lattice 92. 4 pages. espcrc2.sty file included. 6
+  figures upon request. UB-ECM-92/30 and UAB-FT-295","Nucl. Phys. Proc. Suppl. 30 (1993) 779","10.1016/0920-5632(93)90324-Y",,"hep-lat hep-th",,"  The ``crumpling"" transition, between rigid and crumpled surfaces, has been
+object of much discussion over the past years. The common lore is that such
+transition should be of second order. However, some lattice versions of the
+rigidity term on fixed connectivity surfaces seem to suggest that the
+transition is of higher order instead. While some models exhibit what appear to
+be lattice artifacts, others are really indistiguishable from models where
+second order transitions have been reported and yet appear to have third order
+transitions.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 11:10:35 GMT""}]","2009-10-22"
+"hep-ph/9212230",,"J. L. Goity","Electromagnetic Mass Splittings in Heavy Mesons","16 pages, report CEBAF-TH-92-26, one figure not included (available
+  if requested)","Phys.Lett.B303:337-344,1993","10.1016/0370-2693(93)91442-P",,"hep-ph",,"  The electromagnetic contribution to the isomultiplet mass splittings of heavy
+mesons is reanalyzed within the framework of the heavy mass expansion.
+  It is shown that the leading term in the expansion is given to a good
+approximation by the elastic term. $1/m_{Q}$-corrections can only be estimated,
+the main source of uncertainty now being inelastic contributions. The
+$1/m_{Q}$-corrections to the elastic term turn out to be relatively small in
+both D and B pseudoscalar mesons.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 18:32:14 GMT""}]","2014-11-17"
+"hep-ph/9212231",,"A. C. Mattingly and P. M. Stevenson","Applying Optimized Perturbation Theory to QCD at Low Energies","Talk presented at DPF 92 Meeting, Fermilab, Nov. 1992. 3 pages Latex
+  and dpf92 math macros, uufile encoded ps files (name fig3.psf).
+  DE-FG05-92ER40717-1",,,,"hep-ph",,"  We discuss the use of the optimization procedure based on the Principle of
+Minimal Sensitivity to the third-order calculation of {\mbox{${R_{e^+e^-}}$}}.
+The effective coupling constant remains finite allowing us to apply the
+Poggio-Quinn-Weinberg smearing method down to energies below 1 GeV, where we
+find good agreement between theory and experiment. The couplant freezes to a
+value of $\alpha_s/\pi = 0.26$ at zero energy which is in remarkable
+concordance with values obtained phenomenologically.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 19:41:00 GMT""}]","2007-05-23"
+"hep-ph/9212232","Bludman","S. A. Bludman","The First Gauge Theory of Weak Interactions and the Prediction of Weak
+  Neutral Currents","7 pages, Latex. Revised version of hep-ph/9212232 including \def that
+  was previously missing",,,"UPR-532-T","hep-ph",,"  The three theoretical and historical components of the Standard Model are the
+exact chiral gauge theory of weak interactions, electroweak unification, and
+the Higgs mechanism for spontaneous symmetry breaking. I put into historical
+perspective my 1958 invention of the first gauge theory of weak interactions,
+predicting weak neutral currents, and show how the fundamental differences
+between global and gauge symmetries and between partial flavour and exact gauge
+symmetries, emerged in the strong and weak interactions. Although
+renormalizability is necessary for theoretical consistency, electroweak
+unification was not necessary, in principle. An interesting difference appears
+between the $\sin^2{\theta_W}=0$ limit of the electroweak theory and the
+original $SU(2)_W$ gauge theory of weak interactions. While the electroweak
+mixing angle might have had any value (including zero), historically the value
+$\sin^2{\theta_W} \sim 0.3$ actually observed in weak neutral currents gave
+circumstantial support for the Standard Model and stimulated the search for
+$W-$ and $Z-$mesons.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 20:02:12 GMT""},{""version"":""v2"",""created"":""Thu, 10 Dec 1992 01:28:57 GMT""}]","2008-02-03"
+"hep-ph/9212234",,"Michael J. Booth and Gerard Jungman","P and T Violation From Certain Dimension Eight Weinberg Operators","6 pages, EFI-92-51","Phys.Rev.D47:4828-4829,1993","10.1103/PhysRevD.47.R4828",,"hep-ph",,"  Dimension eight operators of the Weinberg type have been shown to give
+important contributions to CP violating phenomena, such as the electric dipole
+moment of the neutron. In this note we show how operators related to these (and
+expected to occur on equal footing) can give rise to time-reversal violating
+phenomena such as atomic electric dipole moments. We also estimate the induced
+parity violating phenomena such as small ``wrong'' parity admixtures in atomic
+states and find that they are negligible. Uses harvmac.tex and epsf.tex; one
+figure submitted as a uuencoded, compressed EPS file.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 01:15:07 GMT""}]","2009-12-30"
+"hep-ph/9212235","Peter Arnold","Peter Arnold and Olivier Espinosa","The Effective Potential and First-Order Phase Transitions: Beyond
+  Leading Order","64 pages, Revised Version, Uw/PT-92-18. REVISION: fig. 7 and the
+  paragraph describing it have been eliminated since the claim of IR divergence
+  for fig. 7 was insane. None of the rest of the paper is affected","Phys.Rev.D47:3546,1993; Erratum-ibid.D50:6662,1994;
+  Phys.Rev.D50:6662,1994","10.1103/PhysRevD.47.3546 10.1103/PhysRevD.50.6662",,"hep-ph",,"  Scenarios for electroweak baryogenesis require an understanding of the
+effective potential at finite temperature near a first-order electroweak phase
+transition. Working in Landau gauge, we present a calculation of the dominant
+two-loop corrections to the ring-improved one-loop potential in the formal
+limit $g^4 \ll \lambda \ll g^2$, where $\lambda$ is the Higgs self-coupling and
+$g$ is the electroweak coupling. The limit $\lambda \ll g^2$ ensures that the
+phase transition is significantly first-order, and the limit $g^4 \ll \lambda$
+allows us to use high-temperature expansions. We find corrections from 20 to
+40\% at Higgs masses relevant to the bound computed for baryogenesis in the
+Minimal Standard Model. Though our numerical results seem to still rule out
+Minimal Standard Model baryogenesis, this conclusion is not airtight because
+the loop expansion is only marginal when corrections are as big as 40\%. We
+also discuss why super-daisy approximations do not correctly compute these
+corrections.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 03:16:25 GMT""},{""version"":""v2"",""created"":""Thu, 10 Dec 1992 22:19:39 GMT""}]","2014-11-17"
+"hep-ph/9212236","Aneesh V. Manohar","Aneesh V. Manohar and Mark B. Wise","Exotic QQ\qbar\qbar States in QCD","(21 pages, 1 figure; uses harvmac.tex, tables.tex and uufiles),
+  CERN-TH.6744/92, CALT-68-1869","Nucl.Phys.B399:17-33,1993","10.1016/0550-3213(93)90614-U",,"hep-ph",,"  We show that QCD contains stable four-quark QQ\qbar\qbar hadronic states in
+the limit where the heavy quark mass goes to infinity. (Here Q denotes a heavy
+quark, \qbar a light antiquark and the stability refers only to the strong
+interactions.) The long range binding potential is due to one pion exchange
+between ground state Q\qbar mesons, and is computed using chiral perturbation
+theory. For the Q=b, this long range potential may be sufficiently attractive
+to produce a weakly bound two meson state.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 09:33:24 GMT""}]","2010-11-01"
+"hep-th/9212043",,"Ezra Getzler (Department of Mathematics, MIT)","Batalin-Vilkovisky algebras and two-dimensional topological field
+  theories","23 pages (Revised in many small ways.)","Commun.Math.Phys.159:265-285,1994","10.1007/BF02102639",,"hep-th",,"  Batalin-Vilkovisky algebras are a new type of algebraic structure on graded
+vector spaces, which first arose in the work of Batalin and Vilkovisky on gauge
+fixing in quantum field theory. In this article, we show that there is a
+natural structure of a Batalin-Vilkovisky algebra on the cohomology of a
+topological field theory in two dimensions.
+  Lian and Zuckerman have constructed this Batalin-Vilkovisky structure, in the
+setting of topological chiral field theories, and shown that the structure is
+non-trivial in two-dimensional string theory. Our approach is to use algebraic
+topology, whereas their proofs have a more algebraic character.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 18:06:28 GMT""},{""version"":""v2"",""created"":""Thu, 18 Feb 1993 13:37:26 GMT""},{""version"":""v3"",""created"":""Tue, 4 May 1993 23:21:19 GMT""}]","2008-11-26"
+"hep-th/9212044",,"Michael McGuigan","Third Quantization and Black Holes","14 pages",,,,"hep-th",,"  Recent results on the quantum mechanics of black holes indicate that the
+spacetime singularity can be avoided if the space of fields is extended in its
+domain as well as the vanishing of beta functions required as an equation in
+target space. Such an approach seems to inevitably lead to the quantization in
+this space that is the so-called third quantization. We discuss some of the
+implications of third quantization for the physics of blackholes in two
+dimensions. By discretizing the transverse dimensions describing the horizon it
+may also be possible to describe regulated four dimensional gravity in this
+manner and perhaps shed some light on the meaning of black hole entropy.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 17:17:18 GMT""}]","2007-05-23"
+"hep-th/9212045","Tomasz Taylor","I. Antoniadis, E. Gava, K.S. Narain and T.R. Taylor","Superstring Threshold Corrections to Yukawa Couplings","26 pages, LATEX NUB-3057 -- IC/92/402 -- CPTH-A185.0892","Nucl.Phys.B407:706-724,1993","10.1016/0550-3213(93)90095-7",,"hep-th hep-ph",,"  A general method of computing string corrections to the K\""ahler metric and
+Yukawa couplings is developed at the one-loop level for a general
+compactification of the heterotic superstring theory. It also provides a direct
+determination of the so-called Green-Schwarz term. The matter metric has an
+infrared divergent part which reproduces the field-theoretical anomalous
+dimensions, and a moduli-dependent part which gives rise to threshold
+corrections in the physical Yukawa couplings. Explicit expressions are derived
+for symmetric orbifold compactifications.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 21:14:00 GMT""}]","2010-11-01"
+"hep-th/9212046","Jadwiga Bienkowska","Jadwiga Bie\'nkowska","Light-Cone Quantization of the Liouville Model","16 p, EFI-92-66","Phys.Rev. D47 (1993) 4538-4545","10.1103/PhysRevD.47.4538",,"hep-th",,"  We present the quantization of the Liouville model defined in light-cone
+coordinates in (1,1) signature space. We take advantage of the representation
+of the Liouville field by the free field of the Backl\""{u}nd transformation and
+adapt the approch by Braaten, Curtright and Thorn.
+  Quantum operators of the Liouville field $\partial_{+}\phi$,
+$\partial_{-}\phi$, $e^{g\phi}$, $e^{2g\phi}$ are constructed consistently in
+terms of the free field. The Liouville model field theory space is found to be
+restricted to the sector with field momentum $P_{+}=-P_{-}$, $P_{+}> 0$ , which
+is a closed subspace for the Liouville theory operator algebra.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 00:57:04 GMT""}]","2016-08-14"
+"hep-th/9212047","Watamura","Satoshi Watamura","Quantum Deformation of BRST Algebra","28pages, HD-THEP-92-39, Preprint TU-411 (September, 1992), LaTeX","Commun.Math.Phys. 158 (1993) 67-92","10.1007/BF02097232",,"hep-th",,"  We investigate the $q$-deformation of the BRST algebra, the algebra of the
+ghost, matter and gauge fields on one spacetime point using the result of the
+bicovariant differential calculus. There are two nilpotent operations in the
+algebra, the BRST transformation $\brs$ and the derivative $d$. We show that
+one can define the covariant commutation relations among the fields and their
+derivatives consistently with these two operation as well as the $*$-operation,
+the antimultiplicative inner involution.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 13:37:29 GMT""}]","2009-10-22"
+"nucl-th/9212002",,"J. R. Shepard, C. E. Price and T. C. Ferr\'ee (University of Colorado
+  Nuclear Physics Lab)","Exact 1-Fermion Loop Contributions in 1+1 Dimensional Solitons","24 pages in REVTEX, 3 figures appended to this file in compressed
+  PostScript",,"10.1103/PhysRevD.48.822","Preprint #1080","nucl-th",,"  We find solutions to the 1+1 dimensional scalar-only linear sigma model. A
+new method is used to compute 1-fermion loop contributions exactly and
+agreement with published results employing other methods is excellent. A
+renormalization scheme which differs from that commonly used in such
+calculations but similar to that required in 1+3 dimensions is also presented.
+We compare ``kink'' {\it versus} ``shallow bag'' solutions paying careful
+attention to the implications of the 1-fermion loop contributions for the
+stability of the former. We find that, for small fermion multiplicities,
+self-consistent shallow bag solutions are always more bound than their
+metastable kink counterparts. However, as the fermion multiplicity increases,
+shallow bags evolve into kinks which eventually are the only self-consistent
+configurations. This situation is qualitatively the same for the two
+renormalization schemes considered. When we construct ``baryons'', each
+containing three fermions, the kink configuration is typically more bound than
+the shallow bag when 1-fermion loop contributions are included.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 20:58:25 GMT""}]","2009-10-22"

@@ -1,0 +1,45 @@
+"cond-mat/9210015","Brad Marston","J. B. Marston, D. R. Andersson, E. R. Behringer, B. H. Cooper, C. A.
+  DiRubio, G. A. Kimmel, and C. Richardson","Many Body Theory of Charge Transfer in Hyperthermal Atomic Scattering","43 pages, plain TeX, BUP-JBM-2",,"10.1103/PhysRevB.48.7809",,"cond-mat",,"  We use the Newns-Anderson Hamiltonian to describe many-body electronic
+processes that occur when hyperthermal alkali atoms scatter off metallic
+surfaces. Following Brako and Newns, we expand the electronic many-body
+wavefunction in the number of particle-hole pairs (we keep terms up to and
+including a single particle-hole pair). We extend their earlier work by
+including level crossings, excited neutrals and negative ions. The full set of
+equations of motion are integrated numerically, without further approximations,
+to obtain the many-body amplitudes as a function of time. The velocity and
+work-function dependence of final state quantities such as the distribution of
+ion charges and excited atomic occupancies are compared with experiment. In
+particular, experiments that scatter alkali ions off clean Cu(001) surfaces in
+the energy range 5 to 1600 eV constrain the theory quantitatively. The
+neutralization probability of Na$^+$ ions shows a minimum at intermediate
+velocity in agreement with the theory. This behavior contrasts with that of
+K$^+$, which shows ... (7 figures, not included. Figure requests:
+jbm@yollabolly.physics.brown.edu)
+","[{""version"":""v1"",""created"":""Sat, 17 Oct 1992 16:24:43 GMT""}]","2009-10-22"
+"hep-ph/9210246",,"Subhendra Mohanty, S.N.Nayak and Sarira Sahu","Chern-simon type photon mass from fermion electric dipole moments at
+  finite temperature in 3+1 dimensions","plain TeX, 9 pages","Phys.Rev.D47:2172-2175,1993","10.1103/PhysRevD.47.R2172","IP/BBSR/92-72","hep-ph",,"  We study the low energy effective field theory of fermions with electric and
+magnetic dipole moments at finite temperature. We find that at one loop there
+is an interaction term of the Chern-Simon form ${\cal L_I}=m_\mu\>A_\nu {\tilde
+F}^{\mu\nu}$. The four vector $m_\mu \simeq d_i \mu_i m_i^2
+~{\partial_\mu}\>(ln T)$ is interpreted as a Chern- Simon type mass of photons,
+which is determined by the electric (magnetic) dipole moments $d_i$ ($\mu_i$)
+of the fermions in the vacuum polarisation loop diagram. The physical
+consequence of such a photon mass is that, photons of opposite circular
+polarisations, propagating through a hot medium, have different group
+velocities. We estimate that the time lag between the arrival times of the left
+and right circularly polarised light signals from pulsars. If the light
+propagates through a hot plasma (where the temperature in some regions is $T
+\sim 100 MeV$) then the time lag between the two circularly polarised signals
+of frequency $\omega$ will be $\Delta t(\omega) \simeq 10^{-6} /\omega$. It may
+be possible to observe this effect in pulsar signals which propagate through
+nebula at high temperatures.
+","[{""version"":""v1"",""created"":""Sat, 17 Oct 1992 18:22:39 GMT""}]","2016-09-01"
+"hep-th/9210096",,"Sumathi Rao and Diptiman Sen","Non-linear Field Theory of a Frustrated Heisenberg Spin Chain","27 pages, plain.tex, TIFR-TH-92-56","Nucl.Phys. B424 (1994) 547-566","10.1016/0550-3213(94)90407-3",,"hep-th cond-mat",,"  We derive a continuum field theory for the Majumdar-Ghosh model in the
+large-$S$ limit, where the field takes values in the manifold of the $SO(3)$
+group. No topological term is induced in the action and the cases for integer
+spin and half-integer spin appear to be indistinguishable. A one-loop $\beta
+-$function calculation indicates that the theory flows towards a strong
+coupling (disordered) phase at long distances. This is verified in the
+large-$N$ limit, where all excitations are shown to be massive. (Three figures
+not included)
+","[{""version"":""v1"",""created"":""Sun, 18 Oct 1992 13:32:00 GMT""}]","2009-10-22"

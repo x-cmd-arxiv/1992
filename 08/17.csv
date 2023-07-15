@@ -1,0 +1,44 @@
+"hep-lat/9208013",,"A.J. van der Sijs","Gauge invariant extremization on the lattice","7 pages, LaTeX, Oxford preprint OUTP-92-16P","Phys.Lett. B294 (1992) 391-395","10.1016/0370-2693(92)91539-L",,"hep-lat",,"  Recently, a method was proposed and tested to find saddle points of the
+action in simulations of non-abelian lattice gauge theory. The idea, called
+`extremization', is to minimize $\int(\dl S/\dl A_\mu)^2$. The method was
+implemented in an explicitly gauge variant way, however, and gauge dependence
+showed up in the results.
+  Here we show how extremization can be formulated in a way that preserves
+gauge invariance on the lattice. The method applies to any gauge group and any
+lattice action. The procedure is worked out in detail for the standard
+plaquette action with gauge groups U(1) and SU(N).
+","[{""version"":""v1"",""created"":""Sun, 16 Aug 1992 23:07:29 GMT""}]","2009-10-22"
+"hep-ph/9208228",,"Amitava Dattta, Manoranjan Guchait and D.P. Roy","Prospect of Heavy Right-Handed Neutrino Search at SSC/LHC Energies","13 pages (1 Table and 4 Figures not included) Plain Tex","Phys.Rev.D47:961-966,1993","10.1103/PhysRevD.47.961","TIFR/TH/92-43","hep-ph",,"  Right-handed neutrinos with large Majorana mass occur naturally in the
+left-right symmetric model. We explore the prospect of such heavy Right-handed
+Neutrino search Via $W_R$ decay in the Like Sign Dilepton channel at SSC/LHC.
+The standard model background can be effectively eliminated by suitable lepton
+$p_T$ and isolation cuts without affecting the signal cross section seriously.
+In this way it seems possible to explore the bulk of the parameter space $0 <
+M_{N_R} < M_{W_R}$, with $M_{W_R}$ going upto 3000 (2000) GeV at SSC (LHC)
+energy.
+","[{""version"":""v1"",""created"":""Mon, 17 Aug 1992 10:00:00 GMT""}]","2008-11-26"
+"hep-th/9208044","Stanislav Pakuliak","S. Kharchev, A. Marshakov, A. Mironov, A. Morozov, S. Pakuliak","Conformal Matrix Models as an Alternative to Conventional Multi-Matrix
+  Models","35 pages, preprint FIAN/TD-9/92 & ITEP-M-4/92","Nucl.Phys.B404:717-750,1993","10.1016/0550-3213(93)90595-G",,"hep-th",,"  We introduce {\it conformal multi-matrix models} (CMM) as an alternative to
+conventional multi-matrix model description of two-dimensional gravity
+interacting with $c < 1$ matter. We define CMM as solutions to (discrete)
+extended Virasoro constraints. We argue that the so defined alternatives of
+multi-matrix models represent the same universality classes in continuum limit,
+while at the discrete level they provide explicit solutions to the
+multi-component KP hierarchy and by definition satisfy the discrete
+$W$-constraints. We prove that discrete CMM coincide with the $(p,q)$-series of
+2d gravity models in a {\it well}-{\it defined} continuum limit, thus
+demonstrating that they provide a proper generalization of Hermitian one-matrix
+model.
+","[{""version"":""v1"",""created"":""Mon, 17 Aug 1992 08:28:30 GMT""}]","2009-03-04"
+"hep-th/9208045","Yuri Makeenko","Yu.Makeenko","Large-N Reduction, Master Field and Loop Equations in Kazakov-Migdal
+  Model","17 pages (1 Latex figure), ITEP-YM-6-92 The figure is replaced by
+  printable one","Mod.Phys.Lett.A8:209-224,1993","10.1142/S0217732393000210",,"hep-th hep-lat",,"  I study the large-N reduction a la Eguchi--Kawai in the Kazakov--Migdal
+lattice gauge model. I show that both quenching and twisting prescriptions lead
+to the coordinate-independent master field. I discuss properties of loop
+averages in reduced as well as unreduced models and demonstrate those coincide
+in the large mass expansion. I derive loop equations for the Kazakov--Migdal
+model at large N and show they are reduced for the quadratic potential to a
+closed set of two equations. I find an exact strong coupling solution of these
+equations for any D and extend the result to a more general interacting
+potential.
+","[{""version"":""v1"",""created"":""Mon, 17 Aug 1992 13:42:00 GMT""},{""version"":""v2"",""created"":""Wed, 19 Aug 1992 13:02:00 GMT""}]","2011-07-19"

@@ -1,0 +1,218 @@
+"hep-ph/9204201",,"L.E. Ibanez and G.G. Ross","Electroweak Breaking in Supersymmetric Models","47 pages",,"10.1142/9789814440783_0008",,"hep-ph",,"  We discuss the mechanism for electroweak symmetry breaking in supersymmetric
+versions of the standard model. After briefly reviewing the possible sources of
+supersymmetry breaking, we show how the required pattern of symmetry breaking
+can automatically result from the structure of quantum corrections in the
+theory. We demonstrate that this radiative breaking mechanism works well for a
+heavy top quark and can be combined in unified versions of the theory with
+excellent predictions for the running couplings of the model. (To be published
+in ``Perspectives in Higgs Physics'', G. Kane editor.)
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 15:36:21 GMT""}]","2016-11-03"
+"hep-th/9203084","Anamaria Font","Anamaria Font","Periods and Duality Symmetries in Calabi-Yau Compactifications","(37 pages, one figure not included)","Nucl.Phys.B391:358-388,1993","10.1016/0550-3213(93)90152-F",,"hep-th",,"  We derive the period structure of several one-modulus Calabi-Yau manifolds.
+With this knowledge we then obtain the generators of the duality group and the
+mirror map that defines the physical variable $t$ representing the radius of
+compactification. We also describe the fundamental region of $t$ and discuss
+its relation with automorphic functions. As a byproduct of our analysis we
+compute the non-perturbative corrections of Yukawa couplings.
+","[{""version"":""v1"",""created"":""Tue, 31 Mar 1992 16:04:08 GMT""}]","2014-11-18"
+"hep-th/9204001",,"A.Aurilia and E.Spallucci","Axionic Membranes","15 pages","Phys.Lett. B282 (1992) 50-55","10.1016/0370-2693(92)90478-M",,"hep-th",,"  A metal ring removed from a soap-water solution encloses a film of soap which
+can be mathematically described as a minimal surface having the ring as its
+only boundary. This is known to everybody. In this letter we suggest a
+relativistic extension of the above fluidodynamic system where the soap film is
+replaced by a Kalb-Ramond gauge potential $\b(x)$ and the ring by a closed
+string. The interaction between the $\b$-field and the string current excites a
+new configuration of the system consisting of a relativistic membrane bounded
+by the string. We call such a classical solution of the equation of motion an
+axionic membrane. As a dynamical system, the axionic membrane admits a
+Hamilton-Jacobi formulation which is an extension of the H-J theory of
+electromagnetic strings.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 09:36:00 GMT""}]","2009-10-22"
+"math/9204211",,"Jari Taskinen","Structure of local Banach spaces of locally convex spaces",,,,"Banach Archive 4/1/92","math.FA",,"  We show that a continuous bilinear mapping P: C(I) \times C(I) \to C(I) can
+be presented in the form P(f,g) = B((Af)(Ag)), where A and B are bounded linear
+operators on C(I) and multiplication is defined pointwise, if and only if for
+all t in I the bilinear form (f,g) -> P(f,g)(t) is integral on C(I) times C(I)
+and depends in a sense continuously on t. To this end we construct a continuous
+surjection phi : I \to I^2 admitting a regular averaging operator in the sense
+of Pelczynski.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 15:42:40 GMT""}]","2016-09-06"
+"math/9204217","J. Brian Conrey","J. Brian Conrey, Amit Ghosh","On the Selberg class of Dirichlet series: small weights",,"Duke Math. J. 72 (3) 673 - 693, 1993","10.1215/S0012-7094-93-07225-0",,"math.NT",,"  In the study of Dirichlet series with arithmetic significance there has
+appeared (through the study of known examples) certain expectations, namely (i)
+if a functional equation and Euler product exists, then it is likely that a
+type of Riemann hypothesis will hold, (ii) that if in addition the function has
+a simple pole at the point s=1, then it must be a product of the Riemann
+zeta-function and another Dirichlet series with similar properties, and (iii)
+that a type of converse theorem holds, namely that all such Dirichlet series
+can be obtained by considering Mellin transforms of automorphic forms
+associated with arithmetic groups.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2022-01-19"
+"math/9204220","Peter W. Michor","Peter W. Michor","Knit products of graded Lie algebras and groups",,"Suppl. Rendiconti Circolo Matematico di Palermo, Ser. II 22
+  (1989), 171-175",,"Michor 99-08","math.GR math.RA",,"  If a graded Lie algebra is the direct sum of two graded sub Lie algebras, its
+bracket can be written in a form that mimics a ""double sided semidirect
+product"". It is called the {\it knit product} of the two subalgebras then. The
+integrated version of this is called a {\it knit product} of groups --- it
+coincides with the {\it Zappa-Sz\'ep product}. The behavior of homomorphisms
+with respect to knit products is investigated.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204221","Peter W. Michor","Markus Mauhart, Peter W. Michor","Commutators of flows and fields",,"Arch. Math. (Brno) 28 (1992), 228-236",,"Michor 99-08","math.DG",,"  The well known formula $[X,Y]=\tfrac12\tfrac{\partial^2}{\partial t^2}|_0
+(\Fl^Y_{-t}\o\Fl^X_{-t}\o\Fl^Y_t\o\Fl^X_t)$ for vector fields $X$, $Y$ is
+generalized to arbitrary bracket expressions and arbitrary curves of local
+diffeomorphisms.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9204222","Peter W. Michor","Peter W. Michor","All unitary representations admit moment mappings",,"Colloq. Math. Soc. Janos Bolyai, 56 (1992), 477-489",,"Michor 99-08","math.RT",,"  This is a review of [Michor, Peter W.: The moment mapping for a unitary
+representation, Ann. Global Anal. Geometry, 8, No 3(1990), 299--313] including
+a careful description of calculus in infinite dimensions. For any unitary
+representation of an arbitrary Lie group I construct a moment mapping from the
+space of smooth vectors of the representation into the dual of the Lie algebra.
+This moment mapping is equivariant and smooth. For the space of analytic
+vectors the same construction is possible and leads to a real analytic moment
+mapping.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204223","Peter W. Michor","Olga Gil-Medrano, Peter W. Michor","Geodesics on spaces of almost hermitian structures",,"Israel J. Math. 88 (1994), 319-332.",,"ESI Preprint 11; Michor 99-08","math.DG",,"  A natural metric on the space of all almost hermitian structures on a given
+manifold is investigated.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9204224","Sergio Albeverio","Sergio Albeverio, Zhi-Ming Ma","A general correspondence between Dirichlet forms and right processes","8 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 245-252",,"Bulletin migration 11/99","math.CV math.PR",,"  The theory of Dirichlet forms as originated by Beurling-Deny and developed
+particularly by Fukushima and Silverstein, is a natural functional analytic
+extension of classical (and axiomatic) potential theory. Although some parts of
+it have abstract measure theoretic versions, the basic general construction of
+a Hunt process properly associated with the form, obtained by Fukushima and
+Silverstein, requires the form to be defined on a locally compact separable
+space with a Radon measure $m$ and the form to be regular (in the sense of the
+continuous functions of compact support being dense in the domain of the form,
+both in the supremum norm and in the natural norm given by the form and the
+$L^2(m)$-space). This setting excludes infinite dimensional situations.
+  In this letter we announce that there exists an extension of
+Fukushima-Silverstein's construction of the associated process to the case
+where the space is only supposed to be metrizable and the form is not required
+to be regular.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204225","Donu Arapura","Donu Arapura","Higgs line bundles, Green-Lazarsfeld sets,and maps of K\""ahler manifolds
+  to curves","5 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 310-314",,"Bulletin migration 11/99","math.AG",,"  Let $X$ be a compact K\""ahler manifold. The set $\cha(X)$ of one-dimensional
+complex valued characters of the fundamental group of $X$ forms an algebraic
+group. Consider the subset of $\cha(X)$ consisting of those characters for
+which the corresponding local system has nontrivial cohomology in a given
+degree $d$. This set is shown to be a union of finitely many components that
+are translates of algebraic subgroups of $\cha(X)$. When the degree $d$ equals
+1, it is shown that some of these components are pullbacks of the character
+varieties of curves under holomorphic maps. As a corollary, it is shown that
+the number of equivalence classes (under a natural equivalence relation) of
+holomorphic maps, with connected fibers, of $X$ onto smooth curves of a fixed
+genus $>1$ is a topological invariant of $X$. In fact it depends only on the
+fundamental group of $X$.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9204226",,"Charles P. Boyer, Jacques Hurtubise, Benjamin M. Mann, R. James
+  Milgram","The Atiyah-Jones Conjecture","5 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 317-321",,"Bulletin migration 11/99","math.DG math.AG",,"  The purpose of this note is to announce our proof of the Atiyah-Jones
+conjecture concerning the topology of the moduli spaces of based
+SU(2)-instantons over S^4. Full details and proofs appear in our paper [BHMM1].
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204227","Ranee Brylinski","Ranee Brylinski, Bertram Kostant","Nilpotent orbits, normality, and Hamiltonian group actions","7 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 269-275",,"Bulletin migration 11/99","math.RT",,"  Let $M$ be a $G$-covering of a nilpotent orbit in $\g$ where $G$ is a complex
+semisimple Lie group and $\g=\text{Lie}(G)$. We prove that under Poisson
+bracket the space $R[2]$ of homogeneous functions on $M$ of degree 2 is the
+unique maximal semisimple Lie subalgebra of $R=R(M)$ containing $\g$. The
+action of $\g'\simeq R[2]$ exponentiates to an action of the corresponding Lie
+group $G'$ on a $G'$-cover $M'$ of a nilpotent orbit in $\g'$ such that $M$ is
+open dense in $M'$. We determine all such pairs $(\g\subset\g')$.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204228",,"L. J. Bunce, J. D. Maitland Wright","The Mackey-Gleason Problem","6 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 288-293",,"Bulletin migration 11/99","math.OA",,"  Let $A$ be a von Neumann algebra with no direct summand of Type $\roman I_2$,
+and let $\scr P(A)$ be its lattice of projections. Let $X$ be a Banach space.
+Let $m\:\scr P(A)\to X$ be a bounded function such that $m(p+q)=m(p)+m(q)$
+whenever $p$ and $q$ are orthogonal projections. The main theorem states that
+$m$ has a unique extension to a bounded linear operator from $A$ to $X$. In
+particular, each bounded complex-valued finitely additive quantum measure on
+$\scr P(A)$ has a unique extension to a bounded linear functional on $A$.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204229",,"Marc Burger, Jian-Shu Li, Peter Sarnak","Ramanujan duals and automorphic spectrum","5 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 253-257",,"Bulletin migration 11/99","math.RT math.NT",,"  We introduce the notion of the automorphic dual of a matrix algebraic group
+defined over $Q$. This is the part of the unitary dual that corresponds to
+arithmetic spectrum. Basic functorial properties of this set are derived and
+used both to deduce arithmetic vanishing theorems of ``Ramanujan'' type as well
+as to give a new construction of automorphic forms.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204230",,"Eric M. Friedlander, H. Blaine Lawson Jr.","A theory of algebraic cocycles","5 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 264-268",,"Bulletin migration 11/99","math.AG",,"  We introduce the notion of an algebraic cocycle as the algebraic analogue of
+a map to an Eilenberg-MacLane space. Using these cocycles we develop a
+``cohomology theory"" for complex algebraic varieties. The theory is bigraded,
+functorial, and admits Gysin maps. It carries a natural cup product and a
+pairing to $L$-homology. Chern classes of algebraic bundles are defined in the
+theory. There is a natural transformation to (singular) integral cohomology
+theory that preserves cup products. Computations in special cases are carried
+out. On a smooth variety it is proved that there are algebraic cocycles in each
+algebraic rational $(p,p)$-cohomology class.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204231",,"Israel M. Gelfand, Robert D. MacPherson","A combinatorial formula for the Pontrjagin classes","6 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 304-309",,"Bulletin migration 11/99","math.AT math.GT",,"  A combinatorial formula for the Pontrjagin classes of a triangulated manifold
+is given. The main ingredients are oriented matroid theory and a modified
+formulation of Chern-Weil theory.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204232",,"Herwig Hauser, Gerd Muller","Analytic varieties versus integral varieties of Lie algebras of vector
+  fields","4 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 276-279",,"Bulletin migration 11/99","math.CV",,"  We associate to any germ of an analytic variety a Lie algebra of tangent
+vector fields, the {\it tangent algebra}. Conversely, to any Lie algebra of
+vector fields an analytic germ can be associated, the {\it integral variety}.
+The paper investigates properties of this correspondence: The set of all
+tangent algebras is characterized in purely Lie algebra theoretic terms. And it
+is shown that the tangent algebra determines the analytic type of the variety.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204233",,"Gil Kalai, Daniel J. Kleitman","A quasi-polynomial bound for the diameter of graphs of polyhedra","2 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 315-316",,"Bulletin migration 11/99","math.MG math.CO",,"  The diameter of the graph of a $d$-dimensional polyhedron with $n$ facets is
+at most $n^{\log d+2}$
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9204234",,"Hendrik W. Lenstra Jr.","Algorithms in algebraic number theory","34 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 211-244",,"Bulletin migration 11/99","math.NT",,"  In this paper we discuss the basic problems of algorithmic algebraic number
+theory. The emphasis is on aspects that are of interest from a purely
+mathematical point of view, and practical issues are largely disregarded. We
+describe what has been done and, more importantly, what remains to be done in
+the area. We hope to show that the study of algorithms not only increases our
+understanding of algebraic number fields but also stimulates our curiosity
+about them. The discussion is concentrated of three topics: the determination
+of Galois groups, the determination of the ring of integers of an algebraic
+number field, and the computation of the group of units and the class group of
+that ring of integers.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9204235",,"Pierre Levy-Bruhl, Abderemane Mohamed, Jean Nourrigat","Spectral Theory and Representations of Nilpotent Groups","5 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 299-303",,"Bulletin migration 11/99","math.SP math.RT",,"  We give an estimate of the number $N(\lambda)$ of eigenvalues $<\lambda$ for
+the image under an irreducible representation of the ``sublaplacian'' on a
+stratified nilpotent Lie algebra. We also give an estimate for the trace of the
+heat-kernel associated with this operator. The estimates are formulated in term
+of geometrical objects related to the representation under consideration. An
+important particular case is the Schr\""odinger equation with polynomial
+electrical and magnetical fields.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204236","Stephen C. Milne","Stephen C. Milne, Glenn M. Lilly","The $\bal$\ and $\bcl$\ Bailey Transform and Lemma","6 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 258-263",,"Bulletin migration 11/99","math.CA",,"  We announce a higher-dimensional generalization of the Bailey Transform,
+Bailey Lemma, and iterative ``Bailey chain'' concept in the setting of basic
+hypergeometric series very well-poised on unitary $A_{\ell}$ or symplectic
+$C_{\ell}$ groups. The classical case, corresponding to $A_1$ or equivalently
+$\roman U(2)$, contains an immense amount of the theory and application of
+one-variable basic hypergeometric series, including elegant proofs of the
+Rogers-Ramanujan-Schur identities. In particular, our program extends much of
+the classical work of Rogers, Bailey, Slater, Andrews, and Bressoud.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9204237","Indranil Biswas","Subhashis Nag","A period mapping in universal Teichm\""uller space","8 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 280-287",,"Bulletin migration 11/99","math.CV math.DG",,"  In previous work it had been shown that the remarkable homogeneous space $M=
+\operatorname{Diff}(S^1)/\operatorname{PSL} (2,\Bbb{R})$ sits as a complex
+analytic and K\""ahler submanifold of the Universal Teichm\""uller Space. There
+is a natural immersion $\Pi$ of $M$ into the infinite-dimensional version (due
+to Segal) of the Siegel space of period matrices. That map $\Pi$ is proved to
+be injective, equivariant, holomorphic, and K\""ahler-isometric (with respect to
+the canonical metrics). Regarding a period mapping as a map describing the
+variation of complex structure, we explain why $\Pi$ is an infinite-dimensional
+period mapping.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204238","Kristian Seip","Kristian Seip","Density theorems for sampling and interpolation in the Bargmann-Fock
+  space","7 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 322-328",,"Bulletin migration 11/99","math.CV math.FA",,"  We give a complete description of sampling and interpolation in the
+Bargmann-Fock space, based on a density concept of Beurling. Roughly speaking,
+a discrete set is a set of sampling if and only if its density in every part of
+the plane is strictly larger than that of the von Neumann lattice, and
+similarly, a discrete set is a set of interpolation if and only if its density
+in every part of the plane is strictly smaller than that of the von Neumann
+lattice.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9204239",,"Wenzheng Xie","A sharp pointwise bound for functions with $L^2$-Laplacians on arbitrary
+  domains and its applications","5 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 294-298",,"Bulletin migration 11/99","math.AP",,"  For all functions on an arbitrary open set $\Omega\subset\R^3$ with zero
+boundary values, we prove the optimal bound \[ \sup_{\Omega}|u| \leq
+(2\pi)^{-1/2} \left(\int_{\Omega}|\nabla u|^2 \,dx\, \int_{\Omega}|\Delta u|^2
+\,dx\right)^{1/4}. \] The method of proof is elementary and admits
+generalizations. The inequality is applied to establish an existence theorem
+for the Burgers equation.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9204240","Yunping Jiang","Yunping Jiang","Dynamics of certain non-conformal semigroups",,,,"Stony Brook IMS 1992/5","math.DS",,"  A semigroup generated by two dimensional $C^{1+\alpha}$ contracting maps is
+considered. We call a such semigroup regular if the maximum $K$ of the
+conformal dilatations of generators, the maximum $l$ of the norms of the
+derivatives of generators and the smoothness $\alpha$ of the generators satisfy
+a compatibility condition $K< 1/l^{\alpha}$. We prove that the shape of the
+image of the core of a ball under any element of a regular semigroup is good
+(bounded geometric distortion like the Koebe $1/4$-lemma \cite{a}). And we use
+it to show a lower and a upper bounds of the Hausdorff dimension of the limit
+set of a regular semigroup. We also consider a semigroup generated by higher
+dimensional maps.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 00:00:00 GMT""}]","2016-09-06"

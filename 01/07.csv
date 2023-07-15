@@ -1,0 +1,32 @@
+"hep-th/9201006","Denis Bernard","Denis Bernard","On Symmetries of Some Massless 2D Field Theories","13 pages","Phys.Lett.B279:78-86,1992","10.1016/0370-2693(92)91844-Y",,"hep-th",,"  We describe few aspects of the quantum symmetries of some massless
+two-dimensional field theories. We discuss their relations with recent
+proposals for the factorized scattering theories of the massless $PCM_1$ and
+$O(3)_{\theta=\pi}$ sigma models. We use these symmetries to propose massless
+factorized S-matrices for the $su(2)$ sigma models with topological terms at
+any level, alias the $PCM_k$ models, and for the $su(2)$-coset massless flows.
+","[{""version"":""v1"",""created"":""Mon, 6 Jan 1992 16:16:14 GMT""}]","2008-11-26"
+"hep-th/9201008","Satoshi Matsuda","Satoshi Matsuda","Coulomb Gas Representations and Screening Operators of the N=4
+  Superconformal Algebras","16 pages","Phys.Lett. B282 (1992) 56-62","10.1016/0370-2693(92)90479-N",,"hep-th",,"  The Coulomb gas representations are presented for the ${\rm
+SU(2)}$$_k$-extended $N$=4 superconformal algebras, incorporating the
+Feigin-Fuchs representation of the\break ${\rm SU(2)}$$_k$ Kac-Moody algebra
+with {\sl arbitrary} level $k$. Then the long-standing problem of identifying
+the whole set of charge-screening operators for the $N$=4 superconformal
+algebras is solved and their explicit expressions are given. The method of
+achieving a rigorous proof of the $N$=4 Kac determinant formulae following Kato
+and Matsuda is suggested. The complete proof for them will be given elsewhere.
+Our results for the screening operators also provide the basis for studying the
+BRST formalism of the $N$=4 superconformal algebras ${\sl {\grave a}\ la}$
+Felder.
+","[{""version"":""v1"",""created"":""Tue, 7 Jan 1992 05:46:07 GMT""}]","2009-10-22"
+"hep-th/9201015","Alok Kumar","S. Kar, S. Khastgir and A. Kumar","An Algorithm to Generate Classical Solutions for String Effective Action","12 pages","Mod.Phys.Lett. A7 (1992) 1545-1552","10.1142/S021773239200121X",,"hep-th",,"  It is shown explicitly, that a number of solutions for the background field
+equations of the string effective action in space-time dimension D can be
+generated from any known lower dimensional solution, when background fields
+have only time dependence. An application of the result to the two dimensional
+charged black hole is presented. The case of background with more general
+coordinate dependence is also discussed.
+","[{""version"":""v1"",""created"":""Tue, 7 Jan 1992 07:55:11 GMT""}]","2009-10-22"
+"math/9201201",,"E.M.Chirka","On the Removable Singularities for Meromorphic Mappings",,,,,"math.CV",,"  If E is a nonempty closed subset of the locally finite Hausdorff
+(2n-2)-measure on an n-dimensional complex manifold M and all points of E are
+nonremovable for a meromorphic mapping of M \ E into a compact K\""ahler
+manifold, then E is a pure (n-1)-dimensional complex analytic subset of M.
+","[{""version"":""v1"",""created"":""Mon, 6 Jan 1992 16:29:58 GMT""}]","2008-02-03"

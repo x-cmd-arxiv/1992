@@ -1,0 +1,252 @@
+"cond-mat/9212023","Tapio Ala-Nissila","T. Ala-Nissila, T. Hjelt, J. M. Kosterlitz, and O. Ven\""al\""ainen","Scaling Exponents for Kinetic Roughening in Higher Dimensions","17 pages, TEX, figures upon request from ala@phcu.helsinki.fi",,"10.1007/BF01048047","Helsinki University preprint HU-TFT-92-53","cond-mat",,"  We discuss the results of extensive numerical simulations in order to
+estimate the scaling exponents associated with kinetic roughening in higher
+dimensions, up to d=7+1. To this end, we study the restricted solid - on -
+solid growth model, for which we employ a novel fitting {\it ansatz} for the
+spatially averaged height correlation function $\bar G(t) \sim t^{2\beta}$ to
+estimate the scaling exponent $\beta$. Using this method, we present a
+quantitative determination of $\beta$ in d=3+1 and 4+1 dimensions. To check the
+consistency of these results, we also compute the interface width and determine
+$\beta$ and $\chi$ from it independently. Our results are in disagreement with
+all existing theories and conjectures, but in four dimensions they are in good
+agreement with recent simulations of Forrest and Tang [{\it Phys. Rev. Lett.}
+{\bf 64}:1405 (1990)] for a different growth model. Above five dimensions, we
+use the time dependence of the width to obtain lower bound estimates for
+$\beta$. Within the accuracy of our data, we find no indication of an upper
+critical dimension up to d=7+1.
+","[{""version"":""v1"",""created"":""Wed, 16 Dec 1992 16:58:50 GMT""}]","2009-10-22"
+"cond-mat/9212024","P. Ossadnik","Peter Ossadnik","Multiscaling analysis and width of the active zone of large off-lattice
+  DLA","8 pages, 3 figures (included), LaTeX (article, epsf styles)",,"10.1016/0378-4371(93)90160-6","HLRZ-preprint 104/92","cond-mat",,"  We measure the multiscaling behavior of large off-lattice diffusion limited
+aggregates (DLA). In contrast to previous studies we now find a continuous
+dependence of the multiscaling dimensions $D(x)$ on the relative distance
+$x=r/R_g$ to the center of the cluster. This result agrees with measurements on
+smaller clusters. Furthermore we report the multiscaling behavior and the
+behavior of the width of the active zone of one very large off-lattice DLA
+cluster with 50 million particles. Here we find a sharp drop of the
+multiscaling dimensions for large $x$ instead of a continuous behavior.
+","[{""version"":""v1"",""created"":""Wed, 16 Dec 1992 18:05:04 GMT""}]","2009-10-22"
+"cond-mat/9212025","Daijiro Yoshioka","Daijiro Yoshioka","Fractional Quantum Hall States in Narrow Channels","8 pages, 2 figures (not included)",,"10.1143/JPSJ.62.839","REVTEX, JPSJ-12198","cond-mat",,"  A model system is considered where two dimensional electrons are confined by
+a harmonic potential in one direction, and are free in the other direction.
+Ground state in strong magnetic fields is investigated through numerical
+diagonalization of the Hamiltonian. It is shown that the fractional quantum
+Hall states are realized even in the presence of the external potential under
+suitable conditions, and a phase diagram is obtained.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 09:44:32 GMT""}]","2009-10-22"
+"cond-mat/9212026","Jan","Jan Hemmingsson and Hans J. Herrmann","On Oscillations in Cellular Automata","six pages LaTeX",,"10.1209/0295-5075/23/1/003","HLRZ preprint 99/92","cond-mat",,"  We investigate cellular automata where some global quantity varies
+periodically or quasiperiodically with time. We find that these systems are
+highly predictable, and can be rather well described by a set of mean-field
+variables. We conclude that this is not a collective phenomenon - where
+different subsystems are supposed to synchronize - but rather like many very
+weakly coupled oscillators fluctuating around one exact frequency. The global
+quantity measured is a mean taken over all these subsystems, and gets more
+precise the larger the system is.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 12:29:56 GMT""}]","2009-10-22"
+"gr-qc/9212011","Sukanya Sinha","Marcos Rosenbaum, Michael P. Ryan and Sukanya Sinha","A Nonlinear Model of a Quantum Minisuperspace System with Back Reaction","31 pages, 7 figures(available on request)","Phys.Rev.D47:4443-4457,1993","10.1103/PhysRevD.47.4443",,"gr-qc",,"  We consider the quantum evolution of the space-independent mode of a $\lambda
+{\phi}^4$ theory as a minisuperspace in the space of all $\phi$. The motion of
+the wave packet in the minisuperspace is then compared to the motion of a wave
+packet in a larger minisuperspace consisting of the original minisuperspace
+plus one space-dependent mode. By comparing the motion of the two packets we
+develop criteria that tell us when the quantum evolution in the
+space-independent minisuperspace gives us useful information about the true
+evolution in the larger minisuperspace. These criteria serve as a toy model for
+similar(but much more complex) criteria that will tell us whether or when
+quantized gravitational minisuperspaces can possibly give any useful
+information about quantum gravity.
+","[{""version"":""v1"",""created"":""Wed, 16 Dec 1992 21:20:00 GMT""}]","2011-07-19"
+"hep-lat/9212020",,"V. Azcoiti, G. Di Carlo and A.F. Grillo","Large N Lattice QED","9 pages. LNF 92/110 P","Phys.Lett. B305 (1993) 275-280","10.1016/0370-2693(93)90118-2",,"hep-lat",,"  We study the $\beta, N$ critical behaviour of non compact QED with $N$
+species of light fermions, using a method we have proposed for unquenched
+simulations. We find that there exist two phase transition lines: one, second
+order, and the other, first order, that approaches asymptotically the $\beta=0$
+axis. These two lines have different physical origin, the second one being
+entirely due to fermions effects. We discuss the effect of the approximation
+used, in terms of an expansion of the effective action in powers of $N$, and
+conclude that the general features should not be affected by this
+approximation.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 10:01:00 GMT""}]","2009-10-22"
+"hep-lat/9212021","Thomas Kalkreuter","Thomas Kalkreuter","Multigrid Methods for the Computation of Propagators in Gauge Fields","Ph. D. thesis 130 pages, 24 figures; 3 figs in LaTeX, the other 21
+  figs are too large to be included but they can be obtained from the author; a
+  special style file is included","Int.J.Mod.Phys. C5 (1994) 629-700","10.1142/S0129183194000799",,"hep-lat",,"  NOTE: this is a shortened version of the abstract of the paper.
+  Multigrid methods for propagators in gauge fields are investigated.
+  Gauge fields are incorporated in algorithms in a covariant way. This avoids
+the necessity for gauge fixing in computations of propagators.
+  The kernel $C$ of the restriction operator which averages from one grid to
+the next coarser grid is defined by projection on the ground- state of a local
+Hamiltonian. The idea behind this definition is that the appropriate notion of
+smoothness depends on the dynamics. The ground-state projection choice of $C$
+is usable in arbitrary space-time dimension $d$ and for arbitrary gauge group.
+We discuss proper averaging operations for bosons and for staggered fermions.
+The averaging kernels $C$ can be used not only in deterministic multigrid
+computations, but also in multigrid Monte Carlo simulations, and for the
+definition of block spins and blocked gauge fields in Monte Carlo
+renormalization group studies of gauge theories. Actual numerical computations
+of kernels and propagators are performed in compact four-dimensional $SU(2)$
+gauge fields. A central result of the present work is that {\em the multigrid
+method works in arbitrarily disordered gauge fields, in principle\/}.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 12:45:23 GMT""}]","2015-06-25"
+"hep-ph/9212270",,"Vittorio Del Duca","Jet inclusive cross sections","3 pages, latex SLAC-PUB-5997",,,,"hep-ph",,"  Minijet production in jet inclusive cross sections at hadron colliders, with
+large rapidity intervals between the tagged jets, is evaluated by using the
+  BFKL pomeron. We describe the jet inclusive cross section for an arbitrary
+number of tagged jets, and show that it behaves like a system of coupled
+pomerons.
+","[{""version"":""v1"",""created"":""Wed, 16 Dec 1992 18:10:00 GMT""}]","2007-05-23"
+"hep-ph/9212271","Juan Carlos Montero","J. C. Montero, F. Pisano and V. Pleitez","Neutral Currents and GIM Mechanism in SU(3)_L X U(1)_N Models for
+  Electroweak Interactions","34 pages, REVTeX 2.0 (no figures)","Phys.Rev. D47 (1993) 2918-2929","10.1103/PhysRevD.47.2918","IFT-P.039/92","hep-ph",,"  We study the Glashow-Iliopoulos-Maiani mechanism for
+flavor-changing-neutral-currents suppression in both, the gauge and Higgs
+sectors, for models with $SU(3)_L\otimes U(1)_N$ gauge symmetry. The models
+differ one from the other only with respect to the representation content. The
+main features of these models are that in order to cancel the triangle
+anomalies the number of families must be divisible by three (the number of
+colors) and that the lepton number is violated by some lepton-gauge bosons and
+lepton-scalar interactions.
+","[{""version"":""v1"",""created"":""Wed, 16 Dec 1992 16:20:00 GMT""}]","2009-10-22"
+"hep-ph/9212272",,"Robert Garisto, John N. Ng","What can the L3 $\gamma\gamma ll$ events be?","7 pp (3 fig avail. on request), LATEX, TRI-PP-92-124","Phys.Lett. B317 (1993) 462-466","10.1016/0370-2693(93)91025-I",,"hep-ph",,"  We consider the 4 $\gamma\gamma ll$ ($l=\mu,\ e$) events reported by the L3
+collaboration, and go through the logical possibilities which could explain the
+events. If they are not coincidental bremsstrahlung events, we find that the
+physics which they could point to is extremely limited. One possibility would
+be to have a new 60 GeV scalar (or pseudoscalar) particle $X^0$ with an
+off-diagonal coupling to a $Z$ and $Z'$ which is non-perturbative ($\alpha >
+1$), where the $Z'$ couplings to $\nu\bar\nu$ are suppressed. One could also
+construct a model involving $X^0$, and a second scalar $X'^0$ with a large
+$X'll$ coupling. We do not promote either of these models, but hope they would
+prove to be useful guidelines, should the L3 events turn out to be new physics.
+","[{""version"":""v1"",""created"":""Wed, 16 Dec 1992 19:41:19 GMT""}]","2009-10-22"
+"hep-ph/9212273",,"H. A. Riggs and H. J. Schnitzer","CP-Violating Yukawa Couplings in the Skyrme Model and the Neutron
+  Electric Dipole Moment","12 pages, Latex with no macros, BRX-TH-338","Phys.Lett.B305:252-260,1993","10.1016/0370-2693(93)90115-X",,"hep-ph",,"  We argue that the large-$\Nc$ behaviour of the Yukawa couplings in the Skyrme
+model involves issues more subtle than the vanishing of linear fluctuations
+needed for classical stability of the skyrmion. The chiral fluctuations about
+the skyrmion must be quantized in order to reach a conclusion. An improved
+quantization procedure allows us to confront this question directly.
+  The pion-nucleon coupling constants $\gcup$ (CP conserving) and $\bgcup$ (CP
+violating) are calculated in the large-$\Nc$, three-flavour Skyrme model by
+direct evaluation of the leading matrix elements appearing in the LSZ reduction
+formula. We find that $\gcup \sim \Nc^{{3 \over 2}}$, but that, at most,
+$\bgcup \sim m^2_\pi \Nc^{-\shalf}$. These results show that the leading
+contribution to the neutron electric dipole moment in large-$\Nc$ Skyrme model
+is the direct one ($\Dn \sim \Nc m^2_\pi$), rather than the pion loop
+contribution.
+","[{""version"":""v1"",""created"":""Wed, 16 Dec 1992 19:33:00 GMT""}]","2010-11-01"
+"hep-ph/9212274","Peter Cho","Peter Cho","Chiral Estimates of Strong CP Violation Revisited","11 pages with 3 figures not included but available upon request,
+  CALT-68-1842","Phys.Rev.D48:3304-3309,1993","10.1103/PhysRevD.48.3304",,"hep-ph",,"  The effects of the CP violating $\theta$ term in the QCD Lagrangian upon low
+energy hadronic phenomenology are reconsidered. Strong CP violating
+interactions among Goldstone bosons and octet baryons are incorporated into an
+effective chiral Lagrangian framework. The $\theta$ term's impact upon the
+decays $\eta\to\pi\pi$ and $\pi^0\to\gamma\gamma$ is then investigated but
+found to be extremely small. A refined model independent estimate of
+nonanalytic contributions to the neutron electric dipole moment is also
+determined using velocity dependent Baryon Chiral Perturbation Theory. We
+obtain the approximate upper bound $|\theta| < 4.5 \times 10^{-10}$.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 00:41:47 GMT""}]","2010-11-01"
+"hep-ph/9212275","Sergei Khlebnikov","S. Yu. Khlebnikov and R. D. Peccei","Light fermions in composite models","22 pages, 2 figures not included, latex, UCLA/92/TEP/49","Phys.Rev. D48 (1993) 361-369","10.1103/PhysRevD.48.361",,"hep-ph",,"  In preon models based on chiral gauge theories, we show that light composite
+fermions can ensue as a result of gauging a subset of preons in a vector-like
+manner. After demonstrating how this mechanism works in a toy example, we
+construct a one generation model of quarks which admits a hierarchy between the
+up and down quark masses as well as between these masses and the compositeness
+scale. In simple extensions of this model to more generations we discuss the
+challenges of obtaining any quark mixing. Some possible phenomenological
+implications of scenarios where quarks and leptons which are heavier are also
+less pointlike are also considered.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 00:34:00 GMT""}]","2009-10-22"
+"hep-ph/9212276",,"A. Barducci, R. Casalbuoni, G. Pettini, R. Gatto","Discontinuity Theorem for First Order Phase Transitions. Implications
+  for QCD","10 pages, LATEX, UGVA-DPT 1992/12/798","Phys.Lett. B301 (1993) 95-100","10.1016/0370-2693(93)90727-Y",,"hep-ph hep-th",,"  A first order phase transition leading to deconfinement and chiral
+restoration is a likely possibility for QCD, at least in some region of the
+temperature-density plane. A signal for a unique transition is that the order
+parameters for such transitions (which can be understood in terms of symmetries
+only in limiting situations of very massive or massless quarks) are both
+discontinuous at the same critical temperature. We show that such a situation
+can be understood on a precise thermodynamical basis because of a general
+relation among discontinuities which holds for first order transitions. We
+derive the result by a generalization of the Clausius-Clapeyron equation and
+also through the effective action formalism. We illustrate the theorem in an
+elementary example.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 09:33:00 GMT""}]","2009-10-22"
+"hep-th/9212101",,"Sebastian Sachse","A Deformed Poincar\'e Algebra On A Cubic Lattice","#5, latex",,,"LMU-TPW 92-27","hep-th",,"  Replacing the continuous space by a cubic lattice we find a deformation of
+the Poincar\'e algebra. A deformation of the relativistic mass operator is
+shown to be a Casimir of the algebra. The real structure is preserved.
+","[{""version"":""v1"",""created"":""Wed, 16 Dec 1992 16:35:01 GMT""}]","2007-05-23"
+"hep-th/9212102","Emmanuel Guitter","F. David, B. Duplantier and E. Guitter","Renormalization of Crumpled Manifolds","10 pages (1 figure, included), harvmac, SPhT/92-156","Phys.Rev.Lett. 70 (1993) 2205-2208","10.1103/PhysRevLett.70.2205",,"hep-th cond-mat",,"  We consider a model of D-dimensional tethered manifold interacting by
+excluded volume in R^d with a single point. By use of intrinsic distance
+geometry, we first provide a rigorous definition of the analytic continuation
+of its perturbative expansion for arbitrary D, 0 < D < 2. We then construct
+explicitly a renormalization operation, ensuring renormalizability to all
+orders. This is the first example of mathematical construction and
+renormalization for an interacting extended object with continuous internal
+dimension, encompassing field theory.
+","[{""version"":""v1"",""created"":""Wed, 16 Dec 1992 16:37:37 GMT""}]","2007-05-23"
+"hep-th/9212103","Kanehisa Takasaki","Kanehisa Takasaki","Dressing operator approach to Moyal algebraic deformation of selfdual
+  gravity","10 pages, Kyoto University KUCP-0054/92","J. Geom. Phys. 14 (1994) 111-120","10.1016/0393-0440(94)90003-5",,"hep-th",,"  Recently Strachan introduced a Moyal algebraic deformation of selfdual
+gravity, replacing a Poisson bracket of the Plebanski equation by a Moyal
+bracket. The dressing operator method in soliton theory can be extended to this
+Moyal algebraic deformation of selfdual gravity. Dressing operators are defined
+as Laurent series with coefficients in the Moyal (or star product) algebra, and
+turn out to satisfy a factorization relation similar to the case of the KP and
+Toda hierarchies. It is a loop algebra of the Moyal algebra (i.e., of a
+$W_\infty$ algebra) and an associated loop group that characterize this
+factorization relation. The nonlinear problem is linearized on this loop group
+and turns out to be integrable.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 05:37:38 GMT""}]","2015-06-26"
+"hep-th/9212104",,"K. Hornfeck","W-algebras with set of primary fields of dimensions (3, 4, 5) and
+  (3,4,5,6)","17 pages, LaTeX, KCL-TH-92-9, DFFT-70/92","Nucl.Phys. B407 (1993) 237-246","10.1016/0550-3213(93)90281-S",,"hep-th",,"  We show that that the Jacobi-identities for a W-algebra with primary fields
+of dimensions 3, 4 and 5 allow two different solutions. The first solution can
+be identified with WA_4. The second is special in the sense that, even though
+associative for general value of the central charge, null-fields appear that
+violate some of the Jacobi-identities, a fact that is usually linked to
+exceptional W-algebras. In contrast we find for the algebra that has an
+additional spin 6 field only the solution WA_5.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 09:45:41 GMT""}]","2009-10-22"
+"hep-th/9212105",,"G. Falqui and C.-M. Viallet","Singularity, complexity, and quasi--integrability of rational mappings","Latex file. 17 pages. To appear in CMP","Commun.Math.Phys. 154 (1993) 111-126","10.1007/BF02096835","PREPRINT PAR-LPTHE 92/26","hep-th alg-geom math.AG",,"  We investigate global properties of the mappings entering the description of
+symmetries of integrable spin and vertex models, by exploiting their nature of
+birational transformations of projective spaces. We give an algorithmic
+analysis of the structure of invariants of such mappings. We discuss some
+characteristic conditions for their (quasi)--integrability, and in particular
+its links with their singularities (in the 2--plane). Finally, we describe some
+of their properties {\it qua\/} dynamical systems, making contact with
+Arnol'd's notion of complexity, and exemplify remarkable behaviours.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 10:25:35 GMT""}]","2009-10-22"
+"hep-th/9212106","Francois David","F. David","Non-Perturbative Effects in Matrix Models and Vacua of Two Dimensional
+  Gravity","13 pages, harvmac.tex , 3 figures (postscript file included),
+  SPhT/92-159","Phys.Lett. B302 (1993) 403-410","10.1016/0370-2693(93)90417-G",,"hep-th",,"  The most general large N eigenvalues distribution for the one matrix model is
+shown to consist of tree-like structures in the complex plane. For the m=2
+critical point, such a split solution describes the strong coupling phase of 2d
+quantum gravity (c=0 non-critical string). It is obtained by taking
+combinations of complex contours in the matrix integral, and the relative
+weight of the contours is identified with the non-perturbative theta-parameter
+that fixes uniquely the solution of the string equation (Painleve I). This
+allows to recover by instanton methods results on the non-perturbative effects
+obtained by the Isomonodromic Deformation Method, and to construct for each
+theta-vacuum the observables (the loop correlation functions) which satisfy the
+loop equations. The breakdown of analyticity of the large N solution is related
+to the existence of poles for the loop operators.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 10:43:02 GMT""}]","2009-10-22"
+"hep-th/9212107","Andreas Fring","A.Fring","Couplings in Affine Toda Field Theories","14 p., USP-IFQSC/TH/92-53",,,,"hep-th",,"  We present a systematic derivation for a general formula for the n-point
+coupling constant valid for affine Toda theories related to any simple Lie
+algebra {\bf g}. All n-point couplings with $n \geq 4$ are completely
+determined in terms of the masses and the three-point couplings. A general
+fusing rule, formulated in the root space of the Lie algebra, is derived for
+all n-point couplings.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 13:45:00 GMT""}]","2007-05-23"
+"nucl-th/9212010","Dr. Lindsay Dodd","L.R. Dodd and D.E. Driscoll","Chiral colour-dielectric model with perturbative quantum pions and
+  gluons","20 pages, figures available from the authors, revtex","Phys.Rev.C47:1791-1800,1993","10.1103/PhysRevC.47.1791","ADP-92-184/M7","nucl-th",,"  Pionic contributions to static nucleon properties are calculated in a chiral
+extension of the colour-dielectric model. The pion field and residual gluon
+field are treated perturbatively. It is shown that with a simple choice for the
+energy of the scalar confining field and in the chiral limit, the system of
+equations describing the bare soliton and the perturbative pion and gluon
+fields may be cast in a dimensionless, parameter free form for large glueball
+mass. This enables a formula for the masses of the nucleon and delta including
+leading order pionic and gluonic contributions and corrections for spurious
+centre-of-mass motion, valid for a wide range of input parameters determining
+the bare soliton solutions, to be derived. A further consequence of the scaling
+behaviour is that pionic contributions to nucleon properties, calculated using
+the methods of the cloudy bag model, are insensitive to the soliton parameters,
+once the size of the soliton is fixed. The model results are very similar to
+those of the cloudy bag model but the predicted masses are about 20\% too
+large, and the pionic contributions to charge radii are underestimated.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 14:33:47 GMT""}]","2016-09-08"
+"nucl-th/9212011",,"A. Bianconi, S. Boffi and D.E. Kharzeev","Colour Transparency in Hadronic Basis","10 pages, FNT/T-92-40 University of Pavia",,,,"nucl-th",,"  The dynamics of nuclear transparency in hard nuclear reactions is studied by
+an expansion of the correlator of the hard scattering operator on a hadronic
+basis. Colour transparency appears as an effect of interference between the
+amplitudes corresponding to the final state interaction of different
+intermediate baryonic states. We find that colour transparency occurs even at
+moderate momentum transfers if one chooses the missing momentum of the struck
+nucleon by appropriate kinematics. In general, the role of the Fermi-motion is
+found to be crucial; without it, any effect of anomalous nuclear transparency
+would be impossible.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 14:04:49 GMT""}]","2007-05-23"

@@ -1,0 +1,105 @@
+"cond-mat/9208006","Thomas Pruschke","Th. Pruschke, D.L. Cox and M. Jarrell","The Hubbard Model at Infinite Dimensions: Thermodynamic and Transport
+  Properties","29 pages, 16 figures",,"10.1103/PhysRevB.47.3553",,"cond-mat",,"  We present results on thermodynamic quantities, resistivity and optical
+conductivity for the Hubbard model on a simple hypercubic lattice in infinite
+dimensions. Our results for the paramagnetic phase display the features
+expected from an intuitive analysis of the one-particle spectra and
+substantiate the similarity of the physics of the Hubbard model to those of
+heavy fermion systems. The calculations were performed using an approximate
+solution to the single-impurity Anderson model, which is the key quantity
+entering the solution of the Hubbard model in this limit. To establish the
+quality of this approximation we compare its results, together with those
+obtained from two other widely used methods, to essentially exact quantum Monte
+Carlo results.
+","[{""version"":""v1"",""created"":""Tue, 11 Aug 1992 15:29:45 GMT""}]","2009-10-22"
+"hep-ph/9208216",,"D. B. DeLaney, S. Jadach, C. Shio, G. Siopsis, and B. F. L. Ward","Multiple photon effects in $pp$ scattering at SSC energies","LaTeX file, uses phyzzx, 7pp + 5 LaTeX figures","Phys.Lett. B292 (1992) 413-416; Erratum-ibid. B302 (1993) 540","10.1016/0370-2693(92)91196-G",,"hep-ph",,"  The Monte Carlo program SSCYFS2 is used in conjunction with available parton
+distribution functions to calculate the effects of multiple photon radiation on
+pp scattering at SSC energies. Effects relevant to precision SSC physics such
+as Higgs discovery and exploration are illustrated.
+","[{""version"":""v1"",""created"":""Mon, 10 Aug 1992 17:38:20 GMT""}]","2009-10-22"
+"hep-ph/9208218","Leandros Perivolaropoulos","M. James, L. Perivolaropoulos and T. Vachaspati","On the Stability of Electroweak Strings (New Version)","1 figure (not include d, available upon request). Use jnl and
+  reforder macros",,,,"hep-ph",,"  We map the parameter space that leads to stable Z-vortices in the electroweak
+model. For $sin^2 \theta_W = 0.23$, we find that the strings are unstable for a
+Higgs mass larger than 24 GeV. Given the latest constraints on the Higgs mass
+from LEP, this shows that, if the standard electroweak model is realized in
+Nature, the Z-vortex (in the bare model) is unstable.
+","[{""version"":""v1"",""created"":""Tue, 11 Aug 1992 03:27:56 GMT""}]","2007-05-23"
+"hep-ph/9208219","Ghosh","Tarun Souradeep and Varun Sahni","Quantum effects near a point mass in 2+1 dimensional gravity","Plain Tex 37 Pages. (5 Figures available on request) IUCAA-01-92","Phys.Rev.D46:1616-1633,1992","10.1103/PhysRevD.46.1616",,"hep-ph gr-qc",,"  We investigate the behaviour of classical and quantum fields in the conical
+space-time associated with a point mass in 2+1 dimensions. We show that the
+presence of conical boundary conditions alters the electrostatic field of a
+point charge leading to the presence of a finite self-force on the charge from
+the direction of the point mass exactly as if the point mass itself were
+charged. The conical space-time geometry also affects the zero point
+fluctuations of a quantum scalar field leading to the existence of a vacuum
+polarisation --- $\langle T_\mn \rangle$, in the 2+1 dimensional analog of the
+Schwarzschild metric. The resulting linearised semi-classical Einstein
+equations --- $G_\mn = 8 \pi G \langle T_\mn \rangle$, possess a well defined
+Newtonian limit, in marked contrast to the classical case for which no
+Newtonian limit is known to exist. An elegant reformulation of our results in
+terms of the method of images is also presented.
+  Our analysis also covers the non-static de Sitter--Schwarzschild metric in
+2+1 dimensions, in which in addition to the vacuum polarisation, a non-zero
+vacuum flux ofenergy -- $\langle T_{rt} \rangle $ is also found to exist.As
+part of this analysis, we evaluate the scalar field propagator in an
+$n$-dimensional de Sitter space,
+","[{""version"":""v1"",""created"":""Tue, 11 Aug 1992 12:27:25 GMT""}]","2010-11-01"
+"hep-th/9208025","Nemanja M. Kaloper","Nemanja Kaloper","A Closed Bianchi I Universe in String Theory","9 pages plain TeX (More typos corrected, a reference added in Ref.
+  [3], and a new equation (Eq. 7) and some clarifications included)","Mod.Phys.Lett. A8 (1993) 421-428","10.1142/S021773239300043X","UMN-TH-1102/92","hep-th",,"  A special Bianchi I universe is constructed in $~4D~$ string theory.
+Geometrically it represents a $~3D~$ anti-de-Sitter space crossed with a flat
+direction whereas in terms of an associated conformal field theory it is an
+extremal case of a gauged WZWN theory with target the coset $~SU(1,1) \times
+R^2 / R~$. Some of its properties are discussed.
+","[{""version"":""v1"",""created"":""Mon, 10 Aug 1992 18:34:11 GMT""},{""version"":""v2"",""created"":""Mon, 5 Oct 1992 21:57:57 GMT""},{""version"":""v3"",""created"":""Thu, 15 Oct 1992 20:25:03 GMT""},{""version"":""v4"",""created"":""Sat, 17 Oct 1992 04:05:03 GMT""}]","2009-10-22"
+"hep-th/9208026",,"L. Alvarez-Gaume, J.L.F. Barbon and C. Crnkovic","A Proposal for Strings at D>1","41 pages, CERN-TH 6600/92","Nucl.Phys. B394 (1993) 383-422","10.1016/0550-3213(93)90020-P",,"hep-th",,"  Using the reduced formulation on large-N Quantum Field Theories we study
+strings in space-time dimensions higher that one. We present results on
+possible string susceptibilities, macroscopic loop operators, 1/N -corrections
+and other general properties of the model.
+","[{""version"":""v1"",""created"":""Mon, 10 Aug 1992 19:58:49 GMT""}]","2009-10-22"
+"hep-th/9208027",,"Edward Witten","On Background Independent Open-String Field Theory","18 pp","Phys.Rev.D46:5467-5473,1992","10.1103/PhysRevD.46.5467","IASSNS-HEP-92/53","hep-th",,"  A framework for background independent open-string field theory is proposed.
+The approach involves using the BV formalism -- in a way suggested by recent
+developments in closed-string field theory -- to implicitly define a gauge
+invariant Lagrangian in a hypothetical ``space of all open-string world-sheet
+theories.'' It is built into the formalism that classical solutions of the
+string field theory are BRST invariant open-string world-sheet theories and
+that, when expanding around a classical solution, the infinitesimal gauge
+transformations are generated by the world-sheet BRST operator.
+","[{""version"":""v1"",""created"":""Mon, 10 Aug 1992 20:42:00 GMT""}]","2010-04-07"
+"hep-th/9208028","Ian Kogan","Ian I. Kogan","Area Preserving Diffeomorphisms and $W_{\infty}$ Symmetry in a $2+1$
+  Chern-Simons Theory","17 pages, Latex file","Mod.Phys.Lett.A7:3717-3730,1992","10.1142/S021773239200313X","UBCTP 92-23","hep-th",,"  We discuss the $W_{\infty}$ symmetry in the $2+1$ gauge theory with the
+Chern-Simons term. It is shown that the generators of this symmetry act on the
+ground state as the canonical transformations in the phase space. We shall also
+discuss the analogy between discrete states in $c=1$ string theory and Landau
+level states in $2+1$ gauge theory with Chern-Simons term.
+","[{""version"":""v1"",""created"":""Tue, 11 Aug 1992 02:23:00 GMT""}]","2011-07-19"
+"hep-th/9208029","Damiano Anselmi","Damiano Anselmi and Pietro Fre","Twisted N=2 Supergravity as Topological Gravity in Four Dimensions","38 pages","Nucl.Phys.B392:401-427,1993","10.1016/0550-3213(93)90679-J",,"hep-th",,"  We show that the BRST quantum version of pure D=4 N=2 supergravity can be
+topologically twisted, to yield a formulation of topological gravity in four
+dimensions. The topological BRST complex is just a rearrangement of the old
+BRST complex, that partly modifies the role of physical and ghost fields:
+indeed, the new ghost number turns out to be the sum of the old ghost number
+plus the internal U(1) charge. Furthermore, the action of N=2 supergravity is
+retrieved from topological gravity by choosing a gauge fixing that reduces the
+space of physical states to the space of gravitational instanton
+configurations, namely to self-dual spin connections. The descent equations
+relating the topological observables are explicitly exhibited and discussed.
+Ours is a first step in a programme that aims at finding the topological sector
+of matter coupled N=2 supergravity, viewed as the effective Lagrangian of type
+II superstrings and, as such, already related to 2D topological field-theories.
+As it stands the theory we discuss may prove useful in describing gravitational
+instantons moduli-spaces.
+","[{""version"":""v1"",""created"":""Tue, 11 Aug 1992 08:27:48 GMT""}]","2014-11-18"
+"hep-th/9208030",,"J. Ambjorn, B. Durhuus, T. Jonsson and G. Thorleifsson","Matter fields with c > 1 coupled to 2d gravity","25 pages, Latex, NBI-HE-92-35","Nucl.Phys. B398 (1993) 568-592","10.1016/0550-3213(93)90604-N",,"hep-th",,"  We solve a class of branched polymer models coupled to spin systems and show
+that they have no phase transition and are either always magnetized or never
+magnetized depending on the branching weights. By comparing these results with
+numerical simulations of two-dimensional quantum gravity coupled to matter
+fields with central charge $c$ we provide evidence that for $c$ sufficiently
+large ($c\geq 12$) these models are effectively described by branched polymers.
+Moreover, the numerical results indicate a remarkable universality in the
+influence on the geometry of surfaces due to the interaction with matter. For
+spin systems this influence only depends on the total central charge.
+","[{""version"":""v1"",""created"":""Tue, 11 Aug 1992 13:34:00 GMT""}]","2019-08-17"
+"hep-th/9208031",,"R. Dijkgraaf, G. Moore, R. Plesser","The partition function of 2d string theory","28 pages, 3 figures not included, harvmac. Preprint IASSNS-HEP-92/48,
+  YCTP-P22-92","Nucl.Phys.B394:356-382,1993","10.1016/0550-3213(93)90019-L",,"hep-th",,"  We derive a compact and explicit expression for the generating functional of
+all correlation functions of tachyon operators in 2D string theory. This
+expression makes manifest relations of the $c=1$ system to KP flow and
+$W_{1+\infty}$ constraints. Moreover we derive a Kontsevich-Penner integral
+representation of this generating functional.
+","[{""version"":""v1"",""created"":""Tue, 11 Aug 1992 15:44:39 GMT""}]","2011-10-11"

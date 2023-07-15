@@ -1,0 +1,16 @@
+"cond-mat/9208024",,"Shmuel Fishmen, Yonathan Shapir, and Xiang-Rong Wang","Localized Electrons on a Lattice with Incommensurate Magnetic Flux","30 pages, 14 fig. (not included, available from ysha@uordbv upon
+  request)",,,,"cond-mat hep-th",,"  The magnetic field effects on lattice wavefunctions of Hofstadter electrons
+strongly localized at boundaries are studied analytically and numerically. The
+exponential decay of the wavefunction is modulated by a field dependent
+amplitude J(t) which depends sensitively on the value of alpha (the magnetic
+flux per plaquette in units of a flux quantum, t is the distance from the
+boundary). While for rational values p/q, the envelope of J(t) increases as
+2**t/q, the behavior for irrational alpha is erratic with an aperiodic
+structure which changes drastically with alpha. For algebraic alpha it is found
+that J(t) increases as a power law t**b(alpha) while it grows faster for
+transcendental alpha. This is very different from the growth rate exp{sqrt(t)}
+typical for random phases. The theoretical analysis is extended to lattices in
+which the distances between adjacent layers increase as r**n with n>0.
+Different behavior of J(t;n) is found in various regimes of n. It changes from
+periodic for small n to random like for large n.
+","[{""version"":""v1"",""created"":""Sat, 29 Aug 1992 18:14:00 GMT""}]","2007-05-23"

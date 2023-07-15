@@ -1,0 +1,257 @@
+"cond-mat/9205012","Kikuo Harigaya","Kikuo Harigaya and Shuji Abe (Fundamental Physics Section,
+  Electrotechnical Laboratory, Japan)","Dispersion of the Third-Order Nonlinear Optical Susceptibility in C_{60}
+  Calculated with a Tight-Binding Model","7 pages, to be published in Jpn. J. Applied Phys. as a Letter","Jpn. J. Appl. Phys. 31 (1992) L887-L889","10.1143/JJAP.31.L887",,"cond-mat",,"  The frequency dependence of third harmonic generation (THG) in C_{60} is
+calculated, making use of a tight-binding model for pi-electrons. The
+magnitudes of the THG, about 10^{-12} esu, near zero frequency, agree with
+those in experiments for the low-energy region. We can also explain the order
+of the magnitude, 10^{-11} esu, around the three-photon resonance peak due to
+the lowest allowed excitation, recently measured by Meth et al. At higher
+energies, we predict a large enhancement of the THG at 3 omega \sim 6eV as a
+result of double resonance enhancement.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 02:37:01 GMT""}]","2007-05-23"
+"cond-mat/9205013","Mingqiu Sun","M. Sun and C. Ebner (Department of Physics, The Ohio State University,
+  Columbus, OH)","Molecular Dynamics Simulation of Compressible Fluid Flow in
+  Two-Dimensional Channels","16 pages (in latex) + 8 figures (in a single ps file). Submitted to
+  the Physical Review A",,"10.1103/PhysRevA.46.4813",,"cond-mat",,"  We study compressible fluid flow in narrow two-dimensional channels using a
+novel molecular dynamics simulation method. In the simulation area, an upstream
+source is maintained at constant density and temperature while a downstream
+reservoir is kept at vacuum. The channel is sufficiently long in the direction
+of the flow that the finite length has little effect on the properties of the
+fluid in the central region. The simulated system is represented by an
+efficient data structure, whose internal elements are created and manipulated
+dynamically in a layered fashion. Consequently the code is highly efficient and
+manifests completely linear performance in simulations of large systems. We
+obtain the steady-state velocity, temperature, and density distributions in the
+system. The velocity distribution across the channel is very nearly a quadratic
+function of the distance from the center of the channel and reveals velocity
+slip at the boundaries; the temperature distribution is only approximately a
+quartic function of this distance from the center to the channel. The density
+distribution across the channel is non-uniform. We attribute this
+non-uniformity to the relatively high Mach number, approximately 0.5, in the
+fluid flow. An equation for the density distribution based on simple
+compressibility arguments is proposed; its predictions agree well with the
+simulation results. Validity of the concept of local dynamic temperature and
+the variation of the temperature along the channel are discussed.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 09:30:36 GMT""}]","2009-10-22"
+"hep-lat/9205020","Stephen R. Sharpe","Stephen Sharpe","Quenched Chiral Logarithms","43 page latex file, 16 postscript figures included","Phys.Rev. D46 (1992) 3146-3168","10.1103/PhysRevD.46.3146","CEBAF-TH-92-12","hep-lat hep-ph",,"  I develop a diagrammatic method for calculating chiral logarithms in the
+quenched approximation. While not rigorous, the method is based on physically
+reasonable assumptions, which can be tested by numerical simulations. The main
+results are that, at leading order in the chiral expansion, (a) there are no
+chiral logarithms in quenched $f_\pi$, for $m_u=m_d$; (b) the chiral logarithms
+in $B_K$ and related kaon B-parameters are, for $m_d=m_s$, the same in the
+quenched approximation as in the full theory; (c) for $m_\pi$ and the
+condensate, there are extra chiral logarithms due to loops containing the
+$\eta'$, which lead to a peculiar non-analytic dependence of these quantities
+on the bare quark mass. Following the work of Gasser and Leutwyler, I discuss
+how there is a predictable finite volume dependence associated with each chiral
+logarithm. I compare the resulting predictions with numerical results: for most
+quantities the expected volume dependence is smaller than the errors, but for
+$B_V$ and $B_A$ there is an observed dependence which is consistent with the
+predictions.
+","[{""version"":""v1"",""created"":""Mon, 25 May 1992 17:21:44 GMT""}]","2009-10-22"
+"hep-lat/9205021",,"J. Ambjorn, Z. Burda, J. Jurkiewicz, C.F. Kristjansen","3d quantum gravity coupled to matter","10 pages, nbi-he-92-31 six figures available as postscript files by
+  request","Phys.Lett. B297 (1992) 253-260","10.1016/0370-2693(92)91258-B",,"hep-lat hep-th",,"  We investigate the phase structure of three-dimensional quantum gravity
+coupled to an Ising spin system by means of numerical simulations. The quantum
+gravity part is modelled by the summation over random simplicial manifolds, and
+the Ising spins are located in the center of the tetrahedra, which constitute
+the building blocks of the piecewise linear manifold. We find that the coupling
+between spin and geometry is weak away from the critical point of the Ising
+model. At the critical point there is clear coupling, which however does not
+seem to change the first order transition between the ``hot'' and ``cold''
+phase of three dimensional simplicial quantum gravity observed earlier.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 10:14:00 GMT""}]","2009-10-22"
+"hep-lat/9205022",,"J. Ambj{\o}rn, K. Farakos and M. E. Shaposhnikov","Parity breaking at high temperature and density","20 pages, 13 figures not included, sorry","Nucl.Phys. B393 (1993) 633-657","10.1016/0550-3213(93)90076-2","nbi-he-92-20, CERN-TH.6508/92","hep-lat",,"  We investigate the question of parity breaking in three-dimensional Euclidean
+SU(2) gauge-Higgs theory by Monte Carlo simulations. We observe no sign of
+spontaneous parity breaking in the behaviour of both local and non-local gauge
+invariant operators. However, the presence of parity odd terms in the action
+can induce a phase transition to a parity odd ground state which is
+characterized by a Chern-Simons like condensate. The implications for various
+proposed scenarios of fermion number non-conservation is discussed.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 10:35:00 GMT""}]","2009-10-22"
+"hep-lat/9205023","Istvan Montvay","Istvan Montvay","Mirror fermions in chiral gauge theories","12 pages","Nucl. Phys. Proc. Suppl. 29BC (1992) 159","10.1016/0920-5632(92)90017-M",,"hep-lat",,"  Mirror fermions appear naturally in lattice formulations of the standard
+model. The phenomenological limits on their existence and discovery limits at
+future colliders are discussed. After an introduction of lattice actions for
+chiral Yukawa-models, a recent numerical simulation is presented. In
+particular, the emerging phase structure and features of the allowed region in
+renormalized couplings are discussed.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 13:40:46 GMT""}]","2009-10-22"
+"hep-ph/9205232","Vidyut Jain","Vidyut Jain","Finite Temperature Scalar Potential from a 1/N Expansion","17","Nucl.Phys. B394 (1993) 707-727","10.1016/0550-3213(93)90228-H",,"hep-ph",,"  We compute the leading and next--to--leading corrections to the finite
+temperature scalar potential for a 3+1 dimensional $\phi^4$ theory using a
+systematic $1/N$ expansion. Our approach automatically avoids problems
+associated with infrared divergences in ordinary perturbation theory in
+$\hbar$. The leading order result does not admit a first order phase
+transition. The subleading result shows that the exact theory can admit at best
+only a very weak first order phase transition. For $N=4$ and weak scalar
+coupling we find that $T_1$, the temperature at which tunneling from the origin
+may begin in the case of a first order transition, must be less than about 0.5
+percent larger than $T_2$, the temperature at which the origin changes from
+being a local minimum to being a local maximum. We compare our results to the
+effective potential found from a sum of daisy graphs.
+","[{""version"":""v1"",""created"":""Mon, 25 May 1992 16:31:48 GMT""}]","2009-10-22"
+"hep-ph/9205233",,"Willy Fischler, Sonia Paban, and Scott Thomas","Bounds on Microscopic Physics from P and T Violation in Atoms and
+  Molecules","18 pages, 6 figures (not included), Latex file, preprint UTTG-06-92","Phys.Lett.B289:373-380,1992","10.1016/0370-2693(92)91234-Z",,"hep-ph",,"  Atomic and molecular electric dipole moments are calculated within the
+minimal supersymmetric standard model. Present experiments already provide
+strong bounds on the combination of phases responsible for the dipole moments
+of the neutron and closed shell atoms. For a supersymmetry breaking scale of
+100 GeV, these phases must be smaller than $ \sim 10^{-2}$.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 06:24:59 GMT""}]","2010-11-01"
+"hep-ph/9205234",,"L.E. Ib\'a\~nez","Computing the Weak Mixing Angle from Anomaly Cancellation","17.p","Phys.Lett. B303 (1993) 55-62","10.1016/0370-2693(93)90043-H","CERN-TH-6501","hep-ph",,"  I remark that the weak mixing angle in the standard model may be computed
+even in the absence of a grand unification symmetry. In particular, if there is
+an additional gauged $U(1)$ symmetry at some large scale which can be made
+anomaly-free only by a Green-Schwarz (GS) mechanism, this typically results in
+a prediction for the weak angle. In the case of the standard model one can see
+that the standard Peccei-Quinn symmetry may be gauged and the anomalies
+cancelled through a GS mechanism. Remarkably enough, cancelation of anomalies
+works only for the `canonical' value $sin^2\theta _W=3/8$. In the case of the
+supersymmetric standard model one can also find $U(1)$ currents which may be
+made anomaly-free through a GS but the canonical value is only obtained in the
+absence of any Higgs multiplet. If the analysis is extended to include $U(1)$
+R-symmetries, there is a unique class of $U(1)$s which give rise to the
+canonical value. The R-symmetry is only anomaly-free for $sin^2\theta
+_W=(4N_g-3)/(10N_g-3N_D-3)$, where $N_g,N_D$ are the number of generations and
+Higgs pairs. The natural context in which the above scenario may naturally
+arise is string theory. I also emphasize other interesting possibilities
+offered by the GS mechanism to model-building.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 08:29:53 GMT""}]","2016-09-01"
+"hep-ph/9205235","Peter Landshoff","P V Landshoff and A Rebhan","Covariant gauges at finite temperature","11 pages plus pictex figures (the leading-temperature contributions
+  given in sect 3.1 were incomplete) CERN-TH-6491/92, published in Nucl Phys
+  B383 (1992) 607","Nucl.Phys. B383 (1992) 607-621; Erratum-ibid. B406 (1993) 517","10.1016/0550-3213(92)90089-T",,"hep-ph",,"  A prescription is presented for real-time finite-temperature perturbation
+theory in covariant gauges, in which only the two physical degrees of freedom
+of the gauge-field propagator acquire thermal parts. The propagators for the
+unphysical degrees of freedom of the gauge field, and for the Faddeev-Popov
+ghost field, are independent of temperature. This prescription is applied to
+the calculation of the one-loop gluon self-energy and the two-loop interaction
+pressure, and is found to be simpler to use than the conventional one.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 12:50:23 GMT""},{""version"":""v2"",""created"":""Fri, 18 Jun 1993 13:58:12 GMT""}]","2009-10-22"
+"hep-th/9205083",,"HoSeong La","Solitons reduced from Heterotic fivebranes","14 pages",,,"CTP-TAMU-36/92","hep-th",,"  In view of the expectation that the solitonic sector of the lower dimensional
+world may be originated from the solitonic sector of string theory, various
+solitonic solutions are reduced from the heterotic fivebrane solutions in the
+ten-dimensional heterotic string theory. These solitons in principle can appear
+after proper compactifications, {\it e.g.} toroidal compactifications.
+","[{""version"":""v1"",""created"":""Mon, 25 May 1992 16:48:01 GMT""}]","2007-05-23"
+"hep-th/9205084",,"Hidenori Sonoda","Operator Coefficients for Composite Operators in the $(\phi^4)_4$ Theory","32 pages, UCLA/92/TEP/15","Nucl.Phys. B394 (1993) 302-338","10.1016/0550-3213(93)90017-J",,"hep-th",,"  In a previous paper we derived a relation between the operator product
+coefficients and anomalous dimensions. We explore this relation in the
+$(\phi^4)_4$ theory and compute the coefficient functions in the products of
+$\phi^2$ and $\phi^4$ to first order in the parameter $\lambda$. The
+calculation results in two-loop beta functions.
+","[{""version"":""v1"",""created"":""Mon, 25 May 1992 18:17:20 GMT""}]","2009-10-22"
+"hep-th/9205085",,"Hidenori Sonoda","Composite Operators in QCD","26 pages","Nucl.Phys. B383 (1992) 173-196","10.1016/0550-3213(92)90675-2","UCLA/91/TEP/47 (revised)","hep-th",,"  We give a formula for the derivatives of a correlation function of composite
+operators with respect to the parameters (i.e., the strong fine structure
+constant and the quark mass) of QCD in four-dimensional euclidean space. The
+formula is given as spatial integration of the operator conjugate to a
+parameter. The operator product of a composite operator and a conjugate
+operator has an unintegrable part, and the formula requires divergent
+subtractions. By imposing consistency conditions we derive a relation between
+the anomalous dimensions of the composite operators and the unintegrable part
+of the operator product coefficients.
+","[{""version"":""v1"",""created"":""Mon, 25 May 1992 18:43:22 GMT""}]","2009-10-22"
+"hep-th/9205086",,"Stephane Durand","Fractional Superspace Formulation of Generalized Super-Virasoro Algebras","9 pages, McGill/92-30 (small corrections and elimination of the
+  parameter ""alpha"")","Mod.Phys.Lett. A7 (1992) 2905-2912","10.1142/S0217732392002275",,"hep-th",,"  We present a fractional superspace formulation of the centerless
+parasuper-Viraso-ro and fractional super-Virasoro algebras. These are two
+different generalizations of the ordinary super-Virasoro algebra generated by
+the infinitesimal diffeomorphisms of the superline. We work on the fractional
+superline parametrized by $t$ and $\theta$, with $t$ a real coordinate and
+$\theta$ a paragrassmann variable of order $M$ and canonical dimension $1/F$.
+We further describe a more general structure labelled by $M$ and $F$ with
+$M\geq F$. The case $F=2$ corresponds to the parasuper-Virasoro algebra of
+order $M$, while the case $F=M$ leads to the fractional super-Virasoro algebra
+of order $F$. The ordinary super-Virasoro algebra is recovered at $F=M=2$. The
+connection with $q$-oscillator algebras is discussed.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 02:33:49 GMT""},{""version"":""v2"",""created"":""Fri, 26 Jun 1992 02:05:16 GMT""}]","2009-10-22"
+"hep-th/9205087","Tsuneo Uematsu","Tatsuo Kobayashi and Tsuneo Uematsu","Differential Calculus on the Quantum Superspace and Deformation of Phase
+  Space","17 pages, KUCP-47","Z.Phys. C56 (1992) 193-200","10.1007/BF01555514",,"hep-th",,"  We investigate non-commutative differential calculus on the supersymmetric
+version of quantum space where the non-commuting super-coordinates consist of
+bosonic as well as fermionic (Grassmann) coordinates. Multi-parametric quantum
+deformation of the general linear supergroup, $GL_q(m|n)$, is studied and the
+explicit form for the ${\hat R}$-matrix, which is the solution of the
+Yang-Baxter equation, is presented. We derive the quantum-matrix commutation
+relation of $GL_q(m|n)$ and the quantum superdeterminant. We apply these
+results for the $GL_q(m|n)$ to the deformed phase-space of supercoordinates and
+their momenta, from which we construct the ${\hat R}$-matrix of q-deformed
+orthosymplectic group $OSp_q(2n|2m)$ and calculate its ${\hat R}$-matrix. Some
+detailed argument for quantum super-Clifford algebras and the explict
+expression of the ${\hat R}$-matrix will be presented for the case of
+$OSp_q(2|2)$.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 02:33:58 GMT""}]","2009-10-22"
+"hep-th/9205088","Albert Schwarz","Albert Schwarz","Geometry of Batalin-Vilkovisky quantization","13 pages","Commun.Math.Phys. 155 (1993) 249-260","10.1007/BF02097392",,"hep-th",,"  The present paper is devoted to the study of geometry of Batalin-Vilkovisky
+quantization procedure. The main mathematical objects under consideration are
+P-manifolds and SP-manifolds (supermanifolds provided with an odd symplectic
+structure and, in the case of SP-manifolds, with a volume element). The
+Batalin-Vilkovisky procedure leads to consideration of integrals of the
+superharmonic functions over Lagrangian submanifolds. The choice of Lagrangian
+submanifold can be interpreted as a choice of gauge condition; Batalin and
+Vilkovisky proved that in some sense their procedure is gauge independent. We
+prove much more general theorem of the same kind. This theorem leads to a
+conjecture that one can modify the quantization procedure in such a way as to
+avoid the use of the notion of Lagrangian submanifold. In the next paper we
+will show that this is really so at least in the semiclassical approximation.
+Namely the physical quantities can be expressed as integrals over some set of
+critical points of solution S to the master equation with the integrand
+expressed in terms of Reidemeister torsion. This leads to a simplification of
+quantization procedure and to the possibility to get rigorous results also in
+the infinite-dimensional case. The present paper contains also a compete
+classification of P-manifolds and SP-manifolds. The classification is
+interesting by itself, but in this paper it plays also a role of an important
+tool in the proof of other results.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 04:47:30 GMT""}]","2009-10-22"
+"hep-th/9205090","Hiroshi Ooguri","Hirosi Ooguri","Topological Lattice Models in Four Dimensions","14 pages","Mod.Phys.Lett.A7:2799-2810,1992","10.1142/S0217732392004171","RIMS-878","hep-th hep-lat",,"  We define a lattice statistical model on a triangulated manifold in four
+dimensions associated to a group $G$. When $G=SU(2)$, the statistical weight is
+constructed from the $15j$-symbol as well as the $6j$-symbol for recombination
+of angular momenta, and the model may be regarded as the four-dimensional
+version of the Ponzano-Regge model. We show that the partition function of the
+model is invariant under the Alexander moves of the simplicial complex, thus it
+depends only on the piecewise linear topology of the manifold. For an
+orientable manifold, the model is related to the so-called $BF$ model. The
+$q$-analogue of the model is also constructed, and it is argued that its
+partition function is invariant under the Alexander moves. It is discussed how
+to realize the 't Hooft operator in these models associated to a closed surface
+in four dimensions as well as the Wilson operator associated to a closed loop.
+Correlation functions of these operators in the $q$-deformed version of the
+model would define a new type of invariants of knots and links in four
+dimensions.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 14:07:00 GMT""}]","2009-09-17"
+"hep-th/9205092","Barnich Glenn","Marc Henneaux, Claudio Teitelboim, J. David Vergara","Gauge Invariance for Generally Covariant Systems","41 pages, ULB-PMIF-92-03","Nucl.Phys. B387 (1992) 391-418","10.1016/0550-3213(92)90166-9",,"hep-th",,"  Previous analyses on the gauge invariance of the action for a generally
+covariant system are generalized. It is shown that if the action principle is
+properly improved, there is as much gauge freedom at the endpoints for an
+arbitrary gauge system as there is for a system with ``internal'' gauge
+symmetries. The key point is to correctly identify the boundary conditions for
+the allowed histories and to include the appropriate end-point contribution in
+the action. The path integral is then discussed. It is proved that by employing
+the improved action, one can use time-independent canonical gauges even in the
+case of generally covariant theories. From the point of view of the action and
+the path integral, there is thus no conceptual difference between general
+covariance and ``ordinary gauge invariance''. The discussion is illustrated in
+the case of the point particle, for which various canonical gauges are
+considered.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 11:11:25 GMT""}]","2009-10-22"
+"hep-th/9205093","Gustav Delius","G.W. Delius, M.T. Grisaru and P. van Nieuwenhuizen","Induced (N,0) supergravity as a constrained Osp(N,2) WZWN model and its
+  effective action","23p","Nucl.Phys. B389 (1993) 25-52","10.1016/0550-3213(93)90284-V",,"hep-th",,"  A chiral $(N,0) $ supergravity theory in d=2 dimensions for any $N$ and its
+induced action can be obtained by constraining the currents of an Osp(N$|$2)
+WZWN model. The underlying symmetry algebras are the nonlinear SO(N)
+superconformal algebras of Knizhnik and Bershadsky. The case $N=3$ is worked
+out in detail. We show that by adding quantum corrections to the classical
+transformation rules, the gauge algebra on gauge fields and currents closes.
+Integrability conditions on Ward identities are derived. The effective action
+is computed at one loop. It is finite, and can be obtained from the induced
+action by rescaling the central charge and fields by finite Z factors.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 14:18:43 GMT""}]","2009-10-22"
+"hep-th/9205094","James T. Liu","L. Dolan and James T. Liu","Running Gauge Couplings and Thresholds in the Type II Superstring","12 pages, IFP-432-UNC","Nucl.Phys.B387:86-96,1992","10.1016/0550-3213(92)90047-F",,"hep-th",,"  A distinctive feature of string unification is the possibility of unification
+by a non-simply-laced group. This occurs most naturally in four dimensional
+type~II string models where the gauge symmetry is realized by Kac-Moody
+algebras at different levels. We investigate the running coupling constants and
+the one-loop thresholds for such general models. As a specific case, we examine
+a $\rm SU(3)\times U(1)\times U(1)$ model and find that the threshold
+corrections lead to a small $6\%$ increase in the unification scale.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 15:54:56 GMT""}]","2010-11-15"
+"hep-th/9205106","Leonid O. Chekhov","L.Chekhov","Matrix Model for Discretized Moduli Space",,,"10.1016/0393-0440(93)90031-9",,"hep-th",,"  We study the algebraic geometrical background of the Penner--Kontsevich
+matrix model with the potential $N\alpha \tr {\bigl(- \fr 12 \L X\L X +\log
+(1-X)+X\bigr)}$. We show that this model describes intersection indices of
+linear bundles on the discretized moduli space right in the same fashion as the
+Kontsevich model is related to intersection indices (cohomological classes) on
+the Riemann surfaces of arbitrary genera. The special role of the logarithmic
+potential originated from the Penner matrix model is demonstrated. The boundary
+effects which was unessential in the case of the Kontsevich model are now
+relevant, and intersection indices on the discretized moduli space of genus $g$
+are expressed through Kontsevich's indices of the genus $g$ and of the lower
+genera.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 09:57:58 GMT""}]","2009-10-22"

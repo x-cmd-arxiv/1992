@@ -1,0 +1,113 @@
+"astro-ph/9206004","Phil Fischer","Philippe Fischer, Douglas L. Welch, and Mario Mateo","Dynamics of the Intermediate-Age Elliptical LMC Cluster NGC 1978","36 pages (plus 8 figures available through anonymous FTP, see below)","Astron.J. 104 (1992) 1086-1099","10.1086/116299",,"astro-ph",,"  In this paper we investigate the internal dynamics of the LMC cluster NGC
+1978 through the use of Photometric (CCD images) and kinematic (stellar radial
+velocities) data. We apply a variety of dynamical models to this data,
+including multi-mass King-Michie models and rotating and non-rotating oblate
+spheroid models. We discuss the cluster mass-to-light ratio and place
+constraints on the cluster mass function.
+","[{""version"":""v1"",""created"":""Tue, 23 Jun 1992 02:07:27 GMT""}]","2009-10-22"
+"hep-lat/9206017","Carleton DeTar","Jing-Dong Wang and Carleton DeTar","Tunneling and the Spectrum of the Potts Model","26 pages plus 13 Postscript figures (Axis versions also provided),
+  UU-HEP-92/4","Phys.Rev.D47:4091-4101,1993","10.1103/PhysRevD.47.4091",,"hep-lat",,"  The three-dimensional, three-state Potts model is studied as a paradigm for
+high temperature quantum chromodynamics. In a high statistics numerical
+simulation using a Swendson-Wang algorithm, we study cubic lattices of
+dimension as large as $64^3$ and measure correlation functions on long lattices
+of dimension $20^2\times 120$ and $30^2\times 120$. These correlations are
+controlled by the spectrum of the transfer matrix. This spectrum is studied in
+the vicinity of the phase transition. The analysis classifies the spectral
+levels according to an underlying $S_3$ symmetry. Near the phase transition the
+spectrum agrees nicely with a simple four-component hamiltonian model. In the
+context of this model, we find that low temperature ordered-ordered interfaces
+nearly always involve a disordered phase intermediate. We present a new
+spectral method for determining the surface tension between phases.
+","[{""version"":""v1"",""created"":""Mon, 22 Jun 1992 19:39:22 GMT""}]","2008-11-26"
+"hep-lat/9206018","Maria-Paola Lombardo","A.Kocic, J.B. Kogut, M.-P. Lombardo and K.C. Wang","Spectroscopy, Scaling and Critical Indices in Strongly Coupled Quenched
+  QED","29 pages, 16 figures available as ps files by request.
+  ILL-(TH)-92-#12 CERN-TH.6542/92","Nucl.Phys. B397 (1993) 451-478","10.1016/0550-3213(93)90351-O",,"hep-lat hep-ph",,"  The interplay of spectroscopy, scaling laws and critical indices is studied
+in strongly coupled quenched QED. Interpreted as a model of technicolor having
+strong interactions at short distances, we predict the techni-meson mass
+spectrum in a simplified model of a dynamically generated top quark mass $M_f$.
+Our results support the strict inequality that the techni-sigma mass $M_\sigma$
+is less than twice the dynamical quark mass $M_f$, and confirm that the
+techni-pion is a Nambu-Goldstone boson. The level ordering $0 = M_\pi <
+M_\sigma < 2M_f < M_\rho < M_{a1} $ is found.An equation of state, and scaling
+laws are derived for the techni-meson masses by exploiting correlation length
+scaling. The resulting universality relations are confirmed by simulations on
+$16^4$, $32\times 16^3$ and $32^4$ lattices. The anomalous dimension $\eta$ is
+measured to be approximatively $0.50$ in good agreement with past lattice
+simulations and hyperscaling relations, as well as with the analytic solution
+of the quenched, planar gauged Nambu-Jona Lasinio model solved by continuum
+Schwinger-Dyson equation techniques.
+","[{""version"":""v1"",""created"":""Mon, 22 Jun 1992 23:09:32 GMT""}]","2009-10-22"
+"hep-ph/9206241",,"Adam F. Falk and Michael Luke","Strong Decays of Excited Heavy Mesons In Chiral Perturbation Theory","(14 pages, 2 figures available from the authors, harvmac.tex
+  required), SLAC-PUB-5812, UCSD/PTH 92-14","Phys.Lett.B292:119-127,1992","10.1016/0370-2693(92)90618-E",,"hep-ph",,"  We construct an effective Lagrangian describing the interaction of soft pions
+and kaons with mesons containing a heavy quark and light degrees of freedom in
+an orbital $p$ wave. The formalism is easily extended to heavy mesons and
+baryons in arbitrary excited states. We calculate the leading contributions to
+the strong decays $\dtwo\to\d\pi$, $\dtwo\to\dstar\pi$ and $\done\to\dstar\pi$.
+We confirm the relations between the rates previously obtained by Isgur and
+Wise using heavy quark symmetry, and find that the absolute widths are
+consistent with na\""\i ve power counting. We also estimate the branching ratios
+for the two pion decays $\dtwo\to\dstar\pi\pi$, $\done\to\dstar\pi\pi$ and
+$\done\to\d\pi\pi$, which are dominated by pole graphs. Our predictions depend
+on the masses and widths of the as yet unseen scalar-pseudovector $p$-wave
+doublet. Heavy quark spin symmetry predicts $\Gamma(\dtwo\to\dstar\pi\pi):
+\Gamma(\done\to\dstar\pi\pi):\Gamma(\done\to\d\pi\pi)=3:1:2$, but this relation
+is badly violated in practice because $1/M$ effects arising purely from
+kinematics are large.
+","[{""version"":""v1"",""created"":""Mon, 22 Jun 1992 18:46:00 GMT""}]","2010-11-01"
+"hep-ph/9206242","Vicente Pleitez","F. Pisano and V. Pleitez","$SU(3)\otimes U(1)$ Model for Electroweak Interactions","22 pages, 4 figures (available from authors), preprint IFT-P.008/92
+  use revtex","Phys.Rev.D46:410-417,1992","10.1103/PhysRevD.46.410",,"hep-ph",,"  We consider a gauge model based on $SU(3)\otimes U(1)$ symmetry in which the
+lepton number is violated explicitly by charged scalar and gauge bosons,
+including a vector field with double electric charge.
+  Although there exist in the literature several models based on a
+$SU(3)\otimes U(1)$ gauge symmetry, our model has a different representation
+content and a quite different new physics at an, in principle, arbitrary mass
+scale.
+  This is possibly the simplest way to enlarge the gauge group $SU_L(2)\otimes
+U_Y(1)$ in order to have doubly charged gauge bosons, without losing the
+natural features of the standard electroweak model. The price we must pay is
+the introduction of exotic quarks, with electric charge $5/3$ and $-4/3$.
+  A previous version of the model was considered several months ago concerning
+the possibility that in this kind of models neutrinoless double beta decay
+proceeds even for massless neutrinos and with scalar exchange instead of vector
+exchange.
+  Our work is in press in Physical Review D.
+","[{""version"":""v1"",""created"":""Mon, 22 Jun 1992 20:47:26 GMT""}]","2009-07-28"
+"hep-ph/9206243","D. Brahm","David E. Brahm","Complex Effective Potentials and Critical Bubbles","5 pages, jyTeX, 2 figures not included, CALT-68-1797",,,,"hep-ph",,"  The Higgs contribution to the effective potential appears to be complex. How
+do we interpret this, and how should we modify the calculation to calculate
+physical quantities such as the critical bubble free energy?
+","[{""version"":""v1"",""created"":""Tue, 23 Jun 1992 01:29:49 GMT""}]","2007-05-23"
+"hep-ph/9206244","Daniel Ng","Jyoti Agrawal, Paul H. Frampton and Daniel Ng","Dilepton Production in $e^- p$ and $e^+ e^-$ Colliders","16 pages, 3 figures (not included), IFP-428-UNC","Nucl.Phys. B386 (1992) 267-279","10.1016/0550-3213(92)90567-U",,"hep-ph",,"  In an $e^- p$ collider, a striking signature for a dilepton gauge boson is
+\ep \ ; this cross-section is calculated by using the helicity amplitude
+technique. At HERA, with center-of-mass energy $\sqrt s = 314 GeV$, a dilepton
+mass above $150 GeV$ is inaccessible but at LEPII-LHC, with a center-of-mass
+energy $\sqrt s = 1790 GeV $, masses up to 650 GeV can be discovered. In an
+$e^+ e^-$ collider, the signature is \ee \ . The cross-sections of this process
+are also calculated for the center-of-mass energies $\sqrt s = 200, 500$ and
+$1000 GeV$.
+","[{""version"":""v1"",""created"":""Tue, 23 Jun 1992 14:04:15 GMT""}]","2009-10-22"
+"hep-ph/9206245","Greg Anderson","Greg W. Anderson","Remarks on the Electroweak Phase Transition","11",,,,"hep-ph",,"  In the standard scenario, the electroweak phase transition is a first order
+phase transition which completes by the nucleation of critical bubbles.
+Recently, there has been speculation that the standard picture of the
+electroweak phase transition is incorrect. Instead, it has been proposed that
+throughout the phase transition appreciable amounts of both broken and unbroken
+phases of $SU(2)$ coexist in equilibrium. I argue that this can not be the
+case. General principles insure that the universe will remain in a homogenous
+state of unbroken $SU(2)$ until the onset of critical bubble production.
+  In addition, an analytic treatment of the one Higgs doublet, electroweak
+phase transition in the standard model and minimal extensions is reviewed.
+Results from the thin wall approximation are compared to results obtained using
+the Lindes' action. Perhaps the most important quantitative result we can get
+from an analysis of the phase transition is determination of $\vevphi$ when the
+phase transition completes. For Higgs boson masses above the current
+experimental limit, the thin wall approximation determines the value of
+$\vevphi$ at the end of the phase transition to an accuracy of better than
+three percent.
+","[{""version"":""v1"",""created"":""Tue, 23 Jun 1992 15:16:00 GMT""}]","2007-05-23"
+"hep-th/9206082",,"J. A. Dixon","BRS Operators and Covariant Derivatives in Loop Space for P-Branes
+  Coupled to Yang-Mills","21 pages, CTP-TAMU-50/92","Nucl.Phys.B407:73-87,1993","10.1016/0550-3213(93)90274-S",,"hep-th",,"  Canonical forms are given for the nilpotent BRS operator $\d$ and the
+covariant `loop space' derivative ${\cal D}_{\m}$ for the p-brane fields for
+all odd p. The defining characteristic of ${\cal D}_{\m}$ is that it is a
+functional derivative operator which generalizes the ordinary functional
+derivative and also commutes with $\d$. Methods of construction for the
+canonical forms are discussed.
+","[{""version"":""v1"",""created"":""Mon, 22 Jun 1992 19:58:15 GMT""}]","2008-11-26"

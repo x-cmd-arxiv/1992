@@ -1,0 +1,38 @@
+"astro-ph/9206003",,"Jane H. MacGibbon (NASA/Goddard) and Robert H. Brandenberger (Brown)","Gamma Ray Signatures from Ordinary Cosmic Strings","BROWN-HET-765 (June 1992), 33 pages, 4 figures (available from
+  authors), use phyzzx","Phys.Rev. D47 (1993) 2283-2296","10.1103/PhysRevD.47.2283",,"astro-ph hep-ph",,"  We calculate the flux of ultra high energy photons from individual ordinary
+(i.e. non-superconducting) cosmic strings and compare the results with the
+sensitivity of current and proposed TeV and EeV telescopes. Our calculations
+give only upper limits for the gamma ray flux, since the source of the photons,
+jets from particle production at cusps, may be weakened by back reaction
+effects. For the usual cosmic distribution of strings, the predicted bursts
+from strings with the value of mass per unit length associated with galaxy
+formation or light strings may just be detectable. A diffuse gamma ray
+background from light strings may also be seen by the Fly's Eye detector at
+above $7 \times 10^{10}$ GeV.
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 16:41:23 GMT""}]","2009-10-22"
+"hep-ph/9206237","J. R. Cudell","J.R. Cudell and B. Margolis","Perturbative QCD Corrections to the Soft Pomeron","10 pages, McGill/92--24",,,,"hep-ph",,"  We study the interface between soft and hard QCD at high energy and small
+momentum transfer. At LHC and SSC energies, we find that a cutoff BFKL equation
+leads one to expect a measurable perturbative component in traditionally soft
+processes. We show that the total cross section could become as large as 175 mb
+(122 mb) and the rho parameter 0.40 (0.25) at the SSC (LHC).
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 19:28:25 GMT""}]","2007-05-23"
+"hep-ph/9206238",,"Alon E. Faraggi, Benjamin Grinstein and Sydney Meshkov","Comment On ``Grand Unification and Supersymmetric Threshold""","6 pages (revised)","Phys.Rev. D47 (1993) 5018-5020","10.1103/PhysRevD.47.5018",,"hep-ph",,"  Barbieri and Hall have argued that threshold effects at the scale of
+grand-unification wipe out predictions on the SUSY scale, M_S. Using triviality
+arguments we give upper bounds on ultraheavy particles, while proton stability
+gives lower bounds on the mass of the higgs color-triplet. We find no useful
+lower bound on the $\Sigma$ supermultiplet, but if the strong coupling constant
+is as large as recent experiments suggest, unification in the minimal SUSY
+SU(5) model requires that the $Sigma$ masses be $\sim 10^{-7}M_V$ and that the
+color octet and weak triplet be split in mass by a factor of $\sim$100.
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 19:48:14 GMT""},{""version"":""v2"",""created"":""Mon, 22 Jun 1992 20:00:00 GMT""},{""version"":""v3"",""created"":""Mon, 31 Aug 1992 21:22:27 GMT""}]","2009-10-22"
+"hep-th/9206079","Nemanja M. Kaloper","Nemanja Kaloper","Stringy Cosmic Strings and Axion Cohomology","22 pages (plain TeX), UMN-TH-1024/92","Phys.Rev. D47 (1993) 2403-2410","10.1103/PhysRevD.47.2403",,"hep-th",,"  The static stationary axially symmetric background (""infinite cosmic string"")
+of the $D=4$ string theory provided with an axion charge is studied in the
+effective theory approach. The most general exact solution is constructed. It
+is found that the Kalb-Ramond axion charge, present in the string topology
+$R^{3} \times S^{1}$, produces nontrivial gravitational field configurations
+which feature horizons. The corresponding ``no-hair'' theorems are proved which
+stress uniqueness of black strings. Connection of the solutions with the gauged
+WZWN sigma model constructions on the world sheet is discussed since they are
+the only target spaces which hide their singularities behind horizons, and thus
+obey the cosmic censorship conjecture.
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 19:00:15 GMT""}]","2009-10-22"

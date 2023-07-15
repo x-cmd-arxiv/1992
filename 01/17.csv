@@ -1,0 +1,20 @@
+"hep-th/9201033","Yuri Makeenko","L. Chekhov and Yu. Makeenko","The Multicritical Kontsevich-Penner Model","13 pages","Mod.Phys.Lett. A7 (1992) 1223-1236","10.1142/S0217732392003700",,"hep-th",,"  We consider the hermitian matrix model with an external field entering the
+quadratic term $\tr(\Lambda X\Lambda X)$ and Penner--like interaction term
+$\alpha N(\log(1+X)-X)$. An explicit solution in the leading order in $N$ is
+presented. The critical behaviour is given by the second derivative of the free
+energy in $\alpha$ which appears to be a pure logarithm, that is a feature of
+$c=1$ theories. Various critical regimes are possible, some of them corresponds
+to critical points of the usual Penner model, but there exists an infinite set
+of multi-critical points which differ by values of scaling dimensions of proper
+conformal operators. Their correlators with the puncture operator are given in
+genus zero by Legendre polynomials whose argument is determined by an analog of
+the string equation.
+","[{""version"":""v1"",""created"":""Thu, 16 Jan 1992 21:28:00 GMT""}]","2015-06-26"
+"hep-th/9201034","Ohta","Katsumi Itoh and Nobuyoshi Ohta","Spectrum of Two-Dimensional (Super)Gravity","34 pages","Prog.Theor.Phys.Suppl.110:97-116,1992","10.1143/PTPS.110.97",,"hep-th",,"  We review the BRST analysis of the system of a (super)conformal matter
+coupled to 2D (super)gravity. The spectrum and its operator realization are
+reported. In particular, the operators associated with the states of nonzero
+ghost number are given. We also discuss the ground ring structure of the
+super-Liouville coupled to ${\hat c}=1$ matter. In appendices, hermiticities,
+states for $c<1$ conformal matter coupled to gravity and the proof for the
+spectrum are discussed.
+","[{""version"":""v1"",""created"":""Fri, 17 Jan 1992 07:04:51 GMT""}]","2008-11-26"

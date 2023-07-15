@@ -1,0 +1,34 @@
+"hep-th/9202053",,"Abhay Ashtekar and C.J. Isham","Representations of the holonomy algebras of gravity and non-Abelian
+  gauge theories","44 pages","Class.Quant.Grav.9:1433-1468,1992","10.1088/0264-9381/9/6/004",,"hep-th",,"  Holonomy algebras arise naturally in the classical description of Yang-Mills
+fields and gravity, and it has been suggested, at a heuristic level, that they
+may also play an important role in a non-perturbative treatment of the quantum
+theory. The aim of this paper is to provide a mathematical basis for this
+proposal.
+  The quantum holonomy algebra is constructed, and, in the case of real
+connections, given the structure of a certain C-star algebra. A proper
+representation theory is then provided using the Gel'fand spectral theory. A
+corollory of these general results is a precise formulation of the ``loop
+transform'' proposed by Rovelli and Smolin. Several explicit representations of
+the holonomy algebra are constructed. The general theory developed here implies
+that the domain space of quantum states can always be taken to be the space of
+maximal ideals of the C-star algebra. The structure of this space is
+investigated and it is shown how observables labelled by ``strips'' arise
+naturally.
+","[{""version"":""v1"",""created"":""Sat, 15 Feb 1992 19:38:00 GMT""}]","2010-04-06"
+"hep-th/9202054",,"Abhay Ashtekar, Carlo Rovelli and Lee Smolin","Gravitons and Loops","40 pages","Phys.Rev.D44:1740-1755,1991","10.1103/PhysRevD.44.1740",,"hep-th",,"  The recently proposed loop representation, used previously to find exact
+solutions to the quantum constraints of general relativity, is here used to
+quantize linearized general relativity. The Fock space of graviton states and
+its associated algebra of observables are represented in terms of functionals
+of loops. The ``reality conditions'' are realized by an inner product that is
+chiral asymmetric, resulting in a chiral asymmetric ordering for the
+Hamiltonian and in an asymmetric description of the left and right handed
+gravitons. This chirally asymmetric formulation depends on a splitting of the
+linearized field into self-dual and anti-self dual parts rather than into
+positive and negative frequency parts; as the former, but not the latter, is
+meaningful away from flat backgrounds this is expected to be useful in
+connecting the nonperturbative theory to the linearized theory. The formalism
+depends on an arbitrary ``averaging'' function that controls certain
+divergences, but does not appear in the final physical quantities. Inspite of
+these somewhat unusual features, the loop quntization presented here is
+completely equivalent to the standard quantization of linearized gravity.
+","[{""version"":""v1"",""created"":""Sat, 15 Feb 1992 20:06:00 GMT""}]","2010-11-01"

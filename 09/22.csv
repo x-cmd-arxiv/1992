@@ -1,0 +1,174 @@
+"hep-lat/9209021","Marcus Speh","M. Baeker, T. Kalkreuter, G. Mack and M. Speh","Neural multigrid for gauge theories and other disordered systems","9 pages [2 figures appended in PostScript format], preprint DESY
+  92-126, Sept. 1992","Int.J.Mod.Phys.C4:239-247,1993","10.1142/S0129183193000252",,"hep-lat",,"  We present evidence that multigrid works for wave equations in disordered
+systems, e.g. in the presence of gauge fields, no matter how strong the
+disorder, but one needs to introduce a ""neural computations"" point of view into
+large scale simulations: First, the system must learn how to do the simulations
+efficiently, then do the simulation (fast).
+  The method can also be used to provide smooth interpolation kernels which are
+needed in multigrid Monte Carlo updates.
+","[{""version"":""v1"",""created"":""Mon, 21 Sep 1992 19:50:01 GMT""}]","2011-04-20"
+"hep-ph/9209262",,"H.Y. Cheng, C.Y. Cheung, G.L. Lin, Y.C. Lin, T.M. Yan, and H.L. Yu","Chiral Lagrangians for Radiative Decays of Heavy Hadrons","30 pages (one figure, available on request), CLNS 92/1158 and
+  IP-ASTP-13-92","Phys.Rev. D47 (1993) 1030-1042","10.1103/PhysRevD.47.1030",,"hep-ph",,"  The radiative decays of heavy mesons and heavy baryons are studied in a
+formalism which incorporates both the heavy quark symmetry and the chiral
+symmetry. The chiral Lagrangians for the electromagnetic interactions of heavy
+hadrons consist of two pieces: one from gauging electromagnetically the
+strong-interaction chiral Lagrangian, and the other from the anomalous magnetic
+moment interactions of the heavy baryons and mesons. Due to the heavy quark
+spin symmetry, the latter contains only one independent coupling constant in
+the meson sector and two in the baryon sector. These coupling constants only
+depend on the light quarks and can be calculated in the nonrelativistic quark
+model. However, the charm quark is not heavy enough and the contribution from
+its magnetic moment must be included. Applications to the radiative decays
+$D^\ast \rightarrow D \gamma~,~B^\ast \rightarrow B \gamma~,~ \Xi^\prime_c
+\rightarrow \Xi_c \gamma~, \Sigma_c \rightarrow \Lambda_c \gamma$ and $\Sigma_c
+\rightarrow \Lambda_c \pi \gamma$ are given. Together with our previous results
+on the strong decay rates of $D^\ast \rightarrow D \pi$ and $\Sigma_c
+\rightarrow \Lambda_c \pi$, predictions are obtained for the total widths and
+branching ratios of $D^\ast$ and $\Sigma_c$. The decays $\Sigma^+_c \rightarrow
+\Lambda^+_c \pi^0 \gamma $ and $\Sigma^0_c \rightarrow \Lambda^+_c \pi^- \gamma
+$ are discussed to illustrate the important roles played by both the heavy
+quark symmetry and the chiral symmetry.
+","[{""version"":""v1"",""created"":""Mon, 21 Sep 1992 19:04:00 GMT""}]","2009-10-22"
+"hep-ph/9209263","Jim Amundson","James F. Amundson and Jonathan L. Rosner","Heavy Quark Symmetry Violation in Semileptonic Decays of D Mesons","25 pages (LaTeX) + 7 pages of Postscript figures (included at end),
+  EFI-92-36","Phys.Rev. D47 (1993) 1951-1963","10.1103/PhysRevD.47.1951",,"hep-ph",,"  The decays of $D$ mesons to $K l \nu$ and $K^* l \nu$ final states exhibit
+significant deviations from the predictions of heavy-quark symmetry, as one
+might expect since the strange quark's mass is of the same order as the QCD
+scale. Nonetheless, in order to understand where the most significant effects
+might lie for heavier systems (such as $B \to D l\nu$ and $B \to D^* l\nu$),
+the pattern of these deviations is analyzed from the standpoint of perturbative
+QCD and ${\cal O}(1/m_s)$ corrections. Two main effects are noted. First, the
+perturbative QCD corrections lead to an overall decrease of predicted rates,
+which can be understood in terms of production of excited kaonic states.
+Second, ${\cal O}(1/m_s)$ effects tend to cancel the perturbative QCD
+corrections in the case of $Kl\nu$ decay, while they have minimal effect in
+$K^*l\nu$ decay.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 03:28:23 GMT""}]","2009-10-22"
+"hep-th/9209073",,"Lev Rozansky, Herbert Saleur","Reidemeister torsion, the Alexander polynomial and $U(1,1)$ Chern-Simons
+  theory","21 pages, no figures","J.Geom.Phys.13:105-123,1994","10.1016/0393-0440(94)90022-1",,"hep-th math.QA",,"  We show that the $U(1,1)$ (super) Chern Simons theory is one loop exact. This
+provides a direct proof of the relation between the Alexander polynomial and
+analytic and Reidemeister torsion. We then proceed to compute explicitely the
+torsions of Lens spaces and Seifert manifolds using surgery and the $S$ and $T$
+matrices of the $U(1,1)$ Wess Zumino Witten model recently determined, with
+complete agreement with known results. $U(1,1)$ quantum field theories and the
+Alexander polynomial provide thus ""toy"" models with a non trivial topological
+content, where all ideas put forward by Witten for $SU(2)$ and the Jones
+polynomial can be explicitely checked, at finite $k$. Some simple but
+presumably generic aspects of non compact groups, like the modified relation
+between Chern Simons and Wess Zumino Witten theories, are also illustrated. We
+comment on the closely related case of $GL(1,1)$.
+","[{""version"":""v1"",""created"":""Mon, 21 Sep 1992 16:37:35 GMT""}]","2014-11-18"
+"hep-th/9209074","Misha Dobroliubov","A. Morozov","Pair Correlator in the Itzykson-Zuber Integral","ITEP-M10/92, LATEX file, 5p (minor misprints removed and an updated
+  reference added)","Mod. Phys. Lett. A7 (1992) 3503-3508","10.1142/S0217732392002913",,"hep-th",,"  An explicit expression is suggested for the average
+$<U_{ij}U_{kl}^{\dagger}>$ over the unitary group $SU(N)$ with the
+Itzykson-Zuber measure $[dU] \exp {\rm tr} \Phi U\Psi U^{\dagger}$
+","[{""version"":""v1"",""created"":""Mon, 21 Sep 1992 18:39:00 GMT""},{""version"":""v2"",""created"":""Thu, 24 Sep 1992 02:20:00 GMT""}]","2009-10-22"
+"hep-th/9209075",,"Alex Deckmyn","On the generalized Miura transformation","14 pages, LATEX, Preprint KUL-TF-92-33","Phys.Lett.B298:318-328,1993","10.1016/0370-2693(93)91827-A",,"hep-th",,"  By generalizing the Miura transformation for $\Ww_N$ to other classical $\Ww$
+algebras obtained by hamiltonian reduction, we find realisations of these
+algebras in terms of relatively simple non-abelian current algebras, e.g.
+$\widehat{sl(2)}\times \widehat{u(1)}^N$, generalizing the free field
+realisation of $\Ww_N$. As an example, we present the $\widehat{sl(2)}\times
+\widehat{u(1)}$ realisation of $\Ww_3^2$, which we also quantize. By a specific
+example, we also show how the realisation of $\Ww_N$ with the currents of
+$\Ww_{N-1}$ and a free boson can be generalized to certain classes of
+``extended'' $\Ww_N$ algebras.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 09:31:18 GMT""}]","2011-07-19"
+"hep-th/9209076",,"Fernando Falceto and Krzysztof Gawedzki","Lattice Wess-Zumino-Witten Model and Quantum Groups","28 pages, omitted % added, LATEX file, IHES/P/92/73","J.Geom.Phys. 11 (1993) 251-279","10.1016/0393-0440(93)90056-K",,"hep-th",,"  Quantum groups play a role of symmetries of integrable theories in two
+dimensions. They may be detected on the classical level as Poisson-Lie
+symmetries of the corresponding phase spaces. We discuss specifically the
+Wess-Zumino-Witten conformally invariant quantum field model combining two
+chiral parts which describe the left- and right-moving degrees of freedom. On
+one hand side, the quantum group plays the role of the symmetry of the chiral
+components of the theory. On the other hand, the model admits a lattice
+regularization (in the Minkowski space) in which the current algebra symmetry
+of the theory also becomes quantum, providing the simplest example of a quantum
+group symmetry coupling space-time and internal degrees of freedom. We develop
+a free field approach to the representation theory of the lattice $sl(2)$-based
+current algebra and show how to use it to rigorously construct an exact
+solution of the quantum $SL(2)$ WZW model on lattice.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 12:24:35 GMT""},{""version"":""v2"",""created"":""Thu, 24 Sep 1992 08:44:56 GMT""}]","2009-10-22"
+"hep-th/9209077",,"A.Turbiner","On polynomial solutions of differential equations","12pp","J.Math.Phys. 33 (1992) 3989-3993","10.1063/1.529848","CPT-91/P.2628","hep-th alg-geom funct-an math.AG math.FA",,"  A general method of obtaining linear differential equations having polynomial
+solutions is proposed. The method is based on an equivalence of the spectral
+problem for an element of the universal enveloping algebra of some Lie algebra
+in the ""projectivized"" representation possessing an invariant subspace and the
+spectral problem for a certain linear differential operator with variable
+coefficients. It is shown in general that polynomial solutions of partial
+differential equations occur; in the case of Lie superalgebras there are
+polynomial solutions of some matrix differential equations, quantum algebras
+give rise to polynomial solutions of finite--difference equations.
+Particularly, known classical orthogonal polynomials will appear when
+considering $SL(2,{\bf R})$ acting on ${\bf RP_1}$. As examples, some
+polynomials connected to projectivized representations of $sl_2 ({\bf R})$,
+$sl_2 ({\bf R})_q$, $osp(2,2)$ and $so_3$ are briefly discussed.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 13:34:04 GMT""}]","2009-10-22"
+"hep-th/9209079",,"Alexander Turbiner","Lie-algebraic approach to the theory of polynomial solutions. I.
+  Ordinary differential equations and finite-difference equations in one
+  variable","19pp",,,"CPT-92/P.2679","hep-th alg-geom funct-an math.AG math.FA",,"  A classification of ordinary differential equations and finite-difference
+equations in one variable having polynomial solutions (the generalized Bochner
+problem) is given. The method used is based on the spectral problem for a
+polynomial element of the universal enveloping algebra of $sl_2({\bf R})$ (for
+differential equations) or $sl_2({\bf R})_q$ (for finite-difference equations)
+in the ""projectivized"" representation possessing an invariant subspace.
+Connection to the recently-discovered quasi-exactly-solvable problems is
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 14:39:12 GMT""}]","2008-02-03"
+"hep-th/9209080",,"Alexander Turbiner","Lie-algebraic approach to the theory of polynomial solutions. II.
+  Differential equations in one real and one Grassmann variables and 2x2 matrix
+  differential equations","24pp",,,"ETH-TH/92-21, CPT-92/P.2708","hep-th alg-geom funct-an math.AG math.FA",,"  A classification theorem for linear differential equations in two variables
+(one real and one Grassmann) having polynomial solutions(the generalized
+Bochner problem) is given. The main result is based on the consideration of the
+eigenvalue problem for a polynomial element of the universal enveloping algebra
+of the algebra $osp(2,2)$ in the ""projectivized"" representation (in
+differential operators of the first order) possessing an invariant subspace. A
+classification of 2 x 2 matrix differential equations in one real variable
+possessing polynomial solutions is described. Connection to the
+recently-discovered quasi-exactly-solvable problems is discussed.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 14:46:42 GMT""}]","2008-02-03"
+"hep-th/9209081","Ramy Brustein","R. Brustein and B. Ovrut","Non-Perturbative Effects in 2-D String Theory or Beyond the Liouville
+  Wall","44 pages, 9 figures available as eps files on request","Int.J.Mod.Phys. A12 (1997) 3477-3515","10.1142/S0217751X9700181X","UPR-523T","hep-th",,"  We discuss continuous and discrete sectors in the collective field theory of
+$d=1$ matrix models. A canonical Lorentz invariant field theory extension of
+collective field theory is presented and its classical solutions in Euclidean
+and Minkowski space are found. We show that the discrete, low density, sector
+of collective field theory includes single eigenvalue Euclidean instantons
+which tunnel between different vacua of the extended theory. We further show
+that these ``stringy"" instantons induce non-perturbative effective operators of
+strength $e^{-{1\over g}}$ in the extended theory. The relationship of the
+world sheet description of string theory and Liouville theory to the effective
+space-time theory is explained. We also comment on the role of the discrete,
+low density, sector of collective field theory in that framework.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 15:47:11 GMT""}]","2015-06-26"
+"hep-th/9209082",,"Alexander Turbiner","Lie-algebraic approach to the theory of polynomial solutions. III.
+  Differential equations in two real variables and general outlook","28pp",,,"ETH-TH/92-34","hep-th alg-geom funct-an math.AG math.FA",,"  Classification theorems for linear differential equations in two real
+variables, possessing eigenfunctions in the form of the polynomials (the
+generalized Bochner problem) are given. The main result is based on the
+consideration of the eigenvalue problem for a polynomial elements of the
+universal enveloping algebras of the algebras
+  $sl_3({\bf R})$, $sl_2({\bf R})\oplus sl_2({\bf R})$
+  and
+  $gl_2 ({\bf R})\ \triangleright\!\!\!< {\bf R}^{r+1}\ , r>0$
+  taken in the ""projectivized"" representations (in differential operators of
+the first order in two real variables) possessing an invariant subspace.
+General insight to the problem of a description of linear differential
+operators possessing an invariant sub-space with a basis in polynomials is
+presented. Connection to the recently-discovered quasi-exactly-solvable
+problems is discussed.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 14:56:53 GMT""}]","2016-09-06"
+"hep-th/9209083","Samson Shatashvili","Samson L. Shatashvili","Correlation Functions in The Itzykson-Zuber Model","13p., corrected TEX version, Preprint IASSNS-HEP-92/61","Commun.Math.Phys. 154 (1993) 421-432","10.1007/BF02097004",,"hep-th",,"  The n-point function for the integral over unitary matrices with
+Itzykson-Zuber measure is reduced to the integral over Gelfand-Tzetlin table;
+integrand (for generic n) is given by linear exponential times rational
+function. For $n=2$ and in some cases for $n>2$ later in fact is the polinomial
+and this allows to give an explicit and simple expression for all 2-point and a
+set of n-point functions. For the most general n-point function a simple linear
+differential equation is constructed.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 15:17:26 GMT""},{""version"":""v2"",""created"":""Sat, 26 Sep 1992 02:07:55 GMT""}]","2009-10-22"
+"hep-th/9209086","Alberto Vazquez Saa","D.M.Gitman and A.V.Saa","Quantization of Spinning Particle with Anomalous Magnetic Momentum","21 pages, IFUSP/P-1008","Class.Quant.Grav.10:1447-1460,1993","10.1088/0264-9381/10/8/007",,"hep-th",,"  A generalization of the pseudoclassical action of a spinning particle in the
+presence of an anomalous magnetic moment is given. The leading considerations,
+to write the action, are gotten from the path integral representation for the
+causal Green's function of the generalized (by Pauli) Dirac equation for the
+particle with anomalous magnetic momentum in an external electromagnetic field.
+The action can be written in reparametrization and supergauge invariant form.
+Both operator (Dirac) and path-integral (BFV) quantization are discussed. The
+first one leads to the Dirac-Pauli equation, whereas the second one gives the
+corresponding propagator. One of the nontrivial points in this case is that
+both quantizations schemes demand for consistency to take into account an
+operators ordering problem.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 14:53:00 GMT""}]","2010-04-06"

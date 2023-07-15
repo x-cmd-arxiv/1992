@@ -1,0 +1,49 @@
+"hep-ph/9203203","Andrei Linde","M. Dine, R. Leigh, P. Huet, A. Linde and D. Linde","Towards the Theory of Cosmological Phase Transitions","50 pp","Phys.Rev.D46:550-571,1992","10.1103/PhysRevD.46.550",,"hep-ph",,"  We discuss recent progress (and controversies) in the theory of finite
+temperature phase transitions. This includes the structure of the effective
+potential at a finite temperature, the infrared problem in quantum statistics
+of gauge fields, the theory of formation of critical and subcritical bubbles
+and the theory of bubble wall propagation.
+","[{""version"":""v1"",""created"":""Tue, 3 Mar 1992 16:32:33 GMT""}]","2019-08-17"
+"hep-th/9203007",,"Domenico Giulini and Jorma Louko","No-Boundary Theta-Sectors in Spatially Flat Quantum Cosmology","30 pp","Phys.Rev. D46 (1992) 4355-4364","10.1103/PhysRevD.46.4355",,"hep-th",,"  Gravitational theta-sectors are investigated in spatially locally homogeneous
+cosmological models with flat closed spatial surfaces in 2+1 and 3+1 spacetime
+dimensions. The metric ansatz is kept in its most general form compatible with
+Hamiltonian minisuperspace dynamics. Nontrivial theta-sectors admitting a
+semiclassical no-boundary wave function are shown to exist only in 3+1
+dimensions, and there only for two spatial topologies. In both cases the
+spatial surface is nonorientable and the nontrivial no-boundary theta-sector
+unique. In 2+1 dimensions the nonexistence of nontrivial no-boundary
+theta-sectors is shown to be of topological origin and thus to transcend both
+the semiclassical approximation and the minisuperspace ansatz. Relation to the
+necessary condition given by Hartle and Witt for the existence of no-boundary
+theta-states is discussed.
+","[{""version"":""v1"",""created"":""Tue, 3 Mar 1992 21:21:00 GMT""}]","2009-10-22"
+"hep-th/9203008","Al Shapere","Amit Giveon and Alfred Shapere","Gauge Symmetries of the N=2 String","25 pages","Nucl.Phys.B386:43-62,1992","10.1016/0550-3213(92)90175-B",,"hep-th",,"  We study the underlying gauge symmetry algebra of the $N=2$ string, which is
+broken down to a subalgebra in any spacetime background. For given toroidal
+backgrounds, the unbroken gauge symmetries (corresponding to holomorphic and
+antiholomorphic worldsheet currents) generate area-preserving diffeomorphism
+algebras of null 2-tori. A minimal Lie algebraic closure containing all the
+gauge symmetries that arise in this way, is the background--independent
+volume--preserving diffeomorphism algebra of the target Narain torus $T^{4,4}$.
+The underlying symmetries act on the ground ring of functions on $T^{4,4}$ as
+derivations, much as in the case of the $d=2$ string. A background--independent
+spacetime action valid for noncompact metrics is presented, whose symmetries
+are volume--preserving diffeomorphisms. Possible extensions to $N=2$ and $N=1$
+heterotic strings are briefly discussed.
+","[{""version"":""v1"",""created"":""Tue, 3 Mar 1992 23:48:46 GMT""}]","2010-11-01"
+"hep-th/9203009","Yuri Makeenko","J. Ambjorn, L. Chekhov and Yu. Makeenko","Higher Genus Correlators from the Hermitian One-Matrix Model","11 pages","Phys.Lett. B282 (1992) 341-348","10.1016/0370-2693(92)90649-O",,"hep-th",,"  We develop an iterative algorithm for the genus expansion of the hermitian
+$N\times N$ one-matrix model ( = the Penner model in an external field). By
+introducing moments of the external field, we prove that the genus $g$
+contribution to the $m$-loop correlator depends only on $3g-2+m$ lower moments
+($3g-2$ for the partition function). We present the explicit results for the
+partition function and the one-loop correlator in genus one. We compare the
+correlators for the hermitian one-matrix model with those at zero momenta for
+$c=1$ CFT and show an agreement of the one-loop correlators for genus zero.
+","[{""version"":""v1"",""created"":""Wed, 4 Mar 1992 10:21:00 GMT""},{""version"":""v2"",""created"":""Tue, 24 Mar 1992 08:39:00 GMT""}]","2009-10-22"
+"hep-th/9203010",,"Sudipta Mukherji","On The Interpolating Solutions of Strings in Different Backgrounds","7 pages","Mod.Phys.Lett. A7 (1992) 1361-1366","10.1142/S0217732392001026",,"hep-th",,"  We analyze the beta-function equations for string theory in the case when the
+target space has one spacelike (or timelike) direction and rest is some
+conformal field theory (CFT) with appropriate central charge and has one nearly
+marginal operator. We show there always exists a space (time) dependent
+solution which interpolates between the original background and the background
+where CFT is replaced by a new conformal field theory, obtained by perturbing
+CFT by the nearly marginal operator.
+","[{""version"":""v1"",""created"":""Wed, 4 Mar 1992 15:50:00 GMT""}]","2015-06-26"

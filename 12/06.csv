@@ -1,0 +1,55 @@
+"hep-lat/9212004","Paul Rakow","P.E.L. Rakow","Magnetic Monopoles in non-compact QED - is there a Phase Transition?","Talk given at lattice '92, 4 pages, uses espcrc2.sty, 2 postscript
+  figures attached. (Replaced to add the figures.) Preprint FUB-HEP 22/92","Nucl.Phys.Proc.Suppl.30:591-594,1993","10.1016/0920-5632(93)90281-A",,"hep-lat",,"  The existence of the monopole condensation transition reported by
+  Kocic et al. in non-compact, quenched QED is tested. No phase transition is
+found. This shows that divergence of the `monopole susceptibility' introduced
+by Hands and Wensley is not a reliable indicator of second order phase
+transitions. In view of these results
+  I discuss claims that the chiral phase transition seen in QED with fermions
+is a lattice artefact driven by monopole condensation.
+","[{""version"":""v1"",""created"":""Sun, 6 Dec 1992 13:54:39 GMT""},{""version"":""v2"",""created"":""Wed, 16 Dec 1992 17:31:51 GMT""}]","2008-11-26"
+"hep-ph/9212225","Derek Leinweber","Thomas D. Cohen and Derek B. Leinweber","The Pion Cloud in Quenched QCD","RevTeX 2.0 manuscript, 13 pages. Figures file is a single PostScript
+  file of the manuscript including figures. U. MD PP #93-019","Comments Nucl. Part. Phys. 21 (1993) 137-150",,,"hep-ph hep-lat",,"  Diagrammatic methods and Large $N_c$ QCD are used to argue that the nucleon
+as calculated in quenched QCD contains physics which can be ascribed to the
+pion cloud of the nucleon. In particular, it is argued that the physics
+corresponding to one-pion loops in chiral perturbation theory are included in
+the quenched approximation.
+","[{""version"":""v1"",""created"":""Sat, 5 Dec 1992 18:16:16 GMT""}]","2007-05-23"
+"hep-ph/9212226","Aneesh V. Manohar","Elizabeth Jenkins, Michael Luke, Aneesh V. Manohar and M.J. Savage","Chiral Perturbation Theory Analysis of the Baryon Magnetic Moments","(16 pages, 2 figures; uses harvmac and uufiles), CERN-TH.6735/92,
+  UCSD/PTH 92-34","Phys.Lett.B302:482-490,1993; ERRATUM-ibid.B388:866,1996","10.1016/0370-2693(93)90430-P",,"hep-ph",,"  Nonanalytic $m_q^{1/2}$ and $m_q\ln m_q$ chiral corrections to the baryon
+magnetic moments are computed. The calculation includes contributions from both
+intermediate octet and decuplet baryon states. Unlike the one-loop
+contributions to the baryon axial currents and masses, the contribution from
+decuplet intermediate states does not partially cancel that from octet
+intermediate states. The fit to the observed magnetic moments including
+$m_q^{1/2}$ corrections is found to be much worse than the tree level SU(3) fit
+if values for the baryon-pion axial coupling constants obtained from a tree
+level extraction are used. Using the axial coupling constant values extracted
+at one loop results in a better fit to the magnetic moments than the tree level
+SU(3) fit. There are three linear relations amongst the magnetic moments when
+$m_q^{1/2}$ corrections are included, and one relation including $m_q^{1/2}$,
+$m_q\ln m_q$ and $m_q$ corrections. These relations are independent of the
+axial coupling constants of the baryons and agree well with experiment.
+","[{""version"":""v1"",""created"":""Sat, 5 Dec 1992 21:31:37 GMT""}]","2010-04-06"
+"hep-ph/9212227","Arkady Vainshtein","I.I.Bigi, B.Blok, M.Shifman, N.G.Uraltsev and A.Vainshtein","A QCD ``Manifesto'' on Inclusive Decays of Beauty and Charm","(talk I.I.Bigi at DPF meeting of APS, November 1992) 5 pages, Latex",,,"Theoretical Physics Institute preprint TPI-MINN-92/67-T,
+  UND-HEP-92-BIG07, NSF-ITP-92-156 (One reference is added)","hep-ph",,"  A selfconsistent treatment of nonperturbative effects in inclusive
+nonleptonic and semileptonic decays of beauty and charm hadrons is presented.
+It is illustrated by calculating semileptonic branching ratios, lifetime
+ratios, radiative decay rates and the lepton spectra in semileptonic decays.
+","[{""version"":""v1"",""created"":""Sun, 6 Dec 1992 09:08:47 GMT""},{""version"":""v2"",""created"":""Sat, 12 Dec 1992 08:01:10 GMT""}]","2008-02-03"
+"hep-th/9212041",,"HoSeong La","Time-Dependent Dilatonic Domain Walls","10 pages, harvmac",,,"CTP-TAMU-78/92","hep-th gr-qc hep-ph",,"  Time-dependent domain wall solutions with infinitesimal thickness are
+obtained in the theory of a scalar field coupled to gravity with the dilaton,
+i.e. the Jordan-Brans-Dicke gravity. The value of the dilaton is determined in
+terms of the Brans-Dicke parameter $\omega$. In particular, the solutions exist
+for any $\omega>0$ and as $\omega\to\infty$ we obtain new solutions in general
+relativity. They have horizons whose sizes depend on $\omega$.
+","[{""version"":""v1"",""created"":""Sun, 6 Dec 1992 00:08:38 GMT""}]","2007-05-23"
+"math/9212210","Mikhail Lyubich","Mikhail Lyubich","Combinatorics, geometry and attractors of quasi-quadratic maps",,,,"Stony Brook IMS 1992/18","math.DS",,"  The Milnor problem on one-dimensional attractors is solved for S-unimodal
+maps with a non-degenerate critical point c. It provides us with a complete
+understanding of the possible limit behavior for Lebesgue almost every point.
+This theorem follows from a geometric study of the critical set $\omega(c)$ of
+a ""non-renormalizable"" map. It is proven that the scaling factors
+characterizing the geometry of this set go down to 0 at least exponentially.
+This resolves the problem of the non-linearity control in small scales. The
+proofs strongly involve ideas from renormalization theory and holomorphic
+dynamics.
+","[{""version"":""v1"",""created"":""Sun, 6 Dec 1992 00:00:00 GMT""}]","2008-02-03"

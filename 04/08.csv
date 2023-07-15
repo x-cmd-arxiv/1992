@@ -1,0 +1,73 @@
+"hep-ph/9204212","Marek Karliner","John Ellis, Yitzhak Frishman, Amihay Hanany and Marek Karliner","Quark solitons as constituents of hadrons","27 p. + 8 figures (not included). Figures are available via ftp, see
+  instructions in the paper","Nucl.Phys.B382:189-212,1992","10.1016/0550-3213(92)90183-C",,"hep-ph",,"  We exhibit static solutions of multi-flavour QCD in two dimensions that have
+the quantum numbers of baryons and mesons, constructed out of quark and
+anti-quark solitons. In isolation the latter solitons have infinite energy,
+corresponding to the presence of a string carrying the non-singlet colour flux
+off to spatial infinity. When $N_c$ solitons of this type are combined, a
+static, finite-energy, colour singlet solution is formed, corresponding to a
+baryon. Similarly, static meson solutions are formed out of a soliton and an
+anti-soliton of different flavours. The stability of the mesons against
+annihilation is ensured by flavour conservation. The static solutions exist
+only when the fundamental fields of the bosonized Lagrangian belong to
+$U(N_c{\times}N_f)$ rather than to $SU(N_c) \times U(N_f)$. Discussion of
+flavour symmetry breaking requires a careful treatment of the normal ordering
+ambiguity. Our results can be viewed as a derivation of the constituent quark
+model in QCD$_2$, allowing a detailed study of constituent mass generation and
+of the heavy quark symmetry.
+","[{""version"":""v1"",""created"":""Tue, 7 Apr 1992 16:02:00 GMT""}]","2009-09-11"
+"hep-ph/9204213","Juan Garcia-Bellido","J.A. Casas, J. Garc\'ia--Bellido and M. Quiros","Scalar--Tensor Theories of Gravity with \PHI Dependent Masses","17pp","Class.Quant.Grav.9:1371-1384,1992","10.1088/0264-9381/9/5/018",,"hep-ph",,"  We study new physical phenomena and constraints in generalized scalar--tensor
+theories of gravity with $\Phi$--dependent masses. We investigate a scenario
+(which can arise in string theories) with two types of $\Phi$--dependent masses
+which could correspond to visible and dark matter sectors. The parameters of
+this theory are constrained from post--Newtonian bounds, primordial
+nucleosynthesis and the age of the Universe. We present a perfect fluid
+formalism for the dark matter sector with variable masses and find an entropy
+increase effect during the matter era and, in principle, a measurable effect on
+the motion of the halo of spiral galaxies. For the case of string effective
+theories, the constancy of gauge couplings provide new bounds which are orders
+of magnitude stronger than the previous ones.
+","[{""version"":""v1"",""created"":""Tue, 7 Apr 1992 19:33:29 GMT""}]","2016-08-14"
+"hep-ph/9204214","R. Sekhar Chivukula","R. Sekhar Chivukula, Stephen B. Selipsky, and Elizabeth H. Simmons","Non-Oblique Effects in the Z b b_bar Vertex from ETC Dynamics","7 pages","Phys.Rev.Lett. 69 (1992) 575-577","10.1103/PhysRevLett.69.575",,"hep-ph",,"  Extended technicolor theories generate potentially large corrections to the
+$\Zbb$ vertex which can be observed in current experiments at LEP.
+","[{""version"":""v1"",""created"":""Tue, 7 Apr 1992 21:54:51 GMT""}]","2009-10-22"
+"hep-th/9204017",,"Sanjay Jain and Samir D. Mathur","World-Sheet Geometry and Baby Universes in 2-D Quantum Gravity","13 pages","Phys.Lett. B286 (1992) 239-246","10.1016/0370-2693(92)91769-6",,"hep-th",,"  We show that the surface roughness for $c<1$ matter theories coupled to $2D$
+quantum gravity is described by a self-similar structure of baby universes.
+There exist baby universes whose neck thickness is of the order of the
+ultraviolet cutoff, the largest of these having a macroscopic area $\sim A^{1
+\over {1-\gamma}}$, where $A$ is the total area and $\gamma$ the string
+susceptibility exponent.
+","[{""version"":""v1"",""created"":""Tue, 7 Apr 1992 23:14:44 GMT""}]","2009-10-22"
+"hep-th/9204018","7353","E. Brezin and S. Hikami","A naive matrix-model approach to two-dimensional quantum gravity coupled
+  to matter of arbitrary central charge","P. 11","Phys.Lett. B283 (1992) 203-208","10.1016/0370-2693(92)90008-R",,"hep-th",,"  In the usual matrix-model approach to random discretized two-dimensional
+manifolds, one introduces n Ising spins on each cell, i.e. a discrete version
+of 2D quantum gravity coupled to matter with a central charge n/2. The
+matrix-model consists then of an integral over $2^{n}$ matrices, which we are
+unable to solve for $n>1$. However for a fixed genus we can expand in the
+cosmological constant g for arbitrary values of n, and a simple minded analysis
+of the series yields for n=0,1 and 2 the expected results for the exponent
+$\gamma_{string}$ with an amazing precision given the small number of terms
+that we considered. We then proceed to larger values of n. Simple tests of
+universality are successfully applied; for instance we obtain the same
+exponents for n=3 or for one Ising model coupled to a one dimensional target
+space. The calculations are easily extended to states Potts models, through an
+integration over $q^{n}$ matrices. We see no sign of the tachyonic instability
+of the theory, but we have only considered genus zero at this stage.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 06:41:09 GMT""}]","2009-10-22"
+"hep-th/9204019",,"L.Bonora, C.S.Xiong","An alternative approach to KP hierarchy in matrix models","18p","Phys.Lett. B285 (1992) 191-198","10.1016/0370-2693(92)91451-E",,"hep-th",,"  We show that there exists an alternative procedure in order to extract
+differential hierarchies, such as the KdV hierarchy, from one--matrix models,
+without taking a continuum limit. To prove this we introduce the Toda lattice
+and reformulate it in operator form. We then consider the reduction to the
+systems appropriate for one--matrix model.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 07:49:49 GMT""}]","2009-10-22"
+"hep-th/9204020",,"D. Gepner and A. Schwimmer (Weizmann Institute of science, Israel)","Symplectic fusion rings and their metric",,"Nucl.Phys. B380 (1992) 147-167","10.1016/0550-3213(92)90519-H",,"hep-th",,"  The fusion of fields in a rational conformal field theory gives rise to a
+ring structure which has a very particular form. All such rings studied so far
+were shown to arise from some potentials. In this paper the fusion rings of the
+WZW models based on the symplectic group are studied. It is shown that they
+indeed arise from potentials which are described. These potentials give rise to
+new massive perturbations of superconformal hermitian symmetric models. The
+metric of the perturbation is computed and is shown to be given by solutions of
+the sinh--gordon equation. The kink structure of the theories is described, and
+it is argued that these field theories are integrable. The $S$ matrices for the
+fusion theories are argued to be non--minimal extensions of the $G_k\times G_1/
+G_{k+1}$ $S$ matrices with the adjoint perturbation, in the case of $G=SU(N)$.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 11:53:13 GMT""}]","2009-10-22"

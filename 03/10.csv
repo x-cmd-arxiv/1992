@@ -1,0 +1,68 @@
+"hep-ph/9203205",,"Oscar F. Hernandez","Extended Color Models with a Heavy Top Quark","8 pages",,,,"hep-ph",,"  We present a class of models in which the top quark, by mixing with new
+physics at a higher energy scale, is naturally heavier than the other standard
+model particles. We take this new physics to be extended color. Our models
+contain new particles with masses between 100 GeV and 1 TeV, some of which may
+be just within the reach of the next generation of experiments. In particular
+one of our models implies the existence of two right handed top quarks. These
+models demonstrate the existence of a standard model-like theory consistent
+with experiment, and leading to new physics below the TeV scale, in which the
+third generation is treated differently than the first two.
+","[{""version"":""v1"",""created"":""Mon, 9 Mar 1992 18:11:20 GMT""}]","2007-05-23"
+"hep-ph/9203206",,"R. Holman, S.D.H. Hsu, T. Kephart, E. Kolb, R. Watkins and L. Widrow","Solutions to the strong CP problem in a world with gravity","10 pages","Phys.Lett.B282:132-136,1992","10.1016/0370-2693(92)90491-L",,"hep-ph",,"  We examine the sensitivity of several solutions of the strong-CP problem to
+violations of global symmetries by Planck scale physics. We find that the
+Peccei-Quinn solution is extremely sensitive to U(1)_PQ violating operators of
+dimension less than 10. We construct models in which the PQ symmetry is
+protected by gauge symmetries to the requisite level.
+","[{""version"":""v1"",""created"":""Mon, 9 Mar 1992 19:44:08 GMT""}]","2010-11-01"
+"hep-ph/9203207",,"Peter Haagensen and Jose I. Latorre","Differential Renormalization of Massive Quantum Field Theories","8 pages(LaTex, no figures)","Phys.Lett. B283 (1992) 293-297","10.1016/0370-2693(92)90022-V",,"hep-ph",,"  We extend the method of differential renormalization to massive quantum field
+theories treating in particular $\ph4$-theory and QED. As in the massless case,
+the method proves to be simple and powerful, and we are able to find, in
+particular, compact explicit coordinate space expressions for the finite parts
+of two notably complicated diagrams, namely, the 2-loop 2-point function in
+$\ph4$ and the 1-loop vertex in QED.
+","[{""version"":""v1"",""created"":""Tue, 10 Mar 1992 15:09:19 GMT""}]","2009-10-22"
+"hep-th/9203023",,"G.W. Gibbons, M.E. Ortiz, F. Ruiz Ruiz and T.M. Samols","Semilocal strings and monopoles","19 pages","Nucl.Phys.B385:127-144,1992","10.1016/0550-3213(92)90097-U",,"hep-th",,"  A variation on the abelian Higgs model, with global SU(2) x local U(1)
+symmetry broken to global U(1) was recently shown by Vachaspati and Achucarro
+to admit stable, finite energy cosmic string solutions even though the manifold
+of minima of the potential energy does not have non-contractible loops. Here
+the most general solutions, both in the single and multi-vortex cases, are
+described in the Bogomol'nyi limit. The gravitational field of the vortices
+considered as cosmic strings is obtained and monopole-like solutions surrounded
+by an event horizon are found.
+","[{""version"":""v1"",""created"":""Mon, 9 Mar 1992 16:55:54 GMT""}]","2009-10-07"
+"hep-th/9203024",,"H. Lu, C.N. Pope, S. Schrans and X.J. Wang","New Realisations of W Algebras and W Strings","7 pages","Mod.Phys.Lett.A7:1835-1842,1992","10.1142/S0217732392001543",,"hep-th",,"  We discuss new realisations of $W$ algebras in which the currents are
+expressed in terms of two arbitrary commuting energy-momentum tensors together
+with a set of free scalar fields. This contrasts with the previously-known
+realisations, which involve only one energy-momentum tensor. Since realisations
+of non-linear algebras are not easy to come by, the fact that this new class
+exists is of intrinsic interest. We use these new realisations to build the
+corresponding $W$-string theories and show that they are effectively described
+by two independent ordinary Virasoro-like strings.
+","[{""version"":""v1"",""created"":""Mon, 9 Mar 1992 22:38:40 GMT""}]","2009-10-07"
+"hep-th/9203025",,"J. Lopez, D. Nanopoulos, and K. Yuan","The Search for a realistic flipped SU(5) string model","44 pages","Nucl.Phys. B399 (1993) 654-690","10.1016/0550-3213(93)90513-O",,"hep-th",,"  We present an extensive search for a general class of flipped $SU(5)$ models
+built within the free fermionic formulation of the heterotic string. We
+describe a set of algorithms which constitute the basis for a computer program
+capable of generating systematically the massless spectrum and the
+superpotential of all possible models within the class we consider. Our search
+through the huge parameter space to be explored is simplified considerably by
+the constraint of $N=1$ spacetime supersymmetry and the need for extra $Q,\bar
+Q$ representations beyond the standard ones in order to possibly achieve string
+gauge coupling unification at scales of ${\cal O}(10^{18}\GeV)$. Our results
+are remarkably simple and evidence the large degree of redundancy in this kind
+of constructions. We find one model with gauge group $SU(5)\times
+U(1)_\ty\times SO(10)_h\times SU(4)_h\times U(1)^5$ and fairly acceptable
+phenomenological properties. We study the $D$- and $F$-flatness constraints and
+the symmetry breaking pattern in this model and conclude that string gauge
+coupling unification is quite possible.
+","[{""version"":""v1"",""created"":""Mon, 9 Mar 1992 23:11:00 GMT""}]","2009-10-22"
+"hep-th/9203026","Matthias Blau","M. Blau","The Mathai-Quillen Formalism and Topological Field Theory","34 a4.sty pages (Notes of lectures given at the Karpacz Winter School
+  on `Infinite Dimensional Geometry in Physics', 17-27 February 1992)","J.Geom.Phys. 11 (1993) 95-127","10.1016/0393-0440(93)90049-K",,"hep-th math.QA",,"  These lecture notes give an introductory account of an approach to
+cohomological field theory due to Atiyah and Jeffrey which is based on the
+construction of Gaussian shaped Thom forms by Mathai and Quillen. Topics
+covered are: an explanation of the Mathai-Quillen formalism for finite
+dimensional vector bundles; the definition of regularized Euler numbers of
+infinite dimensional vector bundles; interpretation of supersymmetric quantum
+mechanics as the regularized Euler number of loop space; the Atiyah-Jeffrey
+interpretation of Donaldson theory; the construction of topological gauge
+theories from infinite dimensional vector bundles over spaces of connections.
+","[{""version"":""v1"",""created"":""Tue, 10 Mar 1992 14:25:33 GMT""}]","2009-10-22"

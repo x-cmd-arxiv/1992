@@ -1,0 +1,186 @@
+"cond-mat/9209031","Elliott Lieb","Elliott Lieb and Michael Loss","Fluxes, Laplacians and Kasteleyn's Theorem","29 pages, #EHLML-21/Sept/92","Duke Math.J. 71 (1993) 337-363",,,"cond-mat",,"  The following problem, which stems from the ``flux phase'' problem in
+condensed matter physics, is analyzed and extended here: One is given a planar
+graph (or lattice) with prescribed vertices, edges and a weight $\vert
+t_{xy}\vert$ on each edge $(x,y)$. The flux phase problem (which we partially
+solve) is to find the real phase function on the edges, $\theta(x,y)$, so that
+the matrix $T:=\{\vert t_{xy}\vert {\rm exp}[i\theta(x,y)]\}$ minimizes the sum
+of the negative eigenvalues of $-T$. One extension of this problem which is
+also partially solved is the analogous question for the Falicov-Kimball model.
+There one replaces the matrix $-T$ by $-T+V$, where $V$ is a diagonal matrix
+representing a potential. Another extension of this problem, which we solve
+completely for planar, bipartite graphs, is to maximize $\vert {\rm det}\ T
+\vert$. Our analysis of this determinant problem is closely connected with
+Kasteleyn's 1961 theorem (for arbitrary planar graphs) and, indeed, yields an
+alternate, and we believe more transparent proof of it. {}.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 15:18:21 GMT""}]","2007-05-23"
+"gr-qc/9209010","Sam Finn","Lee Samuel Finn","Detection, Measurement and Gravitational Radiation","37 pages (plus 6 figures), LaTeX/REVTEX","Phys.Rev.D46:5236-5249,1992","10.1103/PhysRevD.46.5236","NU-GR-1","gr-qc astro-ph",,"  Here I examine how to determine the sensitivity of the LIGO, VIRGO, and LAGOS
+gravitational wave detectors to sources of gravitational radiation by
+considering the process by which data are analyzed in a noisy detector. By
+constructing the probability that the detector output is consistent with the
+presence of a signal, I show how to (1) quantify the uncertainty that the
+output contains a signal and is not simply noise, and (2) construct the
+probability distribution that the signal parameterization has a certain value.
+  From the distribution and its mode I determine volumes $V(P)$ in parameter
+space such that actual signal parameters are in $V(P)$ with probability $P$. If
+we are {\em designing} a detector, or determining the suitability of an
+existing detector for observing a new source, then we don't have detector
+output to analyze but are interested in the ``most likely'' response of the
+detector to a signal. I exploit the techniques just described to determine the
+``most likely'' volumes $V(P)$ for detector output corresponding to the source.
+Finally, as an example, I apply these techniques to anticipate the sensitivity
+of the LIGO and LAGOS detectors to the gravitational radiation from a perturbed
+Kerr black hole.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 16:36:00 GMT""}]","2008-11-26"
+"gr-qc/9209011","Steve Carlip","S. Carlip","The Modular Group, Operator Ordering, and Time in (2+1)-Dimensional
+  Gravity","8 pages, LaTeX","Phys.Rev.D47:4520-4524,1993","10.1103/PhysRevD.47.4520","UCD-92-23","gr-qc hep-th",,"  A choice of time-slicing in classical general relativity permits the
+construction of time-dependent wave functions in the ``frozen time''
+Chern-Simons formulation of $(2+1)$-dimensional quantum gravity. Because of
+operator ordering ambiguities, however, these wave functions are not unique. It
+is shown that when space has the topology of a torus, suitable operator
+orderings give rise to wave functions that transform under the modular group as
+automorphic functions of arbitrary weights, with dynamics determined by the
+corresponding Maass Laplacians on moduli space.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 00:12:08 GMT""}]","2010-04-28"
+"hep-lat/9209024","Kari Rummukainen","K. Rummukainen","Multicanonical Cluster Algorithm and the 2-D 7-State Potts Model","14 pages, 8 ps-figures, the flashy one missing to save
+  space+troubles, sorry, the whole thing available from the author. Preprint
+  CERN-TH.6654/92","Nucl.Phys. B390 (1993) 621-636","10.1016/0550-3213(93)90491-7",,"hep-lat",,"  I present a hybrid-like two-step algorithm, which combines a microcanonical
+update of a spin system using demons, with a multicanonical demon refresh. The
+algorithm is free from the supercritical slowing down that burdens the
+canonical methods: the exponential increase of the tunnelling time between the
+metastable states in the first-order phase transitions, when the volume of the
+system is increased. The demons act as a buffer between the multicanonical heat
+bath and the spin system, allowing the spin system to be updated with any
+microcanonical demon procedure, including cluster methods. The cluster
+algorithm is demonstrated with the 2-dimensional 7-state Potts model, using
+volumes up to $128^2$. The tunnelling time is found to increase as $L^{1.82}$,
+where $L$ is the linear dimension of the system.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 07:42:23 GMT""}]","2009-10-22"
+"hep-ph/9209277","Patricia Ball","E. Bagan, P. Ball, P. Gosdzinsky","The Isgur-Wise Function to $O(\alpha_s)$ from Sum Rules in the Heavy
+  Quark Effective Theory","11 pages, 2 figures (not included), (LaTeX), HD-THEP-92-40","Phys.Lett.B301:249-256,1993","10.1016/0370-2693(93)90697-G",,"hep-ph",,"  Radiative corrections to both perturbative and non-perturbative contributions
+are added to existing calculations of the Isgur-Wise function $\xi_{IW}$. To
+this end, we develop a method for calculating two-loop integrals in the heavy
+quark effective theory involving two different scales. The inclusion of
+$O(\alpha_s)$ terms causes $\xi_{IW}$ to decrease as compared to the lowest
+order result and shows the importance of quantum effects. The slope parameter
+$\rho^2$ violates the bound given by de Rafael and Taron.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 21:18:49 GMT""}]","2010-11-01"
+"hep-ph/9209278",,"M. Gronau and S. Wakaizumi","On Testing V-A in Lambda_b Decays","(6 pages, PHYZZX, 1 figure, available upon request), SLAC-PUB-5892","Phys.Rev. D47 (1993) 1262-1263","10.1103/PhysRevD.47.1262",,"hep-ph",,"  We comment on a recent suggestion by Amundson, Rosner, Worah and Wise to test
+the chirality of the $b$-quark decay coupling via polarized $\Lambda_b$ baryons
+produced in $e^+e^-\rightarrow Z\rightarrow \Lambda_b +X$. We study the effect
+of contributions from an amplitude in which a right-handed $b$ to $c$ current
+couples to a V-A lepton current.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 21:45:00 GMT""}]","2009-10-22"
+"hep-ph/9209279",,"M. Gronau","Large Penguin effects in the CP Asymmetry of B0d ->pi+pi-","(14 pages, PHYZZX, 1 figure, available upon request), SLAC-PUB-5911","Phys.Lett.B300:163-168,1993","10.1016/0370-2693(93)90765-A",,"hep-ph",,"  Penguin effects in the CP asymmetries of $B^0_d\rightarrow \pi^+\pi^-$ ,
+$\bd\rightarrow\rho^{\pm}\pi^{\mp}$ and $\bd\rightarrow a^{\pm}_1 \pi^{\mp}$
+are studied as function of the CKM unitarity triangle $\alpha$. Despite a
+fairly small penguin amplitude, it leads to quite sizable uncertainties in the
+determination of $\sin(2\alpha)$ from all but very large asymmetries. This
+effect is maximal for vanishing final state interaction phases, for which it
+can cause, for instance, an asymmetry of 40\%\ if $\alpha=\pi/2$.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 21:48:00 GMT""}]","2010-11-01"
+"hep-ph/9209281",,"Ajit Mohan Srivastava","Numerical Study of the Lowest Energy Configurations for Global
+  String-Antistring Pairs","14 pages, in LATEX, 7 figures (not included)","Phys.Rev. D47 (1993) 1324-1332","10.1103/PhysRevD.47.1324","TPI-MINN-92/23-T, NSF-ITP-92-139i","hep-ph cond-mat",,"  We investigate the lowest energy configurations for string - antistring pairs
+at fixed separations by numerically minimizing the energy. We show that for
+separations smaller than a critical value, a region of false vacuum develops in
+the middle due to large gradient energy density. Consequently, well defined
+string - antistring pairs do not exist for such separations. We present an
+example of vortex - antivortex production by vacuum bubbles where this effect
+seems to play a dynamical role in the annihilation of the pair. We also study
+the dependence of the energy of an string-antistring pair on their separation
+and find deviations from a simple logarithmic dependence for small separations.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 00:27:00 GMT""}]","2009-10-22"
+"hep-ph/9209282","Per Elmfors","Per Elmfors","Temperature Renormalization Group and Resummation","17pp, LATEX and FEYNMAN, NORDITA 92/63P","Int. J. Mod. Phys. A8 (1993) 1887","10.1142/S0217751X93000783",,"hep-ph",,"  The temperature renormalization group equation (TRGE) is compared with a
+diagrammatic expansion for the $(\phi^4)_4$-theory. It is found that the
+one-loop TRGE resums the leading powers of temperature for the effective mass.
+A two-loop contribution to TRGE is required to do the leading resummation for
+the coupling constant. It is also shown that the higher order TRGE resums
+subleading powers of temperature.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 14:23:37 GMT""}]","2015-06-25"
+"hep-th/9209098","Kurt Haller","K. Haller and E. Lim-Lombridas","Anyonic States in Chern-Simons Theory","14pp",,,,"hep-th",,"  We discuss the canonical quantization of Chern-Simons theory in $2+1$
+dimensions, minimally coupled to a Dirac spinor field. Gauss's law and the
+gauge condition, $A_0 = 0$, are implemented by embedding the formulation in an
+appropriate physical subspace. We find two kinds of charged particle states in
+this model. One kind has a rotational anomaly in the form of arbitrary phases
+that develop in $2\pi$ rotations; the other kind rotates ``normally''---i.e.,
+charged states only change sign in $2\pi$ rotations. The rotational anomaly has
+nothing to do with the implementation of Gauss's law. It is possible to
+inadvertently produce these anomalous states in the process of implementing
+Gauss's law, but it is also possible to implement Gauss's law without producing
+rotational anomalies. Moreover, states with or without rotational anomalies
+obey ordinary Fermi statistics.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 19:26:28 GMT""}]","2007-05-23"
+"hep-th/9209099",,"Tom Lada and Jim Stasheff","Introduction to sh Lie algebras for physicists","14 pages AMSTEX, UNC-MATH-92/2","Int.J.Theor.Phys. 32 (1993) 1087-1104","10.1007/BF00671791",,"hep-th",,"  Closed string field theory leads to a generalization of Lie algebra which
+arose naturally within mathematics in the study of deformations of algebraic
+structures. It also appeared in work on higher spin particles \cite{BBvD}.
+Representation theoretic analogs arose in the mathematical analysis of the
+Batalin-Fradkin-Vilkovisky approach to constrained Hamiltonians. A major goal
+of this paper is to see the relevant formulas, especially in closed string
+field theory, as a generalization of those for a differential graded Lie
+algebra, hopefully describing the mathematical essentials in terms accessible
+to {\it physicists}.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 18:39:00 GMT""}]","2009-10-22"
+"hep-th/9209100","Stanislav Pakuliak","A. Mironov and S. Pakuliak","On the Continuum Limit of the Conformal Matrix Models","FIAN/TD-5/92, LaTeX, 32pp","Theor.Math.Phys. 95 (1993) 604-625; Teor.Mat.Fiz. 95 (1993)
+  317-340","10.1142/S0217751X93001247",,"hep-th",,"  The double scaling limit of a new class of the multi-matrix models proposed
+in \cite{MMM91}, which possess the $W$-symmetry at the discrete level, is
+investigated in details. These models are demonstrated to fall into the same
+universality class as the standard multi-matrix models. In particular, the
+transformation of the W-algebra at the discrete level into the continuum one of
+the paper \cite{FKN91a} is proposed, the corresponding partition functions
+being compared. All calculations are demonstrated in full in the first
+non-trivial case of $W^{(3)}$-constraints.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 01:27:39 GMT""}]","2009-10-22"
+"hep-th/9209101","Thomas Mohaupt","Thomas Mohaupt","Critical Wilson Lines in Toroidal Compactifications of Heteroric Strings","32 pages, LATEX","Int.J.Mod.Phys.A8:3529-3552,1993","10.1142/S0217751X93001429","MS-TPI-92-20","hep-th",,"  Critical values of Wilson lines and general background fields for toroidal
+compactifications of heterotic string theories are constructed systematically
+using Dynkin diagrams.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 10:12:37 GMT""}]","2010-11-01"
+"hep-th/9209102",,"James D.E. Grant","Cosmic Strings and Chronology Protection","15 pages, plain TeX, 2 figures (not included), DAMTP-R92/35","Phys.Rev. D47 (1993) 2388-2394","10.1103/PhysRevD.47.2388",,"hep-th",,"  A space consisting of two rapidly moving cosmic strings has recently been
+constructed by Gott that contains closed timelike curves. The global structure
+of this space is analysed and is found that, away from the strings, the space
+is identical to a generalised Misner space. The vacuum expectation value of the
+energy momentum tensor for a conformally coupled scalar field is calculated on
+this generalised Misner space. It is found to diverge very weakly on the
+Chronology horizon, but more strongly on the polarised hypersurfaces. The
+divergence on the polarised hypersurfaces is strong enough that when the proper
+geodesic interval around any polarised hypersurface is of order the Planck
+length squared, the perturbation to the metric caused by the backreaction will
+be of order one. Thus we expect the structure of the space will be radically
+altered by the backreaction before quantum gravitational effects become
+important. This suggests that Hawking's `Chronology Protection Conjecture'
+holds for spaces with non-compactly generated Chronology horizon.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 09:30:10 GMT""}]","2009-10-22"
+"hep-th/9209103","Jouko Mickelsson","Jouko Mickelsson","Current Algebras in $3+1$ dimensions","talk given at the XIX Internat. Colloq. on Group Theoretical Methods
+  in Physics, Salamanca, July 1992, 4 pages",,,,"hep-th",,"  Aspects of a generalized representation theory of current algebras in $3+1$
+dimensions are discussed in terms of the Fock bundle method, the sesquilinear
+form approach (of Langmann and Ruijsenaars), and Hilbert space cocycles.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 14:40:31 GMT""}]","2007-05-23"
+"hep-th/9209104","Cestmir Burdik","C. Burdik, L. Cerny and O. Navratil","The q-Boson Realizations of the Quantum Group $U_{q}(sl(n+1,C))$","7pp","J.Phys. A26 (1993) L83-L88","10.1088/0305-4470/26/3/003","PRA-HEP-92/13","hep-th",,"  We give explicit expression of recurrency formulae of canonical realization
+for quantum enveloping algebras $U_{q}(sl(n+1,C))$. In these formulas the
+generators of the algebra $U_{q}(sl(n+1,C))$ are expressed by means of
+n-canonical q-boson pairs one auxiliary representation of the algebra
+$U_{q}(gl(n,C))$.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 18:38:22 GMT""}]","2019-08-17"
+"math/9209208","Marion Scheepers","Marion Scheepers","Meager-nowhere dense games (III): Remainder strategies",,,,"Logic E-prints September 25, 1992","math.LO",,"  Player ONE chooses a meager set and player TWO, a nowhere dense set per
+inning. They play $\omega$ many innings. ONE's consecutive choices must form a
+(weakly) increasing sequence. TWO wins if the union of the chosen nowhere dense
+sets covers the union of the chosen meager sets. A strategy for TWO which
+depends on knowing only the uncovered part of the most recently chosen meager
+set is said to be a remainder strategy. Theorem (among others): TWO has a
+winning remainder strategy for this game played on the real line with its usual
+topology.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9209209","Garvin Melles","Garvin Melles (Hebrew University)","Some Natural Internal Forcing Schemata Extending ZFC",,,,"Logic E-prints September 25, 1992","math.LO",,"  We give arguments for and prove the consistency of some internal forcing
+axioms.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9209210","Garvin Melles","Garvin Melles (Hebrew University)","$^*$Forcing",,,,"Logic E-prints September 25, 1992","math.LO",,"  Let $M$ be a transitive model of $ZFC$ and let ${\bf B}$ be a $M$-complete
+Boolean algebra in $M.$ (In general a proper class.) We define a generalized
+notion of forcing with such Boolean algebras, $^*$forcing. (A $^*$ forcing
+extension of $M$ is a transitive set of the form $M[{\bf G}]$ where ${\bf G}$
+is an $M$-complete ultrafilter on ${\bf B}.$) We prove that
+  1. If ${\bf G}$ is a $^*$forcing complete ultrafilter on ${\bf B},$ then
+$M[{\bf G}]\models ZFC.$
+  2. Let $H\sub M.$ If there is a least transitive model $N$ such that $H\in
+M,$ $Ord^M=Ord^N,$ and $N\models ZFC,$ then we denote $N$ by $M[H].$ We show
+that all models of $ZFC$ of the form $M[H]$ are $^*$forcing extensions of $M.$
+  As an immediate corollary we get that $L[0^{\#}]$ is a $^*$forcing extension
+of $L.$
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 00:00:00 GMT""}]","2016-09-06"

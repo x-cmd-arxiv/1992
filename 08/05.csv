@@ -1,0 +1,116 @@
+"astro-ph/9208001","Mark Srednicki","Toby Falk, Raghavan Rangarajan, and Mark Srednicki","The Angular Dependence of the Three-Point Correlation Function of the
+  Cosmic Microwave Background Radiation as Predicted by Inflationary
+  Cosmologies","7 pages, 3 figures (described but not included, available on
+  request), in Plain Tex, UCSBTH-92-31","Astrophys.J.403:L1,1993","10.1086/186707",,"astro-ph hep-ph",,"  Inflationary models predict a definite, model independent, angular dependence
+for the three-point correlation function of $\Delta T/T$ at large angles
+(greater than $\sim 1^\circ$) which we calculate. The overall amplitude is
+model dependent and generically unobservably small, but may be large in some
+specific models. We compare our results with other models of nongaussian
+fluctuations.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 21:04:42 GMT""}]","2009-10-22"
+"astro-ph/9208002","Mark Srednicki","Toby Falk, Raghavan Rangarajan, and Mark Srednicki","Dependence of Density Perturbations on the Coupling Constant in a Simple
+  Model of Inflation","6 pages, in Plain Tex, UCSBTH-92-20","Phys.Rev. D46 (1992) 4232-4234","10.1103/PhysRevD.46.4232",,"astro-ph",,"  In the standard inflationary scenario with inflaton potential
+$V(\Phi)=M^4-{1\over4}\lambda\Phi^4$, the resulting density perturbations
+$\delta\rho/\rho$ are proportional to $\lambda^{1/2}$. Upper bounds on
+$\delta\rho/\rho$ require $\lambda < 10^{-13}$. Ratra has shown that an
+alternative treatment of reheating results in $\delta\rho/\rho \propto
+\lambda^{-1}$, so that an upper bound on $\delta\rho/\rho$ does not put an
+obvious upper bound on $\lambda$. We verify that $\delta\rho/\rho \propto
+\lambda^{-1}$ is indeed a possibility, but show that $\lambda < 10^{-13}$ is
+still required.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 22:01:59 GMT""}]","2009-10-22"
+"gr-qc/9208001",,"Jonathan J. Halliwell","The Interpretation of Quantum Cosmological Models","18 pages",,,"CTP preprint 2130 (July 1992)","gr-qc hep-th",,"  We consider the problem of extracting physical predictions from the wave
+function of the universe in quantum cosmological models. We state the features
+of quantum cosmology an interpretational scheme should confront. We discuss the
+Everett interpretation, and extensions of it, and their application to quantum
+cosmology. We review the steps that are normally taken in the process of
+extracting predictions from solutions to the Wheeler-DeWitt equation for
+quantum cosmological models. Some difficulties and their possible resolution
+are discussed. We conclude that the usual wave function-based approach admits
+at best a rather heuristic interpretation, although it may in the future be
+justified by appeal to the decoherent histories approach.
+","[{""version"":""v1"",""created"":""Wed, 5 Aug 1992 15:30:31 GMT""}]","2007-05-23"
+"hep-ph/9208205",,"Alex Pomarol","Spontaneous CP violation in Supersymmetric theories","17 pages, 5 figures (no included), SCIPP-92/30, PHYZZX file","Phys.Rev.D47:273-278,1993","10.1103/PhysRevD.47.273",,"hep-ph",,"  We study the minimal version of the supersymmetric standard model with
+spontaneous CP breaking. In this model, the KM matrix is real and contributions
+to $\varepsilon$ arise from box diagrams involving squarks. We analyze the
+region of the parameter space which corresponds to values for $\varepsilon$,
+$\varepsilon^\prime/\varepsilon$ and the neutron electric dipole moment (NEDM)
+in agreement with the experimental data. We show that the CP violating phases
+must be of $\calo (10^{-2})$ and the NEDM lies near its present experimental
+limit.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 18:00:00 GMT""}]","2010-11-01"
+"hep-ph/9208206",,"L. Xiong, E. Shuryak and G. E. Brown","Photon production through $A_1$ resonance in high energy heavy ion
+  collisions",,"Phys.Rev.D46:3798-3801,1992","10.1103/PhysRevD.46.3798",,"hep-ph",,"  Electromagnetic radiation from excited hadronic matter is one of the best
+ways to study the properties of the matter.
+  Considering various processes in the hadronic gas, Kapusta et al
+\cite{Kapusta_photons} have found a $\pi\rho \rightarrow \pi\gamma$ reaction
+with intermediate virtual pion or rho to be the main source of photons with
+energy greater than 0.7 GeV.
+  However, at temperatures considered T=100-200 MeV, a $\pi\rho$ pair can
+easily form an $A_1$(1260) resonance, and we show that this mechanism leads to
+the photon production rates exceeding those suggested previously. The paper is
+in LATEX, figures available from authors.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 18:21:04 GMT""}]","2010-11-01"
+"hep-ph/9208207","Thorsten Ohl","Ahmed Ali, Thomas Mannel, and Thorsten Ohl","Radiative Rare B Decays into Higher K-Resonances","13 pages (one encapsulated PostScript figure appended), DESY 92-113,
+  IKDA 92/23","Phys.Lett. B298 (1993) 195-203","10.1016/0370-2693(93)91730-B",,"hep-ph",,"  We estimate the contributions of higher K-resonances to the radiative rare
+decays b -> s gamma. We use the spin symmetry for heavy quarks to reduce the
+number of independent form factors to four Isgur-Wise functions, which are
+estimated from the wave function model of Isgur, Scora, Grinstein, and Wise.
+Our results suggest a substantially larger branching fraction for the decay B
+-> K*2(1430) gamma than previous investigations.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 20:04:32 GMT""}]","2009-10-22"
+"hep-ph/9208208","Prakash Mathews","Prakash Mathews and V. Ravindran","Can Polarised Drell-Yan Shed More Light On The Proton Spin?","12 pages","Mod.Phys.Lett. A7 (1992) 2695-2702","10.1142/S0217732392002159",,"hep-ph",,"  We analyse polarised Drell-Yan process using the factorisation method and
+derive operator definitions for polarised parton distribution functions. We
+demonstrate that a factorisation analogous to that in the unpolarised Drell-Yan
+case holds in this process. We study the leading order gluonic contribution to
+the first moment of polarised Drell-Yan function and show that it is consistent
+with results obtained from polarised deep inelastic scattering.
+","[{""version"":""v1"",""created"":""Wed, 5 Aug 1992 15:53:20 GMT""}]","2015-06-25"
+"hep-th/9208014",,"S.P. Gavrilov, D.M. Gitman","Quantization of systems with time-dependent constraints. Example of
+  relativistic particle in plane wave","16 pg. , IFUSP/P-980-APRIL-1992","Class.Quant.Grav.10:57-67,1993","10.1088/0264-9381/10/1/008",,"hep-th",,"  A modification of the canonical quantization procedure for systems with
+time-dependent second-class constraints is discussed and applied to the
+quantization of the relativistic particle in a plane wave. The time dependence
+of constraints appears in the problem in two ways. The Lagrangian depends on
+time explicitly by origin, and a special time-dependent gauge is used. Two
+possible approaches to the quantization are demonstrated in this case. One is
+to solve directly a system of operator equations, proposed by Tyutin and one of
+the authors (Gitman) as a generalization of Dirac canonical quantization in
+nonstationary case, and another to find first a canonical transformation, which
+makes it possible to discribe the dynamics in the physical sactor by means of
+some effective Hamiltonian. Quantum mechanics constructed in both cases proves
+to be equivalent to Klein-Gordon theory of the relativistic particle in a plane
+wave. The general conditions of unitarity of the dynamics in the physical
+sector are discussed.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 17:35:25 GMT""}]","2010-04-06"
+"hep-th/9208015","Caren Marzban","R. Kantowski, Caren Marzban","One-loop Vilkovisky-DeWitt Counterterms for 2D Gravity plus Scalar Field
+  Theory","19 pages, OKHEP 92-001","Phys.Rev. D46 (1992) 5449-5457","10.1103/PhysRevD.46.5449",,"hep-th gr-qc",,"  The divergent part of the one-loop off-shell effective action is computed for
+a single scalar field coupled to the Ricci curvature of 2D gravity ($c \phi
+R$), and self interacting by an arbitrary potential term $V(\phi)$. The
+Vilkovisky-DeWitt effective action is used to compute gauge-fixing independent
+results. In our background field/covariant gauge we find that the Liouville
+theory is finite on shell. Off-shell, we find a large class of renormalizable
+potentials which include the Liouville potential. We also find that for
+backgrounds satisfying $R=0$, the Liouville theory is finite off shell, as
+well.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 19:48:10 GMT""}]","2009-10-22"
+"hep-th/9208016",,"C. Imbimbo","SL(2,R) Chern-Simons Theories with Rational Charges and Two-dimensional
+  Conformal Field Theories","29 pages, GEF-TH-92-5","Nucl.Phys. B384 (1992) 484-506","10.1016/0550-3213(92)90577-X",,"hep-th",,"  This paper (completed March 1992) is an extensively revised and expanded
+version of work which appeared July 1991 on the initial incarnation of the
+hepth bulletin board, and which was published in the Proceedings of the
+Workshop on String Theory, Trieste, March 1991. Abstract We present a
+hamiltonian quantization of the $SL(2,R)$ 3-dimensional Chern-Simons theory
+with fractional coupling constant $k=s/r$ on a space manifold with torus
+topology in the ``constrain-first'' framework. By generalizing the ``Weyl-odd''
+projection to the fractional charge case, we obtain multi-components
+holomorphic wave functions whose components are the Kac-Wakimoto characters of
+the modular invariant admissible representations of ${\hat A}_1$ current
+algebra with fractional level. The modular representations carried by the
+quantum Hilbert space satisfy both Verlinde's and Vafa's constraints coming
+from conformal field theory. They are the ``square-roots'' of the
+representations associated to the conformal $(r,s)$ minimal models. Our results
+imply that Chern-Simons theory with $SO(2,2)$ as gauge group, which describes
+$2+1$-dimensional gravity with negative cosmological constant, has the modular
+properties of the Virasoro discrete series. On the way, we show that the
+2-dimensional counterparts of Chern-Simons $SU(2)$ theories with half-integer
+charge $k=p/2$
+","[{""version"":""v1"",""created"":""Wed, 5 Aug 1992 13:13:07 GMT""}]","2009-10-22"

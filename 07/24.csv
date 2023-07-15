@@ -1,0 +1,74 @@
+"alg-geom/9207001","Richard Hain","Richard Hain (Duke Univeristy)","Completions of mapping class groups and the cycle $C - C^-$","31 pages, LaTeX",,,,"alg-geom math.AG",,"  In this paper we study the proalgebraic completion of mapping class relative
+to their maps to the symplectic group. The main result is that the natural map
+from the unipotent (a.k.a. Malcev) completion of the Torelli group to the
+prounipotent radical of the Sp_g completion of the mapping class group is a non
+trivial central extension with kernel isomorphic to Q, at least when g \ge 8.
+The theorem is proved by relating the central extension to the line bundle
+associated to the archemidean height of the cycle C - C- in the Jacobian of the
+curve C. We also develop some of the basic theory of relative completions.
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 17:56:54 GMT""}]","2008-02-03"
+"cond-mat/9207025","David Senechal","D. Senechal","Chern-Simons superconductivity","10 pages","Phys.Lett.B297:138-143,1992; ERRATUM-ibid.B301:455,1993","10.1016/0370-2693(92)91082-K",,"cond-mat hep-th",,"  We argue that a simple Yukawa coupling between the $O(3)$ nonlinear
+$\s$-model and charged Dirac fermions leads, after one-loop quantum
+corrections, to a Meissner effect, in the disordered phase of the nonlinear
+$\s$-model.
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 20:00:44 GMT""},{""version"":""v2"",""created"":""Fri, 24 Jul 1992 18:30:48 GMT""},{""version"":""v3"",""created"":""Mon, 28 Sep 1992 19:26:19 GMT""}]","2011-04-20"
+"cond-mat/9207026","Holger Frahm","Holger Frahm and Andreas Schadschneider","Critical exponents of the degenerate Hubbard model","18 pages","J.Phys. A26 (1993) 1463-1480","10.1088/0305-4470/26/7/009",,"cond-mat",,"  We study the critical behaviour of the \SUN{} generalization of the
+one-dimensional Hubbard model with arbitrary degeneracy $N$. Using the
+integrability of this model by Bethe Ansatz we are able to compute the spectrum
+of the low-lying excitations in a large but finite box for arbitrary values of
+the electron density and of the Coulomb interaction. This information is used
+to determine the asymptotic behaviour of correlation functions at zero
+temperature in the presence of external fields lifting the degeneracy. The
+critical exponents depend on the system parameters through a $N\times N$
+dressed charge matrix implying the relevance of the interaction of charge- and
+spin-density waves.
+","[{""version"":""v1"",""created"":""Fri, 24 Jul 1992 10:58:50 GMT""}]","2009-10-22"
+"hep-ph/9207255","Leandros Perivolaropoulos","Leandros Perivolaropoulos","Large Scale Structure by Global Monopoles and Cold Dark Matter","9 pages, 2 Figures (available upon request), use latex","Mod.Phys.Lett. A7 (1992) 903-910","10.1142/S0217732392003542","CfA preprint No.3377","hep-ph",,"  A cosmological model in which the primordial perturbations are provided by
+global monopoles and in which the dark matter is cold has several interesting
+features. The model is normalized by choosing its single parameter within the
+bounds obtained from gravitational wave constraints and by demanding coherent
+velocity f1ows of about 600km/sec on scales of $50 h^{-1} Mpc$. Using this
+normalization, the model predicts the existence of dominant structures with
+mass $2\times 10^{16} M_\odot$ on a scale $35 h^{-1}Mpc$ i.e. larger than the
+horizon at $t_{eq}$. The magnitude of the predicted mass function in the
+galactic mass range is in good agreement with the observed Schechter function.
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 17:56:06 GMT""}]","2009-10-22"
+"hep-ph/9207256","Leandros Perivolaropoulos","Leandros Perivolaropoulos","Nontopological Global Field Dynamics","8 pages plus 6 Figures (available upon request) CfA preprint No.
+  3393, use latex","Phys.Rev. D46 (1992) 1858-1862","10.1103/PhysRevD.46.1858",,"hep-ph",,"  We use arguments based on Derrick's theorem to show that the property of
+collapse which is the key feature of global texture appears in several field
+theory models with broken global O(N) symmetry. Such models do not necessarily
+have nontrivial third homotopy group of the vacuum manifold but may give rise
+to collapsing global field configurations with properties similar to textures.
+It is verified that configurations with planar and cylindrical geometries do
+not collapse. The existence of critical parameters for collapse of spherically
+symmetric global field configurations is verified both analytically and
+numerically.
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 18:46:44 GMT""}]","2009-10-22"
+"hep-th/9207079",,"P.H. Cox, B. Harms and Y. Leblanc","Dilatonic Black Holes, Naked Singularities and Strings","8 pages, REVTEX","Europhys.Lett.26:321-326,1994","10.1209/0295-5075/26/5/001",,"hep-th",,"  We extend a previous calculation which treated Schwarschild black hole
+horizons as quantum mechanical objects to the case of a charged, dilaton black
+hole. We show that for a unique value of the dilaton parameter `a', which is
+determined by the condition of unitarity of the S matrix, black holes transform
+at the extremal limit into strings.
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 20:38:30 GMT""}]","2010-12-17"
+"hep-th/9207080",,"Takashi Kimura","Generalized Classical BRST Cohomology and Reduction of Poisson Manifolds","33","Commun.Math.Phys. 151 (1993) 155-182","10.1007/BF02096751",,"hep-th",,"  In this paper, we formulate a generalization of the classical BRST
+construction which applies to the case of the reduction of a poisson manifold
+by a submanifold. In the case of symplectic reduction, our procedure
+generalizes the usual classical BRST construction which only applies to
+symplectic reduction of a symplectic manifold by a coisotropic submanifold,
+\ie\ the case of reducible ``first class'' constraints. In particular, our
+procedure yields a method to deal with ``second-class'' constraints. We
+construct the BRST complex and compute its cohomology. BRST cohomology vanishes
+for negative dimension and is isomorphic as a poisson algebra to the algebra of
+smooth functions on the reduced poisson manifold in zero dimension. We then
+show that in the general case of reduction of poisson manifolds, BRST
+cohomology cannot be identified with the cohomology of vertical differential
+forms.
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 21:57:23 GMT""}]","2009-10-22"
+"hep-th/9207081","Kanehisa Takasaki","Kanehisa Takasaki and Takashi Takebe","Quasi-classical limit of KP hierarchy, W-symmetries and free fermions","11 pages, KUCP-0050/92 (references are updated)",,,,"hep-th",,"  This paper deals with the dispersionless KP hierarchy from the point of view
+of quasi-classical limit. Its Lax formalism, W-infinity symmetries and general
+solutions are shown to be reproduced from their counterparts in the KP
+hierarchy in the limit of $\hbar \to 0$. Free fermions and bosonized vertex
+operators play a key role in the description of W-infinity symmetries and
+general solutions, which is technically very similar to a recent free fermion
+formalism of $c=1$ matrix models.
+","[{""version"":""v1"",""created"":""Fri, 24 Jul 1992 08:28:55 GMT""},{""version"":""v2"",""created"":""Wed, 3 Feb 1993 02:27:23 GMT""}]","2008-02-03"

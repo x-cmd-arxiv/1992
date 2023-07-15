@@ -1,0 +1,66 @@
+"hep-lat/9209012","Christian B. Lang","C.B. Lang and U. Winkler","Rotational Symmetry and Regularization Dependence in the
+  $\Phi^4_4$-Model","21 p + 8 PS-figures, UNIGRAZ-UTP-07-08-92","Phys.Rev.D47:4705-4713,1993","10.1103/PhysRevD.47.4705",,"hep-lat",,"  We study the one component $\Phi^4$ model for four different lattice actions
+in the Gaussian limit and for the Ising model in the broken phase. Emphasis is
+put on the euclidean invariance properties of the boson propagator. A measure
+of the violation of rotational symmetry serves as a tool to compare the
+regularization dependence of the triviality bound.
+","[{""version"":""v1"",""created"":""Mon, 7 Sep 1992 08:18:17 GMT""}]","2010-11-19"
+"hep-lat/9209013","Klaus Pinn","Martin Hasenbusch and Klaus Pinn","Surface Tension, Surface Stiffness, and Surface Width of the
+  3-dimensional Ising Model on a Cubic Lattice","33 pages, 5 figures, report MS-TPI-92-24","Physica A192 (1993) 342-374","10.1016/0378-4371(93)90043-4",,"hep-lat cond-mat",,"  We compute properties of the interface of the 3-dimensional Ising model for a
+wide range of temperatures, covering the whole region from the low temperature
+domain through the roughening transition to the bulk critical point. The
+interface tension sigma is obtained by integrating the surface energy density
+over the inverse temperature beta. We use lattices of size L x L x T, with L up
+to 64, and T up to 27. The simulations with antiperiodic boundary conditions in
+T-direction are done with the Hasenbusch-Meyer interface cluster algorithm that
+turns out to be very efficient. We demonstrate that in the rough phase the
+large distance behavior of the interface is well described by a massless
+Gaussian dynamics. The surface stiffness coefficient kappa is determined. We
+also attempt to determine the correlation length xi and study universal
+quantities like xi^2 * sigma and xi^2 * kappa. Results for the interfacial
+width on lattices up to 512 x 512 x 27 are also presented.
+","[{""version"":""v1"",""created"":""Mon, 7 Sep 1992 10:11:26 GMT""}]","2009-10-22"
+"hep-ph/9209218","Errol Gotsman","E. Gotsman, E.M. Levin and U. Maor","A Quantitative Investigation of the Pomeron","pages 15, Latex","Z.Phys. C57 (1993) 677-684","10.1007/BF01561488","DESY 92-040","hep-ph",,"  A comparative investigation of various Pomeron models is carried out through
+the study of their predicted values of $ \sigma_{tot}$, B, and
+$\frac{\sigma_{el}}{\sigma_{tot}}$ in high energy pp and p$\bar{p}$ scattering.
+Our results strongly support a picture of the Pomeron in which we have both
+moderate blackening and expansion of the p($\bar{p}$) - p amplitude in impact
+parameter space as a function of energy in the ISR-SSC domain. In particular,
+we obtain an excellent reproduction of the data with a hybrid eikonal model
+which combines the hard Lipatov-like QCD Pomeron with the old fashioned soft
+Pomeron and Regge terms. Our analysis shows that the additive quark model, at
+least in the naive form, is not compatible with the data.
+","[{""version"":""v1"",""created"":""Mon, 7 Sep 1992 06:59:53 GMT""}]","2009-10-22"
+"hep-ph/9209219","Geert Jan van Oldenborgh","J. Bl\""umlein, G. J. van Oldenborgh and R. R\""uckl","QCD and QED Corrections to Higgs Boson Production in Charged Current
+  $ep$ Scattering","latex, 16 pages + 9 pages figures in PostScript (included)","Nucl.Phys. B395 (1993) 35-59","10.1016/0550-3213(93)90207-6","CERN-TH.6581/92, MPI-Ph/91-46, LMU-92/06","hep-ph",,"  First order QCD and leading QED corrections to Higgs boson production in the
+channel $e^-p \to \nu H^0 X; H^0 \to b\bar{b}$ are calculated for the
+kinematical conditions at LEP $\otimes$ LHC ($\sqrt{s} = 1360 \GeV$) and the
+interesting mass range $80 < M_H < 150 \GeV$. In the DIS scheme the QCD
+corrections (not including the corrections to the branching ratio, which are
+well-known) are found to be about 1\% for the total cross section and $-13\%$
+to $-10\%$ for the observable cross section as defined by appropriate cuts. The
+latter results depend on the definition of these cuts. The QED corrections
+amount to about $-5\%$. Also obtainable with anonymous ftp from
+gluon.hep.physik.uni-muenchen.de.
+","[{""version"":""v1"",""created"":""Mon, 7 Sep 1992 13:33:56 GMT""}]","2009-10-22"
+"hep-th/9209019","Satoru Odake","Takeo Inami and Satoru Odake","Continuum Limit of Spin-1 Chain (the only change is added references)","10 pages, LaTeX, YITP/K-987",,,,"hep-th cond-mat",,"  We study the continuum limit of the spin-1 chain in the non-Abelian
+bosonization approach of Affleck and show that the Hamiltonian of integrable
+spin-1 chain yields the Lagrangian of supersymmetric sine-Gordon model in the
+zero lattice spacing limit. We also show that the quantum group generators of
+the spin-1 chain give non-local charges of the supersymmetric sine-Gordon
+theory.
+","[{""version"":""v1"",""created"":""Mon, 7 Sep 1992 03:28:57 GMT""},{""version"":""v2"",""created"":""Mon, 14 Sep 1992 02:35:37 GMT""}]","2008-02-03"
+"hep-th/9209020","Ignatios Antoniadis","I.Antoniadis and K. Benakli","Fractionally Charged Particles and Supersymmetry Breaking in 4D Strings","Revised version incorporating the erratum hep-ph/9707204 (to appear
+  in Physics Letters B)","Phys.Lett. B295 (1992) 219-224; Erratum-ibid. B407 (1997) 449-450","10.1016/0370-2693(92)91557-P",,"hep-th hep-ph",,"  Four-dimensional string theories predict in general the existence of light
+exotic particles with fractional electric charges. Such particles could escape
+present observations if they are confined by a gauge group of the ""hidden""
+sector into integrally charged states. It is conceivable that the same gauge
+group is also responsible for dynamical supersymmetry breaking, via gaugino and
+scalar condensation. The communication of the breaking to the observable sector
+is now mediated by ordinary gauge interactions, implying that the confining
+scale can be in the TeV-region. We study the main phenomenological implications
+of this possibility. In particular, we analyze the pattern of supersymmetry
+breaking and the mass-spectrum of the sparticles. We also show that this
+scenario can be consistent with the unification of all coupling constants at
+the string scale.
+","[{""version"":""v1"",""created"":""Mon, 7 Sep 1992 12:34:29 GMT""},{""version"":""v2"",""created"":""Mon, 25 Aug 1997 14:08:44 GMT""}]","2009-10-22"

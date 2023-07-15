@@ -1,0 +1,134 @@
+"cond-mat/9210012",,"A. Amengual, E. Hernandez-Garcia, and M. San Miguel","Ordering and finite-size effects in the dynamics of one-dimensional
+  transient patterns","18 pages (REVTEX) + 10 postscript figures appended","Phys.Rev. E47 (1993) 4151-4160","10.1103/PhysRevE.47.4151","UIBDFS091092","cond-mat",,"  We introduce and analyze a general one-dimensional model for the description
+of transient patterns which occur in the evolution between two spatially
+homogeneous states. This phenomenon occurs, for example, during the
+Freedericksz transition in nematic liquid crystals.The dynamics leads to the
+emergence of finite domains which are locally periodic and independent of each
+other. This picture is substantiated by a finite-size scaling law for the
+structure factor. The mechanism of evolution towards the final homogeneous
+state is by local roll destruction and associated reduction of local
+wavenumber. The scaling law breaks down for systems of size comparable to the
+size of the locally periodic domains. For systems of this size or smaller, an
+apparent nonlinear selection of a global wavelength holds, giving rise to long
+lived periodic configurations which do not occur for large systems. We also
+make explicit the unsuitability of a description of transient pattern dynamics
+in terms of a few Fourier mode amplitudes, even for small systems with a few
+linearly unstable modes.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 14:09:00 GMT""}]","2009-10-22"
+"cond-mat/9210013","Antti-Pekka Jauho","J. A. St{\o}vneng and A.-P. Jauho","Numerical studies of tunneling in a nonharmonic time-dependent potential","LaTeX document, 15 pages. 4 figures (Fig. 2 comes in 7 pages) in
+  postscript appended to the LaTeX document",,"10.1103/PhysRevB.47.10446","NORDITA preprint 92/71 S","cond-mat",,"  Azbel' has recently carried out a WKB-analysis of the effects of a
+nonharmonic time-dependent perturbation embedded in an opaque potential
+barrier. He suggests the existence of three different transmission regimes:
+direct tunneling, activation assisted tunneling, and elevator resonant
+activation. We address the same problem with a numerical technique, and find
+qualitative agreement with Azbel's picture.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 14:40:28 GMT""}]","2009-10-22"
+"gr-qc/9210009","Ralf Hecht","Ralf Hecht, Friedrich W. Hehl, J. Dermott McCrea, Eckehard W. Mielke
+  and Yuval Ne'eman","Improved Energy-Momentum Currents in Metric-Affine Spacetime","14pp","Phys.Lett.A172:13-20,1992","10.1016/0375-9601(92)90182-L",,"gr-qc hep-th",,"  In Minkowski spacetime it is well-known that the canonical energy-momentum
+current is involved in the construction of the globally conserved currents of
+energy-momentum and total angular momentum. For the construction of conserved
+currents corresponding to (approximate) scale and proper conformal symmetries,
+however, an improved energy-momentum current is needed. By extending the
+Minkowskian framework to a genuine metric-affine spacetime, we find that the
+affine Noether identities and the conformal Killing equations enforce this
+improvement in a rather natural way. So far, no gravitational dynamics is
+involved in our construction. The resulting dilation and proper conformal
+currents are conserved provided the trace of the energy-momentum current
+satisfies a (mild) scaling relation or even vanishes.
+","[{""version"":""v1"",""created"":""Thu, 15 Oct 1992 17:35:59 GMT""}]","2008-11-26"
+"hep-ph/9210238","Paul Langacker","Paul Langacker","Proton Decay","21 pages, UPR-0539T",,,,"hep-ph",,"  The status of proton decay is described, including general motivations for
+baryon number violation, and the present and future experimental situation.
+Grand unification with and without supersymmetry is considered, including
+possible evidence from coupling constant unification and implications for
+proton decay and neutrino mass.
+","[{""version"":""v1"",""created"":""Thu, 15 Oct 1992 21:37:34 GMT""}]","2007-05-23"
+"hep-ph/9210239","Chris Quigg","Estia J. Eichten, Ian Hinchliffe, and Chris Quigg","Flavor Asymmetry of the Nucleon Sea: Consequences for Dilepton
+  Production","11 pages, REVTEX, (Three PostScript figures available by anonymous
+  ftp from fnth06.fnal.gov in directory /pub/Fermilab-Pub/92.264.)
+  FERMILAB-PUB-92/264--T LBL-32987","Phys.Rev.D47:747-750,1993","10.1103/PhysRevD.47.R747",,"hep-ph nucl-th",,"  Parton distributions derived from a chiral quark model that generates an
+excess of down quarks and antiquarks in the proton's sea satisfactorily
+describe the measured yields of muon pairs produced in proton-nucleus
+collisions. Comparison of dilepton yields from hydrogen and deuterium targets
+promises greater sensitivity to the predicted flavor asymmetry.
+","[{""version"":""v1"",""created"":""Thu, 15 Oct 1992 22:06:56 GMT""}]","2009-05-05"
+"hep-ph/9210240","Uri Sarid","L.J. Hall and U. Sarid","Gravitational Smearing of Minimal Supersymmetric Unification Predictions","10 pages total + 1 postscript figure (included), revised: all lines
+  are TRULY < 70 characters long (try it!); LBL-32905, UCB-PTH-92/37","Phys. Rev. Lett. 70, 2673 (1993)","10.1103/PhysRevLett.70.2673",,"hep-ph",,"  A short and mean paper.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 06:15:54 GMT""},{""version"":""v2"",""created"":""Fri, 16 Oct 1992 21:48:10 GMT""},{""version"":""v3"",""created"":""Thu, 22 Oct 1992 04:33:12 GMT""}]","2013-11-13"
+"hep-ph/9210241","Satoshi Mizuta","Satoshi Mizuta, Daniel Ng and Masahiro Yamaguchi","Phenomenological Aspects of Supersymmetric Standard Models without Grand
+  Unification","15 pages, 8 figures ( not included, but available on request ), in
+  LaTeX, TU-410, IFP-436-UNC","Phys.Lett. B300 (1993) 96-103","10.1016/0370-2693(93)90754-6",,"hep-ph",,"  When the GUT relation on gaugino masses is relaxed, the mass and composition
+of the lightest neutralino are different from those in the GUT case. We discuss
+its phenomenological implications on the relic abundance of the neutralinos and
+on superparticle searches. In particular, we focus on the case where the
+neutral component of Winos dominates the lightest neutralino. It turns out the
+Wino-LSP is not a candidate for the dark matter.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 08:00:51 GMT""}]","2009-10-22"
+"hep-th/9210083","John Harnad","M.A. Wisse","Quasi-Periodic Solutions for matrix nonlinear Schroedinger Equations","11 pages","J.Math.Phys. 33 (1992) 3694-3699","10.1063/1.529864","Univ. de Montr\'eal preprint CRM-1834 (1992)","hep-th",,"  The Adler-Kostant-Symes theorem yields isospectral hamiltonian flows on the
+dual $\tilde\grg^{+*}$ of a Lie subalgebra $\tilde\grg^+$ of a loop algebra
+$\tilde\grg$. A general approach relating the method of integration of
+Krichever, Novikov and Dubrovin to such flows is used to obtain finite-gap
+solutions of matrix Nonlinear Schr\""odinger Equations in terms of quotients of
+$\tet$-functions.
+","[{""version"":""v1"",""created"":""Thu, 15 Oct 1992 19:56:06 GMT""}]","2009-10-22"
+"hep-th/9210084",,"G.L. Rossini and F.A. Schaposnik","Fermionic Coset Models as Topological Models","14pp","Mod.Phys.Lett. A9 (1994) 193-204","10.1142/S0217732394000216",,"hep-th",,"  By considering the fermionic realization of $G/H$ coset models, we show that
+the partition function for the $U(1)/U(1)$ model defines a Topological Quantum
+Field Theory and coincides with that for a 2-dimensional Abelian BF system. In
+the non-Abelian case, we prove the topological character of $G/G$ coset models
+by explicit computation, also finding a natural extension of 2-dimensional BF
+systems with non-Abelian symmetry.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 00:27:08 GMT""}]","2015-06-26"
+"hep-th/9210085","E. Elizalde","A.A. Bytsenko, E. Elizalde, S.D. Odintsov and S. Zerbini","A Novel Representation for the Free Energy in String Theory at Non-Zero
+  Temperature","21 pages, LaTeX file, HUPD-92-12, UB-ECM-PF 92/25, UFT 273-92","Nucl.Phys.B394:423-444,1993","10.1016/0550-3213(93)90021-G",,"hep-th",,"  A novel representation ---in terms of a Laurent series--- for the free energy
+of string theory at non-zero temperature is constructed. The examples of open
+bosonic, open supersymmetric and closed bosonic strings are studied in detail.
+In all these cases the Laurent series representation for the free energy is
+obtained explicitly.
+  It is shown that the Hagedorn temperature arises in this formalism as the
+convergence condition (specifically, the radius of convergence) of the
+corresponding Laurent series. Some prospects for further applications are also
+discussed. In particular, an attempt to describe string theory above the
+Hagedorn temperature ---via Borel analytical continuation of the Laurent series
+representation--- is provided.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 10:22:56 GMT""}]","2009-09-17"
+"hep-th/9210086","Takashi Takebe","Takashi Takebe","Generalized $XYZ$ Model Associated to Sklyanin Algebra$^*$","4pages, AMSTeX amsppt.sty",,,,"hep-th",,"  The free energy of a lattice model, which is a generalization of the
+Heisenberg $XYZ$ model with the higher spin representation of the Sklyanin
+algebra, is calculated by the generalized Bethe Ansatz of Takhtajan and
+Faddeev. (Talk given at the XXI Differential Geometry Methods in Theoretical
+Physics, Tianjin, China 5-9 June 1992)
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 10:37:36 GMT""}]","2007-05-23"
+"hep-th/9210087","Falceto","F. Falceto, K. Gaw\c{e}dzki (IHES, France)","Chern-Simons Theory on the Torus","4 pages",,,,"hep-th",,"  We compute explicitly the Schr\""odinger picture space of states of SU(2)
+Chern-Simons theory on $T^2\times R$ in the presence of temporal Wilson lines.
+Relation with Friedan-Shenker bundle of conformal field theory and the
+existence of a projective flat connection on this bundle is discussed. Talk
+given by the first author at the XIX International Colloquium on Group
+Theoretical Methods in Physics, Salamanca (Spain), June 29-July 4, 1992
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 11:54:54 GMT""}]","2007-05-23"
+"hep-th/9210088",,"F.Belgiorno, A.S.Cattaneo, M.Martellini and F.Fucito","A Conformal Affine Toda Model of 2D Black Holes: A Quantum Study of the
+  Evaporation End-Point","15 pages, phyzzx, ROM-2F-92-52","Mod.Phys.Lett.A8:2593-2605,1993","10.1142/S021773239300297X",,"hep-th",,"  In this paper we reformulate the dilaton-gravity theory of Callan \etal\ as a
+new effective conformal field theory which turns out to be a generalization of
+the so-called $SL_2$-conformal affine Toda (CAT) theory studied some times ago
+by Babelon and Bonora. We quantize this model, thus keeping in account the
+dilaton-gravity quantum effects. We then implement a Renormalization Group
+analysis to study the black hole thermodynamics and the final state of the
+Hawking evaporation.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 14:51:09 GMT""}]","2008-11-26"
+"hep-th/9210089","Harnad John","M.R. Adams, J. Harnad and J. Hurtubise","Darboux Coordinates and Liouville-Arnold Integration in Loop Algebras","61 pgs","Commun. Math. Phys. 155, 385-413 (1993)","10.1007/BF02097398","CRM-1788 (1991)","hep-th",,"  Darboux coordinates are constructed on rational coadjoint orbits of the
+positive frequency part $\wt{\frak{g}}^+$ of loop algebras. These are given by
+the values of the spectral parameters at the divisors corresponding to
+eigenvector line bundles over the associated spectral curves, defined within a
+given matrix representation. A Liouville generating function is obtained in
+completely separated form and shown, through the Liouville-Arnold integration
+method, to lead to the Abel map linearization of all Hamiltonian flows induced
+by the spectral invariants. Serre duality is used to define a natural
+symplectic structure on the space of line bundles of suitable degree over a
+permissible class of spectral curves, and this is shown to be equivalent to the
+Kostant-Kirillov symplectic structure on rational coadjoint orbits. The general
+construction is given for $\frak{g}=\frak{gl}(r)$ or $\frak{sl}(r)$, with
+reductions to orbits of subalgebras determined as invariant fixed point sets
+under involutive automorphisms. The case $\frak{g=sl}(2)$ is shown to reproduce
+the classical integration methods for finite dimensional systems defined on
+quadrics, as well as the quasi-periodic solutions of the cubically nonlinear
+Schr\""odinger equation. For $\frak{g=sl}(3)$, the method is applied to the
+computation of quasi-periodic solutions of the two component coupled nonlinear
+Schr\""odinger equation.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 14:42:10 GMT""}]","2009-10-22"

@@ -1,0 +1,166 @@
+"astro-ph/9211003",,"Federico Ferrini, Bianca Maria Poggianti","Evolution of Elliptical Galaxies: The Multiphase Model","32 pages, Tex. 12 Figures can be sended if requested",,"10.1086/172723",,"astro-ph",,"  We present a multiphase model for the evolution of elliptical galaxies.
+Diffuse gas, molecular clouds, stars and remnants are taken into account.
+Cloud--cloud collisions and stimulated processes are the main causes of star
+formation. The occurrence of winds driven by Supernovae is considered, and the
+evolution of the system is computed also after the first wind, allowing for
+further star formation from the restored gas. The evolution of the abundances
+of 15 elements or isotopes is followed with detailed stellar nucleosynthesis.
+Stellar lifetimes are taken into account and a new IMF has been adopted. The
+gas removal due to the Supernovae explosions depends on the galactic mass and
+the presence of dark matter; the subsequent wind episodes are crucial to the
+intergalactic gas enrichment. Good agreement is obtained for current SNs rates,
+Star Formation Rate and gas masses when compared to the available data.
+","[{""version"":""v1"",""created"":""Sat, 7 Nov 1992 10:47:00 GMT""}]","2009-10-22"
+"gr-qc/9211010",,"S. Deser","Gauge (In)variance, Mass and Parity in D=3 Revisited","11 pages","Directions in general relativity, vol 2 (Cambridge U Press 1993)",,"BRX TH-341","gr-qc",,"  We analyze the degree of equivalence between abelian topologically massive,
+gauge-invariant, vector or tensor parity doublets and their explicitly massive,
+non-gauge, counterparts. We establish equivalence of field equations by
+exploiting a generalized Stueckelberg invariance of the gauge systems. Although
+the respective excitation spectra and induced source-source interactions are
+essentially identical, there are also differences, most dramatic being those
+between the Einstein limits of the interactions in the tensor case: the
+doublets avoid the discontinuity (well-known from D=4) exhibited by Pauli-Fierz
+theory.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 17:30:00 GMT""}]","2009-11-19"
+"hep-lat/9211017","Maarten Golterman","Claude Bernard and Maarten Golterman","The Quenched Approximation in Health and in Sickness","4 pages (sorry, latex error in first version)","Nucl.Phys.Proc.Suppl. 30 (1993) 217-220","10.1016/0920-5632(93)90193-A",,"hep-lat",,"  We present results for physical quantities computed in quenched chiral
+perturbation theory and compare them with the corresponding unquenched
+expressions. We also point out an apparent theoretical problem of the quenched
+approximation. latex, file espcrc2.sty needed (appended at the end: search for
+espcrc2.sty).
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 16:45:42 GMT""}]","2009-10-22"
+"hep-lat/9211018","Arjan Hulsebos","Arjan Hulsebos","Gribov Copies and Other Gauge Fixing Beasties on the Lattice","4 pages","Nucl.Phys.Proc.Suppl. 30 (1993) 539-542","10.1016/0920-5632(93)90268-B",,"hep-lat",,"  Write-up for Lattice'92, held in Amsterdam. preprint LTH 291.
+  Comes with 6 PostScript figures and 1 sty-file. We study the nature of gauge
+fixing ambiguities in two dimensional gauge theories. We find that these
+ambiguities can be related to the asociated spin model. They can be eliminated
+by means of a (multigrid) annealing algorithm.
+","[{""version"":""v1"",""created"":""Sat, 7 Nov 1992 15:39:00 GMT""}]","2009-10-22"
+"hep-ph/9211216","Paul F. Mende","Benjamin Grinstein and Paul F. Mende","On Constraints for Heavy-Meson Form Factors","11 pp.+ 1 postscript figure, harvmac, SSCL-PP-167, BROWN-HET-882","Phys.Lett. B299 (1993) 127-132","10.1016/0370-2693(93)90893-M",,"hep-ph",,"  We examine the recent work of de Rafael and Taron where model-independent
+bounds on the Isgur-Wise function are presented. We first argue that the bounds
+cannot hold in as much generality as implied. We show that the effects of
+resonances omitted in their discussion (such as heavy-heavy ``onium'' states
+below threshold) modify the bound. The resulting bound is much weaker but may
+be useful where the size of the additional contribution may be computed or
+estimated.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 21:55:22 GMT""}]","2009-10-22"
+"hep-ph/9211218","Rudnei De Oliveira Ramos","G.C.Marques and Rudnei O.Ramos","Quantum Corrections to Nucleation Rates","31 pages, 2 figures (not included but available upon request), LATEX,
+  DART-HEP-92/05 REVISED VERSION",,,,"hep-ph",,"  In this paper we show how to compute in a consistent way nucleation rates in
+field theory at finite temperatures, with metastable vacuum. Using the
+semiclassical approach in field theory at finite temperature we show that the
+prefactor term can be calculated explicitly (in the thin-wall approximation)
+and that the same provides exponential finite temperature quamtum corrections
+to nucleation rates, when fluctuations around the bubble field configuration
+are considered.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 16:14:48 GMT""},{""version"":""v2"",""created"":""Tue, 10 Nov 1992 05:28:51 GMT""}]","2008-02-03"
+"hep-ph/9211219","Rudnei De Oliveira Ramos","Marcelo Gleiser and Rudnei O. Ramos","Thermal Fluctuations and Validity of the 1-Loop Effective Potential","15 pages , LATEX, 2 figures (not included but available upon
+  request), DART-HEP-92/08 ``REVISED VERSION''","Phys.Lett. B300 (1993) 271-277","10.1016/0370-2693(93)90365-O",,"hep-ph",,"  We examine the validity of the 1-loop approximation to the effective
+potential at finite temperatures and present a simple test for its reliability.
+As an application we study the standard electroweak potential, showing that for
+a Higgs mass above 70 GeV, and afirly independent of the top mass (with $m_{t}
+> 90 GeV$, the 1-loop approximation is no longer valid for temperatures in the
+neighborhood of the critical temperature.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 16:15:11 GMT""},{""version"":""v2"",""created"":""Tue, 10 Nov 1992 04:40:37 GMT""}]","2009-10-22"
+"hep-ph/9211220","Rudnei De Oliveira Ramos","Rudnei O. Ramos","Critical Temperature for the $\LAMBDA (\PHI^{4})_{4}$ Theory within the
+  $\DELTA$ -Expansion","08 pages, LATEX, DART-HEP-92/07",,,,"hep-ph",,"  We apply the $\delta$-expansion perturbation scheme to the $\lambda \phi_{4}$
+self-interacting scalar field theory in 3+1 D at finite temperature. In the
+$\delta$-expansion the interaction term is written as $\lambda (\phi^{2})^{1 +
+\delta}$ and $\delta$ is considered as the perturbation parameter. We compute,
+in this perturbation approach, the renormalized mass at finite temperature from
+which we get the critical temperature. The results are compared with the usual
+loop-expansion at finite temperature.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 16:15:00 GMT""}]","2007-05-23"
+"hep-ph/9211221","Stefano Forte","Mauro Anselmino and Stefano Forte","Small Angle Polarization in High Energy P--P Scattering Through
+  Nonperturbative Chiral Symmetry Breaking","(13 pages, 2 figures)","Phys.Rev.Lett. 71 (1993) 223-226","10.1103/PhysRevLett.71.223",,"hep-ph",,"  We show that a large anomalous contribution due to nonperturbative
+instanton-like gluonic field configurations to the axial charge of the proton
+implies high-energy spin effects in $p-p$ elastic scattering. This is the same
+mechanism which is responsible for anomalous baryon number violation at high
+energy in the standard model. We compute the proton polarization due to these
+effects and we show that it is proportional to the center-of-mass scattering
+angle with a universal (energy-independent) slope of order unity.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 18:50:53 GMT""}]","2009-10-22"
+"hep-ph/9211222","Michael Luke","Adam F. Falk, Michael Luke and Mark B. Wise","Analyticity and the Isgur-Wise Function","8 pages, uses harvmac, SLAC-PUB-5956, UCSD/PTH 92-35, CALT-68-1830","Phys.Lett.B299:123-126,1993","10.1016/0370-2693(93)90892-L",,"hep-ph",,"  We reconsider the recent derivation by de Rafael and Taron of bounds on the
+slope of the Isgur-Wise function. We argue that one must be careful to include
+cuts starting below the heavy meson pair production threshold, arising from
+heavy quark-antiquark bound states, and that if such cuts are properly
+accounted for then no constraints may be derived.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 19:04:15 GMT""}]","2010-11-01"
+"hep-ph/9211223",,"Thomas Appelquist and John Terning","On the Limits of Chiral Perturbation Theory","13 pages, Latex, YCTP-P41-92; we have clarified some of the
+  discussions, the conclusions are unchanged","Phys.Rev. D47 (1993) 3075-3078","10.1103/PhysRevD.47.3075",,"hep-ph",,"  We consider the relation between the breakdown scale of chiral perturbation
+theory, $\Lambda_\chi$, for large values of $N$ (flavor), and the scale
+associated with ``new"" physical thresholds. This question is addressed using
+both the linear $\sigma$ model and an asymptotically-free gauge theory to
+describe the high energy dynamics. It is suggested that the massive physical
+threshold could be well above $\Lambda_\chi$.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 20:10:26 GMT""},{""version"":""v2"",""created"":""Tue, 17 Nov 1992 22:31:36 GMT""}]","2009-10-22"
+"hep-ph/9211224",,"N.G. Deshpande, E. Keith, and Palash B. Pal","SU(16) grandunification: breaking scales, proton decay and neutrino
+  magnetic moment","(16 pages in REVTEX + 6 figures not included) OITS-493","Phys.Rev. D47 (1993) 2897-2904","10.1103/PhysRevD.47.2897",,"hep-ph",,"  We give a detailed renormalization group analysis for the SU(16) grandunified
+group with general breaking chains in which quarks and leptons transform
+separately at intermediate energies. Our analysis includes the effects of Higgs
+bosons. We show that the grandunification scale could be as low as $\sim
+10^{8.5}$ GeV and give examples where new physics could exist at relatively low
+energy ($\sim 250$ GeV). We consider proton decay in this model and show that
+it is consistent with a low grandunification scale. We also discuss the
+possible generation of a neutrino magnetic moment in the range of $10^{-11}$ to
+$10^{-10}\mu_B$ with a very small mass by the breaking of the embedded
+SU(2)$_\nu$ symmetry at a low energy.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 21:29:06 GMT""}]","2009-10-22"
+"hep-ph/9211225",,"J.-L. Basdevant, E. L. Berger, D. Dicus, C. Kao and S. Willenbrock","Final-State Interaction of Longitudinal Vector Bosons","15 pages, FERMILAB--PUB--92/27--T","Phys.Lett.B313:402-410,1993","10.1016/0370-2693(93)90010-F",,"hep-ph",,"  In the standard Higgs model of electroweak symmetry breaking, the Higgs boson
+is associated with both vector-boson and fermion mass generation. In contrast,
+we discuss a two-Higgs-doublet model in which these masses are associated with
+two different scalar bosons. We show that the Higgs boson associated with
+vector-boson mass generation produces a {\it dip\/} in the cross section for
+$t\bar t\to ZZ$ via a final-state interaction. Such a dip will be difficult to
+observe at the LHC/SSC.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 21:22:47 GMT""}]","2008-11-26"
+"hep-ph/9211226","Mark Sutherland","B. Holdom and M. Sutherland","Simply Modeling Meson HQET","17 pages, LaTeX, 3 LaTeX figures in separate file, UTPT-92-16. This
+  is the version published long ago but not previously archived","Phys.Rev. D47 (1993) 5067-5074","10.1103/PhysRevD.47.5067",,"hep-ph",,"  A simple relativistic model of heavy-quark-light-quark mesons is proposed. In
+an expansion in inverse powers of the heavy quark mass we find that all zeroth
+and first order heavy quark symmetry relations are satisfied. The main results
+are: - the difference between the meson mass and the heavy quark mass plays a
+significant role even at zeroth order; - the slope of the Isgur-Wise function
+at the zero recoil point is typically less than $-1$; - the first order
+correction to the pseudoscalar decay constant is large and negative; - the four
+universal functions describing the first order corrections to the semileptonic
+decay form factors are small; - these latter corrections are quite insensitive
+to the choice of model parameters, and in particular to the effects of
+hyperfine mass splitting.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 22:38:31 GMT""},{""version"":""v2"",""created"":""Thu, 17 Dec 1992 17:57:04 GMT""},{""version"":""v3"",""created"":""Fri, 21 Oct 1994 21:27:01 GMT""}]","2009-10-22"
+"hep-th/9211033",,"Silvia Penati and Daniela Zanon","Quantum symmetries in supersymmetric Toda theories","19 pages, IFUM 435/FT",,,,"hep-th",,"  : We consider two--dimensional supersymmetric Toda theories based on the Lie
+superalgebras $A(n,n)$, $D(n+1,n)$ and $B(n,n)$ which admit a fermionic set of
+simple roots and a fermionic untwisted affine extension. In particular, we
+concentrate on two simple examples, the $B(1,1)$ and $A(1,1)$ theories. Both in
+the conformal and massive case we address the issue of quantum integrability by
+constructing the first non trivial conserved currents and proving their
+conservation to all--loop orders. While the $D(n+1,n)$ and $B(n,n)$ systems are
+genuine $N=1$ supersymmetric theories, the $A(n,n)$ models possess a global
+$N=2$ supersymmetry. In the conformal case, we show that the $A(n,n)$
+stress--energy tensor, uniquely determined by the holomorphicity condition, has
+vanishing central charge and it corresponds to the stress--energy tensor of the
+associated topological theory. (Invited talk at the International Workshop
+``String theory, quantum gravity and the unification of the fundamental
+interactions'', Roma, September 1992)
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 16:45:00 GMT""}]","2007-05-23"
+"hep-th/9211034","Andreas Recknagel","W. Nahm, A. Recknagel and M. Terhoeven","Dilogarithm Identities in Conformal Field Theory","14 pages, BONN-preprint. (a few minor changes, two major corrections
+  in chapter 3, namely: (3.10) only holds in the case of the A series,
+  Goncharovs conjecture is not an equivalence but rather an implication and a
+  theorem)","Mod.Phys.Lett. A8 (1993) 1835-1848","10.1142/S0217732393001562",,"hep-th",,"  Dilogarithm identities for the central charges and conformal dimensions exist
+for at least large classes of rational conformally invariant quantum field
+theories in two dimensions. In many cases, proofs are not yet known but the
+numerical and structural evidence is convincing. In particular, close relations
+exist to fusion rules and partition identities. We describe some examples and
+ideas, and present some conjectures useful for the classification of conformal
+theories. The mathematical structures seem to be dual to Thurston's program for
+the classification of 3-manifolds.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 20:11:28 GMT""},{""version"":""v2"",""created"":""Fri, 13 Nov 1992 14:10:03 GMT""}]","2009-10-22"
+"hep-th/9211035","Kimyeong Lee","Yoonbai Kim and Kimyeong Lee","Vortex Dynamics in Self-Dual Chern-Simons Higgs Systems","36 pages and three figures (available under request), Columbia and
+  CERN preprint","Phys.Rev. D49 (1994) 2041-2054","10.1103/PhysRevD.49.2041",,"hep-th",,"  We consider vortex dynamics in self-dual Chern-Simons Higgs systems. We show
+that the naive Aharanov-Bohm phase is the inverse of the statistical phase
+expected from the vortex spin, and that the self-dual configurations of
+vortices are degenerate in energy but not in angular momentum. We also use the
+path integral formalism to derive the dual formulation of Chern-Simons Higgs
+systems in which vortices appear as charged particles. We argue that besides
+the electromagnetic interaction, there is an additional interaction between
+vortices, the so-called Magnus force, and that these forces can be put together
+into a single `dual electromagnetic' interaction. This dual electromagnetic
+interaction leads to the right Aharanov-Bohm phase. We also derive and study
+the effective action for slowly moving vortices, which contains terms both
+linear and quadratic in the vortex velocity.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 20:22:30 GMT""}]","2009-10-22"

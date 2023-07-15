@@ -1,0 +1,281 @@
+"gr-qc/9211020",,"J. W. Moffat","Superluminary Universe: A Possible Solution to the Initial Value Problem
+  in Cosmology","Updated version (with the exception of two figures not included) of
+  paper published in: International Journal of Modern Physics D, Vol. 2, No. 3
+  (1993) 351-365","Int.J.Mod.Phys.D2:351-366,1993","10.1142/S0218271893000246","UTPT-92-14","gr-qc astro-ph hep-th",,"  The spontaneous breaking of local Lorentz invariance in the early Universe,
+associated with a first order phase transition at a critical time $t_c$,
+generates a large increase in the speed of light and a superluminary
+communication of information occurs, allowing all regions in the Universe to be
+causally connected. This solves the horizon problem, leads to a mechanism of
+monopole suppression in cosmology and can resolve the flatness problem. After
+the critical time $t_c$, local Lorentz (and diffeomorphism) invariance is
+restored and light travels at its presently measured speed. The kinematical and
+dynamical aspects of the generation of quantum fluctuations in the
+superluminary Universe are investigated. A scale invariant prediction for the
+fluctuation density amplitude is obtained.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 23:07:25 GMT""},{""version"":""v2"",""created"":""Sat, 14 Nov 1998 23:08:43 GMT""}]","2008-11-26"
+"hep-lat/9211043","Andreas Kronfeld","Andreas S. Kronfeld","The Charm Quark on the Lattice","4 pages LaTeX using espcrc2.sty and epsf.sty. FERMILAB-CONF-92/329-T","Nucl.Phys.Proc.Suppl. 30 (1993) 445-448","10.1016/0920-5632(93)90246-3",,"hep-lat",,"  We formulate lattice fermions in a way that encompasses Wilson fermions as
+well as the static and non-relativistic approximations. In particular, we treat
+$m_qa$ systematically ($m_q$ is the fermion mass) showing how to understand the
+Wilson action as an effective action for systems with $\vek{p}\ll m_q$. The
+results show how to extract matrix elements and the spectrum from simulations
+with $m_qa\approx1$, which is relevant for the charm quark.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 21:59:47 GMT""}]","2009-10-22"
+"hep-lat/9211044","Erwin Gerstenmayer","W. Beirl, E. Gerstenmayer, H. Markum and J. Riedler","Gravitational Action Versus Entropy on Simplicial Lattices in Four
+  Dimensions","5 pages","Nucl. Phys. Proc. Suppl. 30 (1993) 764","10.1016/0920-5632(93)90320-6",,"hep-lat",,"  We investigate quantum gravity on simplicial lattices using Regge calculus
+with special emphasize on the problem of the unbounded action. The role of the
+entropy for the path integral is discussed in detail. Our numerical results
+show further evidence for the existence of an entropy dominated region with
+well defined expectation values even for unbounded action. Analyses are
+performed both for the standard regular triangulation of the 4-torus and for
+irregularly triangulated lattices obtained by insertion of vertices using
+barycentric subdivision.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 12:45:57 GMT""}]","2009-10-22"
+"hep-lat/9211045","David Richards","UKQCD Collaboration, presented by David Richards","Charmed Meson Spectroscopy and Matrix Elements with an O(a)-Improved
+  Clover Fermion Action","at Lattice '92, 4 pages latex + 3 postscript figures, Edinburgh
+  Preprint 92/518","Nucl.Phys.Proc.Suppl. 30 (1993) 389-392","10.1016/0920-5632(93)90234-W",,"hep-lat",,"  We present preliminary results for the spectrum and decay matrix elements for
+heavy-light and heavy-heavy mesons, obtained on the 64-node Meiko Computing
+Surface at the University of Edinburgh. Quark propagators are computed with an
+O(a)-improved fermion action on 24^3x48 lattices at beta = 6.2, using three
+values of the quark mass up to around the strange quark mass, and four values
+of the quark mass in the region of the charm quark mass. We compare results for
+the hyperfine splitting in charmonium with those obtained using the
+conventional Wilson fermion action and find that the splitting is 1.83(15)
+times larger with the improved action. Our measurements of f_B indicate
+non-scaling corrections of the order of 20% to the Heavy Quark Effective Theory
+expectation. A comparison is made with results obtained on 16^3x48 lattices at
+beta = 6.0.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 10:03:01 GMT""}]","2019-06-05"
+"hep-ph/9211250",,"N. G. Stefanis and M. Bergmann","On the Nucleon Distribution Amplitude: The Heterotic Solution","15 pages, RUB-TPII-21/92 Preprint","Phys.Rev.D47:3685-3689,1993","10.1103/PhysRevD.47.R3685",,"hep-ph",,"  We present a new nucleon distribution amplitude which amalgamates features of
+the Chernyak-Ogloblin-Zhitnitsky model with those of the Gari-Stefanis model.
+This ""heterotic"" solution provides the possibility to have asymptotically a
+small ratio \hbox{$\vert G_{M}^{n}\vert/G_{M}^{p}\le 0.1$}, while fulfilling
+most of the sum-rule requirements up to the third order. Using this nucleon
+distribution amplitude we calculate the electromagnetic and weak nucleon form
+factors, the transition form factor $\gamma p \Delta^{+}$ and the decay widths
+of the charmonium levels $^3S_{1}$, $^3P_{1}$, and $^3P_{2}$ into $p\bar p$.
+The agreement with the available data is remarkable in all cases.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 17:10:00 GMT""}]","2009-12-30"
+"hep-ph/9211251",,"N. G. Stefanis and M. Bergmann","Analysis of $\Delta^{+}(1232)$ Isobar Observables, with Improved Quark
+  Distribution Amplitudes","15 pages, RUB-TPII-22/92 Preprint","Phys.Lett. B304 (1993) 24-28","10.1016/0370-2693(93)91393-2",,"hep-ph",,"  A model distribution amplitude for the $\Delta^{+}(1232)$ isobar is proposed,
+derived on the basis of the QCD sum-rule calculations of Farrar et al. combined
+with those of Carlson and Poor. The transition form factor $\gamma p\Delta^{+}$
+is calculated modeling the proton by selected distribution amplitudes.
+Furthermore, predictions are made for some exclusive charmonium decays into
+$\Delta\bar{\Delta}$. The obtained results are compared with other theoretical
+models and with the available data.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 17:17:00 GMT""}]","2009-10-22"
+"hep-ph/9211252",,"S. Jadach, B.F.L. Ward and S.A. Yost","Exact Results on e+ e- --> e+ e- + 2 Photons at SLC/LEP Energies","16 pages(LaTeX), UTHEP-92-0601 (contains corrected figures)","Phys.Rev. D47 (1993) 2682-2689","10.1103/PhysRevD.47.2682",,"hep-ph",,"  We use the spinor methods of the CALKUL collaboration, as realized by Xu,
+Zhang and Chang, to calculate the differential cross section for e+ e- --> e+
+e- + 2 photons for c.m.s. energies in the SLC/LEP regime. An explicit complete
+formula for the respective cross section is obtained. The leading log
+approximation is used to check the formula. Applications of the formula to high
+precision luminosity calculations at SLC/LEP are discussed.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 16:20:38 GMT""},{""version"":""v2"",""created"":""Wed, 30 Mar 1994 21:30:09 GMT""}]","2009-10-22"
+"hep-ph/9211253",,"Geoffrey T. Bodwin, Eric Braaten, G. Peter Lepage","Rigorous QCD Predictions for Decays of P-Wave Quarkonia","(minor revisions to clarify concepts, fix typos), 4 pages,
+  ANL-HEP-CP-92-109",,,,"hep-ph",,"  We present a new factorization theorem for the decay rates of P-wave states
+of heavy quarkonia. Infrared logarithms that had appeared in previous
+perturbative calculations of P-wave decays are absorbed into a quantity that is
+related to the amplitude for the heavy quark and antiquark to be in a relative
+color-octet S-wave state. We predict all of the light-hadronic and
+electromagnetic decays rates of the $\chi_c$ and $h_c$ states in terms of two
+phenomenological parameters.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 00:11:33 GMT""},{""version"":""v2"",""created"":""Tue, 17 Nov 1992 20:54:44 GMT""},{""version"":""v3"",""created"":""Wed, 25 Nov 1992 23:55:03 GMT""}]","2008-02-03"
+"hep-ph/9211254",,"Hung Jung Lu and Stanley J. Brodsky","Relating Physical Observables in QCD without Scale-Scheme Ambiguity","Plain TEX, 4 figures (available upon request), 22 pages,
+  DOE/ER/40322-178","Phys.Rev.D48:3310-3318,1993","10.1103/PhysRevD.48.3310",,"hep-ph",,"  We discuss the St\""uckelberg-Peterman extended renormalization group
+equations in perturbative QCD, which express the invariance of physical
+observables under renormalization-scale and scheme-parameter transformations.
+We introduce a universal coupling function that covers all possible choices of
+scale and scheme. Any perturbative series in QCD is shown to be equivalent to a
+particular point in this function. This function can be computed from a set of
+first-order differential equations involving the extended beta functions. We
+propose the use of these evolution equations instead of perturbative series for
+numerical evaluation of physical observables. This formalism is free of
+scale-scheme ambiguity and allows a reliable error analysis of higher-order
+corrections. It also provides a precise definition for $\Lambda_{\overline{\rm
+MS}}$ as the pole in the associated 't Hooft scheme. A concrete application to
+$R(e^+e^- \to {\rm hadrons})$ is presented.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 22:43:49 GMT""}]","2009-09-11"
+"hep-ph/9211255","Felix Schlumpf","Felix Schlumpf","Relativistic Constituent Quark Model for Baryons","(latex, 76 pp, 16 figures, ps-file available) PhD Thesis, Zurich,
+  July 1992",,,,"hep-ph nucl-th",,"  The electroweak properties of nucleons and hyperons are calculated in a
+relativistic constituent quark model. The baryons are treated as three quark
+bound states, and the diagrams of perturbation theory are considered on the
+light front. The electroweak properties of the baryons are of nonperturbative
+nature and can be represented by one-loop diagrams. We consider different
+extensions of the simplest model: quark form factors, configuration mixing of
+the wave function, asymmetric wave function, wave function different from the
+one of a harmonic oscillator valid up to energies of more than 30 GeV$^2$. A
+comprehensive study of various baryonic properties is given: elastic form
+factors of the nucleon, magnetic moments of the baryon octet, semileptonic weak
+form factors. This analysis also gives the Kobayashi-Maskawa matrix element
+$V_{us}$ and a sound symmetry breaking scheme for the Cabibbo theory. A
+consistent physical picture appears in this work. The nucleon consists of an
+unmixed, symmetric three quark state, the wave function of the hyperons is
+however asymmetric with a spin-isospin-0 diquark. Only for the
+strangeness-changing weak decay do we need nontrivial form factors.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 23:19:44 GMT""}]","2009-09-25"
+"hep-ph/9211256","JoAnne Hewett","J.L. Hewett","Can $b\to s\gamma$ Close the Supersymmetric Higgs Production Window?","8 pages plus 3 figures (available by request), latex,
+  ANL-HEP-PR-92-110. Substantial revision to text, results unchanged","Phys.Rev.Lett.70:1045-1048,1993","10.1103/PhysRevLett.70.1045",,"hep-ph",,"  We show that the present limit from CLEO on the inclusive decay $b\to
+s\gamma$ provides strong constraints on the parameters of the charged Higgs
+sector in two-Higgs-Doublet-Models. Only a slight improvement in the
+experimental bound will exclude the region in the Supersymmetric Higgs
+parameter space which is inaccessible to collider searches.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 01:30:11 GMT""},{""version"":""v2"",""created"":""Wed, 18 Nov 1992 21:05:21 GMT""}]","2010-11-01"
+"hep-ph/9211257",,"L. Nellen, K. Mannheim, P.L. Biermann","Neutrino production through hadronic cascades in AGN accretion disks","12 Pages, LaTeX, TK 92 08","Phys.Rev.D47:5270-5274,1993","10.1103/PhysRevD.47.5270",,"hep-ph astro-ph",,"  We consider the production of neutrinos in active galactic nuclei (AGN)
+through hadronic cascades. The initial, high energy nucleons are accelerated in
+a source above the accretion disk around the central black hole. From the
+source, the particles diffuse back to the disk and initiate hadronic cascades.
+The observable output from the cascade are electromagnetic radiation and
+neutrinos. We use the observed diffuse background X-ray luminosity, which
+presumably results {}from this process, to predict the diffuse neutrino flux
+close to existing limits from the Frejus experiment. The resulting neutrino
+spectrum is $E^{-2}$ down to the $\GeV$ region. We discuss modifications of
+this scenario which reduce the predicted neutrino flux.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 11:09:31 GMT""}]","2009-02-18"
+"hep-ph/9211258",,"J. C. Rom\~ao, J. L. Diaz-Cruz, F. de Campos and J. W. F. Valle","Detection of Intermediate Mass Higgs Bosons from Spontaneously Broken R
+  Parity Supersymmetry","Latex (Matex included), 13 pag.(figures not included), FTUV/92-30
+  IFIF/92-38","Mod.Phys.Lett.A9:817-828,1994","10.1142/S0217732394000642",,"hep-ph",,"  The Higgs sector in spontaneously broken R Parity supersymmetry (RPSUSY)
+shows interesting features that require new search techniques. Both the mass
+spectrum and production rates may differ from the standard model and minimal
+supersymmetric model (MSSM) expectations. For some parameter choices, the
+dominant Higgs boson decay mode can even be invisible, leading to events with
+large missing transverse momentum carried by superweakly interacting majorons.
+We study the reaction $pp \ra Z + H + X$, and find that it canlead to
+detectable events at LHC/SSC for a large region of parameter space.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 15:28:00 GMT""}]","2009-09-17"
+"hep-ph/9211266","J. A. Casas","B. de Carlos, J.A. Casas and C. Mu\~noz","Soft SUSY Breaking Terms in Stringy Scenarios: Computation and
+  Phenomenological Viability","18 pages, CERN-TH.6681/92","Phys.Lett.B299:234-246,1993","10.1016/0370-2693(93)90254-F",,"hep-ph hep-th",,"  We calculate the soft SUSY breaking terms arising from a large class of
+string scenarios, namely symmetric orbifold constructions, and study its
+phenomenological viability. They exhibit a certain lack of universality, unlike
+the usual assumptions of the minimal supersymmetric standard model. Assuming
+gaugino condensation in the hidden sector as the source of SUSY breaking, it
+turns out that squark and slepton masses tend to be much larger than gaugino
+masses. Furthermore, we show that these soft breaking terms can be perfectly
+consistent with both experimental and naturalness constraints (the latter comes
+from the absence of fine tuning in the $SU(2)\times U(1)_Y\rightarrow
+U(1)_{em}$ breaking process). This is certainly non--trivial and in fact
+imposes interesting constraints on measurable quantities. More precisely, we
+find that the gluino mass ($M_3$) and the chargino mass ($M_{\chi^{\pm}}$)
+cannot be much higher than their present experimental lower bounds
+($M_3\stackrel{<}{{}_\sim}285\ $GeV ; $M_{\chi^\pm}\stackrel{<}{{}_\sim}80\
+$GeV), while squark and slepton masses must be much larger
+($\stackrel{>}{{}_\sim} 1\ $TeV). This can be considered as an observational
+signature of this kind of stringy scenarios. Besides, the top mass is
+constrained to be within a range ($80\
+$GeV$\stackrel{<}{{}_\sim}m_t\stackrel{<}{{}_\sim}165\ $GeV)
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 11:49:50 GMT""}]","2010-04-06"
+"hep-th/9211067","Jae-Suk Park","Jae-Suk Park","BRST and Anti-BRST Quantization of Topological Yang-Mills Theory","16 pages (Withdrawn: This paper turns out incomplete and even
+  misleading. I must apologize to all of the recipients.)",,,"ESENAT-92-09","hep-th",,"  (Withdrawn: This paper turns out incomplete and even misleading. I must
+apologize to all of the recipients.)
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 21:43:00 GMT""},{""version"":""v2"",""created"":""Thu, 19 Nov 1992 10:08:00 GMT""},{""version"":""v3"",""created"":""Thu, 8 Apr 1993 09:06:00 GMT""}]","2020-01-21"
+"hep-th/9211069","Michael P. Tuite","Michael P. Tuite","Monstrous Moonshine and the uniqueness of the Moonshine module","12 pages, DIAS-STP-92-29",,,,"hep-th",,"  In this talk we consider the relationship between the conjectured uniqueness
+of the Moonshine module of Frenkel, Lepowsky and Meurman and Monstrous
+Moonshine, the genus zero property for Thompson series discovered by Conway and
+Norton. We discuss some evidence to support the uniqueness of the Moonshine
+module by considering possible alternative orbifold constructions from a Leech
+lattice compactified string. Within these constructions we find a new
+relationship between the centralisers of the Monster group and the Conway group
+generalising an observation made by Conway and Norton. We also relate the
+uniqueness of the Moonshine module to Monstrous Moonshine and argue that given
+this uniqueness, then the genus zero properties hold if and only if orbifolding
+the Moonshine module with respect to a Monster element reproduces the Moonshine
+module or the Leech theory. (Talk presented at the Nato Advanced Research
+Workshop on `Low dimensional topology and quantum field theory`, Cambridge,
+6-13 Sept 1992)
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 16:32:00 GMT""}]","2007-05-23"
+"hep-th/9211070","Jeremy Schiff","Jeremy Schiff","Self-Dual Yang-Mills and the Hamiltonian Structures of Integrable
+  Systems","19 pages, no figures, plain tex, IASSNS-HEP-92/34",,,,"hep-th",,"  In recent years it has been shown that many, and possibly all, integrable
+systems can be obtained by dimensional reduction of self-dual Yang-Mills. I
+show how the integrable systems obtained this way naturally inherit
+bihamiltonian structure. I also present a simple, gauge-invariant formulation
+of the self-dual Yang-Mills hierarchy proposed by several authors, and I
+discuss the notion of gauge equivalence of integrable systems that arises from
+the gauge invariance of the self-duality equations (and their hierarchy); this
+notion of gauge equivalence may well be large enough to unify the many diverse
+existing notions.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 16:35:56 GMT""}]","2016-09-06"
+"hep-th/9211071",,"A.Cappelli, G.V.Dunne, C.A.Trugenberger and G.R.Zemba","Conformal Symmetry and Universal Properties of Quantum Hall States","39 pages, 7 figures (not included, they are mailed on request),
+  harvmac CERN-TH 6702/92","Nucl.Phys. B398 (1993) 531-567","10.1016/0550-3213(93)90603-M",,"hep-th cond-mat",,"  The low-lying excitations of a quantum Hall state on a disk geometry are edge
+excitations. Their dynamics is governed by a conformal field theory on the
+cylinder defined by the disk boundary and the time variable. We give a simple
+and detailed derivation of this conformal field theory for integer filling,
+starting from the microscopic dynamics of $(2+1)$-dimensional non-relativistic
+electrons in Landau levels. This construction can be generalized to describe
+Laughlin's fractional Hall states via chiral bosonization, thereby making
+contact with the effective Chern-Simons theory approach. The conformal field
+theory dictates the finite-size effects in the energy spectrum. An experimental
+or numerical verification of these universal effects would provide a further
+confirmation of Laughlin's theory of incompressible quantum fluids.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 17:24:47 GMT""}]","2009-10-22"
+"hep-th/9211072","Bong Lian","Bong H. Lian and Gregg J. Zuckerman","New Perspectives on the BRST-algebraic Structure of String Theory","40 pages, (2 figures available upon request), Yale-Math preprint","Commun.Math.Phys. 154 (1993) 613-646","10.1007/BF02102111",,"hep-th",,"  Motivated by the descent equation in string theory, we give a new
+interpretation for the action of the symmetry charges on the BRST cohomology in
+terms of what we call {\em the Gerstenhaber bracket}. This bracket is
+compatible with the graded commutative product in cohomology, and hence gives
+rise to a new class of examples of what mathematicians call a {\em Gerstenhaber
+algebra}. The latter structure was first discussed in the context of Hochschild
+cohomology theory \cite{Gers1}. Off-shell in the (chiral) BRST complex, all the
+identities of a Gerstenhaber algebra hold up to homotopy. Applying our theory
+to the c=1 model, we give a precise conceptual description of the
+BRST-Gerstenhaber algebra of this model. We are led to a direct connection
+between the bracket structure here and the anti-bracket formalism in BV theory
+\cite{W2}. We then discuss the bracket in string backgrounds with both the left
+and the right movers. We suggest that the homotopy Lie algebra arising from our
+Gerstenhaber bracket is closely related to the HLA recently constructed by
+Witten-Zwiebach. Finally, we show that our constructions generalize to any
+topological conformal field theory.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 20:05:21 GMT""}]","2009-10-22"
+"hep-th/9211073","Gerald Cleaver","Gerald B. Cleaver and David C. Lewellen","On Modular Invariant Partition Functions for Tensor Products of
+  Conformal Field Theories","13 pages, NSF-ITP-92-148, CALT-68-1754, phyzzx","Phys.Lett. B300 (1993) 354-360","10.1016/0370-2693(93)91345-N",,"hep-th",,"  We give two results concerning the construction of modular invariant
+partition functions for conformal field theories constructed by tensoring
+together other conformal field theories. First we show how the possible modular
+invariants for the tensor product theory are constrained if the allowed modular
+invariants of the individual conformal field theory factors have been
+classified. We illustrate the use of these constraints for theories of the type
+$SU(2)_{K_A}\otimes SU(2)_{K_B}$, finding all consistent theories for $K_A,K_B$
+odd. Second we show how known diagonal modular invariants can be used to
+construct some inherently asymmetric ones where the holomorphic and
+anti-holomorphic theories do not share the same chiral algebra. Some explicit
+examples are given.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 21:32:15 GMT""}]","2009-10-22"
+"hep-th/9211074",,"Franco Ferrari","Multivalued Fields on the Complex Plane and Braid Group Statistics","11 pages (requires the macro Harvmac), Preprint LMU-TPW 92-24","Int.J.Mod.Phys. A9 (1994) 313-326","10.1142/S0217751X94000145",,"hep-th",,"  We study in this paper a theory of free anyons associated to free conformal
+field theories defined on Riemann surfaces with a discrete and nonabelian group
+of authomorphisms. The particles are exchanged according to a nonabelian
+statistics, in which the $R-$matrix satisfy a multiparametric generalization of
+the usual Yang$-$Baxter equations.
+","[{""version"":""v1"",""created"":""Mon, 16 Nov 1992 21:16:29 GMT""}]","2015-06-26"
+"hep-th/9211075","Stephen Hwang","Stephen Hwang and Patrick Roberts","Interaction and modular invariance of strings on curved manifolds","16 pages, G\'oteborg ITP 92-50, latex file",,,,"hep-th",,"  We review and present new results for a string moving on an $SU(1,1)$ group
+manifold. We discuss two classes of theories which use discrete
+representations. For these theories the representations forbidden by unitarity
+decouple and, in addition, one can construct modular invariant partition
+functions. The partion functions do, however, contain divergencies due to the
+time-like direction of the $SU(1,1)$ manifold. The two classes of theories have
+the corresponding central charges $c=9,6,5,9/2,\ldots$ and
+$c=9,15,21,27,\ldots$. Subtracting two from the latter series of central
+charges we get the Gervais-Neveu series $c-2=7,13,19,25$. This suggests a
+relationship between the $SU(1,1)$ string and the Liouville theory, similar to
+the one found in the $c=1$ string. Modular invariance is also demonstrated for
+the principal continous representations. Furthermore, we present new results
+for the Euclidean coset $SU(1,1)/U(1)$. The same two classes of theories will
+be possible here and will have central charges $c=8,5,4,\dots$ and
+$c=8,14,20,26,\ldots$, where the latter class includes the critical 2d black
+hole. The partition functions for the coset theory are convergent.(Talk
+presented by S.H. at the 16'th Johns Hopkins' Workshop, G\""oteborg, Sweden,
+June 8-10, 1992)
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 09:56:36 GMT""}]","2007-05-23"
+"hep-th/9211076","Anton Rebhan","D.G.C. McKeon and A. Rebhan","Thermal Green's Functions from Quantum Mechanical Path Integrals","13 p., uses REVTEX (updated to REVTEX v3.0; minor corrections and
+  extensions) TUW-92-18","Phys.Rev.D47:5487-5493,1993","10.1103/PhysRevD.47.5487",,"hep-th hep-ph",,"  In this paper it is shown how the generating functional for Green's functions
+in relativistic quantum field theory and in thermal field theory can be
+evaluated in terms of a standard quantum mechanical path integral. With this
+calculational approach one avoids the loop-momentum integrals usually
+encountered in Feynman perturbation theory, although with thermal Green's
+functions, a discrete sum (over the winding numbers of paths with respect to
+the circular imaginary time) must be computed. The high-temperature expansion
+of this sum can be performed for all Green's functions at the same time, and is
+particularly simple for the static case. The procedure is illustrated by
+evaluating the two-point function to one-loop order in a $\phi^3_6$ model.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 11:52:33 GMT""},{""version"":""v2"",""created"":""Wed, 20 Jan 1993 10:09:26 GMT""},{""version"":""v3"",""created"":""Fri, 7 May 1993 08:14:12 GMT""}]","2011-07-19"
+"math/9211215","Marco Martens","Marco Martens","Distortion results and invariant cantor sets of unimodal maps",,,,"Stony Brook IMS 1992/17","math.DS",,"  A distortion theory is developed for $S-$unimodal maps. It will be used to
+get some geometric understanding of invariant Cantor sets. In particular
+attracting Cantor sets turn out to have Lebesgue measure zero. Furthermore the
+ergodic behavior of $S-$unimodal maps is classified according to a distortion
+property, called the Markov-property.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 00:00:00 GMT""}]","2009-09-25"

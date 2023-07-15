@@ -1,0 +1,21 @@
+"hep-th/9204083",,"Edward Witten","Two Dimensional Gauge Theories Revisited","80 pp","J.Geom.Phys.9:303-368,1992","10.1016/0393-0440(92)90034-X",,"hep-th",,"  Topological gravity is equivalent to physical gravity in two dimensions in a
+way that is still mysterious, though by now it has been proved by Kontsevich.
+In this paper it is shown that a similar relation between topological and
+physical Yang-Mills theory holds in two dimensions; in this case, however, the
+relation can be explained by a direct mapping between the two path integrals.
+This (1) explains many strange facts about two dimensional Yang-Mills theory,
+like the way the partition function can be expressed exactly as a sum over
+classical solutions, including unstable ones; (2) makes the corresponding
+topological theory completely computable.
+","[{""version"":""v1"",""created"":""Fri, 24 Apr 1992 16:26:00 GMT""}]","2010-04-07"
+"hep-th/9204084","David Lowe","David A. Lowe","Unitarity Relations in c=1 Liouville Theory","14 pages, 3 figures (not included), phyzzx","Mod.Phys.Lett.A7:2647-2657,1992","10.1142/S0217732392004122",,"hep-th",,"  We consider the S-matrix of c=1 Liouville theory with vanishing cosmological
+constant. We examine some of the constraints imposed by unitarity. These
+completely determine (N,2) amplitudes at tree level in terms of the (N,1)
+amplitudes when the plus tachyon momenta take generic values. A surprising
+feature of the matrix model results is the lack of particle creation branch
+cuts in the higher genus amplitudes. In fact, we show the naive field theory
+limit of Liouville theory would predict such branch cuts. However, unitarity in
+the full string theory ensures that such cuts do not appear in genus one (N,1)
+amplitudes. We conclude with some comments about the genus one (N,2)
+amplitudes.
+","[{""version"":""v1"",""created"":""Fri, 24 Apr 1992 18:33:21 GMT""}]","2014-11-18"

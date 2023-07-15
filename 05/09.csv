@@ -1,0 +1,101 @@
+"astro-ph/9205005","Mark Srednicki","R. Rangarajan and M. Srednicki","Chaotic Dark Matter","5 pages","Phys.Rev. D46 (1992) 3350-3351","10.1103/PhysRevD.46.3350",,"astro-ph",,"  A very weakly coupled scalar field with mass $m$ and initial vacuum
+expectation value $V$ will provide enough mass to close the universe provided
+$V\simeq (3\times 10^8\gev)(100\gev/m)^{1/4}$. We discuss possible models in
+which such a field could arise.
+","[{""version"":""v1"",""created"":""Sat, 9 May 1992 00:53:47 GMT""}]","2009-10-22"
+"hep-lat/9205008","Andreas S. Kronfeld","A.S. Kronfeld","Dynamics of Langevin Simulation","20 pp","Prog.Theor.Phys.Suppl.111:293-312,1993","10.1143/PTPS.111.293",,"hep-lat",,"  This chapter [of a supplement to Prog. Theo. Phys.] reviews numerical
+simulations of quantum field theories based on stochastic quantization and the
+Langevin equation. The topics discussed include renormalization of finite
+step-size algorithms, Fourier acceleration, and the relation of the Langevin
+equation to hybrid stochastic algorithms and hybrid Monte Carlo.
+","[{""version"":""v1"",""created"":""Fri, 8 May 1992 19:15:52 GMT""}]","2008-11-26"
+"hep-ph/9205210",,"J. Bijnens, G. Ecker and A. Pich","The Chiral Anomaly in Non-Leptonic Weak Interactions","10 pages, LaTeX","Phys.Lett. B286 (1992) 341-347","10.1016/0370-2693(92)91785-8",,"hep-ph",,"  The interplay between the chiral anomaly and the non-leptonic weak
+Hamiltonian is studied. The structure of the corresponding effective Lagrangian
+of odd intrinsic parity is established. It is shown that the factorizable
+contributions (leading in $1/N_C$) to that Lagrangian can be calculated without
+free parameters. As a first application, the decay $K^+ \ra \pi^+ \pi^0 \gamma$
+is investigated.
+","[{""version"":""v1"",""created"":""Fri, 8 May 1992 16:07:19 GMT""}]","2009-10-22"
+"hep-ph/9205211",,"Michael McGuigan and Charles B. Thorn","Quark-Antiquark Regge Trajectories in Large N_c QCD","12 pages 1 figure not included","Phys.Rev.Lett. 69 (1992) 1312-1315","10.1103/PhysRevLett.69.1312",,"hep-ph",,"  We apply methods developed by Lovelace, Lipatov and Kirschner to evaluate the
+leading Regge trajectories \alpha(t) with the quantum numbers of nonexotic
+quark-antiquark mesons at N_c = infinity and in the limit of t going to minus
+infinity. In this region renormalization group improved perturbation theory
+should be valid. We discuss the compatibility of nonlinear trajectories with
+narrow resonance approximations.
+","[{""version"":""v1"",""created"":""Fri, 8 May 1992 18:32:53 GMT""}]","2009-10-22"
+"hep-ph/9205212","Lawrence Krauss","L.M. Krauss and M. White","Grand Unification, Gravitational Waves, and the Cosmic Microwave
+  Background Anisotropy","13 pages, LaTeX and 1 figure (postscript) included","Phys.Rev.Lett.69:869-872,1992","10.1103/PhysRevLett.69.869",,"hep-ph",,"  We re-examine the gravitational wave background resulting from inflation and
+its effect on the cosmic microwave background radiation. The new COBE
+measurement of a cosmic background quadrupole anisotropy places an upper limit
+on the vacuum energy during inflation of $\approx 5 \times 10^{16}$ GeV. A
+stochastic background of gravitational waves from inflation could produce the
+entire observed signal (consistent with the observed dipole anisotropy and a
+flat spectrum) if the vacuum energy during inflation was as small as $1.5
+\times 10^{16}$ GeV at the 95\% confidence level. This coincides nicely with
+the mass scale for Grand Unification inferred from precision measurements of
+the electroweak and strong coupling constants, for the SUSY Grand Unified
+Theories. Thus COBE could be providing the first direct evidence, via
+gravitational waves, for GUTs, and supersymmetry. Further tests of this
+possibility are examined, based on analyzing the energy density associated with
+gravitational waves from inflation.
+","[{""version"":""v1"",""created"":""Fri, 8 May 1992 19:48:00 GMT""}]","2009-08-18"
+"hep-ph/9205213","Lowell Brown","Lowell S. Brown, Laurence G. Yaffe, and Chengxing Zhai","Large-order perturbation theory for the electromagnetic current-current
+  correlation function","62 pages","Phys.Rev. D46 (1992) 4712-4735","10.1103/PhysRevD.46.4712",,"hep-ph",,"  The constraints imposed by asymptotic freedom and analyticity on the
+large-order behavior of perturbation theory for the electromagnetic
+current-current correlation function are examined. By suitably applying the
+renormalization group, the coefficients of the asymptotic expansion in the deep
+Euclidean region may be expressed explicitly in terms of the perturbative
+coefficients of the Minkowski space discontinuity (the $R$-ratio in $e^+ e^-$
+scattering). This relation yields a ``generic'' prediction for the large-order
+behavior of the Euclidean perturbation series and suggests the presence of
+non-perturbative $1/q^2$ correction in the Euclidian correlation function. No
+such ``generic'' prediction can be made for the physically measurable
+$R$-ratio. A novel functional method is developed to obtain these results.
+","[{""version"":""v1"",""created"":""Sat, 9 May 1992 02:26:30 GMT""}]","2009-10-22"
+"hep-ph/9205214",,"C. Giunti, C.W. Kim and U.W. Lee","Oscillations of Pseudo-Dirac Neutrinos and the Solar Neutrino Problem","12 pages, 2 figures (not included)","Phys.Rev. D46 (1992) 3034-3039","10.1103/PhysRevD.46.3034",,"hep-ph",,"  The oscillations of pseudo-Dirac neutrinos in matter are discussed and
+applied to the solar neutrino problem. Several scenarios such as both $\nu_e$
+and $\nu_{\mu}$ being pseudo-Dirac and only $\nu_e$ or $\nu_{\mu}$ being
+pseudo-Dirac are examined. It is shown that the allowed region in the
+mass-mixing angle parameter space obtained by comparing the solar neutrino data
+with the calculations based on the standard solar model and the MSW effect is
+not unique. The results depend on the nature of neutrinos; for example, if both
+$\nu_e$ and $\nu_{\mu}$ are pseudo-Dirac, the allowed region determined by the
+current solar neutrino data does not overlap with that obtained in the usual
+case of pure Dirac or Majorana neutrinos.
+","[{""version"":""v1"",""created"":""Sat, 9 May 1992 11:36:00 GMT""}]","2009-10-22"
+"hep-th/9205017","Christopher Ting","Christopher Ting and C. H. Lai","c = 1 conformal field theory and the fractional quantum Hall effect","(10 pages)",,,,"hep-th",,"  We examine the application of $c=1$ conformal field theory to the description
+of the fractional quantum Hall effect (FQHE). It is found that the Gaussian
+model together with an appropriate boundary condition for the order parameter
+furnishes an effective theory for the Laughlin type FQHE. The plateau formation
+condition corresponds to taking the {\em chiral} portion of the theory.
+","[{""version"":""v1"",""created"":""Sat, 9 May 1992 08:10:33 GMT""}]","2007-05-23"
+"hep-th/9205018","Barnich Glenn","Marc Henneaux","Geometric Interpretation of the Quantum Master Equation in the
+  BRST--anti-BRST Formalism","12 pages","Phys.Lett. B282 (1992) 372-376","10.1016/0370-2693(92)90654-M",,"hep-th",,"  The geometric interpretation of the antibracket formalism given by Witten is
+extended to cover the anti-BRST symmetry. This enables one to formulate the
+quantum master equation for the BRST--anti-BRST formalism in terms of
+integration theory over a supermanifold. A proof of the equivalence of the
+standard antibracket formalism with the antibracket formalism for the
+BRST--anti-BRST symmetry is also given.
+","[{""version"":""v1"",""created"":""Sat, 9 May 1992 12:42:15 GMT""}]","2009-10-22"
+"hep-th/9205019",,"C.S.Aulakh","Charged Topological Solitons in 4+1 Dimensional YMCS Theory","11p [Replaced version N.B Some minor typos have been corrected and a
+  note added]","Mod.Phys.Lett.A7:2469-2476,1992","10.1142/S021773239200392X","IP/BBSR/92-27","hep-th",,"  We show that when a Chern-Simons term is added to the action of $SU(N)$
+($N\geq 3$) Yang-Mills theory in 5 dimensions the usual self-dual topological
+solitons present in the theory necessarily pick up a (topological) electric
+charge.
+","[{""version"":""v1"",""created"":""Sat, 9 May 1992 13:45:47 GMT""},{""version"":""v2"",""created"":""Fri, 26 Jun 1992 13:17:50 GMT""}]","2011-02-09"
+"math/9205209","Scott Sutherland","Ben Bielefeld (editor), Mikhail Lyubich (editor), Lennart Carleson,
+  Robert Devaney, Alexandre Eremenko, Curt McMullen, John Milnor, Feliks
+  Przytycki, Mary Rees, Scott Sutherland","Problems in holomorphic dynamics",,,,"Stony Brook IMS 1992/7","math.DS math.CV",,"  Contents:
+  1. Quasiconformal Surgery and Deformations: Ben Bielefeld, Questions in
+quasiconformal surgery; Curt McMullen, Rational maps and Teichm\""uller space;
+John Milnor, Thurston's algorithm without critical finiteness; Mary Rees, A
+possible approach to a complex renormalization problem.
+  2. Geometry of Julia Sets: Lennart Carleson, Geometry of Julia sets; John
+Milnor, Problems on local connectivity.
+  3. Measurable Dynamics: Mikhail Lyubich, Measure and Dimension of Julia Sets;
+Feliks Przytycki, On invariant measures for iterations of holomorphic maps.
+  4. Iterates of Entire Functions: Robert Devaney, Open questions in
+non-rational complex dynamics; Alexandre Eremenko and Mikhail Lyubich,
+Wandering domains for holomorphic maps.
+  5. Newton's Method: Scott Sutherland, Bad polynomials for Newton's method
+","[{""version"":""v1"",""created"":""Sat, 9 May 1992 00:00:00 GMT""}]","2016-09-06"

@@ -1,0 +1,92 @@
+"cond-mat/9205004","Dennis Clougherty","D.P. Clougherty and W. Kohn","Low Energy Behavior of Quantum Adsorption","11 pages + 1 figure (included)",,,,"cond-mat",,"  We present an exact solution of a 1D model: a particle of incident energy $E$
+colliding with a target which is a 1D harmonic ``solid slab'' with $N$ atoms in
+its ground state; the Hilbert space of the target is restricted to the ($N+1$)
+states with zero or one phonon present. For the case of a short range
+interaction, $V(z)$, between the particle and the surface atom supporting a
+bound state, an explicit non-perturbative solution of the collision problem is
+presented. For finite and large $N$, there is no true sticking but only
+so-called Feshbach resonances. A finite sticking coefficient ${\sl s}(E)$ is
+obtained by introducing a small phonon decay rate $\eta$ and letting
+$N\to\infty$. Our main interest is in the behavior of ${\sl s}(E)$ as $E\to 0$.
+For a short range $V(z)$, we find ${\sl s}(E)\sim E^{1/2}$, regardless of the
+strength of the particle-phonon coupling. However, if $V(z)$ has a Coulomb
+$z^{-1}$ tail, we find ${\sl s}(E)\to\alpha$, where $0 < \alpha < 1$. [A fully
+classical calculation gives ${\sl s}(E)\to 1$ in both cases.] We conclude that
+the same threshold laws apply to 3D systems of neutral and charged particles
+respectively.
+","[{""version"":""v1"",""created"":""Tue, 5 May 1992 20:21:51 GMT""}]","2007-05-23"
+"cond-mat/9205005","Misha Dobroliubov","Wei Chen, Mikhail Dobroliubov, and Gordon Semenoff","Z_N Phases in Hot Gauge Theories","7 pages","Phys.Rev.D46:1223-1225,1992","10.1103/PhysRevD.46.R1223",,"cond-mat",,"  We argue that the \zn phases of hot gauge theories cannot be realized as a
+real system with an Hermitean density matrix.
+","[{""version"":""v1"",""created"":""Wed, 6 May 1992 00:11:00 GMT""}]","2009-12-30"
+"hep-ph/9205205",,"Matthew J. Strassler","Field Theory Without Feynman Diagrams: One-Loop Effective Actions","52 pages","Nucl.Phys.B385:145-184,1992","10.1016/0550-3213(92)90098-V",,"hep-ph",,"  In this paper the connection between standard perturbation theory techniques
+and the new Bern-Kosower calculational rules for gauge theory is clarified. For
+one-loop effective actions of scalars, Dirac spinors, and vector bosons in a
+background gauge field, Bern-Kosower-type rules are derived without the use of
+either string theory or Feynman diagrams. The effective action is written as a
+one-dimensional path integral, which can be calculated to any order in the
+gauge coupling; evaluation leads to Feynman parameter integrals directly,
+bypassing the usual algebra required from Feynman diagrams, and leading to
+compact and organized expressions. This formalism is valid off-shell, is
+explicitly gauge invariant, and can be extended to a number of other field
+theories.
+","[{""version"":""v1"",""created"":""Tue, 5 May 1992 18:25:00 GMT""}]","2009-07-09"
+"hep-ph/9205207",,"T.G.Rizzo","Contributions to the W-Boson Anomalous Moments in the Two-Higgs-Doublet
+  Model at Collider Energies","14 pages, 24 figures(not included), LaTex format","Phys.Rev. D46 (1992) 3894-3902","10.1103/PhysRevD.46.3894",,"hep-ph",,"  We examine the one loop contributions arising in the Two-Higgs-Doublet Model
+(THDM) to the W-boson anomalous magnetic dipole and electric quadrupole form
+factors for both photon and Z couplings relevant at collider energies. While
+the model parameter and $q^2$-dependencies of these form factors are found to
+be significant, the corresponding size of these corrections are relatively
+small in comparison to unity. They are, however, found to be comparable in
+magnitude to the usual Standard Model loop corrections. Radiative corrections
+to the Higgs particle masses and couplings due to heavy top-quarks are included
+in the analysis.
+","[{""version"":""v1"",""created"":""Wed, 6 May 1992 13:16:10 GMT""}]","2009-10-22"
+"hep-th/9205007","John C. Baez","John C. Baez","Quantum Gravity and the Algebra of Tangles","16 pages (with major corrections)","Class.Quant.Grav.10:673-694,1993","10.1088/0264-9381/10/4/006",,"hep-th math.QA",,"  In Rovelli and Smolin's loop representation of nonperturbative quantum
+gravity in 4 dimensions, there is a space of solutions to the Hamiltonian
+constraint having as a basis isotopy classes of links in R^3. The physically
+correct inner product on this space of states is not yet known, or in other
+words, the *-algebra structure of the algebra of observables has not been
+determined. In order to approach this problem, we consider a larger space H of
+solutions of the Hamiltonian constraint, which has as a basis isotopy classes
+of tangles. A certain algebra T, the ``tangle algebra,'' acts as operators on
+H. The ``empty state'', corresponding to the class of the empty tangle, is
+conjectured to be a cyclic vector for T. We construct simpler representations
+of T as quotients of H by the skein relations for the HOMFLY polynomial, and
+calculate a *-algebra structure for T using these representations. We use this
+to determine the inner product of certain states of quantum gravity associated
+to the Jones polynomial (or more precisely, Kauffman bracket).
+","[{""version"":""v1"",""created"":""Tue, 5 May 1992 16:54:36 GMT""},{""version"":""v2"",""created"":""Mon, 22 Jun 1992 18:23:22 GMT""}]","2010-04-06"
+"hep-th/9205008","Jerome Gauntlett","Jerome P. Gauntlett","Low-Energy Dynamics of Supersymmetric Solitons","25 pages","Nucl.Phys. B400 (1993) 103-125","10.1016/0550-3213(93)90399-A",,"hep-th",,"  In bosonic field theories the low-energy scattering of solitons that saturate
+Bogomol'nyi-type bounds can be approximated as geodesic motion on the moduli
+space of static solutions. In this paper we consider the analogous issue within
+the context of supersymmetric field theories. We focus our study on a class of
+$N=2$ non-linear sigma models in $d=2+1$ based on an arbitrary K\""ahler target
+manifold and their associated soliton or ``lump"" solutions. Using a collective
+co-ordinate expansion, we construct an effective action which, upon
+quantisation, describes the low-energy dynamics of the lumps. The effective
+action is an $N=2$ supersymmetric quantum mechanics action with the target
+manifold being the moduli space of static charge $N$ lump solutions of the
+sigma model. The Hilbert space of states of the effective theory consists of
+anti-holomorphic forms on the moduli space. The normalisable elements of the
+dolbeault cohomology classes $H^{(0,p)}$ of the moduli space correspond to zero
+energy bound states and we argue that such states correpond to bound states in
+the full quantum field theory of the sigma model.
+","[{""version"":""v1"",""created"":""Tue, 5 May 1992 21:53:06 GMT""}]","2009-10-22"
+"hep-th/9205009",,"Gabriel Lopes Cardoso and Burt A. Ovrut","Coordinate and K\""{a}hler $\sigma$-Model Anomalies and Their
+  Cancellation in String Effective Field Theories","33 pages (clarification of a few issues discussed in the paper)","Nucl.Phys. B392 (1993) 315-344","10.1016/0550-3213(93)90675-F","UPR-0502T","hep-th",,"  We discuss the complete set of one-loop triangle graphs involving the
+Yang-Mills gauge connection, the \Kahler\ connection and the $\sigma$-model
+coordinate connection in the effective field theory of $(2,2)$ symmetric $Z_N$
+orbifolds. That is, we discuss pure gauge, pure \Kahler\ and pure
+$\sigma$-model coordinate anomalies as well as the mixed anomalies, such as
+\Kahler-gauge, some of which have been discussed elsewhere. We propose a
+mechanism for restoring both \Kahler\ and $\sigma$-model coordinate symmetry
+based upon the introduction of two types of counterterms. Finally, we enlarge
+the $\sigma$-model generalization of the Green-Schwarz mechanism to allow the
+removal of the universal parts of a wider class of anomalies than those
+previously discussed.
+","[{""version"":""v1"",""created"":""Tue, 5 May 1992 23:53:27 GMT""},{""version"":""v2"",""created"":""Tue, 16 Jun 1992 16:01:03 GMT""}]","2015-06-26"
+"hep-th/9205010",,"L. Alvarez-Gaume and J.L.F. Barbon","A Proposal for $D>1$ Strings?","23pp",,,,"hep-th",,"  Using the reduced formulation of large-N Quantum Field Theories we study
+strings in space-time dimensions higher than one. Some preliminary results
+concerning the possible string susceptibilities and general properties of the
+model are presented.
+","[{""version"":""v1"",""created"":""Wed, 6 May 1992 15:51:43 GMT""}]","2007-05-23"

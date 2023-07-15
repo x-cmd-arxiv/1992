@@ -1,0 +1,128 @@
+"cond-mat/9210014",,"Yan-Chr Tsai and Yonathan Shapir","On the Scale-Invariant Distribution of the Diffusion Coefficient for
+  Classical Particles Diffusing in Disordered Media.-","21 pages, 1 fig. (not included) Use LaTex twice","J.Phys. A26 (1993) 39-50","10.1088/0305-4470/26/1/009",,"cond-mat hep-th",,"  The scaling form of the whole distribution P(D) of the random diffusion
+coefficient D(x) in a model of classically diffusing particles is investigated.
+The renormalization group approach above the lower critical dimension d=0 is
+applied to the distribution P(D) using the n-replica approach. In the annealed
+approximation (n=1), the inverse gaussian distribution is found to be the
+stable one under rescaling. This identification is made based on symmetry
+arguments and subtle relations between this model and that of fluc- tuating
+interfaces studied by Wallace and Zia. The renormalization-group flow for the
+ratios between consecutive cumulants shows a regime of pure diffusion for small
+disorder, in which P(D) goes to delta(D-<D>), and a regime of strong disorder
+where the cumulants grow infinitely large and the diffusion process is ill
+defined. The boundary between these two regimes is associated with an unstable
+fixed-point and a subdiffusive behavior: <x**2>=Ct**(1-d/2). For the quenched
+case (n goes to 0) we find that unphysical operators are generated raisng
+doubts on the renormalizability of this model. Implications to other random
+systems near their lower critical dimension are discussed.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 20:51:00 GMT""}]","2009-10-22"
+"hep-lat/9210019",,"Uwe-Jens Wiese (Universit\""at Bern)","Bosonization and Cluster Updating of Lattice Fermions","7 pages Latex, no figures","Phys.Lett. B311 (1993) 235-240","10.1016/0370-2693(93)90561-U","BUTP-92/45","hep-lat cond-mat",,"  A lattice fermion model is formulated in Fock space using the Jordan-Wigner
+representation for the fermion creation and annihilation operators. The
+resulting path integral is a sum over configurations of lattice site occupation
+numbers $n(x,t) = 0,1$ which may be viewed as bosonic Ising-like variables.
+However, as a remnant of Fermi statistics a nonlocal sign factor arises for
+each configuration. When this factor is included in measured observables the
+bosonic occupation numbers interact locally, and one can use efficient cluster
+algorithms to update the bosonized variables.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 18:49:29 GMT""}]","2009-10-22"
+"hep-lat/9210020","Malte Henkel","Malte Henkel and Robert Peschanski","Intermittency Studies in Directed Bond Percolation","16pp. Geneva preprint UGVA-DPT 1992/06/769, Saclay preprint
+  SPhT/92-069 (to appear in Nucl. Phys. B[FS])","Nucl.Phys.B390:637-652,1993","10.1016/0550-3213(93)90492-8",,"hep-lat cond-mat hep-th",,"  The self-similar cluster fluctuations of directed bond percolation at the
+percolation threshold are studied using techniques borrowed from
+inter\-mit\-ten\-cy-related analysis in multi-particle production. Numerical
+simulations based on the factorial moments for large $1+1$-dimensional lattices
+allow to handle statistical and boundary effects and show the existence of weak
+but definite intermittency patterns. The extracted fractal dimensions are in
+agreement with scaling arguments leading to a new relation linking the
+intermittency indices to the critical exponents and the fractal dimension of
+directed percolation clusters.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 20:16:11 GMT""}]","2008-11-26"
+"hep-ph/9210242","Christopher Kolda","G.L. Kane, Chris Kolda, and James D. Wells","Calculable Upper Limit on the Mass of the Lightest Higgs Boson in Any
+  Perturbatively Valid Supersymmetric Theory","8 pages, UM-TH-92-24, Plain TeX. (One table available by fax on
+  request to Kolda@Mich.Physics.Lsa.Umich.Edu)","Phys.Rev.Lett. 70 (1993) 2686-2689","10.1103/PhysRevLett.70.2686",,"hep-ph",,"  We show that there is a calculable upper limit on the mass of the lightest
+Higgs boson in any supersymmetric theory that remains perturbative up to a high
+scale . There are no restrictions on the Higgs sector, or the gauge group or
+particle content. We estimate the value of the upper limit to be $m_{\hcirc} <
+146$ GeV for 100 GeV < $M_t$ < 145 GeV, from all effects except possibly
+additional heavy fermions beyond top (which could increase the limit by 0-20
+GeV if any existed); for $M_t$ > 145 GeV the limit decreases monotonically. We
+expect to be able to decrease the value of the upper limit by at least a few
+percent by very careful analysis of the conditions. It is not normal in models
+for the actual mass to saturate the upper limit.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 16:01:00 GMT""}]","2009-10-22"
+"hep-ph/9210243",,"Scott Dodelson and Ben-Ami Gradwohl","How Effective is the Effective Potential?","35 pages, TeX using phyzzx, 5 figures (available on request),
+  FERMILAB-Pub-92/281-A, UCLA/92/TEP/37","Nucl.Phys.B400:435-462,1993","10.1016/0550-3213(93)90412-I",,"hep-ph hep-th",,"  Motivated by bubble nucleation in first order phase transitions, we question
+the validity of the effective potential for inhomogeneous configurations. In an
+attempt to get some insight into the importance of derivative terms, we analyze
+a simple model, a kink in (1+1) dimensions and zero temperature. We evaluate
+the energy shift from the quantum fluctuations about the non-uniform background
+({\it i.e.}, the effective action) and compare it to the energy from the
+effective potential. Our results clearly show that for inhomogeneous
+configurations it may be inadequate to omit derivative terms and confine
+oneself to the effective potential. We then couple the kink field to an
+additional scalar field and perform the same comparison. The addition of the
+second field allows us to vary the mass of the fluctuations and their coupling
+to the underlying kink. If the mass of the second field is large, it does not
+feel the inhomogeneities in the kink field and consequently does not give rise
+to important derivative corrections in the effective action. In contrast, if
+the mass is small, derivative terms are significant and the effective potential
+fails. In the latter regime we can, however, rely on the Born approximation to
+calculate the effective action.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 22:19:00 GMT""}]","2014-11-17"
+"hep-th/9210090",,"K.Ranganathan","Nearby CFT's in the operator formalism: The role of a connection","24 pp, CTP#2154","Nucl.Phys. B408 (1993) 180-206","10.1016/0550-3213(93)90136-D",,"hep-th",,"  There are two methods to study families of conformal theories in the operator
+formalism. In the first method we begin with a theory and a family of deformed
+theories is defined in the state space of the original theory. In the other
+there is a distinct state space for each theory in the family, with the
+collection of spaces forming a vector bundle. This paper establishes the
+equivalence of a deformed theory with that in a nearby state space in the
+bundle via a connection that defines maps between nearby state spaces. We find
+that an appropriate connection for establishing equivalence is one that arose
+in a recent paper by Kugo and Zwiebach. We discuss the affine geometry induced
+on the space of backgrounds by this connection. This geometry is the same as
+the one obtained from the Zamolodchikov metric.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 18:50:11 GMT""},{""version"":""v2"",""created"":""Sat, 17 Apr 1993 08:08:14 GMT""}]","2009-10-22"
+"hep-th/9210092",,"J. A. Dixon","A Natural Mechanism for Supersymmetry Breaking with Zero Cosmological
+  Constant (Minor corrections of some formulae, no substantial change)","15 pages, CTP-TAMU-69/92",,,,"hep-th hep-ph",,"  Supersymmetric theories in four dimensions with chiral superfields have very
+rich BRS cohomology, which gives rise to potential anomalies in theories that
+contain composite antichiral spinor superfields. Assuming the coefficients are
+non-zero, absence of the anomalies would generate new constraints on theories.
+In addition, the anomalies give rise to a new kind of supersymmetry breaking
+which is quite different from the known kinds, and also naturally yields a zero
+cosmological constant after supersymmetry breaking.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 20:31:04 GMT""},{""version"":""v2"",""created"":""Fri, 6 Nov 1992 22:40:35 GMT""}]","2008-02-03"
+"hep-th/9210093",,"Hitoshi Nishino","Exact Solutions for Self--Dual Yang--Mills and Self--Dual Tensor
+  Multiplets on Gravitational Instanton Background","LATEX 11 pages","Phys.Lett. B307 (1993) 339-346","10.1016/0370-2693(93)90230-F","Maryland preprint, UMDEPP 93--52","hep-th",,"  We give exact solutions for a recently developed ~$N=1$~ locally
+supersymmetric self-dual gauge theories in $~(2+2)\-$dimensions. We give the
+exact solutions for an $~SL(2)$~ self-dual Yang-Mills multiplet and what we
+call ``self-dual tensor multiplet'' on the gravitational instanton background
+by Eguchi-Hanson. We use a general method to get an $~SL(2)$~ self-dual
+Yang-Mills solution from any known self-dual gravity solution. Our result is
+the first example of exact solutions for the coupled system of these $~N=1$~
+locally supersymmetric self-dual multiplets in ~$(2+2)\-$dimensions, which is
+supposed to have strong significance for integrable models in lower-dimensions
+upon appropriate dimensional reduction or truncation. We also inspect the
+consistency of our exact solutions as a background for $~N=2$~ superstring
+coupled to the Wess-Zumino-Witten term in $~\s\-$model formulation.
+","[{""version"":""v1"",""created"":""Fri, 16 Oct 1992 20:28:00 GMT""}]","2009-10-22"
+"hep-th/9210094",,"Korkut Bardakci","A Candidate For The QCD String Based On Non-Backtracking Random Walks","25 pages (latex, no other macros needed); 3 figures available upon
+  request; LBL-32856, UCB-PTH-92/35","Nucl.Phys. B401 (1993) 168-189","10.1016/0550-3213(93)90301-5",,"hep-th",,"  A new string theory is proposed as a candidate for the large N limit of QCD.
+In this theory, strings are constrained to be non-backtracking; a condition
+that is essential for the gauge invariance of the underlying field theory.This
+condition is implemented by first placing the theory on a lattice and then
+introducing fermionic variables on the world sheet. The naive continuum limit
+leads to a generalized Thirring model on the world sheet,and it is suggested
+that the application of the renormalization group should drive the coupling
+constants to a conformally invariant fixed point.
+","[{""version"":""v1"",""created"":""Sat, 17 Oct 1992 00:30:03 GMT""}]","2009-10-22"
+"hep-th/9210095","John Harnad","John Harnad and B. A. Kupershmidt","Symplectic Geometries on $T^*\widetilde{G}$, Hamiltonian Group Actions
+  and Integrable Systems","49 pages","J.Geom.Phys. 16 (1995) 168-206","10.1016/0393-0440(94)00027-2","CRM 1836 (Montr\'eal)","hep-th math.QA math.SG",,"  Various Hamiltonian actions of loop groups $\wt G$ and of the algebra
+$\text{diff}_1$ of first order differential operators in one variable are
+defined on the cotangent bundle $T^*\wt G$ of a Loop Group. The moment maps
+generating the $\text{diff}_1$ actions are shown to factorize through those
+generating the loop group actions, thereby defining commuting diagrams of
+Poisson maps to the duals of the corresponding centrally extended algebras. The
+maps are then used to derive a number of infinite commuting families of
+Hamiltonian flows that are nonabelian generalizations of the dispersive water
+wave hierarchies. As a further application, sets of pairs of generators of the
+nonabelian mKdV hierarchies are shown to give a commuting hierarchy on $T^*\wt
+G$ that contain the WZW system as its first element.
+","[{""version"":""v1"",""created"":""Sat, 17 Oct 1992 01:48:16 GMT""},{""version"":""v2"",""created"":""Sun, 18 Oct 1992 00:36:54 GMT""}]","2014-10-07"

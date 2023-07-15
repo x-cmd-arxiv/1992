@@ -1,0 +1,71 @@
+"hep-ph/9203215","Cliff Burgess","C.P. Burgess and David London","Light Spin-One Particles Imply Gauge Invariance","19 pages, 2 figures (not included)",,,,"hep-ph",,"  Recently, calculations which consider the implications of anomalous trilinear
+gauge-boson couplings, both at tree-level and in loop-induced processes, have
+been criticized on the grounds that the lagrangians employed are not \gwk gauge
+invariant. We prove that, in fact, the general Lorentz-invariant and $U(1)_\em$
+invariant but {\it not} $SU_L(2)\times U_Y(1)$ invariant action is equivalent
+to the general lagrangian in which $SU_L(2)\times U_Y(1)$ appears but is
+nonlinearly realized. We demonstrate this equivalence in an explicit
+calculation, and show how it is reconciled with loop calculations in which the
+different formulations can (superficially) appear to give different answers. In
+this sense any effective theory containing light spin-one particles is seen to
+be automatically gauge invariant.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 16:34:07 GMT""},{""version"":""v2"",""created"":""Wed, 25 Mar 1992 17:40:44 GMT""}]","2008-02-03"
+"hep-ph/9203216","Cliff Burgess","C.P. Burgess and David London","Uses and Abuses of Effective Lagrangians","36 pages","Phys.Rev.D48:4337-4351,1993","10.1103/PhysRevD.48.4337","McGill-92/05, UdeM-LPN-TH-84","hep-ph",,"  Motivated by past and recent analyses we critically re-examine the use of
+effective lagrangians in the literature to constrain new physics and to
+determine the `physics reach' of future experiments. We demonstrate that many
+calculations, such as those involving anomalous trilinear gauge-boson
+couplings, either considerably overestimate loop-induced effects, or give
+ambiguous answers. The source of these problems is the use of cutoffs to
+evaluate the size of such operators in loop diagrams. In contrast to other
+critics of these loop estimates, we prove that the inclusion of
+nonlinearly-realized gauge invariance into the low-energy lagrangian is
+irrelevant to this conclusion. We use an explicit example using known
+multi-Higgs physics above the weak scale to underline these points. We show how
+to draw conclusions regarding the nature of the unknown high-energy physics
+without making reference to low-energy cutoffs.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 16:37:38 GMT""},{""version"":""v2"",""created"":""Sat, 5 Jun 1993 03:35:23 GMT""},{""version"":""v3"",""created"":""Mon, 7 Jun 1993 16:22:31 GMT""}]","2010-11-01"
+"hep-ph/9203217","George Siopsis","D. B. DeLaney, S. Jadach, Ch. Shio, G. Siopsis, B. F. L. Ward","Multiple photon effects in fermion-(anti)fermion scattering at SSC
+  energies","14 pages + 8 figures + 1 table","Phys.Rev. D47 (1993) 853-859","10.1103/PhysRevD.47.853",,"hep-ph",,"  We use the theory of Yennie, Frautschi and Suura to realize, via Monte Carlo
+methods, the process $f\,\bbbarf\to f'\,\bbbarf'+n\gamma$ at SSC and LHC
+energies, where $f$ and $f'$ are quarks or leptons. QED infrared divergences
+are canceled to all orders in perturbation theory. The resulting Monte Carlo
+event generator, SSC-YFS2, is used to study the effects of initial-state photon
+radiation on these processes in the SSC environment. Sample Monte Carlo data
+are presented and discussed. We find that the respective multiple-photon
+effects must be taken into account in discussing precise predictions for SSC
+physics processes.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 20:13:19 GMT""}]","2009-10-22"
+"hep-th/9203051","Galperin","A.Galperin and E.Sokatchev","A twistor-like D=10 superparticle action with manifest N=8 world-line
+  supersymmetry","22pages, standard LATEX file","Phys.Rev. D46 (1992) 714-725","10.1103/PhysRevD.46.714",,"hep-th",,"  We propose a new formulation of the $D=10$ Brink-Schwarz superparticle which
+is manifestly invariant under both the target-space super-Poincar\'e group and
+the world-line local $N=8$ superconformal group. This twistor-like construction
+naturally involves the sphere $S^8$ as a coset space of the $D=10$ Lorentz
+group. The action contains only a finite set of auxiliary fields, but they
+appear in unusual trilinear combinations. The origin of the on-shell $D=10$
+fermionic $\kappa$ symmetry of the standard Brink-Schwarz formulation is
+explained. The coupling to a $D=10$ super-Maxwell background requires a new
+mechanism, in which the electric charge appears only on shell as an integration
+constant.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 22:08:00 GMT""}]","2009-10-22"
+"hep-th/9203052","S. W. Hawking","S. W. Hawking","Evaporation of Two Dimensional Black Holes","12 pages","Phys.Rev.Lett.69:406-409,1992","10.1103/PhysRevLett.69.406",,"hep-th",,"  Callan, Giddings, Harvey and Strominger have proposed an interesting two
+dimensional model theory that allows one to consider black hole evaporation in
+the semi-classical approximation. They originally hoped the black hole would
+evaporate completely without a singularity. However, it has been shown that the
+semi-classical equations will give a singularity where the dilaton field
+reaches a certain critical value. Initially, it seems this singularity will be
+hidden inside a black hole. However, as the evaporation proceeds, the dilaton
+field on the horizon will approach the critical value but the temperature and
+rate of emission will remain finite. These results indicate either that there
+is a naked singularity, or (more likely) that the semi-classical approximation
+breaks down when the dilaton field approaches the critical value.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 23:08:09 GMT""}]","2010-11-01"
+"hep-th/9203053",,"M.Carfora, M.Martellini and A.Marzuoli","Combinatorial and topological phase structure of non-perturbative
+  n-dimensional quantum gravity","13 pages","Int.J.Mod.Phys.B6:2109-2122,1992","10.1142/S0217979292001055",,"hep-th",,"  We provide a non-perturbative geometrical characterization of the partition
+function of $n$-dimensional quantum gravity based on a coarse classification of
+riemannian geometries. We show that, under natural geometrical constraints, the
+theory admits a continuum limit with a non-trivial phase structure parametrized
+by the homotopy types of the class of manifolds considered. The results
+obtained qualitatively coincide, when specialized to dimension two, with those
+of two-dimensional quantum gravity models based on random triangulations of
+surfaces.
+","[{""version"":""v1"",""created"":""Thu, 19 Mar 1992 15:04:00 GMT""}]","2014-11-18"

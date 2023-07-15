@@ -1,0 +1,137 @@
+"gr-qc/9210015","Robert Mann","K.C.K. Chan and R.B. Mann","Cosmological Models in Two Spacetime Dimensions","22 pgs., 2 figs. (available on request) (revised version contains
+  `paper.tex' macro file which was omitted in earlier version)","Class.Quant.Grav.10:913-930,1993","10.1088/0264-9381/10/5/010","WATPHYS TH-92/08","gr-qc",,"  Various physical properties of cosmological models in (1+1) dimensions are
+investigated. We demonstrate how a hot big bang and a hot big crunch can arise
+in some models. In particular, we examine why particle horizons do not occur in
+matter and radiation models. We also discuss under what circumstances
+exponential inflation and matter/radiation decoupling can happen. Finally,
+without assuming any particular equation of state, we show that physical
+singularities can occur in both untilted and tilted universe models if certain
+assumptions are satisfied, similar to the (3+1)-dimensional cases.
+","[{""version"":""v1"",""created"":""Mon, 26 Oct 1992 19:45:32 GMT""},{""version"":""v2"",""created"":""Wed, 28 Oct 1992 17:00:20 GMT""}]","2010-04-06"
+"hep-lat/9210031",,"M.Caselle, F.Gliozzi and S.Vinti","Some universal features of the effective string picture of pure gauge
+  theories","9 pages(LaTeX),DFTT61/92","Nucl. Phys. Proc. Suppl. 30 (1993) 889","10.1016/0920-5632(93)90349-B",,"hep-lat hep-th",,"  The effective string describing the large distance behaviour of the quark
+sources of gauge field theories in the confining phase in D=3 or D=4 space-time
+dimensions can be formulated, in the infrared limit, as a suitable 2D conformal
+field theory on surfaces with quark loops as boundaries. Recent results on
+self-avoiding random surfaces allow to fix almost uniquely such a conformal
+theory. As a consequence, some universal relationships among the string tension
+, the thickness of the colour flux tube, the deconfinement temperature and a
+lower bound of the glueball mass spectrum are found. The general agreement with
+the data extracted from recent lattice simulations with different gauge groups
+is rather impressive.(Talk held by F.Gliozzi at Lattice'92 , Amsterdam)
+","[{""version"":""v1"",""created"":""Mon, 26 Oct 1992 18:02:00 GMT""}]","2009-10-22"
+"hep-lat/9210033","Peter Stephenson","C. Ford, D.R.T. Jones, P.W. Stephenson and M.B. Einhorn","The effective potential and the renormalisation group","22 pages plus three PostScript figures (appended), Liverpool preprint
+  LTH 288, University of Michigan preprint UM-TH-92-21","Nucl.Phys. B395 (1993) 17-34","10.1016/0550-3213(93)90206-5",,"hep-lat hep-ph",,"  We discuss renormalisation group improvement of the effective potential both
+in general and in the context of $O(N)$ scalar $\p^4$ and the Standard Model.
+In the latter case we find that absolute stability of the electroweak vacuum
+implies that $m_H\geq 1.95m_t-189~GeV$, for $\as (M_Z) = 0.11$. We point out
+that the lower bound on $m_H$ {\it decreases\/} if $\as (M_Z)$ is increased.
+","[{""version"":""v1"",""created"":""Tue, 27 Oct 1992 13:07:00 GMT""}]","2009-10-22"
+"hep-ph/9210263",,"I. Sarcevic","Intermittency and Multidimensional Correlations","10 pp, 4 figs (available on request), University of Arizona preprint
+  AZPH-TH/92-34, Invited talk presented at VII International Symposium on Very
+  High Energy Cosmic Ray Interactions, June 22-27, 1992, Ann Arbor",,"10.1063/1.43803",,"hep-ph",,"  We review recent experimental results on intermittency and multidimensional
+particle correlations in high-energy leptonic, hadronic and nuclear collisions.
+We discuss different theoretical models, including self-similar cascading and
+QCD parton showers, models with phase transitions and the three-dimensional
+statistical field theory for multiparticle density fluctuations.
+","[{""version"":""v1"",""created"":""Mon, 26 Oct 1992 23:24:07 GMT""}]","2009-10-22"
+"hep-ph/9210264",,"H. C. Eggers, H-Th. Elze and I. Sarcevic","Three Dimensional Statistical Field Theory for Density Fluctuations in
+  Heavy-Ion Collsiions","16 pages, 3 figs (not included, available as .ps files on request)","Int. J. Mod. Phys. A9 (1994) 3821-3840","10.1142/S0217751X94001540","TPR-92-41; AZPH-TH/92-25","hep-ph",,"  A statistical field theory of particle production is presented using a
+gaussian functional in three dimensions. Identifying the field with the
+particle density fluctuation results in zero correlations of order three and
+higher, while the second order correlation function is of a Yukawa form. A
+detailed scheme for projecting the theoretical three-dimensional correlation
+onto data of three and fewer dimensions illustrates how theoretical predictions
+are tested against experimental moments in the different dimensions. An example
+given in terms of NA35 parameters should be testable against future NA35 data.
+","[{""version"":""v1"",""created"":""Mon, 26 Oct 1992 23:35:42 GMT""}]","2015-06-25"
+"hep-ph/9210265","Aneesh Manohar","Elizabeth Jenkins, Michael Luke, Aneesh V. Manohar, and Martin J.
+  Savage","Weak Radiative Hyperon Decays in Chiral Perturbation Theory","24 Pages, 7 Figures, uses harvmac","Nucl.Phys.B397:84-104,1993","10.1016/0550-3213(93)90336-N","CERN-TH.6690/92, UCSD/PTH 92-33","hep-ph",,"  The parity-conserving $a$ and parity-violating $b$ amplitudes for weak
+radiative hyperon decay are studied using chiral perturbation theory. The
+imaginary parts of $a$ and $b$ are computed using unitarity. The real part of
+$b$ is dominated by a one-loop infrared divergent graph which is computed. The
+real part of $a$ has a large theoretical uncertainty and cannot be calculated
+reliably. Counterterms for the $a$ and $b$ amplitudes are classified using
+$CPS$ symmetry. The experimental values for decay widths and asymmetries are
+consistent with theory, with the exception of the asymmetry parameter for the
+$\Sigma^+ \rightarrow p \gamma$ decay.
+","[{""version"":""v1"",""created"":""Tue, 27 Oct 1992 10:07:03 GMT""}]","2008-11-26"
+"hep-ph/9210266","Fabio Zwirner","A.Brignole and F.Zwirner","Radiative corrections to the decay H==>hh in the Minimal Supersymmetric
+  Standard Model","11 A4-pages, 3 figures not included, CERN-TH.6603/92","Phys.Lett.B299:72-82,1993","10.1016/0370-2693(93)90885-L",,"hep-ph",,"  We set up a suitable renormalization programme for the one-loop computation
+of the decay rate Gamma(H==>hh) in the Minimal Supersymmetric extension of the
+Standard Model. We then perform an explicit diagrammatic calculation, including
+the full contributions from top, bottom, stop and sbottom loops. We find that,
+for tan(beta) close to 1, and m_H greater than or approximately equal to 2 m_t,
+the results can significantly differ from those previously obtained in the
+effective potential approach. However, the latter method remains a good
+approximation in the region of parameter space which is most relevant for H
+searches at large hadron colliders.
+","[{""version"":""v1"",""created"":""Tue, 27 Oct 1992 10:28:11 GMT""}]","2011-01-27"
+"hep-ph/9210267","Paul Hoyer","Paul Hoyer","New QCD Effects at Large x","(Lectures at the XXXII Cracow School of Theoretical Physics, Zakopane
+  1992), 22 pages, 7 figures not included (available on request), phyzzx.tex","Acta Phys.Polon.B23:1145-1162,1992",,"HU-TFT-92-37","hep-ph",,"  In heavy quark production at large Feynman $x$ there are two hardness scales,
+one given by the heavy quark pair mass $\M^2$\ and the other by
+$\Lambda_{QCD}^2/(1-x)$. When these two scales are comparable, the twist
+expansion of Perturbative QCD breaks down. We discuss the dynamics in this new
+QCD limit, where $\mu^2=\M^2(1-x)$ is held fixed as $\M^2\to \infty$. New
+diagrams are found to contribute, which can enhance the cross section above
+that expected for leading twist. The heavy quarks are produced by a peripheral
+scattering on the target of hardness $\mu^2$. This leads, in particular, to a
+nuclear target dependence of $A^{2/3}$ at small $\mu$. Qualitatively, the
+dynamics in the new limit agrees with earlier phenomenological models of
+``intrinsic'' heavy quark production.
+","[{""version"":""v1"",""created"":""Tue, 27 Oct 1992 11:41:33 GMT""}]","2010-11-01"
+"hep-ph/9210268","Mannque Rho","Mannque Rho (Saclay)","Heavy-Quark Baryons as Skyrmions","(Invited talk given at the Int. Workshop on ""Baryons as Skyrme
+  Solitons,"" 27-30 Sept. 1992, Siegen, Germany); 12 pages; LATEX; SPhT/92/113",,,,"hep-ph",,"  I discuss recent development on the description of heavy-quark (such as
+charmed and bottom) baryons as one or more heavy mesons ""wrapped"" by a
+skyrmion. Amazingly enough, such a description naturally arises when
+light-quark chiral symmetry and heavy-quark spin symmetry are incorporated in
+an effective Lagrangian. I interpret the resulting spectrum in terms of
+nonabelian induced (Berry) potentials in analogy to diatomic molecular systems.
+","[{""version"":""v1"",""created"":""Tue, 27 Oct 1992 13:15:06 GMT""}]","2007-05-23"
+"hep-th/9210135","Alice Rogers","Alice Rogers","Anticommuting Variables, Fermionic Path Integrals and Supersymmetry","18 pages, KCL-TH-92-5",,"10.1016/0393-0440(93)90073-N",,"hep-th",,"  (Replacement because mailer changed `hat' for supercript into something
+weird. The macro `\sp' has been used in place of the `hat' character in this
+revised version.) Fermionic Brownian paths are defined as paths in a space
+para\-metr\-ised by anticommuting variables. Stochastic calculus for these
+paths, in conjunction with classical Brownian paths, is described; Brownian
+paths on supermanifolds are developed and applied to establish a Feynman-Kac
+formula for the twisted Laplace-Beltrami operator on differential forms taking
+values in a vector bundle. This formula is used to give a proof of the
+Atiyah-Singer index theorem which is rigorous while being closely modelled on
+the supersymmetric proofs in the physics literature.
+","[{""version"":""v1"",""created"":""Mon, 26 Oct 1992 18:08:00 GMT""},{""version"":""v2"",""created"":""Wed, 28 Oct 1992 14:34:00 GMT""}]","2009-10-22"
+"hep-th/9210136",,"S.Guruswamy and S.G.Rajeev","Two Dimensional Quantum Chromodynamics on a Cylinder","8 pages, UR-1283","Mod.Phys.Lett.A7:3783-3788,1992","10.1142/S0217732392003219",,"hep-th",,"  We study two dimensional Quantum Chromodynamics with massive quarks on a
+cylinder in a light--cone formalism. We eliminate the non--dynamical degrees of
+freedom and express the theory in terms of the quark and Wilson loop variables.
+It is possible to perform this reduction without gauge fixing. The fermionic
+Fock space can be defined independent of the gauge field in this light--cone
+formalism.
+","[{""version"":""v1"",""created"":""Mon, 26 Oct 1992 19:50:00 GMT""}]","2010-11-01"
+"hep-th/9210137","Jeremy Schiff","Jeremy Schiff","Actions for Integrable Systems and Deformed Conformal Theories","(based on a talk given at the NSERC-CAP Workshop, ""Quantum Groups,
+  Integrable Models and Statistical Systems"", Kingston, Ontario, Canada, July
+  1992), 11 pages, plain tex, no figures, IASSNS-HEP-92/76",,,,"hep-th",,"  I report on work on a Lagrangian formulation for the simplest 1+1 dimensional
+integrable hierarchies. This formulation makes the relationship between
+conformal field theories and (quantized) 1+1 dimensional integrable hierarchies
+very clear.
+","[{""version"":""v1"",""created"":""Mon, 26 Oct 1992 20:37:51 GMT""}]","2007-05-23"
+"hep-th/9210138","Kazuhiko Odaka","Kazuhiko Odaka","Comment on $q$-deformation in Second Quantization Procedure","NDA-FP-9/92, 9pp, phyzzx.tex","Prog.Theor.Phys. 90 (1993) 1149-1154","10.1143/ptp/90.5.1149",,"hep-th",,"  When the $q$-deformed creation and annihilation operators are used in a
+second quantization procedure, the algebra satisfied by basis vectors
+(orthogonal complete set) should be also deformed such as a field operator
+remains invariant under the coaction of the quantum group. In the 1+1
+dimensional quantum field theories we deform the algebra of the basis vectors
+and study the $q$-deformation in the second quantization procedure.
+","[{""version"":""v1"",""created"":""Tue, 27 Oct 1992 05:20:16 GMT""},{""version"":""v2"",""created"":""Tue, 17 Nov 1992 05:43:32 GMT""}]","2017-02-01"
+"hep-th/9210139",,"A.K.Tollsten","On Anomaly-free Supergravity as an Effective String Theory","7 pages, Latex, CERN-TH.6686/92","Phys.Lett. B300 (1993) 61-65","10.1016/0370-2693(93)90749-8",,"hep-th",,"  The equations of motion of anomaly-free supergravity are shown to fulfil (to
+all orders in $\alpha'$) a differential condition corresponding to the one
+relating the Weyl anomaly coefficients for a non-linear sigma model
+representing a (heterotic) string propagating in a non-trivial background. This
+supports the possibility that anomaly-free supergravity could provide the
+complete massless effective theory for the heterotic string.
+","[{""version"":""v1"",""created"":""Tue, 27 Oct 1992 15:20:44 GMT""}]","2009-10-22"
+"math/9210204","Jindrich Zapletal","Jind\v{r}ich Zapletal","Splitting number and the core model",,,,"Logic E-prints October 27, 1992","math.LO",,"  We can generalize the definition of {\it splitting number } $s(\kappa )$ for
+$\kappa$ uncountable regular: $s(\kappa )=min\{ |\Cal S|:\Cal S\subset \Cal
+P(\kappa ) \forall a\in \kappa ^\kappa \exists b\in \Cal S |a\cap
+b|=|a\setminus b|=\kappa\}$ However,$\exists \kappa>\aleph_0$ $s(\kappa
+)>\kappa ^+$ becomes a considerable hypothesis,shown consistent from a
+supercompact.We show that it implies inner models of $\exists \alpha :o(\alpha
+)=\alpha ^{++}$
+","[{""version"":""v1"",""created"":""Tue, 27 Oct 1992 00:00:00 GMT""}]","2008-02-03"

@@ -1,0 +1,143 @@
+"cond-mat/9209007","Bob Gooding","R.J. Gooding, and A. Mailhot","Spin texture in weakly doped $Cu0_2$ planes explaining magnetic
+  correlation length and Raman scattering experiments","14 pages, 1 figure available on request from bob@rjg.phy.queensu.ca",,,,"cond-mat",,"  A model of $CuO_2$ planes weakly doped with partially delocalised holes is
+considered. The effect of such a hole on the background AFM spin texture can be
+represented by a purely magnetic Hamiltonian $H = - \sum_{(ijk)} (\vec S_i
+\cdot \vec S_j \times \vec S_k)^2$, where the summation is over the four
+triangles of a single plaquette. We show that this model of randomly
+distributed chiral spin defects leads to an in--plane spin correlation length
+approximately described by $\xi^{-1} (x,T) = \xi^{-1} (0,T) + \xi^{-1} (x,0)$,
+consistent with neutron scattering experiments on $La_{2-x}Sr_xCuO_4$. Further,
+this model leads to favourable comparisons with $B_{1g}$ Raman scattering
+results for the same cuprate system.
+","[{""version"":""v1"",""created"":""Tue, 8 Sep 1992 01:33:20 GMT""}]","2007-05-23"
+"cond-mat/9209008",,"V. L. Libero and D. L. Cox","A Simple Model for Coupled Magnetic and Quadrupolar Instabilities in
+  Uranium Heavy-Fermion Materials","23 pages and 3 figrues",,"10.1103/PhysRevB.48.3783",,"cond-mat",,"  We present a mean-field calculation of the phase diagram of a simple model of
+localized moments, in the hexagonal uranium heavy-fermion compounds. The model
+considers a non-Kramers quadrupolar doublet ground state magnetically coupled
+with a singlet excited-state, favoring in-plane van-Vleck magnetism, as has
+been conjectured for UPt$_3$. The Hamiltonian which defines the model is
+Heisenberg like in both, magnetic and quadrupolar moments. Among our main
+results are: (i) for zero intersite quadrupolar coupling, the magnetic order is
+achieved by a first order transition above a critical intersite magnetic
+coupling value which becomes second order at higher coupling strengths. (ii)
+for finite intersite quadrupolar coupling, at temperatures below a second order
+quadrupolar ordering transition, the minimal magnetic coupling value is
+increased but (a) the magnetic ordering temperature is enhanced above this
+value, and (b) the ordering of first and second order transitions in the phase
+diagram is reversed.
+","[{""version"":""v1"",""created"":""Tue, 8 Sep 1992 14:07:05 GMT""}]","2009-10-22"
+"gr-qc/9209003","Geza Ful{\o}p","G\'eza F\""ul\""op","Transformations and BRST-Charges in 2+1 Dimensional Gravitation","10 pages","Mod.Phys.Lett.A7:3495-3502,1992","10.1142/S0217732392002901","report G\""oteborg ITP 92-39","gr-qc hep-th",,"  Canonical transformations relating the variables of the ADM-, Ashtekar's and
+Witten's formulations of gravity are computed in 2+1~dimensions. Three
+different forms of the BRST-charge are given in the 2+1 dimensional Ashtekar
+formalism, two of them using Ashtekar's form of the constraints and one of them
+using the forms suggested by Witten. The BRST-charges are of different rank.
+","[{""version"":""v1"",""created"":""Tue, 8 Sep 1992 13:34:59 GMT""}]","2010-11-01"
+"hep-ph/9209220",,"J. Lopez, D. Nanopoulos, and H. Pois","Proton Decay and Cosmology Strongly Constrain the Minimal SU(5)
+  Supergravity Model","11 pages plus 5 figures (not included). CERN-TH.6628/92,
+  CTP-TAMU-61/92. A condensed version of this paper will appear in the
+  Proceedings of the XXVI International Conference on High Energy Physics,
+  Dallas--Texas, August 5--12, 1992","Phys.Rev.D47:2468-2473,1993","10.1103/PhysRevD.47.2468",,"hep-ph",,"  We present the results of an extensive exploration of the five-dimensional
+parameter space of the minimal $SU(5)$ supergravity model, including the
+constraints of a long enough proton lifetime ($\tau_p>1\times10^{32}\y$) and a
+small enough neutralino cosmological relic density ($\Omega_\chi h^2_0\le1$).
+We find that the combined effect of these two constraints is quite severe,
+although still leaving a small region of parameter space with $m_{\tilde
+g,\tilde q}<1\TeV$. The allowed values of the proton lifetime extend up to
+$\tau_p\approx1\times10^{33}\y$ and should be fully explored by the
+SuperKamiokande experiment. The proton lifetime cut also entails the following
+mass correlations and bounds: $m_h\lsim100\GeV$,
+$m_\chi\approx{1\over2}m_{\chi^0_2}\approx0.15\gluino$, $m_{\chi^0_2}\approx
+m_{\chi^+_1}$, and $m_\chi<85\,(115)\GeV$,
+$m_{\chi^0_2,\chi^+_1}<165\,(225)\GeV$ for $\alpha_3=0.113\,(0.120)$. Finally,
+the {\it combined} proton decay and cosmology constraints predict that if
+$m_h\gsim75\,(80)\GeV$ then $m_{\chi^+_1}\lsim90\,(110)\GeV$ for
+$\alpha_3=0.113\,(0.120)$. Thus, if this model is correct, at least one of
+these particles will likely be observed at LEPII.
+","[{""version"":""v1"",""created"":""Mon, 7 Sep 1992 17:55:00 GMT""}]","2011-06-08"
+"hep-ph/9209221","Ernest Ma","Ernest Ma","Possible Finiteness of the Higgs-Boson Mass Renormalization","9 pages (2 figures not included)","Phys.Rev. D47 (1993) 2143-2146","10.1103/PhysRevD.47.2143","UCRHEP-T100 (Sep 1992) revised","hep-ph",,"  It is shown by explicit calculation that the one-loop mass renormalization of
+the Higgs boson in the standard model is gauge-independent. It could even be
+rendered finite if the following mass relationships were satisfied: $m_t^2
+\simeq m_H^2 = (2 M_W^2 + M_Z^2)/3$. Numerically, this would imply $m_t \simeq
+84~GeV$ which is below the current experimental lower bound of 91 GeV, but
+since higher-order corrections are yet to be calculated, the above hypothesis
+could still have a chance of being realized.
+","[{""version"":""v1"",""created"":""Mon, 7 Sep 1992 18:01:17 GMT""},{""version"":""v2"",""created"":""Thu, 10 Sep 1992 19:25:53 GMT""}]","2009-10-22"
+"hep-th/9209021","E. Elizalde","A.A. Bytsenko, E. Elizalde, S.D. Odintsov nd S. Zerbini","Laurent Series Representation for the Open Superstring Free Energy","Latex, 10 Pages","Phys.Lett.B297:275-281,1992","10.1016/0370-2693(92)91262-8","HUDP-92-09, UB-ECM-PF 92/21","hep-th",,"  Open superstrings at non-zero temperature are considered. A novel
+representation for the free energy (Laurent series representation) is
+constructed. It is shown that the Hagedorn temperature arises in this formalism
+as the convergence condition (specifically, the radius of convergence) of the
+Laurent series.
+","[{""version"":""v1"",""created"":""Mon, 7 Sep 1992 18:37:03 GMT""}]","2009-09-17"
+"hep-th/9209022","7353","Shinobu Hikami and Edouard Br\'ezin","Perturbative analysis of an n-Ising model on a random surface","9pp","Phys.Lett. B295 (1992) 209-213","10.1016/0370-2693(92)91555-N",,"hep-th",,"  Two dimensional quantum gravity coupled to a conformally invariant matter
+field of central charge c=n/2, is represented, in a discretized version, by n
+independent Ising spins per cell of the triangulations of a random surface. The
+matrix integral representation of this model leads to a diagrammatic expansion
+at large orders, when the Ising coupling constant is tuned to criticality, one
+extracts the values of the string susceptibility exponent. We extend our
+previous calculation to order eight for genus zero and investigate now also the
+genus one case in order to check the possibility of having a well-defined
+double scaling limit even c>1.
+","[{""version"":""v1"",""created"":""Tue, 8 Sep 1992 07:37:35 GMT""}]","2009-10-22"
+"hep-th/9209023","A. A. Tseytlin","A.A. Tseytlin","String vacuum backgrounds with covariantly constant null Killing vector
+  and 2d quantum gravity","26 p., revised (a discussion of tachyon coupling is added at the end
+  of section 4), DAMTP-92-49","Nucl.Phys.B390:153-172,1993","10.1016/0550-3213(93)90389-7",,"hep-th",,"  We consider a $2d$ sigma model with a $2+N$ - dimensional Minkowski signature
+target space metric having a covariantly constant null Killing vector. We study
+solutions of the conformal invariance conditions in $2+N$ dimensions and find
+that generic solutions can be represented in terms of the RG flow in $N$ -
+dimensional ``transverse space'' theory. The resulting conformal invariant
+sigma model is interpreted as a quantum action of the $2d$ scalar (``dilaton"")
+quantum gravity model coupled to a (non-conformal) `transverse' sigma model.
+The conformal factor of the $2d$ metric is identified with a light cone
+coordinate of the $2+N$ - dimensional sigma model. We also discuss the case
+when the transverse theory is conformal (with or without the antisymmetric
+tensor background) and reproduce in a systematic way the solutions with flat
+transverse space known before.
+","[{""version"":""v1"",""created"":""Tue, 8 Sep 1992 10:17:04 GMT""},{""version"":""v2"",""created"":""Mon, 21 Sep 1992 18:53:00 GMT""}]","2009-09-17"
+"hep-th/9209024","Tim Hollowood","Timothy Hollowood","Quantum Soliton Mass Corrections in SL(N) Affine Toda Theory","14 pages","Phys.Lett. B300 (1993) 73-83","10.1016/0370-2693(93)90751-3","OUTP-92-19P","hep-th",,"  The first quantum mass corrections for the solitons of complex $sl(n)$ affine
+Toda field theory are calculated. The corrections are real and preserve the
+classical mass ratios. The formalism also proves that the solitons are
+classically stable.
+","[{""version"":""v1"",""created"":""Tue, 8 Sep 1992 13:24:22 GMT""}]","2009-10-22"
+"math/9209202","Thomas Jech","Randall Dougherty and Thomas Jech","Finite left-distributive algebras and embedding algebras\endtitle",,"Advances in Mathematics Volume 130, Issue 2, 25 September 1997,
+  Pages 201-241","10.1006/aima.1997.1655","Logic E-prints September 08, 1992","math.LO",,"  We consider algebras with one binary operation $\cdot$ and one generator
+({\it monogenic}) and satisfying the left distributive law $a\cdot (b\cdot
+c)=(a\cdot b)\cdot (a\cdot c)$. One can define a sequence of finite
+left-distributive algebras $A_n$, and then take a limit to get an infinite
+monogenic left-distributive algebra~$A_\infty$. Results of Laver and Steel
+assuming a strong large cardinal axiom imply that $A_\infty$ is free; it is
+open whether the freeness of $A_\infty$ can be proved without the large
+cardinal assumption, or even in Peano arithmetic. The main result of this paper
+is the equivalence of this problem with the existence of a certain algebra of
+increasing functions on natural numbers, called an {\it embedding algebra}.
+Using this and results of the first author, we conclude that the freeness of
+$A_\infty$ is unprovable in primitive recursive arithmetic.
+","[{""version"":""v1"",""created"":""Tue, 8 Sep 1992 00:00:00 GMT""}]","2021-02-09"
+"math/9209203","Andreas Blass","Andreas Blass","Cardinal Characteristics and the Product of Countably Many Infinite
+  Cyclic Groups",,,,"Logic E-prints September 08, 1992","math.LO",,"  Let P be the direct product of countably many copies of the additive group Z
+of integers. We study, from a set-theoretic point of view, those subgroups of P
+for which all homomorphisms to Z annihilate all but finitely many of the
+standard unit vectors. Specifically, we relate the smallest possible size of
+such a subgroup to several of the standard cardinal characteristics of the
+continuum. We also study some related properties and cardinals, both
+group-theoretic and set-theoretic. One of the set-theoretic properties and the
+associated cardinal are combinatorially natural, independently of any
+connection with algebra.
+","[{""version"":""v1"",""created"":""Tue, 8 Sep 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9209211","Niels Gr{\o}nb{\ae}k","Niels Gronbaek, Barry E. Johnson, George A. Willis","Amenability of Banach algebras of compact operators",,,,"Banach Archive 9/8/92","math.FA",,"  In this paper we study conditions on a Banach space X that ensure that the
+Banach algebra K(X) of compact operators is amenable. We give a symmetrized
+approximation property of X which is proved to be such a condition. This
+property is satisfied by a wide range of Banach spaces including all the
+classical spaces. We then investigate which constructions of new Banach spaces
+from old ones preserve the property of carrying amenable algebras of compact
+operators. Roughly speaking, dual spaces, predual spaces and certain tensor
+products do inherit this property and direct sums do not. For direct sums this
+question is closely related to factorization of linear operators. In the final
+section we discuss some open questions, in particular, the converse problem of
+what properties of X are implied by the amenability of K(X).
+","[{""version"":""v1"",""created"":""Tue, 8 Sep 1992 15:22:06 GMT""}]","2008-02-03"
+"math/9209212","Stephen Montgomery-Smith","Stephen J. Montgomery-Smith","The Distribution of Non-Commutative Rademacher Series",,"Math. Ann. 302, (1995), 395-416",,,"math.FA",,"  We give a formula for the tail of the distribution of the non-commutative
+Rademacher series, which generalizes the result that is already available in
+the commutative case. As a result, we are able to calculate the norm of these
+series in many rearrangement invariant spaces, generalizing work of Pisier and
+Rodin and Semyonov.
+","[{""version"":""v1"",""created"":""Tue, 8 Sep 1992 15:22:06 GMT""},{""version"":""v2"",""created"":""Mon, 6 Dec 1999 05:18:26 GMT""}]","2008-02-03"

@@ -1,0 +1,155 @@
+"alg-geom/9212002","Amnon Neeman","Amnon Neeman","On the stable rationality of $X/G$","38 pages, LaTeX. I have to retract my manuscript: There is a serious
+  error in the proof of Lemma 4.3.3. In the proof, I incorrectly identify two
+  covering spaces of $\Pi_Y^r(Z).$",,,,"alg-geom math.AG",,"  Let $G$ be a connected, reductive algeraic group whose Dynkin diagram
+contains no components of type $G_2,$ $F_4,$ $E_6,$ $E_7$ or $E_8.$ That is,
+all the components are of classical type. Suppose $X$ is an affine variety, and
+suppose $G$ acts freely on $X.$ Then $X$ and $X/G$ are stably birationally
+equivalent.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 17:36:24 GMT""},{""version"":""v2"",""created"":""Mon, 14 Dec 1992 15:03:01 GMT""}]","2012-01-20"
+"hep-ph/9212223",,"Jizhi Wu, Shinichi Urano and Richard Arnowitt","\cl{\bf $\tau\rightarrow\mu\mu{\bar\mu}$ and $\tau\rightarrow\mu e{\bar
+  e}$ Decays in String Models with $\e6$ Symmetry","11 pages, (Plain Tex, four figures not included)","Phys.Rev.D47:4006-4011,1993","10.1103/PhysRevD.47.4006","CTP-TAMU-80/91 (Nov. 1992)","hep-ph",,"  A detailed analysis on the rare $\tau$ decay {\it via} $\taumue$ and
+$\taumus$ in the string models with $\e6$ symmetry is reported. It is found
+that $\Gamma(\taumue)\sim(6-7)\Gamma(\taumus)$ and these rates are in general
+about 1000 times less than that of $\Gamma(\mu\rightarrow e\gamma)$. It is also
+found that the out-going muon in $\taumue$ is almost 100\% right-handed
+polarized and the out-going electrons would be predominately parallel to each
+other. These decay processes may be accessible at the SSC.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 20:01:33 GMT""}]","2016-09-01"
+"hep-ph/9212224",,"P. Huet, K. Kajantie, R. G. Leigh, B.-H. Liu and L. McLerran","Hydrodynamic Stability Analysis of Burning Bubbles in Electroweak Theory
+  and in QCD","preprint # SLAC-PUB-5943, SCIPP 92/56 38 pages, 10 figures (submitted
+  via `uufiles'), phyzzx format minor snafus repaired","Phys.Rev. D48 (1993) 2477-2492","10.1103/PhysRevD.48.2477",,"hep-ph",,"  Assuming that the electroweak and QCD phase transitions are first order, upon
+supercooling, bubbles of the new phase appear. These bubbles grow to
+macroscopic sizes compared to the natural scales associated with the Compton
+wavelengths of particle excitations. They propagate by burning the old phase
+into the new phase at the surface of the bubble. We study the hydrodynamic
+stability of the burning and find that for the velocities of interest for
+cosmology in the electroweak phase transition, the shape of the bubble wall is
+stable under hydrodynamic perturbations. Bubbles formed in the cosmological QCD
+phase transition are found to be a borderline case between stability and
+instability.
+","[{""version"":""v1"",""created"":""Sat, 5 Dec 1992 00:57:10 GMT""},{""version"":""v2"",""created"":""Tue, 8 Dec 1992 02:09:05 GMT""},{""version"":""v3"",""created"":""Thu, 10 Dec 1992 23:33:20 GMT""}]","2009-10-22"
+"hep-th/9212033","Constantin Bachas","C. Bachas","On the Breakdown of Perturbation Theory","(13 pages), CPTH/C209-1292 (Talk at the Kiev Conference on: Modern
+  Problems in QFT, Strings and Quantum Gravity, June 1992)","Theor.Math.Phys.95:491-498,1993; Teor.Mat.Fiz.95:187-196,1993","10.1007/BF01017133",,"hep-th",,"  The production of o(1/g^2) particles in a weakly-coupled theory is believed
+to be non-perturbatively suppressed. I comment on the prospects of (a)
+establishing this rigorously, and (b) estimating the effect to exponential
+accuracy semiclassically, by discussing two closely-related problems: the
+large-order behaviour of few-point Green functions, and induced excitation in
+quantum mechanics. Induced tunneling in the latter case is exponentially
+enhanced for frequencies of the order of the barrier height.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 18:07:56 GMT""}]","2010-11-01"
+"hep-th/9212034","Richard Gass","Richard Gass and Louis Witten","Do Black Holes Form?","10 pages. This paper is withdrawn for revisions and clarification",,,"UCTP 10/92","hep-th",,"  We argue that the collapse of a non-rotating object into a black hole has not
+been proved to be dynamically stable. There are unstable modes and one should
+explore whether they may be excited. This paper is withdrawn for revisions and
+clarification
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 21:07:11 GMT""},{""version"":""v2"",""created"":""Tue, 22 Dec 1992 16:26:52 GMT""}]","2016-09-06"
+"hep-th/9212035",,"David Kastor and Jennie Traschen","Cosmological Multi-Black Hole Solutions","15 pages (phyzzx), UMHEP-380 (minor referencing error corrected)","Phys.Rev. D47 (1993) 5370-5375","10.1103/PhysRevD.47.5370",,"hep-th gr-qc",,"  We present simple, analytic solutions to the Einstein-Maxwell equation, which
+describe an arbitrary number of charged black holes in a spacetime with
+positive cosmological constant $\Lambda$. In the limit $\Lambda=0$, these
+solutions reduce to the well known Majumdar-Papapetrou (MP) solutions. Like the
+MP solutions, each black hole in a $\Lambda >0$ solution has charge $Q$ equal
+to its mass $M$, up to a possible overall sign. Unlike the $\Lambda = 0$ limit,
+however, solutions with $\Lambda >0$ are highly dynamical. The black holes move
+with respect to one another, following natural trajectories in the background
+deSitter spacetime. Black holes moving apart eventually go out of causal
+contact. Black holes on approaching trajectories ultimately merge. To our
+knowledge, these solutions give the first analytic description of coalescing
+black holes. Likewise, the thermodynamics of the $\Lambda >0$ solutions is
+quite interesting. Taken individually, a $|Q|=M$ black hole is in thermal
+equilibrium with the background deSitter Hawking radiation. With more than one
+black hole, because the solutions are not static, no global equilibrium
+temperature can be defined. In appropriate limits, however, when the black
+holes are either close together or far apart, approximate equilibrium states
+are established.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 21:17:00 GMT""},{""version"":""v2"",""created"":""Tue, 8 Dec 1992 20:57:00 GMT""}]","2009-10-22"
+"hep-th/9212036","Vladimir Kazakov","V.A.Kazakov","D-dimensional Induced Gauge Theory as a Solvable Matrix Model","10 pages, preprint CERN-TH-6754/92","Nucl.Phys.Proc.Suppl. 30 (1993) 149-158","10.1016/0920-5632(93)90184-8",,"hep-th",,"  We discuss basic features and new developments in recently proposed induced
+gauge theory solvable in any number of dimensions in the limit of infinite
+number of colours. Its geometrical (string) picture is clarified, using planar
+graph expansion of the corresponding matrix model. New analytical approach is
+proposed for this theory which is based on its equivalence to an effective
+two-matrix model. It is shown on some particular examples how the approach
+works.
+  This approach may be applicable to a wide class of matrix models with
+tree-like quadratic couplings of matrices.
+  (This talk was presented on the International Symposium on Lattice
+  Field Theory ""LATTICE-92"" in Amsterdam, the Netherlands, 15-19
+  September 1992)
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 21:59:33 GMT""}]","2009-10-22"
+"hep-th/9212037",,"E. Bergshoeff, R. Percacci, E. Sezgin, K.S. Stelle and P.K. Townsend","$U(1)$--Extended Gauge Algebras in $p$-Loop Space","13 pages, UG-5/92; CTP-TAMU-63/92; DAMTP/R-92/32;
+  Imperial/TP/91-92/30; SISSA 157/92/EP","Nucl.Phys. B398 (1993) 343-358","10.1016/0550-3213(93)90113-4",,"hep-th",,"  We consider, for $p$ odd, a $p$--brane coupled to a $(p+1)$th rank background
+antisymmetric tensor field and to background Yang-Mills (YM) fields {\it via} a
+Wess-Zumino term. We obtain the generators of antisymmetric tensor and
+Yang-Mills gauge transformations acting on $p$--brane wavefunctionals
+(functions on `$p$-loop space'). The Yang-Mills generators do not form a closed
+algebra by themselves; instead, the algebra of Yang-Mills and antisymmetric
+tensor generators is a $U(1)$ extension of the usual algebra of Yang-Mills
+gauge transformations. We construct the $p$-brane's Hamiltonian and thereby
+find gauge-covariant functional derivatives acting on $p$--brane
+wavefunctionals that commute with the YM and $U(1)$ generators.
+","[{""version"":""v1"",""created"":""Sat, 5 Dec 1992 01:15:33 GMT""}]","2009-10-22"
+"hep-th/9212038","Edwin Langmann","E. Langmann and G. W. Semenoff","Gribov ambiguity and non-trivial vacuum structure of gauge theories on a
+  cylinder","13 pages, a few typos and signs corrected, reference added","Phys.Lett. B303 (1993) 303-307","10.1016/0370-2693(93)91436-Q",,"hep-th",,"  Using the hamiltonian framework, we analyze the Gribov problem for U(N) and
+SU(N) gauge theories on a cylinder (= (1+1) dimensional spacetime with compact
+space S^1). The space of gauge orbits is found to be an orbifold. We show by
+explicit construction that a proper treatment of the Gribov ambiguity leads to
+a highly non-trivial structure of all physical states in these quantum field
+theory models. The especially interesting example of massless QCD is discussed
+in more detail: There, some of the special static gauge transformations which
+are responsible for the Gribov ambiguity also lead to a spectral flow, and this
+implies a chiral condensate in all physical states. We also show that the
+latter is closely related to the Schwinger term and the chiral anomaly.
+","[{""version"":""v1"",""created"":""Sat, 5 Dec 1992 02:52:00 GMT""},{""version"":""v2"",""created"":""Tue, 23 Feb 1993 05:03:00 GMT""},{""version"":""v3"",""created"":""Tue, 23 Feb 1993 05:29:00 GMT""}]","2009-10-22"
+"hep-th/9212039","Kimura Kazuhiro","Kazuhiro Kimura","On Free Boson Representations of the Quantum Affine Algebra
+  $U_q(\widehat{\sl}_2)$","12pages",,,,"hep-th",,"  A boson representation of the quantum affine algebra $U_q(\widehat{\sl}_2)$
+is realized based on the Wakimoto construction. We discuss relations with the
+other boson representations.
+","[{""version"":""v1"",""created"":""Sat, 5 Dec 1992 06:27:39 GMT""}]","2007-05-23"
+"hep-th/9212040","Atsushi Matsuo","A. Matsuo","Free field realization of $q$-deformed primary fields for
+  $U_q(\widehat{\sl}_2)$","22 pages",,,,"hep-th",,"  The $q$-vertex operators of Frenkel and Reshetikhin are studied by means of a
+$q$-deformation of the Wakimoto module for the quantum affine algebra
+$U_q(\widehat{\sl}_2)$ at an arbitrary level $k\ne 0,-2$. A Fock module version
+of the $q$-deformed primary field of spin $j$ is introduced, as well as the
+screening operators which (anti-)commute with the action of
+$U_q(\widehat{\sl}_2)$ up to a total difference of a field. A proof of the
+intertwining property is given for the $q$-vertex operators corresponding to
+the primary fields of spin $j\notin {1 \over2}\Z_{\geq0}$, which is enough to
+treat a general case. A sample calculation of the correlation function is also
+given.
+","[{""version"":""v1"",""created"":""Sat, 5 Dec 1992 14:13:22 GMT""},{""version"":""v2"",""created"":""Sat, 5 Dec 1992 16:12:09 GMT""}]","2008-02-03"
+"math/9212203",,"Alexander Koldobsky","Operators preserving orthogonality are isometries",,,,"Banach Archive 12/4/92","math.FA",,"  Let $E$ be a real Banach space. For $x,y \in E,$ we follow R.James in saying
+that $x$ is orthogonal to $y$ if $\|x+\alpha y\|\geq \|x\|$ for every $\alpha
+\in R$. We prove that every operator from $E$ into itself preserving
+orthogonality is an isometry multiplied by a constant.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 21:58:37 GMT""}]","2008-02-03"
+"math/9212204","Gilles Pisier","Gilles Pisier","Interpolation Between $H^p$ Spaces and Non-Commutative Generalizations
+  II",,,,"Banach Archive 12/4/92","math.FA",,"  We continue an investigation started in a preceding paper. We discuss the
+classical results of Carleson connecting Carleson measures with the
+$\d$-equation in a slightly more abstract framework than usual. We also
+consider a more recent result of Peter Jones which shows the existence of a
+solution of the $\d$-equation, which satisfies simultaneously a good $L_\i$
+estimate and a good $L_1$ estimate. This appears as a special case of our main
+result which can be stated as follows: Let $(\Omega,\cal{A},\mu)$ be any
+measure space. Consider a bounded operator $u:H^1\ra L_1(\mu)$. Assume that on
+one hand $u$ admits an extension $u_1:L^1\ra L_1(\mu)$ bounded with norm $C_1$,
+and on the other hand that $u$ admits an extension $u_\i:L^\i\ra L_\i(\mu)$
+bounded with norm $C_\i$. Then $u$ admits an extension $\w{u}$ which is bounded
+simultaneously from $L^1$ into $ L_1(\mu)$ and from $L^\i$ into $ L_\i(\mu)$
+and satisfies $$\eqalign{&\|\tilde u\colon \ L_\infty \to L_\infty(\mu)\|\le
+CC_\infty\cr &\|\tilde u\colon \ L_1\to L_1(\mu)\|\le CC_1}$$ where $C$ is a
+numerical constant.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 19:18:31 GMT""}]","2016-09-06"
+"math/9212205","Gilles Pisier","Gilles Pisier","On the ``local theory'' of operator spaces",,,,"Banach Archive 12/4/92","math.FA",,"  In Banach space theory, the ``local theory'' refers to the collection of
+finite dimensional methods and ideas which are used to study infinite
+dimensional spaces (see e.g. [P4,TJ]). It is natural to try to develop an
+analogous theory in the recently developed category of operator spaces
+[BP,B1-2,BS,ER1-7,Ru]. The object of this paper is to start such a theory. We
+plan to present a more thorough discussion of the associated tensor norms in a
+future publication.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 19:18:31 GMT""}]","2009-09-25"
+"math/9212206","Gilles Pisier","Gilles Pisier","Sur les op\'erateurs factorisables par $OH$",,,,"Banach Archive 12/4/92","math.FA",,"  Let $H,K$ be Hilbert spaces. Let $E \subset B(H)$ and $F \subset B(K)$ be
+operator spaces in the sense of [1,2]. We study the operators $u : E \to F$
+which admit a factorization $E \to OH \to F$ with completely bounded maps
+through the operator Hilbert space $OH$ which we have introduced and studied in
+a recent note. We give a characterization of these operators which allows to
+develop a theory entirely analogous to that of operators between Banach spaces
+which can be factored through a Hilbert space.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 19:18:31 GMT""}]","2016-09-06"

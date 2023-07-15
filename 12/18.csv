@@ -1,0 +1,164 @@
+"gr-qc/9212012","Ctirad Klimcik","C. Klim\v{c}\'ik and P. Koln\'ik","Collisions of Einstein-Conformal Scalar Waves","17 pages, LaTeX",,"10.1103/PhysRevD.48.616","PRA-HEP-92/19","gr-qc",,"  A large class of solutions of the Einstein-conformal scalar equations in
+D=2+1 and D=3+1 is identified. They describe the collisions of asymptotic
+conformal scalar waves and are generated from Einstein-minimally coupled scalar
+spacetimes via a (generalized) Bekenstein transformation. Particular emphasis
+is given to the study of the global properties and the singularity structure of
+the obtained solutions. It is shown, that in the case of the absence of pure
+gravitational radiation in the initial data, the formation of the final
+singularity is not only generic, but is even inevitable.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 13:58:14 GMT""}]","2016-08-17"
+"hep-lat/9212022","Hasenfra","P. Hasenfratz and F. Niedermayer (Bern)","Finite size and temperature effects in the AF Heisenberg model","44 pages, LATEX, no figures",,"10.1007/BF01309171","BUTP--92/46","hep-lat cond-mat",,"  The low temperature and large volume effects in the d=2+1 antiferromagnetic
+quantum Heisenberg model are dominated by magnon excitations. The leading and
+next-to-leading corrections are fully controlled by three physical constants,
+the spin stiffness, the spin wave velocity and the staggered magnetization.
+Among others, the free energy, the ground state energy, the low lying
+excitations, staggered magnetization, staggered and uniform susceptibilities
+are studied here. The special limits of very low temperature and infinite
+volume are considered also.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 12:38:05 GMT""}]","2009-10-22"
+"hep-lat/9212023",,"A.K. Bukenov, A.V. Pochinsky, M.I. Polikarpov, L. Polley and U.-J.
+  Wiese","Cosmic Strings on the Lattice","4 pages LaTex (espcrc2.sty), LATTICE'92 contribution, ITEP(1992)","Nucl.Phys.Proc.Suppl. 30 (1993) 723-726","10.1016/0920-5632(93)90311-S",,"hep-lat",,"  We develop a formalism for the quantization of topologically stable
+excitations in the 4-dimensional abelian lattice gauge theory. The excitations
+are global and local (Abrikosov-Nielsen-Olesen) strings and monopoles. The
+operators of creation and annihilation of string states are constructed; the
+string Green functions are represented as a path integral over random surfaces.
+Topological excitations play an important role in the early universe. In the
+broken symmetry phase of the $U(1)$ spin model, closed global cosmic strings
+arise, while in the Higgs phase of the noncompact gauge-Higgs model, local
+cosmic strings are present. The compact gauge-Higgs model also involves
+monopoles. Then the strings can break if their ends are capped by monopoles.
+The topology of the Euclidean string world sheets are studied by numerical
+simulations.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 15:04:00 GMT""}]","2009-10-22"
+"hep-ph/9212277","Mark Sutherland","B. Holdom and M. Sutherland","Hyperfine Effects and Large $1/{m}_{Q}^{2}$ Corrections","12 pages, LaTeX, 2 LaTeX figures in separate file, UTPT-92-24
+  (revised)","Phys.Lett. B313 (1993) 447-452","10.1016/0370-2693(93)90017-C",,"hep-ph",,"  Effects associated with hyperfine mass splitting between pseudo\-scalar and
+vector mesons may induce surprisingly large $1/{m}_{Q}^{2}$ corrections in the
+heavy quark expansion. We demonstrate this in a relativistic quark model by
+calculating to all orders in $1/{m}_{Q}$, with and without hyperfine effects,
+and comparing to the first order results. Total corrections of 30\% or more are
+quite possible in the decay rates for $B\rightarrow Dl\nu$ and $B\rightarrow
+D^{\ast}l\nu$ near zero recoil.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 17:09:51 GMT""},{""version"":""v2"",""created"":""Wed, 28 Jul 1993 16:14:08 GMT""}]","2009-10-22"
+"hep-ph/9212278","Nathan Seiberg","Miriam Leurer, Yosef Nir and Nathan Seiberg","Mass Matrix Models","32 pages, RU-92-59 WIS-92/94/Dec-PH","Nucl.Phys.B398:319-342,1993","10.1016/0550-3213(93)90112-3",,"hep-ph",,"  It is possible that the hierarchy in the masses and mixing of quarks is a
+result of a horizontal symmetry. The smallness of various parameters is related
+to their suppression by high powers of a scale of new physics. We analyze in
+detail the structure of such symmetries in view of new experimental data and
+present explicit models consistent with all phenomenological constraints. We
+show that it is possible that the flavor dynamics can be at accessible energies
+-- as low as a $TeV$.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 17:18:08 GMT""}]","2008-11-26"
+"hep-ph/9212279",,"Serge Rudaz and Ajit M. Srivastava","On the Production of Flux Vortices and Magnetic Monopoles in Phase
+  Transitions","9 pages, in LATEX, UMN-TH-1028/92, TPI-MINN-92/20-T","Mod.Phys.Lett.A8:1443-1450,1993","10.1142/S0217732393001161",,"hep-ph cond-mat",,"  We examine the basic assumptions underlying a scenario due to Kibble that is
+widely used to estimate the production of topological defects. We argue that
+one of the crucial assumptions, namely the geodesic rule, although completely
+valid for global defects, becomes ill defined for the case of gauged defects.
+We address the issues involved in formulating a suitable geodesic rule for this
+case and argue that the dynamics plays an important role in the production of
+gauge defects.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 00:34:00 GMT""}]","2010-11-01"
+"hep-ph/9212280","Papadopoulos","E.N. Argyres, C.G. Papadopoulos and R. Kleiss","On amplitude zeros at threshold","6 pages, Latex, CERN-TH.6762/92","Phys.Lett. B302 (1993) 70-73; Addendum-ibid. B319 (1993) 544","10.1016/0370-2693(93)90637-W",,"hep-ph hep-th",,"  The occurrence of zeros of 2 to n amplitudes at threshold in scalar theories
+is studied. We find a differential equation for the scalar potential, which
+incorporates all known cases where the 2 to n amplitudes at threshold vanish
+for all sufficiently large $n$, in all space-time dimensions, $d\ge 1$. This
+equation is related to the reflectionless potentials of Quantum Mechanics and
+to integrable theories in 1+1 dimensions. As an application, we find that the
+sine-Gordon potential and its hyperbolic version, the sinh-Gordon potential,
+also have amplitude zeros at threshold, ${\cal A}(2\to n)=0$, for $n\ge 4$ and
+$d\ge 2$, independently of the mass and the coupling constant.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 09:46:27 GMT""}]","2009-10-22"
+"hep-ph/9212281","J. W. F. Valle","Jose W. F. Valle","Beyond the Standard Model in Tau Decays","11 pages, 5 figures, FTUV/92-59, needs matex.tex macro file and the
+  file caption.sty",,,,"hep-ph",,"  INVITED TALK AT SECOND WORKSHOP ON TAU LEPTON PHYSICS, COLOMBUS, OHIO,
+SEPTEMBER 1992
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 11:24:00 GMT""}]","2007-05-23"
+"hep-ph/9212282",,"C. O. Escobar, O.L.G. Peres, V. Pleitez and R. Zukanovich Funchal","Constraints on singlet right-handed neutrinos coming from the
+  $Z^0$-width","Revtex, 7 pages, two figures available from the authors, preprint
+  IFT-P.040/92 IFUSP/P-1023/92","Phys.Rev.D47:1747-1750,1993","10.1103/PhysRevD.47.R1747",,"hep-ph",,"  We study the constraints on masses and mixing angles imposed by the measured
+$Z^0$ invisible width, in a model in which a singlet right-handed neutrino
+mixes with all the Standard Model neutrinos.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 10:43:00 GMT""}]","2009-12-30"
+"hep-th/9212108","Philippe Di Francesco","P. Di Francesco and C. Itzykson","A Generating Function for Fatgraphs","24 pages, uses harvmac macro, 1 figure not included, Saclay preprint
+  SPhT/92-162","Annales Poincare Phys.Theor. 59 (1993) 117-140",,,"hep-th",,"  We study a generating function for the sum over fatgraphs with specified
+valences of vertices and faces, inversely weighted by the order of their
+symmetry group. A compact expression is found for general (i.e. non necessarily
+connected) fatgraphs. This expression admits a matrix integral representation
+which enables to perform semi--classical computations, leading in particular to
+a closed formula corresponding to (genus zero, connected) trees.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 16:27:38 GMT""}]","2007-05-23"
+"hep-th/9212109","Jean-Loup Gervais","Jean-Loup Gervais","Recent Progress of the Liouville Approach to 2D Gravity and its Toda (W)
+  Generalizations","22 pages, no figures. Notes of lecture at the September Rome meeting
+  String Theory, Quantum Gravity, and the Unification of Fundamental
+  Interactions",,,"LPTENS 92/36","hep-th",,"  These lecture notes review current progress on the class of conformal
+theories which may be studied by quantizing the conformal Toda dynamics. After
+summarizing recent developments in undertanding the quantum group structure of
+the Liouville theory, one recalls how classically, two-dimensional black holes
+come out from the non-abelian Toda systems, and reviews the geometrical
+interpretation of the classical $A_n$-Toda theories, just put forward, that
+relates W-geometries with the external geometries of holomorphic surfaces in
+complex projective spaces.
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 18:06:26 GMT""}]","2007-05-23"
+"hep-th/9212110","T. R. Govindarajan","P. Rama Devi, T.R. Govindarajan and R.K. Kaul","Three Dimensional Chern-Simons Theory as a Theory of Knots and Links III
+  : Compact Semi-simple Group","20 pages + diagrams","Nucl.Phys. B402 (1993) 548-566","10.1016/0550-3213(93)90652-6",,"hep-th",,"  Chern-Simons field theory based on a compact non-abelian gauge group is
+studied as a theory of knots and links in three dimensions. A method to obtain
+the invariants for links made from braids of upto four strands is developed.
+This generalizes our earlier work on $SU(2)$ Chern-Simons theory.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 10:30:02 GMT""}]","2009-10-22"
+"hep-th/9212111","Martin Cederwall","Martin Cederwall","$E_7$ as $D=10$ space-time symmetry --- Origin of the twistor transform","4 pages","Phys.Lett. B302 (1993) 189-190","10.1016/0370-2693(93)90382-R","ITP 92-59","hep-th",,"  Massless particle dynamics in $D=10$ Minkowski space is given an
+$E_7$-covariant formulation, including both space-time and twistor variables.
+$E_7$ contains the conformal algebra as a subalgebra. Analogous constructions
+apply to $D=3,4$ and 6.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 08:11:31 GMT""}]","2009-10-22"
+"hep-th/9212112",,"A. Brandhuber, M. Langer, M. Schweda, O. Piguet and S.P. Sorella","A short comment on the supersymmetric structure of Chern-Simons theory
+  in the axial gauge","7 pages, LATEX, UGVA---DPT 1992/11--793","Phys.Lett. B300 (1993) 92-95","10.1016/0370-2693(93)90753-5",,"hep-th",,"  The topological supersymmetry of the pure Chern-Simons model in three
+dimensions is established in the case where the theory is defined in the axial
+gauge.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 13:00:14 GMT""}]","2009-10-22"
+"hep-th/9212113",,"B Gato-Rivera and A M Semikhatov","Singular Vectors and Topological Theories from Virasoro Constraints via
+  the Kontsevich-Miwa Transform","62p. LaTeX, CERN-TH.6752, IMAFF-92/8, revised (minor corrections,
+  typos) easy-fontversion","Nucl.Phys.B408:133-179,1993","10.1016/0550-3213(93)90135-C",,"hep-th",,"  We use the Kontsevich-Miwa transform to relate the different pictures
+describing matter coupled to topological gravity in two dimensions: topological
+theories, Virasoro constraints on integrable hierarchies, and a DDK-type
+formalism. With the help of the Kontsevich-Miwa transform, we solve the
+Virasoro constraints on the KP hierarchy in terms of minimal models dressed
+with a (free) Liouville-like scalar. The dressing prescription originates in a
+topological (twisted N=2) theory. The Virasoro constraints are thus related to
+essentially the N=2 null state decoupling equations. The N=2 generators are
+constructed out of matter, the `Liouville' scalar, and $c=-2$ ghosts. By a
+`dual' construction involving the reparametrization $c=-26$ ghosts, the DDK
+dressing prescription is reproduced from the N=2 symmetry. As a by-product we
+thus observe that there are two ways to dress arbitrary $d\leq1$ or $d\geq25$
+matter theory, that allow its embedding into a topological theory. By th e
+Kontsevich-Miwa transform, which introduces an infinite set of `time' variables
+$t_r$, the equations ensuring the vanishing of correlators that involve
+BRST-exact primary states, factorize through the Virasoro generators expressed
+in terms of the $t_r$. The background charge of these Virasoro generators is
+determined by the topological central charge.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 14:41:12 GMT""},{""version"":""v2"",""created"":""Tue, 26 Jan 1993 09:39:34 GMT""},{""version"":""v3"",""created"":""Fri, 2 Apr 1993 14:39:11 GMT""}]","2010-11-01"
+"nucl-th/9212012","D. J. Ernst","C.M. Chen, D.J. Ernst and M.B. Johnson","High-energy pion-nucleus elastic scattering","24 pages",,"10.1103/PhysRevC.48.841",,"nucl-th",,"  We investigate theoretical approaches to pion--nucleus elastic scattering at
+high energies (300 $\le T_\pi \le$ 1 GeV). A ``model--exact'' calculation of
+the lowest--order microscopic optical model, carried out in momentum space and
+including the full Fermi averaging integration, a realistic off--shell
+pion--nucleon scattering amplitude and fully covariant kinematics, is used to
+calibrate a much simpler theory. The simpler theory utilizes a local optical
+potential with an eikonal propagator and includes the Coulomb interaction and
+the first Wallace correction, both of which are found to be important.
+Comparisons of differential cross sections out to beyond the second minimum are
+made for light and heavy nuclei. Particularly for nuclei as heavy as $^{40}$Ca,
+the eikonal theory is found to be an excellent approximation to the full
+theory. (8 Figures available from authors)
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 17:44:58 GMT""}]","2009-10-22"
+"nucl-th/9212013","D. J. Ernst","C.M. Chen, D.J. Ernst and M.B. Johnson","Microscopic approach to pion-nucleus dynamics","13 pages",,"10.1103/PhysRevC.47.R9",,"nucl-th",,"  Elastic scattering of pions from finite nuclei is investigated utilizing a
+contemporary, momentum--space first--order optical potential combined with
+microscopic estimates of second--order corrections. The calculation of the
+first--order potential includes:\ \ (1)~full Fermi--averaging integration
+including both the delta propagation and the intrinsic nonlocalities in the
+$\pi$-$N$ amplitude, (2)~fully covariant kinematics, (3)~use of invariant
+amplitudes which do not contain kinematic singularities, and (4)~a
+finite--range off--shell pion--nucleon model which contains the nucleon pole
+term. The effect of the delta--nucleus interaction is included via the mean
+spectral--energy approximation. It is demonstrated that this produces a
+convergent perturbation theory in which the Pauli corrections (here treated as
+a second--order term) cancel remarkably against the pion true absorption terms.
+Parameter--free results, including the delta--nucleus shell--model potential,
+Pauli corrections, pion true absorption, and short--range correlations are
+presented. (2 figures available from authors)
+","[{""version"":""v1"",""created"":""Thu, 17 Dec 1992 18:07:32 GMT""}]","2009-10-22"

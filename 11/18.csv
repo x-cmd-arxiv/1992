@@ -1,0 +1,278 @@
+"astro-ph/9211010","Tsvi","Tsvi Piran","Gamma-Ray Bursts and Neutron Star Mergers - Possibly the Strongest
+  Explosions in the Universe","8 pages, to appear in the XXVI INTERNATIONAL HIGH ENERGY PHYSICS
+  CONFERENCE",,"10.1063/1.43418","CFA 3516","astro-ph",,"  $\gamma$-ray bursts have baffled theorists ever since their accidental
+discovery at the sixties. We suggest that these bursts originate in merger of
+neutron star binaries, taking place at cosmological distances. These mergers
+release $\approx 10^{54}ergs$, in what are possibly the strongest explosions in
+the Universe. If even a small fraction of this energy is channeled to an
+electromagnetic signal it will be detected as a grbs. We examine the virtues
+and limitations of this model and compare it with the recent Compton \g-ray
+observatory results.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 16:19:40 GMT""}]","2009-10-22"
+"astro-ph/9211011",,"Janna J Levin and Katherine Freese","A Possible Solution to the Horizon Problem: The Mad Era for Massless
+  Scalar Theories of Gravity","27 pages, Tex","Phys.Rev. D47 (1993) 4282-4291","10.1103/PhysRevD.47.4282","UMAC92-15","astro-ph gr-qc hep-ph",,"  Extensions of Einstein gravity which allow the gravitational constant $G$ to
+change with time as the universe evolves may provide a resolution to the
+horizon problem without invoking a period of vacuum domination and without the
+subsequent entropy violation. In a cosmology for which the gravitational
+constant is not in fact constant, the universe may be older at a given
+temperature than in a standard Hot Big Bang universe; thus, larger regions of
+space could have come into causal contact at that temperature. This opens the
+possibility that large regions became smooth at some high temperature without
+violating causality. The extra aging of the universe can be accomplished by an
+early period with a large Planck mass, a period we call the MAD era (Modified
+Aging era or the Massively Aged and Detained era). We discuss in this paper
+theories of gravity in which the gravitational constant is replaced with a
+function of a scalar field. However, this resolution to the smoothness problem
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 19:15:00 GMT""}]","2009-10-22"
+"astro-ph/9211012",,"Valerio Faraoni","On the rotation of polarization by a gravitational lens","8 pages","Astron.Astrophys. 272 (1993) 385",,,"astro-ph",,"  It is proved that the field of a gravitational lens induces no rotation in
+the polarization vector of electromagnetic radiation, in agreement with the
+previous literature, but with a different approach. The result is generalized
+to the case of less conventional gravitational lenses (static cosmic strings
+and gravitational waves).
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 23:21:27 GMT""}]","2007-05-23"
+"cond-mat/9211009","Philippe de Forcrand","Ghassan George Batrouni and Philippe de Forcrand","The fermion sign problem: A new decoupling transformation, and a new
+  simulation algorithm","11 pages TeX, 2 figures upon request","Phys.Rev.B48:589,1993","10.1103/PhysRevB.48.589","TPI-MINN-92/63-T, IPS-Report No.92-20","cond-mat hep-lat",,"  We discuss the Fermion sign problem and, by examining a very general
+Hubbard-Stratonovich (HS) transformation, argue that the sign problem cannot be
+solved with such methods. We propose a different kind of transformation which,
+while not solving the sign problem, shows more detailed information about the
+system. With our transformation it is {\it trivial} to tell which auxiliary
+field configurations give a positive sign and which give a negative sign. We
+then discuss briefly various properties of this transformation and construct a
+new algorithm which with one simulation gives results for a whole range of
+particle densities and Hubbard $U$ values, positive and negative. Our approach
+is in excellent agreement with exact calculations.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 20:50:00 GMT""}]","2011-08-11"
+"cond-mat/9211010","Alessandro Pelizzola","Alessandro Pelizzola","The half-filled Hubbard model in the pair approximation of the Cluster
+  Variation Method","14 pages, 7 figures (appended as PostScript files)","J.Phys. A26 (1993) 2061-2070","10.1088/0305-4470/26/9/005","POLFIS-TH.22.92","cond-mat",,"  The half filled Hubbard model is studied in the pair approximation of the
+Cluster Variation Method. The use of the $SO(4)$ symmetry of the model makes
+possible to give a complete analytical characterization of the ground state, by
+means of explicit expressions for the double occupancy and the nearest neighbor
+correlation functions. The finite temperature analysis is reduced to the
+numerical solution of only two coupled transcendental equations. The behavior
+of local magnetic moment, specific heat and correlation functions is given for
+some typical cases in one and two dimensions. We obtain good qualitative
+agreement with exact and numerical results in one dimension. The results for
+finite temperatures show a rapid evolution, with increasing temperature, from a
+strongly antiferromagnetic behavior to a disordered one; in the high
+temperature region a maximum (which has been related to a ""gradual""
+metal--insulator transition) is found in the specific heat for very large
+values of the Coulomb repulsion.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 11:10:00 GMT""},{""version"":""v2"",""created"":""Fri, 20 Nov 1992 10:15:00 GMT""}]","2009-10-22"
+"cond-mat/9211011","Hans","H.J. Herrmann","On the Thermodynamics of Granular Media","11 p., no figs., plain TeX",,"10.1051/jp2:1993141","preprint HLRZ 43/92","cond-mat",,"  A thermodynamic formulation for moving granular material is proposed. The
+fluctuations due to the constant flux and dissipation of energy are controlled
+in a `granular' ensemble by a pressure $\wp$ (`compression') which is conjugate
+to a contact volume (`contactopy'). The corresponding response function
+(`dissipativity') describes how dissipation increases with $\wp$ and should
+serve to identify the fluidization transition and 1/f noise. In the granular
+ensemble one can consider the granular medium as a gas of elastically colliding
+particles and define a ``granular'' temperature and other standard
+thermodynamic quantities. PACS: 05.70, 46.10
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 15:54:01 GMT""}]","2009-10-22"
+"gr-qc/9211021",,"M.Gasperini and M.Giovannini","Dilaton Contributions to the Cosmic Gravitational Wave Background","26 pages, plain tex (to appear in Phys.Rev.D, 1 fig available from
+  the authors upon req.)","Phys.Rev. D47 (1993) 1519-1528","10.1103/PhysRevD.47.1519","DFTT-58/92","gr-qc hep-th",,"  We consider the cosmological amplification of a metric perturbation
+propagating in a higher-dimensional Brans-Dicke background, including a non
+trivial dilaton evolution. We discuss the properties of the spectral energy
+density of the produced gravitons (as well as of the associated squeezing
+parameter), and we show that the present observational bounds on the graviton
+spectrum provide significant information on the dynamical evolution of the
+early universe.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 21:57:00 GMT""}]","2009-10-22"
+"gr-qc/9211022",,"Hideo Kodama","Quantum Gravity by the Complex Canonical Formulation","104 pages","Int.J.Mod.Phys.D1:439-524,1992","10.1142/S0218271892000240","KUCP0048","gr-qc",,"  The basic features of the complex canonical formulation of general relativity
+and the recent developments in the quantum gravity program based on it are
+reviewed. The exposition is intended to be complementary to the review articles
+available already and some original arguments are included. In particular the
+conventional treatment of the Hamiltonian constraint and quantum states in the
+canonical approach to quantum gravity is criticized and a new formulation is
+proposed.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 08:33:18 GMT""}]","2010-11-01"
+"hep-lat/9211046","Aida El-khadra","Aida X. El-Khadra","The Charmonium Spectrum on the Lattice: A Status Report","4 pages, LaTeX, 5 figures (eps), needs espcrc2.sty, epsf.sty.
+  FERMILAB-CONF-92/330-T","Nucl.Phys.Proc.Suppl.30:449-452,1993","10.1016/0920-5632(93)90247-4",,"hep-lat hep-ph",,"  We present our most recent results on the charmonium spectrum using
+relativistic Wilson fermions. We study the dependence of the spectrum on the
+charm quark mass and the Wohlert-Sheikholeslami improvement term.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 21:38:22 GMT""}]","2010-11-19"
+"hep-lat/9211047","Hans Gerd Evertz, Scri","H.G. Evertz and M. Marcu","The Loop-Cluster Algorithm for the Case of the 6 Vertex Model","4 pages, Latex, uses espcrc2.sty (included). FSU-SCRI-92-165","Nucl.Phys.Proc.Suppl. 30 (1993) 277-280","10.1016/0920-5632(93)90208-N",,"hep-lat cond-mat",,"  We present the loop algorithm, a new type of cluster algorithm that we
+recently introduced for the F model. Using the framework of Kandel and Domany,
+we show how to GENERALIZE the algorithm to the arrow flip symmetric 6 vertex
+model. We propose the principle of least possible freezing as the guide to
+choosing the values of free parameters in the algorithm. Finally, we briefly
+discuss the application of our algorithm to simulations of quantum spin
+systems. In particular, all necessary information is provided for the
+simulation of spin $\half$ Heisenberg and $xxz$ models.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 00:10:21 GMT""}]","2007-05-23"
+"hep-lat/9211048","James Labrenz","Claude Bernard, James Labrenz and Amarjit Soni","Quenched Lattice Results for $f_B$ and $f_D$","4 pages, LATTICE '92 contribution, UW/PT-92-21 (Revision fixes error
+  in shar file.)","Nucl.Phys.Proc.Suppl. 30 (1993) 465","10.1016/0920-5632(93)90251-Z",,"hep-lat",,"  We have computed the decay constants for the $B$ and $D$ mesons, using
+quenched lattices at $\beta=6.3$, by interpolating between the static
+approximation of Eichten and the conventional (``heavy'' Wilson fermion)
+method. A more careful treatment of the static result using better sources with
+longer time-displacements and a modification to the Wilson quark normalization
+to correct approximately for lattice effects in the large-$am$ regime have led
+to the elimination of the large discrepancy between the two methods which had
+been previously observed. We report final results, with estimates of various
+systematic errors.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 00:31:10 GMT""},{""version"":""v2"",""created"":""Wed, 18 Nov 1992 19:54:45 GMT""}]","2009-10-22"
+"hep-lat/9211049","Kari Rummukainen","K. Rummukainen","Multicanonical Cluster Algorithm","4 pages, 4 ps-figures, LATTICE '92 contribution. Latex, uses
+  espcrc2.sty (available from hep-lat, use Subj: get espcrc2.sty).
+  CERN-TH.6709/92","Nucl.Phys.Proc.Suppl. 30 (1993) 273-276","10.1016/0920-5632(93)90207-M",,"hep-lat cond-mat",,"  In this talk I present a multicanonical hybrid-like two-step algorithm, which
+consists of a microcanonical spin system update with demons, and a
+multicanonical demon refresh. The demons act as a buffer between the
+multicanonical heat bath and the spin system, allowing for a large variety of
+update schemes. In this work the cluster algorithm is demonstrated with the
+2-dimensional 7-state Potts model, using volumes up to $128^2$.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 08:42:45 GMT""}]","2009-10-22"
+"hep-lat/9211050","Helmut Gausterer","H. Gausterer and Sean Lee","The Mechanism of Complex Langevin Simulations","12 p, UNIGRAZ-UTP-290992",,"10.1007/BF01052754",,"hep-lat",,"  We discuss conditions under which expectation values computed from a complex
+Langevin process $Z$ will converge to integral averages over a given complex
+valued weight function. The difficulties in proving a general result are
+pointed out. For complex valued polynomial actions, it is shown that for a
+process converging to a strongly stationary process one gets the correct answer
+for averages of polynomials if $c_{\tau}(k) \equiv E(e^{ikZ(\tau)}) $ satisfies
+certain conditions. If these conditions are not satisfied, then the stochastic
+process is not necessarily described by a complex Fokker Planck equation. The
+result is illustrated with the exactly solvable complex frequency harmonic
+oscillator.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 09:20:45 GMT""}]","2009-10-22"
+"hep-ph/9211259","Herbert Weigel","H. Weigel","Vector mesons in the collective approach to SU(3)","27 pages",,,,"hep-ph",,"  We study the SU(3) extension of the Skyrme model with vector mesons in the
+collective quantization scheme. The parameters of the model are fixed in its
+mesonic sector. Fields which are excited by the collective rotation of the
+classical soliton are determined by a variational method. The resulting
+collective Hamiltonian which includes various symmetry breaking terms is
+diagonalized exactly. This yields reasonable predictions for the mass
+differences of the low-lying baryons. We furthermore investigate static
+properties of these baryons in this model by evaluating all relevant matrix
+elements using the exact eigenstates of the collective Hamiltonian.
+Electromagnetic observables are found to approximately obey the predictions
+obtained from SU(3) symmetry. Strong deviations from SU(3) symmetry are,
+however, found for the matrix elements of strange vector and scalar operators
+indicating a small amount of strangeness in the proton. The exploration of
+axial currents shows that the results of the EMC experiment may be explained
+with a small polarization of the strange sea of the proton without violating
+the successful Cabibbo model for semileptonic hyperon decays.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 16:13:53 GMT""}]","2007-05-23"
+"hep-ph/9211260","Mike Berger","V. Barger, M. S. Berger and R. J. N. Phillips","Implications of $b\rightarrow s\gamma $ decay measurements in testing
+  the MSSM Higgs sector","8 pages + 3 PS figures not included (available upon request),
+  MAD/PH/730","Phys.Rev.Lett.70:1368-1371,1993","10.1103/PhysRevLett.70.1368",,"hep-ph",,"  The observation that the $b \rightarrow s\gamma $ decay rate is close to the
+Standard Model value implies a large mass for the charged-Higgs boson in the
+Minimum Supersymmetric Standard Model, that nearly closes the $t \rightarrow b
+H^+$ decay channel. For $m_t = 150$ GeV, the parameter region $m_A \ltap 130$
+GeV is excluded; this largely pre-empts LEP II searches and also partially
+excludes a region that would be inaccessible to MSSM Higgs boson searches both
+at LEP II and at SSC/LHC.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 16:29:04 GMT""}]","2009-09-15"
+"hep-ph/9211261",,"T.E. Clark, B. Haeri, S.T. Love","Wilson Renormalization Group Analysis of Theories with Scalars and
+  Fermions","40, PURD-TH-92-9","Nucl.Phys. B402 (1993) 628-656","10.1016/0550-3213(93)90122-6",,"hep-ph",,"  The continuous block spin (Wilson) renormalization group equation governing
+the scale dependence of the action is constructed for theories containing
+scalars and fermions. A locally approximated form of this equation detailing
+the structure of a generalized effective potential is numerically analyzed. The
+role of the irrelevant operators in the nonperturbative renormalization group
+running is elucidated and a comparison with the 1-loop perturbative results is
+drawn. Focusing on the spontaneously broken phase of a model possessing a
+discrete symmetry forbidding an explicit fermion mass term, mass bounds on both
+the scalar and fermion degrees of freedom are established. The effect of the
+generalized Yukawa coupling on the scalar mass upper bound is emphasized.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 19:40:37 GMT""}]","2009-10-22"
+"hep-ph/9211262","Ivan","Kingman Cheung","Associated production of Intermediate Higgs or Z-boson with $t \bar t$
+  pair in $\gamma \gamma$ collision","Latex(RevTex), 13 pages, 5 topdrawer figures (available on request)","Phys.Rev. D47 (1993) 3750-3756","10.1103/PhysRevD.47.3750","NUHEP-TH-92-21","hep-ph",,"  Photon-photon linear colliders can be realized by laser back-scattering
+technique on the next generation linear $e^+e^-$ colliders. Here the associated
+productions of an intermediate mass Higgs (IMH) or Z-boson with $t \bar t$ pair
+in $\gamma\gamma$ collisions are studied. Since IMH is very unlikely to decay
+into $t\bar t$ pair, $t\bar tH$ production is the only direct channel to probe
+the Higgs-top Yukawa coupling in case of an IMH. $t\bar tZ$ production can be a
+potential background to $t\bar tH$ if the Higgs mass is close to $m_Z$. As an
+alternative to its parent $e^+e^-$ collider, $\gamma\gamma \to t\bar tH(Z)$
+productions are compared with the corresponding productions in the $e^+e^-$
+collisions.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 20:23:50 GMT""}]","2009-10-22"
+"hep-ph/9211263","Brian Hill","Anthony Duncan, Estia Eichten, Aida X. El-Khadra, Jonathan M. Flynn,
+  Brian R. Hill, and Hank Thacker","Properties of Low-Lying Heavy-Light Mesons","8 pages, 9 figures, UCLA/92/TEP/40","Nucl.Phys.Proc.Suppl.30:433-440,1993","10.1016/0920-5632(93)90244-Z",,"hep-ph hep-lat",,"  We present preliminary results for the B meson decay constant and masses of
+low-lying heavy-light mesons in the static limit. Calculations were performed
+on the lattice in the quenched approximation using multistate smearing
+functions generated from a Hamiltonian for a spinless relativistic quark. The
+2S--1S and 1P--1S mass splittings are measured. Using the 1P--1S charmonium
+splitting to set the overall scale, the ground state decay constant, f_B, is
+319 +- 11 (stat) MeV.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 20:30:00 GMT""}]","2010-11-19"
+"hep-th/9211077","Enrico Celeghini","Enrico Celeghini","Quantum algebras and Lie groups","9 pages",,,,"hep-th math.QA",,"  Lie groups and quantum algebras are connected through their common universal
+enveloping algebra. The adjoint action of Lie group on its algebra is naturally
+extended to related q-algebra and q-coalgebra. In such a way, quantum structure
+can be dealt more or less as the Lie one and we do not need to introduce the
+not easy to handle topological groups.
+  Composed system also is described by the suitably symmetrized q-coalgebra.
+  A physical application to the phonon, irreducible unitary representation of
+E_q(1,1), shows both the transformation under the group action of one phonon
+state and the fusion of two phonons, by means of the coproduct, in only one
+phonon lying on a branch of the appropriate dispersion relation.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 18:42:00 GMT""},{""version"":""v2"",""created"":""Sat, 21 Nov 1992 11:36:00 GMT""}]","2008-02-03"
+"hep-th/9211078","Vipul Periwal","Robert C. Myers and Vipul Periwal","Off-shell string physics","9 pages",,,"iassns-hep-92-68 and McGill/92-49","hep-th",,"  Recent advances in non-critical string theory allow a unique continuation,
+preserving conformal invariance, of critical Polyakov string amplitudes to
+off-shell momenta. These continuations possess unusual, apparently stringy,
+characteristics, which are unlikely to be reproduced in a string field theory.
+Thus our results may be an indication that some fundamentally new formulation,
+other than string field theory, will be required to extend our understanding of
+critical strings beyond the Polyakov path integral. Three-point functions are
+explicitly calculated. The tree-level effective potential is computed for the
+tachyon. (This preprint includes some computations used to arrive at results
+mentioned in hep-th/9211016.)
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 19:46:38 GMT""}]","2007-05-23"
+"hep-th/9211079","Yoneya","Tamiaki Yoneya","Matrix Models and 2D Critical String Theory --2D Black Hole by c=1
+  Matrix Model--","20pages",,,,"hep-th",,"  (Lecture at the workshop ""Basic Problems in String Theory"", Yukawa Institute
+for Theoretical Physics, Kyoto, October 19-21) In this talk, we first review
+the possibility of matrix models toward a nonperturbative (critical) string
+theory. We then discuss whether the $c=1$ matrix model can describe the black
+hole solution of 2D critical string theory. We show that there exists a class
+of integral transformations which send the Virasoro condition for the tachyon
+field around the 2D black hole to that around the linear dilaton vacuum. In
+particular, we construct an explicit integral formula wihich describes a
+continuous deformation of the linear dilaton vacuum to the black hole
+background.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 06:54:49 GMT""}]","2007-05-23"
+"hep-th/9211080","Hiroshi Ishikawa","Hiroshi Ishikawa and Mitsuhiro Kato","Equivalence of BRST cohomologies for 2-d black hole and c=1 Liouville
+  theory","latex. 10 pages. UT-Komaba/92-11","Phys.Lett. B302 (1993) 209-214","10.1016/0370-2693(93)90386-V",,"hep-th",,"  We study the relation between the $SL(2,R)/U(1)$ black hole and the $c=1$
+Liouville theory. A deformation, which interpolates the BRST operators of both
+models, is explicitly constructed. This interpolation is isomorphic, and the
+physical spectrum of the black hole is equivalent to that of the $c=1$ model
+tensored by a topological $U(1)/U(1)$ model. Some implications of the
+deformation are discussed.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 10:44:08 GMT""}]","2009-10-22"
+"hep-th/9211081","Elias Kiritsis","E. Kiritsis","Exact Duality Symmetries in CFT and String Theory","29 pages, Latex","Nucl. Phys. B405 (1993) 109",,"LPTENS-92-30","hep-th",,"  The duality symmetries of WZW and coset models are discussed. The exact
+underlying symmetry responsible for semiclassical duality is identified with
+the symmetry under affine Weyl transformations. This identification unifies the
+treatement of duality symmetries and shows that in the compact and unitary case
+they are exact symmetries of string theory to all orders in $\alpha'$ and in
+the string coupling constant. Non-compact WZW models and cosets are also
+discussed. A toy model is analyzed suggesting that duality will not generically
+be a symmetry.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 15:04:23 GMT""}]","2007-05-23"
+"hep-th/9211082",,"A. Mikovic","Two-dimensional dilaton gravity in a unitary gauge","12 pages, LaTex file, Imperial-TP/92-93/8 and QMW/PH/92/16","Phys.Lett.B304:70-76,1993","10.1016/0370-2693(93)91402-9",,"hep-th gr-qc",,"  Reduced phase space formulation of CGHS model of 2d dilaton gravity is
+studied in en extrinsic time gauge. The corresponding Hamiltonian can be
+promoted into a Hermitian operator acting in the physical Hilbert space,
+implying a unitary evolution for the system. Consequences for the black hole
+physics are discussed. In particular, this manifestly unitary theory rules out
+the Hawking scenario for the endpoint of the black hole evaporation process.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 14:23:00 GMT""}]","2009-01-16"
+"hep-th/9211083","Elias Kiritsis","I. Bakas and E. Kiritsis","Target Space Description of W-Infinity Symmetry in Coset Models","8pp, Latex, LPTENS-92-30","Phys.Lett. B301 (1993) 49-52","10.1016/0370-2693(93)90719-X",,"hep-th",,"  Various typos corrected
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 15:21:21 GMT""},{""version"":""v2"",""created"":""Mon, 7 Dec 1992 12:01:51 GMT""}]","2009-10-22"
+"math/9211210",,"Jeff Farmer, William B. Johnson","Polynomial Schur and Polynomial Dunford-Pettis Properties",,,,"Banach Archive 11/17/92","math.FA",,"  A Banach space is {\it polynomially Schur} if sequential convergence against
+analytic polynomials implies norm convergence. Carne, Cole and Gamelin show
+that a space has this property and the Dunford-Pettis property if and only if
+it is Schur. Herein is defined a reasonable generalization of the
+Dunford--Pettis property using polynomials of a fixed homogeneity. It is shown,
+for example, that a Banach space will has the $P_N$ Dunford--Pettis property if
+and only if every weakly compact $N-$homogeneous polynomial (in the sense of
+Ryan) on the space is completely continuous. A certain geometric condition,
+involving estimates on spreading models and implied by nontrivial type, is
+shown to be sufficient to imply that a space is polynomially Schur.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 16:25:14 GMT""}]","2016-09-06"
+"math/9211211",,"Hermann K\""onig, Nicole Tomczak-Jaegermann","Norms of Minimal Projections",,,,"Banach Archive 11/17/92","math.FA",,"  It is proved that the projection constants of two- and three-dimensional
+spaces are bounded by $4/3$ and $(1+\sqrt 5)/2$, respectively. These bounds are
+attained precisely by the spaces whose unit balls are the regular hexagon and
+dodecahedron. In fact, a general inequality for the projection constant of a
+real or complex $n$-dimensional space is obtained and the question of equality
+therein is discussed.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 16:25:14 GMT""}]","2016-09-06"
+"nucl-th/9211009",,"H. Mishra, S.P. Misra, P.K. Panda, B.K. Parida","Hot Nuclear Matter : A Variational Approach","16 pages, IP/BBSR/91-32","Int.J.Mod.Phys. E1 (1992) 405-420","10.1142/S0218301392000229",,"nucl-th",,"  We develop a nonperturbative technique in field theory to study properties of
+infinite nuclear matter at zero temperature as well as at finite temperatures.
+Here we dress the nuclear matter with off-mass shell pions. The techniques of
+thermofield dynamics are used for finite temperature calculations. Equation of
+state is derived from the dynamics of the interacting system in a self
+consistent manner. The transition temperature for nuclear matter appears to be
+around 15 MeV.
+","[{""version"":""v1"",""created"":""Tue, 17 Nov 1992 23:51:36 GMT""}]","2015-06-26"

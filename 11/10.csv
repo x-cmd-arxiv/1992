@@ -1,0 +1,203 @@
+"gr-qc/9211011","Desmond Mc Manus","Shane J. Hughes, Des J. Mc Manus, and Michel A. Vandyck","Weak-Field Gravity of Circular Cosmic Strings","15 pages","Phys.Rev. D47 (1993) 468-473","10.1103/PhysRevD.47.468","DIAS-STP 92-24","gr-qc",,"  A weak-field solution of Einstein's equations is constructed. It is generated
+by a circular cosmic string externally supported against collapse. The solution
+exhibits a conical singularity, and the corresponding deficit angle is the same
+as for a straight string of the same linear energy density. This confirms the
+deficit-angle assumption made in the Frolov-Israel-Unruh derivation of the
+metric describing a string loop at a moment of time symmetry.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 16:21:40 GMT""}]","2009-10-22"
+"gr-qc/9211012","Roman/Physics","Thomas A. Roman","Inflating Lorentzian Wormholes","24 pgs","Phys.Rev. D47 (1993) 1370-1379","10.1103/PhysRevD.47.1370","CCSU-92-001","gr-qc",,"  It has been speculated that Lorentzian wormholes of the Morris- Thorne type
+might be allowed by the laws of physics at submicroscopic, e.g. Planck, scales
+and that a sufficiently advanced civilization might be able to enlarge them to
+classical size. The purpose of this paper is to explore the possibility that
+inflation might provide a natural mechanism for the enlargement of such
+wormholes to macroscopic size. A new classical metric is presented for a
+Lorentzian wormhole which is imbedded in a flat deSitter space. It is shown
+that the throat and proper length of the wormhole inflate. The resulting
+properties and stress-energy tensor associated with this metric are discussed.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 21:36:25 GMT""}]","2009-10-22"
+"gr-qc/9211013",,"Daniel Cangemi, Martin Leblanc and Robert B. Mann","Gauge Formulation of the Spinning Black Hole in (2+1)-Dimensional
+  Anti-de Sitter Space","10 pages","Phys.Rev. D48 (1993) 3606-3610","10.1103/PhysRevD.48.3606","CTP#2162, WATPHYS-TH92/09","gr-qc hep-th",,"  We compute the group element of SO(2,2) associated with the spinning black
+hole found by Ba\~nados, Teitelboim and Zanelli in (2+1)-dimensional anti-de
+Sitter space-time. We show that their metric is built with SO(2,2) gauge
+invariant quantities and satisfies Einstein's equations with negative
+cosmological constant everywhere except at $r=0$. Moreover, although the metric
+is singular on the horizons, the group element is continuous and possesses a
+kink there.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 21:55:35 GMT""}]","2009-10-22"
+"gr-qc/9211014","Peter Peldan","Peter Peldan","Unification of Gravity and Yang-Mills Theory in (2+1)-Dimensions","22pages","Nucl.Phys. B395 (1993) 239-262","10.1016/0550-3213(93)90216-C","ITP 92-49","gr-qc hep-th",,"  A gauge and diffeomorphism invariant theory in (2+1)-dimensions is presented
+in both first and second order Lagrangian form as well as in a Hamiltonian
+form. For gauge group $SO(1,2)$, the theory is shown to describe ordinary
+Einstein gravity with a cosmological constant. With gauge group
+$G^{tot}=SO(1,2)\otimes G^{YM}$, it is shown that the equations of motion for
+the $G^{YM}$ fields are the Yang-Mills equations. It is also shown that for
+weak $G^{YM}$ Yang-Mills fields, this theory agrees with the conventional
+Einstein-Yang-Mills theory to lowest order in Yang-Mills fields. Explicit
+static and rotation symmetric solutions to the Einstein-Maxwell theory are
+studied both for the conventional coupling and for this unified theory. In the
+electric solution to the unified theory, point charges are not allowed, the
+charges must have spatial extensions.
+","[{""version"":""v1"",""created"":""Tue, 10 Nov 1992 12:48:16 GMT""}]","2009-10-22"
+"gr-qc/9211015","Noureddine Mohammedi","N. Mohammedi","Discrete Symmetry, Non-Commutative Geometry and Gravity","11 pages, Latex file","Mod.Phys.Lett. A9 (1994) 875-884",,"BONN-HE-92-33","gr-qc hep-th",,"  We describe the geomety of a set of scalar fields coupled to gravity. We
+consider the formalism of a differential Z_2-graded algebra of $2\times 2$
+matrices whose elements are differential forms on space-time. The connection
+and the vierbeins are extended to incorporate additional scalar and vector
+fields. The resulting action describes two universes coupled in a non-minimal
+way to a set of scalar fields. This picture is slightly different from the
+description of general relativity in the framework of non-commutative geomety.
+","[{""version"":""v1"",""created"":""Tue, 10 Nov 1992 09:42:47 GMT""}]","2007-05-23"
+"hep-lat/9211020",,"C. Bernard, C. Parrinello and A. Soni","The Gluon Propagator in Momentum Space","4 pages","Nucl.Phys.Proc.Suppl. 30 (1993) 535-538","10.1016/0920-5632(93)90267-A",,"hep-lat",,"  We give preliminary numerical results for the gluon propagator evaluated both
+in coordinate and momentum space on a 16^3X40 quenched lattice at beta=6.0. Our
+findings are compared with earlier results in the literature at zero momentum.
+In addition, by considering nonzero momenta we attempt to extract the form of
+the propagator and compare it to continuum predictions formulated by Gribov and
+others. latex, file espcrc2.sty needed (appended at the end: search for
+espcrc2.sty).
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 16:51:48 GMT""}]","2009-10-22"
+"hep-lat/9211021",,"Geoffrey T. Bodwin, Eve V. Kovacs","A streamlined method for chiral fermions on the lattice","4 pages, ANL-HEP-CP-92-103","Nucl.Phys.Proc.Suppl.30:617-620,1993","10.1016/0920-5632(93)90287-G",,"hep-lat",,"  We discuss the use of renormalization counterterms to restore the chiral
+gauge symmetry in a lattice theory of Wilson fermions. We show that a large
+class of counterterms can be implemented automatically by making a simple
+modification to the fermion determinant.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 21:49:13 GMT""}]","2014-11-17"
+"hep-lat/9211022","Tien Kieu","C J Griffin and T D Kieu","How Do Fermions Behave on a Random Lattice?","updated contribution to LAT92 conference; UM-P-92/90 and OZ-92/33; 4
+  pages; shar archive LaTex document with figures included, requires
+  espcrc2.sty file","Nucl. Phys. Proc. Suppl. 30 (1993) 629","10.1016/0920-5632(93)90290-M",,"hep-lat hep-th",,"  Comparing random lattice, naive and Wilson fermions in two dimensional
+abelian background gauge field, we show that the doublers suppressed in the
+free field case are revived for random lattices in the continuum limit unless
+gauge interactions are implemented in a non--invariant way.
+","[{""version"":""v1"",""created"":""Tue, 10 Nov 1992 06:21:38 GMT""}]","2009-10-22"
+"hep-lat/9211023","Erwin Gerstenmayer","W. Beirl, E. Gerstenmayer, H. Markum","Quantum-Gravity Path-Integrals on Simplicial Lattices","4 pgs",,"10.1016/0083-6656(93)90100-X",,"hep-lat",,"  Euclidean quantum-gravity path-integrals are investigated within Regge
+calculus by computer simulations. The domain of integration is restricted by
+introducing a lower limit for the fatness of each simplex. We use the standard
+hypercubic triangulation of the 4-torus and irregularly triangulated lattices
+obtained by inserting a small number of vertices using barycentric subdivision.
+For limited fatness we find an entropy dominated phase with small negative
+curvature both for the regular and the irregular triangulation.
+","[{""version"":""v1"",""created"":""Tue, 10 Nov 1992 12:57:35 GMT""}]","2009-10-22"
+"hep-ph/9211230",,"D. Comelli (Dept. of Theorical Physics, University of Trieste and INFN
+  sez.di Trieste)","Radiatively Corrected Bound on the Light Higgs Mass in a Minimal Non
+  Minimal Supersymmetric Standard Model",,,,,"hep-ph",,"  The neutral Higgs sector of the Minimal non Minimal Supersymmetric Standard
+Model is considered. By effective potential and R.G.E. supported method; an
+upper bound of the lightest Higgs is analysed. From the request of
+perturbativity of the coupling in the superpotential, adding the leading stop
+top contributions, the absolute bound of $\sim 130$ GeV for $90 GeV < m_t< 180
+GeV$ and $M_{\tilde{t}} \simeq 1000 $ GeV is derived. The interesting
+dependence on $m_t$ for $\tan{\beta} \to 1$ is discussed .
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 16:12:57 GMT""}]","2007-05-23"
+"hep-ph/9211232",,"N.G. Deshpande, E. Keith, Palash B. Pal","Implications of LEP Results for SO(10) Grandunification with Two
+  Intermediate Stages","(LATEX, 9 pages + 3 pages of figures not included) OITS-488","Phys.Rev. D47 (1993) 2892-2896","10.1103/PhysRevD.47.2892",,"hep-ph",,"  We consider the breaking of the grand unification group $SO(10)$ to the
+standard model gauge group through several chains containing two intermediate
+stages. Using the values of the gauge coupling constants at scale $M_Z$ derived
+from recent LEP data, we determine the range of their intermediate and
+unification scales. In particular, we identify those chains that permit new
+gauge structure at relatively low energy $(\sim 1\, {\rm TeV})$.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 18:30:31 GMT""}]","2009-10-22"
+"hep-ph/9211233",,"Damien Pierce","Anomalous prompt photon production in hadronic collisions at low-$x_T$","14 pages, LBL-33122 and UCB-PTH-92/38. 13 figures available by email,
+  specify postscript or topdrawer","Phys.Rev. D48 (1993) 3121-3127","10.1103/PhysRevD.48.3121",,"hep-ph",,"  We investigate the discrepancy that exists at low-$x_T=2p_T/\sqrt{s}$ between
+the next--to--leading order QCD calculations of prompt photon production and
+the measured cross section. The central values of the measured cross section
+are of order 100\% larger than QCD predictions in this region. It has been
+suggested that the bremsstrahlung contribution may account for this
+discrepancy. The quark fragmentation function $D_{\gamma/q}(z)$ has not been
+measured and an exactly known asymptotic form is normally used in calculations.
+We examine the effect of much larger fragmentation functions on the QCD
+predictions. After illustrating the effect of the large fragmentation functions
+in some detail for recent CDF data at $\sqrt{s}$=1.8~TeV, we perform a $\chi^2$
+fit to 8 prompt photon data sets ranging in CMS energy from 24~GeV to 1.8~TeV.
+While a large fragmentation function normalization may prove to play an
+important role in resolving the discrepancy, the present theoretical and
+experimental uncertainties prevent any definite normalization value from being
+determined.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 21:13:15 GMT""}]","2009-10-22"
+"hep-ph/9211234","JoAnne Hewett","V. Barger, N.G. Deshpande, J.L. Hewett, and T.G. Rizzo","A Separate Higgs?","8 pages (plus 2 figures, available by request), latex,
+  ANL-HEP-PR-92-102",,,,"hep-ph",,"  We investigate the possibility of a multi-Higgs doublet model where the
+lightest neutral Higgs boson ($h^0$) decouples from the fermion sector. We are
+partially motivated by the four $\ell^+\ell^-\gamma\gamma$ events with
+$M_{\gamma\gamma}\simeq60$\,GeV recently observed by the L3 collaboration,
+which could be a signal for $Z\to (Z^*\to \ell^+\ell^-)+(h^0\to \gamma\gamma)$.
+Collider signatures for the additional physical Higgs bosons present in such
+models are discussed.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 17:24:01 GMT""}]","2007-05-23"
+"hep-ph/9211235","Rick Weller","Lawrence Connors, Ashley J. Deans and John S. Hagelin","COBE and SUSY","6 pages, MIU-THP-92/62",,,,"hep-ph",,"  We show that supersymmetry automatically leads to density fluctuations
+$\Delta T/T\sim6\times10^{-6}$ in agreement with the recent COBE measurement.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 21:47:54 GMT""}]","2007-05-23"
+"hep-ph/9211236",,"T.G. Rizzo","Lepton Number Violating Radiative $W$ Decay in Models with R-parity
+  Violation","10 pages, 2 figures(available on request), LaTex, ANL-HEP-PR-92-81","Phys.Rev. D47 (1993) 4991-4994","10.1103/PhysRevD.47.4991",,"hep-ph",,"  Models with explicit R-parity violation can induce new rare radiative decay
+modes of the $W$ boson into single supersymmetric particles which also violate
+lepton number. We examine the rate and signature for one such decay,
+$W\rightarrow \tilde l\gamma$, and find that such a mode will be very difficult
+to observe, due its small branching fraction, even if the lepton number
+violating coupling in the superpotential is comparable in strength to
+electromagnetism. This parallels a similar result obtained earlier by Hewett in
+the case of radiative $Z$ decays.
+","[{""version"":""v1"",""created"":""Tue, 10 Nov 1992 14:04:58 GMT""}]","2009-10-22"
+"hep-th/9211039","Rashkov Radoslav","R.Ch.Rashkov","2D Supergravity and Integrable Systems","9pgs",,,,"hep-th",,"  Integrable hierarchy based on the constrained Osp(2$\mid%2) connection is
+considered. The connection with 2D supergravity and some analogies with the
+W$_3^{(2)}$ case are given. It is shown that super Virasoro transformations are
+symmetries of tha hierarchy.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 18:12:36 GMT""}]","2007-05-23"
+"hep-th/9211040","Nicholas Philip Warner","M. Bershadsky, W. Lerche, D. Nemeschansky and N.P. Warner","Extended N=2 Superconformal Structure of Gravity and W-Gravity Coupled
+  to Matter","48 pages","Nucl.Phys. B401 (1993) 304-347","10.1016/0550-3213(93)90306-A","CALT-68-1832, CERN-TH.6694/92, HUTP-A061/92, USC-92/021","hep-th",,"  We show that almost all string theories, including the bosonic string, the
+superstring and $W$-string theories, possess a twisted N=2 superconformal
+symmetry. This enables us to establish a connection between topological gravity
+and the field theoretical description of matter coupled to gravity. We also
+show how the \brs operators of the $W_n$-string can be obtained by hamiltonian
+reduction of $SL(n|n-1)$. The tachyonic and ground ring states of $W$-strings
+are described in the light of the N=2 superconformal structure, and the ground
+ring generators for the non-critical $W_3$-string are explicitly constructed.
+The relationship to $G/G$ models and quantum integrable systems is also briefly
+described.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 20:40:24 GMT""},{""version"":""v2"",""created"":""Wed, 9 Dec 1992 04:25:04 GMT""}]","2009-10-22"
+"hep-th/9211041",,"S. Pratik Khastgir and Jnanadeva Maharana","Wormholes and symmetries of string effective action","10 pages, IP/BBSR/92-77","Phys.Lett. B301 (1993) 191-195","10.1016/0370-2693(93)90687-D",,"hep-th",,"  The dimensional reduction technique is adopted to derive string effective
+action. Wormhole solutions corresponding to space-time geometries $R^1\times
+S^1\times S^2$ and $R^1\times S^3$ are presented. The duality and SL(2,R)
+symmetries are implemented to generate new wormhole solutions.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 23:05:05 GMT""}]","2009-10-22"
+"hep-th/9211042",,"H. Nishino","Self--Dual Supergravity and Supersymmetric Yang--Mills Coupled to
+  Green--Schwarz Superstring","LATEX 29 pages","Int. J. Mod. Phys. A9 (1994) 3077-3101","10.1142/S0217751X94001217","Maryland preprint UMDEPP 93-79","hep-th",,"  We present the {\it canonical} set of superspace constraints for self-dual
+supergravity, a ``self-dual'' tensor multiplet and a self-dual Yang-Mills
+multiplet with $~N=1~$ supersymmetry in the space-time with signature
+$(+,+,-,-)$. For this set of constraints, the consistency of the self-duality
+conditions on these multiplets with supersymmetry is manifest. The
+energy-momentum tensors of all the self-dual ``matter'' multiplets vanish, to
+be consistent with the self-duality of the Riemann tensor. In particular, the
+special significance of the ``self-dual'' tensor multiplet is noted. This
+result fills the gap left over in our previous series of papers, with respect
+to the consistent couplings among the self-dual matter multiplets. We also
+couple these non-trivial backgrounds to a Green-Schwarz superstring
+$~\s\-$model, under the requirement of invariance under fermionic (kappa)
+symmetry. The finiteness of the self-dual supergravity is discussed, based on
+its ``off-shell'' structure. A set of exact solutions for the ``self-dual''
+tensor and self-dual Yang-Mills multiplets for the gauge group $~SL(2)$~ on
+self-dual gravitational instanton background is given, and its consistency with
+the Green-Schwarz string ~$\s\-$model is demonstrated.
+","[{""version"":""v1"",""created"":""Tue, 10 Nov 1992 01:45:00 GMT""},{""version"":""v2"",""created"":""Tue, 10 Nov 1992 02:02:00 GMT""}]","2009-10-22"
+"hep-th/9211043","Sun Chang Pu","Chang-Pu Sun","The Canonical Quantization in Terms of Quantum Group and Yang-Baxter
+  Equation","7 pages,ITP.SB-92-62",,,,"hep-th",,"  In this paper it is shown that a quantum observable algebra, the
+Heisenberg-Weyl algebra, is just given as the Hopf algebraic dual to the
+classical observable algebra over classical phase space and the Plank constant
+is included in this scheme of quantization as a compatible parameter living in
+the quantum double theory.In this sense,the quantum Yang-Baxter equation
+naturally appears as a necessary condition to be satisfied by a canonical
+elements,the universal R-matrix,intertweening the quantum and classical
+observable algebras. As a byproduct,a new ``quantum group'' is obtained as the
+quantum double of the classical observable algebra
+","[{""version"":""v1"",""created"":""Tue, 10 Nov 1992 15:38:07 GMT""}]","2007-05-23"
+"hep-th/9211046","Solodukhin-63942","S.N.Solodukhin","Non-abelian gauge antisymmetric tensor fields","20 pages, Latex","NuovoCim.B108:1275-1292,1993","10.1007/BF02741279",,"hep-th",,"  We construct the theory of non-abelian gauge antisymmetric tensor fields,
+which generalize the standard Yang-MIlls fields and abelian gauge p-forms. The
+corresponding gauge group acts on the space of inhomogeneous differential forms
+and it is shown to be a supergroup. The wide class of generalized Chern-Simons
+actions is constructed.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 18:21:00 GMT""}]","2008-11-26"
+"nucl-th/9211006",,"Kim Maltman","$q^2$-Dependence of Meson Mixing in Few-Body Charge Symmetry Breaking:
+  $\pi^o-\eta$ Mixing to One Loop in Chiral Perturbation Theory","14 pages",,"10.1016/0370-2693(93)91213-7",,"nucl-th",,"  It is pointed out that the meson mixing matrix elements usually considered
+responsible for the bulk of the observed few-body charge symmetry breaking are
+naturally $q^2$-dependent in QCD. For $\pi^o-\eta$ mixing, using the usual
+representation of the pseudoscalar fields, the leading $q^2$ dependence can be
+explicitly calculated using chiral perturbation theory to one loop, the result
+being a significant decrease in the magnitude of the matrix element in going
+from timelike to spacelike values of $q^2$. Since it is the latter range of
+$q^2$ which is relevant to NN scattering and the few-body bound state, this
+result calls into serious question the standard treatment of few-body charge
+symmetry breaking contributions associated with $\pi^o-\eta$ and $\rho -\omega$
+mixing.
+","[{""version"":""v1"",""created"":""Tue, 10 Nov 1992 15:17:00 GMT""}]","2009-10-22"

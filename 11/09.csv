@@ -1,0 +1,104 @@
+"alg-geom/9211001","Daniel Huybrechts","Daniel Huybrechts and Manfred Lehn","Stable pairs on curves and surfaces","37 pages, LaTeX Version 2.09, MPI-92-093",,,,"alg-geom math.AG",,"  We describe stability conditions for pairs consisting of a coherent sheaf and
+a homomorphism to a fixed coherent sheaf on a projective variety. The
+corresponding moduli spaces are constructed for pairs on curves and surfaces.
+We consider two examples. The fixed sheaf is the structure sheaf or is a vector
+bundle on a divisor, i.e. Higgs pairs or framed bundles, resp. (unencoded
+version)
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 15:48:36 GMT""},{""version"":""v2"",""created"":""Thu, 12 Nov 1992 13:44:55 GMT""}]","2008-02-03"
+"astro-ph/9211005",,"A.Y.Shiekh","Centri`fugal' Force around a Black Hole","7 pages","Proceedings of the Sixth Marcel Grossmann meeting on General
+  Relativity, Kyoto 1991",,,"astro-ph",,"  Besides having some very interesting perturbatively unstable orbits, it seems
+that for a Schwarzschild black hole, below $r=3M$, the force always increases
+inward with increasing angular momentum. Here this previously known result is
+derived with greater simplicity, and a similar analysis is performed for black
+holes with angular momentum and charge.
+","[{""version"":""v1"",""created"":""Sun, 8 Nov 1992 16:52:00 GMT""},{""version"":""v2"",""created"":""Sun, 8 Nov 1992 17:57:00 GMT""}]","2008-02-03"
+"astro-ph/9211006",,"Massimo Capaccioli, Nicola Caon and Mauro D'Onofrio","The ($\log R_e$, $\mu_e$) Plane of Hot Stellar Systems","15 pages and 3 figures (not included but available upon request),
+  LATEX 2.09",,,,"astro-ph",,"  Two families of hot stellar systems, named {\it `ordinary'\/} and {\it
+'bright'\/}, are identified in the ($\log R_e, \mu_e$) plane built with a
+luminosity--limited sample of ellipticals and bulges of S0s and spirals of the
+Virgo and Fornax clusters. This finding, based on {\it ad hoc\/} new
+observations, is confirmed by a much larger set of literature data for
+$\sim1500$ galaxies. The {\it `ordinary'\/} family is biparametric: $L_T\propto
+I_e\,R_e^2$; its members are fainter that $M_B\simeq-19.3$ and smaller than
+$\re\simeq3$ kpc (whatever $M_B$ is). The {\it 'bright'\/} family is
+uniparametric ($\mu_e$ depends on $R_e$ alone) and hosts brightest cluster
+members and QSO parent galaxies. We show that the segregation in the ($\log
+R_e, \mu_e$) plane has an important counterpart in the behavior of various
+physical parameters, which is markedly different for galaxies smaller ({\it
+`ordinary'\/} family) and larger ({\it 'bright'\/} family) than $R_e=3$ kpc.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 12:53:00 GMT""}]","2007-05-23"
+"astro-ph/9211007","Kenmoku","Masakatsu Kenmoku, Yuko Okamoto and Kazuyasu Shigemoto","Generalized Einstein Theory on Solar and Galactic Scales","13 pages, Latex, SLAC-PUB-5963","Phys.Rev.D48:578-582,1993","10.1103/PhysRevD.48.578",,"astro-ph gr-qc",,"  We study a generalized Einstein theory with the following two criteria:{\it
+i}) on the solar scale, it must be consistent with the classical tests of
+general relativity, {\it ii}) on the galactic scale, the gravitational
+potential is a sum of Newtonian and Yukawa potentials so that it may explain
+the flat rotation curves of spiral galaxies. Under these criteria, we find that
+such a generalized Einstein action must include at least one scalar field and
+one vector field as well as the quadratic term of the scalar curvature.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 15:50:34 GMT""}]","2010-11-01"
+"hep-lat/9211019",,"M.-C. Chu, J. M. Grandy, S. Huang and J. W. Negele","Lattice Calculation of Point-to-Point Hadron Current Correlation","11 pages","Phys.Rev.Lett.70:255-258,1993","10.1103/PhysRevLett.70.255","CTP#2113","hep-lat",,"  Point-to-point correlation functions of hadron currents in the QCD vacuum are
+calculated on a lattice and analyzed using dispersion relations, providing
+physical information down to small spatial separations. Qualitative agreement
+with phenomenological results is obtained in channels for which experimental
+data are available, and these correlation functions are shown to be useful in
+exploring approximations based on sum rules and interacting instantons.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 14:49:30 GMT""}]","2008-11-26"
+"hep-ph/9211229",,"B. Moussallam","Casimir Energy in the Skyrme Model","(Talk given at the workshop on ""Baryons as Skyrme Solitons"" Siegen
+  27-30 Sept. 92), Latex, 10 pages, Orsay preprint IPNO/TH 92-94",,,,"hep-ph",,"  The so called Casimir energy embodies the O($(N_c)^0$) contribution to the
+skyrmion mass according to the semi-classical expansion theory of solitons. We
+claim that this contribution can be accurately estimated despite the fact that
+some of the counterterms, provided in principle by chiral perturbation theory,
+are not known in practice. Using $\zeta$ function techniques we show that
+$E_{cas}=E_{cas}(\mu)+E_{ct}(\mu)$ where $E_{cas}(\mu)>>E_{ct}(\mu)$ because it
+incorporates all the zero-mode contributions and it can be exactly calculated.
+Our results confirm that the fourth order Skyrme lagrangian does not seem to
+provide a correct description of the lightest baryons as solitons. We show that
+a simple extension to order six gives, on the contrary, good results without
+tuning the parameters of the chiral lagrangian.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 10:39:48 GMT""}]","2007-05-23"
+"hep-ph/9211231",,"A. D. Dolgov and K. Kainulainen","Fermi-Dirac corrections to relic abundances","14 pages TPI-MINN-92/59-T","Nucl.Phys. B402 (1993) 349-359","10.1016/0550-3213(93)90646-7",,"hep-ph",,"  We derive an equation for the evolution of the number density of a massive
+particle species in the early Universe, which correctly accounts for the
+Fermi-Dirac (FD) statistics. The FD-corrections are sizable and potentially
+important if the decoupling from the thermal equilibrium takes place at
+temperatures of the order of, or less than the mass of the particle. This is
+the case e.g.\ for a few MeV tau neutrino with the ordinary weak interactions.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 15:55:00 GMT""}]","2009-10-22"
+"hep-th/9211036","Jos\'e M. Figueroa-O'Farrill","J.M. Figueroa-O'Farrill and E. Ramos","The Algebra of Differential Operators on the Circle and $W_{KP}^{(q)}$","12 pages, Plain TeX, BONN-HE-92/34, KUL-TF-92/27, QMW-PH-92-20 (v3:
+  solved legacy compilation problems)",,"10.1007/BF00739580",,"hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Radul has recently introduced a map from the Lie algebra of differential
+operators on the circle to $W_n$. In this note we extend this map to
+$W_{KP}^{(q)}$, a recently introduced one-parameter deformation of
+$W_{KP}$---the second hamiltonian structure of the KP hierarchy. We use this to
+give a short proof that $W_\infty$ is the symmetry algebra of additional
+symmetries of the KP equation.
+","[{""version"":""v1"",""created"":""Sun, 8 Nov 1992 21:50:59 GMT""},{""version"":""v2"",""created"":""Sat, 14 Nov 1992 15:43:40 GMT""},{""version"":""v3"",""created"":""Fri, 16 Oct 2020 12:45:31 GMT""}]","2020-10-19"
+"hep-th/9211037","Q.-Han Park","Q-Han Park","A Master Equation for Multi-Dimensional Non-Linear Field Theories","12pages, DAMTP R-92/24, SNUTP 92-86","Phys.Lett. B297 (1992) 266-270","10.1016/0370-2693(92)91260-G",,"hep-th",,"  A master equation ( $n$ dimensional non--Abelian current conservation law
+with mutually commuting current components ) is introduced for
+multi-dimensional non-linear field theories. It is shown that the master
+equation provides a systematic way to understand 2-d integrable non-linear
+equations as well as 4-d self-dual equations and, more importantly, their
+generalizations to higher dimensions.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 08:44:43 GMT""}]","2009-10-22"
+"hep-th/9211038","Emmanuel Guitter","F. David, B. Duplantier and E. Guitter","Renormalization Theory for Interacting Crumpled Manifolds","126 pages (+ 24 figures not included available upon request),
+  harvmac, SPhT/92/124","Nucl.Phys. B394 (1993) 555-664","10.1016/0550-3213(93)90226-F",,"hep-th cond-mat",,"  We consider a continuous model of D-dimensional elastic (polymerized)
+manifold fluctuating in d-dimensional Euclidean space, interacting with a
+single impurity via an attractive or repulsive delta-potential (but without
+self-avoidance interactions). Except for D=1 (the polymer case), this model
+cannot be mapped onto a local field theory. We show that the use of intrinsic
+distance geometry allows for a rigorous construction of the high-temperature
+perturbative expansion and for analytic continuation in the manifold dimension
+D. We study the renormalization properties of the model for 0<D<2, and show
+that for d<d* where d*=2D/(2-D) is the upper critical dimension, the
+perturbative expansion is UV finite, while UV divergences occur as poles at
+d=d*. The standard proof of perturbative renormalizability for local field
+theories (the BPH theorem) does not apply to this model. We prove perturbative
+renormalizability to all orders by constructing a subtraction operator based on
+a generalization of the Zimmermann forests formalism, and which makes the
+theory finite at d=d*. This subtraction operation corresponds to a
+renormalization of the coupling constant of the model (strength of the
+interaction with the impurity). The existence of a Wilson function, of an
+epsilon-expansion around the critical dimension, of scaling laws for d<d* in
+the repulsive case, and of non-trivial critical exponents of the delocalization
+transition for d>d* in the attractive case is thus established. To our
+knowledge, this provides the first proof of renormalizability for a model of
+extended objects, and should be applicable to the study of self-avoidance
+interactions for random manifolds.
+","[{""version"":""v1"",""created"":""Mon, 9 Nov 1992 15:56:23 GMT""}]","2007-05-23"

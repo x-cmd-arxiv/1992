@@ -1,0 +1,103 @@
+"alg-geom/9208003",,"A. Garcia and R.F. Lax","Weierstrass weight of Gorenstein singularities with one or two branches","24 pages, Plain TeX, AG-RL-8-92",,,,"alg-geom math.AG",,"  Let $X$ denote an integral, projective Gorenstein curve over an algebraically
+closed field $k$. In the case when $k$ is of characteristic zero, C. Widland
+and the second author have defined Weierstrass points of a line bundle on $X$.
+In the first section, this definition is extended to linear systems in
+arbitrary characteristic. This definition may be viewed as a generalization of
+the definitions of Laksov and St\""ohr-Voloch to the Gorenstein case. In the
+second section, an example is given to illustrate the definition. This example
+is a plane curve of arithmetic genus 3 in characteristic 2 such that the gap
+sequence at every smooth point (with respect to the dualizing bundle) is 1,2,5
+and there are no smooth Weierstrass points. In the third section, the
+Weierstrass weight of a unibranch singularity (on a not necessarily rational
+curve) is computed in terms of its semigroup of values. In the final section,
+the Weierstrass weight of a singularity with precisely two branches (again
+assuming that the characteristic is zero) is computed.
+  AMS Classification: Primary 14H55, Secondary 14H20.
+","[{""version"":""v1"",""created"":""Thu, 20 Aug 1992 14:43:15 GMT""}]","2008-02-03"
+"cond-mat/9208013","Michael R. Norman","M. R. Norman","Effect of Matrix Elements on the Pairing Kernel in Exchange Mediated
+  Superconductors","11 pages",,"10.1103/PhysRevB.48.6315",,"cond-mat",,"  A method is derived for calculating the pairing kernel in exchange mediated
+superconductors including matrix element effects. Various models for the
+interaction vertex are considered, including spin exchange, orbital exchange,
+and quadrupolar exchange. As an example, this formalism is applied to $UPt_3$
+using relativistic wavefunctions from a local density band calculation.
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 19:04:30 GMT""}]","2009-10-22"
+"funct-an/9208001","Vladimir Pestov","Vladimir G. Pestov","Universal arrows to forgetful functors from categories of topological
+  algebra","35 pages, AmS TeX 2.1",,,"RP 92-97, Dept.Math., Victoria Univ of Wellington, August 1992","funct-an math.OA",,"  We survey the present trends in theory of universal arrows to forgetful
+functors from various categories of topological algebra and functional analysis
+to categories of topology and topological algebra. Among them are free
+topological groups, free locally convex spaces, free Banach-Lie algebras, and
+much more. An accent is put on relationship of those constructions with other
+areas of mathematics and their possible applications. A number of open problems
+is discussed; some of them belong to universal arrow theory, and others may
+hopefully become amenable to methods of this theory.
+","[{""version"":""v1"",""created"":""Thu, 20 Aug 1992 04:22:36 GMT""}]","2008-02-03"
+"gr-qc/9208009",,"R. Brandenberger(Brown), T.Prokopec(Brown), V. Mukhanov(ETH, Zurich)","The Entropy of the Gravitational Field","40 pages, uses REVTEX","Phys.Rev. D48 (1993) 2443-2455","10.1103/PhysRevD.48.2443","Brown-HET-849","gr-qc astro-ph hep-th",,"  We derive a formula for the nonequilibrium entropy of a classical stochastic
+field in terms of correlation functions of this field. The formalism is then
+applied to define the entropy of gravitational perturbations (both
+gravitational waves and density fluctuations). We calculate this entropy in a
+specific cosmological model (the inflationary Universe) and find that on scales
+of interest in cosmology the entropy in both density perturbations and
+gravitational waves exceeds the entropy of statistical fluctuations of the
+microwave background. The nonequilibrium entropy discussed here is a measure of
+loss of information about the system. We discuss the origin of the entropy in
+our cosmological models and compare the definition of entropy in terms of
+correlation functions with the microcanonical definition in quantum statistical
+mechanics.
+","[{""version"":""v1"",""created"":""Thu, 20 Aug 1992 13:02:29 GMT""}]","2009-10-22"
+"hep-lat/9208015","Yannick Meurice","Yannick Meurice","Duality in Long-Range Ising Ferromagnets","16 pp., UIOWA-91-26","J.Math.Phys.35:769-779,1994","10.1063/1.530610",,"hep-lat hep-th",,"  It is proved that for a system of spins $\sigma _i = \pm 1$ having an
+interaction energy $-\sum K_{ij} \sigma _i \sigma _j $ with all the $K_{ij}$
+strictly positive,one can construct a dual formulation by associating a dual
+spin $S_{ijk} = \pm 1$ to each triplet of distinct sites $i,j$ and $k$. The
+dual interaction energy reads $-\sum _{(ij)} D_{ij} \prod _{k \neq i,j}
+S_{ijk}$ with $tanh(K_{ij})\ = \ exp(-2D_{ij})$, and it is invariant under
+local symmetries. We discuss the gauge-fixing procedure, identities relating
+averages of order and disorder variables and representations of various
+quantities as integrals over Grassmann variables. The relevance of these
+results for Polyakov's approach of the 3D Ising model is briefly discussed.
+","[{""version"":""v1"",""created"":""Thu, 20 Aug 1992 03:57:40 GMT""}]","2008-11-26"
+"hep-ph/9208234","Andre Pereira de Almeida","A. P. de Almeida and J. Frenkel","On the Infrared Behavior of the Pressure in Thermal Field Theories","20 pages plus 4 figures available by request, IFUSP/P-1001","Phys. Rev. D 47, 640 (1993)","10.1103/PhysRevD.47.640",,"hep-ph hep-th",,"  We study non-perturbatively, via the Schwinger-Dyson equations, the leading
+infrared behavior of the pressure in the ladder approximation. This problem is
+discussed firstly in the context of a thermal scalar field theory, and the
+analysis is then extended to the Yang-Mills theory at high temperatures. Using
+the Feynman gauge, we find a system of two coupled integral equations for the
+gluon and ghost self-energies, which is solved analytically. The solutions of
+these equations show that the contributions to the pressure, when calculated in
+the ladder approximation, are finite in the infrared domain.
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 16:22:39 GMT""}]","2013-11-13"
+"hep-ph/9208235",,"Y. Achiman and A. Lukas","E6 GUT and Large Neutrino Mixing","10 pages, 7 Figures (not included), WUB 92-20, TUM-TH-149/92,
+  MPI-Ph/92-69","Phys.Lett. B296 (1992) 127-131","10.1016/0370-2693(92)90813-J",,"hep-ph",,"  All experimental results concerning possible neutrino oscillations are
+naturally and simultaneously accounted for in an $E_6$ GUT model. The fermionic
+mass matrices are dictated by the symmetry breaking and specific radiative
+corrections and not by the use of ``Ans\""atze'' or discrete symmetries.
+","[{""version"":""v1"",""created"":""Thu, 20 Aug 1992 15:38:18 GMT""}]","2009-10-22"
+"hep-th/9208048",,"F.Toppan and Y.-Z.Zhang","Superconformal Affine Liouville Theory","12 pages, standard Latex file, Bonn Univ. preprint BONN-HE-92-16 (to
+  appear in Phys.Lett.B)","Phys.Lett. B292 (1992) 67-76","10.1016/0370-2693(92)90609-8",,"hep-th",,"  We present a superconformally invariant and integrable model based on the
+twisted affine Kac-Moody superalgebra $\hat{osp(2|2)}^{(2)}$ which is the
+supersymmetrization of the purely bosonic conformal affine Liouville theory
+recently proposed by Babelon and Bonora. Our model reduces to the
+super-Liouville or to the super sinh-Gordon theories under certain limit
+conditions and can be obtained, via hamiltonian reduction, from a superspace
+WZNW model with values in the corresponding affine KM supergroup. The
+reconstruction formulae for classical solutions are given. The classical
+$r$-matrices in the homogeneous grading and the exchange algebras are worked
+out.
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 17:01:34 GMT""}]","2009-10-22"
+"hep-th/9208049",,"D.M. Gitman and A.V.Saa","Pseudoclassical Model of Spinning Particle with Anomalous Magnetic
+  Momentum","9 pages, IFUSP/P-1002","Mod.Phys.Lett.A8:463-468,1993","10.1142/S0217732393000489",,"hep-th",,"  A generalization of the pseudoclassical action of a spinning particle in the
+presence of an anomalous magnetic momentum is given. The action is written in
+reparametrization and supergauge invariant form. The Dirac quantization, based
+on the Hamiltonian analyses of the model, leads to the Dirac-Pauli equation for
+a particle with an anomalous magnetic momentum in an external electromagnetic
+field. Due to the structure of first-class constraints in that case, the Dirac
+quantization demands for consistency to take into account an operators ordering
+problem.
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 20:10:14 GMT""},{""version"":""v2"",""created"":""Wed, 16 Sep 1992 12:15:45 GMT""}]","2011-03-31"
+"hep-th/9208050","Yannick Meurice","Yannick Meurice","Remarks Concerning Polyakov's Conjecture for the 3D Ising Model and the
+  Hierarchical Approximation","7 pp., UIOWA-91-27","Mod.Phys.Lett.A7:3331-3336,1992","10.1142/S0217732392002718",,"hep-th hep-lat",,"  We consider the possibility of using the hierarchical approximation to
+understand the continuum limit of a reformulation of the 3D Ising model
+initiated by Polyakov. We introduce several new formulations of the
+hierarchical model using dual or fermionic variables. We discuss several
+aspects of the renormalization group transformation in terms of these new
+variables. We mention a reformulation of the model closely related to string
+models proposed by Zabrodin.
+","[{""version"":""v1"",""created"":""Thu, 20 Aug 1992 02:52:31 GMT""}]","2008-11-26"

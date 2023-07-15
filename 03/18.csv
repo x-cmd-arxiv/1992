@@ -1,0 +1,128 @@
+"alg-geom/9203003","Tim Ford","Timothy J. Ford","Computing the Cohomological Brauer Group of a Toric Variety","3 pages, AMS-LaTeX",,,,"alg-geom math.AG",,"  The purpose of this article is to show how one might compute the \'etale
+cohomology groups $H^p_{\acute{e}t}(X,G_m)$ in degrees $p=0$, $1$ and $2$ of a
+toric variety $X$ with coefficients in the sheaf of units. The method is to
+reduce the computation down to the problem of diagonalizing a matrix with
+integral coefficients. The procedure outlined in this article has been fully
+implemented by the author as a program written in the ``C'' programming
+language.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 15:25:55 GMT""}]","2008-02-03"
+"hep-ph/9203213",,"E. Gates, L. M. Krauss and M. White","Solar Neutrino Data and Its Implications","27 pages","Phys.Rev.D46:1263-1273,1992","10.1103/PhysRevD.46.1263",,"hep-ph",,"  The complete and concurrent Homestake and Kamiokande solar neutrino data sets
+(including backgrounds), when compared to detailed model predictions, provide
+no unambiguous indication of the solution to the solar neutrino problem. All
+neutrino-based solutions, including time-varying models, provide reasonable
+fits to both the 3 year concurrent data and the full 20 year data set. A simple
+constant B neutrino flux reduction is ruled out at greater than the 4$\sigma$
+level for both data sets. While such a flux reduction provides a marginal fit
+to the unweighted averages of the concurrent data, it does not provide a good
+fit to the average of the full 20 year sample. Gallium experiments may not be
+able to distinguish between the currently allowed neutrino-based possibilities.
+","[{""version"":""v1"",""created"":""Tue, 17 Mar 1992 17:28:00 GMT""}]","2009-08-18"
+"hep-th/9203040","Jorge Pullin","Bernd Bruegmann, Rodolfo Gambini, Jorge Pullin","How the Jones Polynomial Gives Rise to Physical States of Quantum
+  General Relativity","7pp","Gen.Rel.Grav.25:1-6,1993","10.1007/BF00756923",,"hep-th",,"  Solutions to both the diffeomorphism and the hamiltonian constraint of
+quantum gravity have been found in the loop representation, which is based on
+Ashtekar's new variables. While the diffeomorphism constraint is easily solved
+by considering loop functionals which are knot invariants, there remains the
+puzzle why several of the known knot invariants are also solutions to the
+hamiltonian constraint. We show how the Jones polynomial gives rise to an
+infinite set of solutions to all the constraints of quantum gravity thereby
+illuminating the structure of the space of solutions and suggesting the
+existance of a deep connection between quantum gravity and knot theory at a
+dynamical level.
+","[{""version"":""v1"",""created"":""Tue, 17 Mar 1992 17:54:05 GMT""}]","2008-11-26"
+"hep-th/9203041",,"Julian Barbour and Lee Smolin","Extremal variety as the foundation of a cosmological quantum theory","32 pages, 19 Figures, not included",,,,"hep-th",,"  Dynamical systems of a new kind are described, which are motivated by the
+problem of constructing diffeomorphism invariant quantum theories. These are
+based on the extremization of a non-local and non-additive quantity that we
+call the variety of a system. In these systems all dynaqmical variables refer
+to relative coordinates or, more generally, describe relations between
+particles, so that they are invariant under discrete analogues of
+diffeomorphisms in which the labels of all particles are permutted arbitrarily.
+The variety is a measures of how uniquely each of the elements of the system
+can be distinguished from the others in terms of the values of these relative
+coordinates. Thus a system with extremal variety is one in which the parts are
+related to the whole in as distinct a way as possible.
+  We study numerically several dynamical systems which are defined by setting
+the action of the system equal to its variety. We find evidence that suggests
+that such systems may serve as the basis for a new kind of pregeometry theories
+in which the geometry of low dimensional space emerges in the thermodynamic
+limit from a system which is defined without the use of any background space.
+  The mathematical definition of variety may also provide a quantitative tool
+to study self-organizing systems, because it distinguishes highly structured,
+but asymmetric, configurations such as one finds in biological systems from
+both random configurations and highly ordered configurations.
+","[{""version"":""v1"",""created"":""Tue, 17 Mar 1992 23:52:00 GMT""}]","2007-05-23"
+"hep-th/9203042","Andy Strominger","B. Birnir, S.B. Giddings, J.A. Harvey, and A. Strominger","Quantum Black Holes","14 pages + 6 figures","Phys.Rev.D46:638-644,1992","10.1103/PhysRevD.46.638",,"hep-th",,"  Static solutions of large-$N$ quantum dilaton gravity in $1+1$ dimensions are
+analyzed and found to exhibit some unusual behavior. As expected from previous
+work, infinite-mass solutions are found describing a black hole in equilibrium
+with a bath of Hawking radiation. Surprisingly, the finite mass solutions are
+found to approach zero coupling both at the horizon and spatial infinity, with
+a ``bounce'' off of strong coupling in between. Several new zero mass solutions
+-- candidate quantum vacua -- are also described.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 02:21:13 GMT""},{""version"":""v2"",""created"":""Fri, 20 Mar 1992 23:33:26 GMT""}]","2009-09-17"
+"hep-th/9203043",,"S.Kharchev, A.Marshakov, A.Mironov, A.Morozov","Generalized Kontsevich Model Versus Toda Hierarchy and Discrete Matrix
+  Models","46 p","Nucl.Phys. B397 (1993) 339-378","10.1016/0550-3213(93)90347-R",,"hep-th",,"  We represent the partition function of the Generalized Kontsevich Model (GKM)
+in the form of a Toda lattice $\tau$-function and discuss various implications
+of non-vanishing ""negative""- and ""zero""-time variables: the appear to modify
+the original GKM action by negative-power and logarithmic contributions
+respectively. It is shown that so deformed $\tau$-function satisfies the same
+string equation as the original one. In the case of quadratic potential GKM
+turns out to describe {\it forced} Toda chain hierarchy and, thus, corresponds
+to a {\it discrete} matrix model, with the role of the matrix size played by
+the zero-time (at integer positive points). This relation allows one to discuss
+the double-scaling continuum limit entirely in terms of GKM, $i.e.$ essentially
+in terms of {\it finite}-fold integrals.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 02:56:44 GMT""}]","2009-10-22"
+"hep-th/9203044",,"A.Marshakov, A.Mironov, A.Morozov, M.Olshanetsky","$c = r_g$ Theories of $W_G$-Gravity: The Set of Observables as a Model
+  of Simply Laced $G$","36 p","Nucl.Phys. B404 (1993) 427-456","10.1016/0550-3213(93)90486-9",,"hep-th",,"  We propose to study a generalization of the Klebanov-Polyakov-Witten (KPW)
+construction for the algebra of observables in the $c = 1$ string model to
+theories with $c > 1$. We emphasize the algebraic meaning of the KPW
+construction for $c = 1$ related to occurrence of a {\it model} of {\it SU}(2)
+as original structure on the algebra of observables. The attempts to preserve
+this structure in generalizations naturally leads to consideration of
+$W$-gravities. As a first step in the study of these generalized KPW
+constructions we design explicitly the subsector of the space of observables in
+appropriate $W_G$-string theory, which forms the {\it model} of $G$ for any
+simply laced {\it G}. The {\it model} structure is confirmed by the fact that
+corresponding one-loop Kac-Rocha-Caridi $W_G$-characters for $c = r_G$ sum into
+a chiral (open string) $k=1$ $G$-WZW partition function.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 03:13:37 GMT""}]","2009-10-22"
+"hep-th/9203045","Martina Lopez","E.S. Fradkin and V.Ya Linetsky","Results of the classification of superconformal algebras in two
+  dimensions","9 pages","Phys.Lett. B282 (1992) 352-356","10.1016/0370-2693(92)90651-J",,"hep-th",,"  A list of superconformal chiral operator product expansion algebras with
+quadratic nonlinearity in two dimensions is completed on the basis of the known
+classification of little conformal Lie superalgebras. In addition to the
+previously known cases and the constructed in our previous paper exceptional
+$N=8$ superalgebra associated with $F(4)$, a novel exceptional $N=7$
+superconformal algebra associated with $G(3)$ is found, as well as a whole
+family of superalgebras containing affine $\widehat{su}_2 \oplus
+\widehat{usp}_{2N}$. A classification scheme for quasisuperconformal algebras
+is also outlined.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 10:44:47 GMT""}]","2009-10-22"
+"hep-th/9203048",,"F.Bonechi, E.Celeghini, R.Giachetti, E.Sorace and M.Tarlini","Quantum Galilei Group as Symmetry of Magnons","10 pags. 0 figs","Phys.Rev. B46 (1992) 5727-5730","10.1103/PhysRevB.46.5727",,"hep-th",,"  Inhomogeneous quantum groups are shown to be an effective algebraic tool in
+the study of integrable systems and to provide solutions equivalent to the
+Bethe ansatz. The method is illustrated on the 1D Heisenberg ferromagnet whose
+symmetry is shown to be the quantum Galilei group Gamma_q(1) here introduced.
+Both the single magnon and the s=1/2 bound states of n-magnons are completely
+described by the algebra.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 15:22:00 GMT""}]","2009-10-22"
+"hep-th/9203049","Hiroki Fukutaka","Hiroki Fukutaka","Path-Integral Measure of Linearized Gravity in Curved Spacetime","25 pages",,,,"hep-th",,"  The path-integral measure of linearized gravity around a saddle-point
+background with the cosmological term is considered in order to study the
+conformal rotation prescription proposed by Gibbons, Hawking and Perry. It is
+also argued that the most generally used measure, i.e., the covariant
+path-integral measure, does not give us a one-loop partition function which the
+only physical variables contribute and that its path integral fails to keep the
+cancellation of contributions between the Faddeev-Popov ghosts and the
+unphysical variables of the linearized gravitational field, although it has a
+coordinate invariant measure. In de~Sitter spacetime, it is shown that the
+uncancellation factor can be understood as a nontrivial (anomalous) Jacobian
+factor under the transformation of the path-integral measure from covariant one
+to canonical one.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 14:15:34 GMT""},{""version"":""v2"",""created"":""Thu, 19 Mar 1992 02:49:41 GMT""}]","2008-02-03"
+"hep-th/9203050","Robert Mann","Dan Christensen and Robert B. Mann","The Causal Structure of Two-Dimensional Spacetimes","27 pgs., 5 figures (unavailable)","Class.Quant.Grav.9:1769-1786,1992","10.1088/0264-9381/9/7/010",,"hep-th",,"  We investigate the causal structure of $(1+1)$-dimensional spacetimes. For
+two sets of field equations we show that at least locally any spacetime is a
+solution for an appropriate choice of the matter fields. For the theories under
+consideration we investigate how smoothness of their black hole solutions
+affects time orientation. We show that if an analog to Hawking's area theorem
+holds in two spacetime dimensions, it must actually state that the size of a
+black hole never {\em increases}, contrary to what happens in four dimensions.
+Finally, we discuss the applicability of the Penrose and Hawking singularity
+theorems to two spacetime dimensions.
+","[{""version"":""v1"",""created"":""Wed, 18 Mar 1992 15:08:18 GMT""}]","2010-04-06"

@@ -1,0 +1,75 @@
+"cond-mat/9210024","Bob Pelcovits","P.De, Robert Pelcovits, E. Vogel, J. Vogel","The Supercooling of a Nematic Liquid Crystal","Latex",,"10.1103/PhysRevE.47.1824",,"cond-mat",,"  We investigate the supercooling of a nematic liquid crystal using fluctuating
+non-linear hydrodynamic equations. The Martin-Siggia-Rose formalism is used to
+calculate renormalized transport coefficients to one-loop order. Similar
+theories for isotropic liquids have shown substantial increases of the
+viscosities as the liquid is supercooled or compressed due to feedback from the
+density fluctuations which are freezing. We find similar results here for the
+longitudinal and various shear viscosities of the nematic. However, the two
+viscosities associated with the nematic director motion do not grow in any
+dramatic way; i.e.\ there is no apparent freezing of the director modes within
+this hydrodynamic formalism. Instead a glassy state of the nematic may arise
+from a ``random anisotropy"" coupling of the director to the frozen density.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 18:12:50 GMT""}]","2009-10-22"
+"cond-mat/9210025","Vladimir Privman","J.-S. Wang, P. Nielaba, V. Privman","Collective Effects in Random Sequential Adsorption of Diffusing Hard
+  Squares","11 pages (plain TeX), 4 figures (PostScript)","Mod.Phys.Lett.B7:189-196,1993","10.1142/S0217984993000217",,"cond-mat hep-lat",,"  We study by Monte Carlo computer simulations random sequential adsorption
+(RSA) with diffusional relaxation, of lattice hard squares in two dimensions.
+While for RSA without diffusion the coverage approaches its maximum jamming
+value (large-time fractional coverage) exponentially, added diffusion allows
+the deposition process to proceed to the full coverage. The approach to the
+full coverage is consistent with the t**(-1/2) power law reminiscent of the
+equilibrium cluster coarsening in models with nonconserved order-parameter
+dynamics.
+","[{""version"":""v1"",""created"":""Sat, 24 Oct 1992 00:42:15 GMT""}]","2014-10-13"
+"gr-qc/9210013","Patrick Brady","Warren G. Anderson, Patrick R. Brady, Werner Israel, and Sharon M.
+  Morsink","Quantum Effects in Black Hole Interiors","13 pages, 1 figure (not included), RevTex","Phys.Rev.Lett. 70 (1993) 1041-1044","10.1103/PhysRevLett.70.1041","Alberta-Thy-36-92","gr-qc",,"  The Weyl curvature inside a black hole formed in a generic collapse grows,
+classically without bound, near to the inner horizon, due to partial absorption
+and blueshifting of the radiative tail of the collapse. Using a spherical
+model, we examine how this growth is modified by quantum effects of conformally
+coupled massless fields.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 17:27:15 GMT""}]","2009-10-22"
+"hep-ph/9210260","Mike Berger","V. Barger, M. S. Berger and P. Ohmann","Universal Evolution of CKM Matrix Elements","17 pages + 2 figures not included (available upon request), revised
+  version fixes discrepancy between S and S^{1/2}, no other changes, MAD/PH/722","Phys.Rev.D47:2038-2045,1993","10.1103/PhysRevD.47.2038",,"hep-ph",,"  We derive the two-loop evolution equations for the Cabibbo-Kobayashi-Maskawa
+matrix. We show that to leading order in the mass and CKM hierarchies the
+scaling of the mixings $|V_{ub}|^2$, $|V_{cb}|^2$, $|V_{td}|^2$, $|V_{ts}|^2$
+and of the rephase-invariant CP-violating parameter $J$ is universal to all
+orders in perturbation theory. In leading order the other CKM elements do not
+scale. Imposing the constraint $\lambda _b=\lambda _{\tau}$ at the GUT scale
+determines the CKM scaling factor to be $\simeq 0.58$ in the MSSM.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 23:11:15 GMT""},{""version"":""v2"",""created"":""Mon, 26 Oct 1992 18:54:18 GMT""}]","2009-09-15"
+"hep-th/9210129","Rinat Kedem","Rinat Kedem and Barry M. Mccoy","Construction of Modular Branching Functions from Bethe's Equations in
+  the 3-State Potts Chain","31 pages",,"10.1007/BF01049953",,"hep-th cond-mat",,"  We use the single particle excitation energies and the completeness rules of
+the 3-state anti-ferromagnetic Potts chain, which have been obtained from
+Bethe's equation, to compute the modular invariant partition function. This
+provides a fermionic construction for the branching functions of the $D_4$
+representation of $Z_4$ parafermions which complements the previous bosonic
+constructions. It is found that there are oscillations in some of the
+correlations and a new connection with the field theory of the Lee-Yang edge is
+presented.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 18:05:12 GMT""},{""version"":""v2"",""created"":""Wed, 28 Oct 1992 16:40:53 GMT""}]","2009-10-22"
+"hep-th/9210130","Juergen Laartz","M.Forger, J.Laartz, U.Schaeper","The Algebra of the Energy-Momentum Tensor and the Noether Currents in
+  Classical Non-Linear Sigma Models","10 pages, THEP 92/24","Commun. Math. Phys. 159 (1994) 319-328","10.1007/BF02102641",,"hep-th",,"  The recently derived current algebra of classical non-linear sigma models on
+arbitrary Riemannian manifolds is extended to include the energy-momentum
+tensor. It is found that in two dimensions the energy-momentum tensor
+$\theta_{\mu\nu}$, the Noether current $j_\mu$ associated with the global
+symmetry of the theory and the composite field $j$ appearing as the coefficient
+of the Schwinger term in the current algebra, together with the derivatives of
+$j_\mu$ and $j$, generate a closed algebra. The subalgebra generated by the
+light-cone components of the energy-momentum tensor consists of two commuting
+copies of the Virasoro algebra, with central charge $\, c\!=\!0 $, reflecting
+the classical conformal invariance of the theory, but the current algebra part
+and the semidirect product structure are quite different from the usual
+Kac-Moody / Sugawara type construction.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 21:59:33 GMT""}]","2015-06-26"
+"hep-th/9210131",,"Lee Brekke, Hans Dykstra, Adam F. Falk and Tom D. Imbo","Novel Spin and Statistical Properties of Nonabelian Vortices","11 pages, UICHEP-TH/92-15; FERMILAB-PUB-92/233-T; SLAC-PUB-5884","Phys.Lett. B304 (1993) 127-133","10.1016/0370-2693(93)91411-F",,"hep-th",,"  We study the statistics of vortices which appear in (2+1)--dimensional
+spontaneously broken gauge theories, where a compact group G breaks to a finite
+nonabelian subgroup H. Two simple models are presented. In the first, a quantum
+state which is symmetric under the interchange of a pair of indistinguishable
+vortices can be transformed into an antisymmetric state after the passage
+through the system of a third vortex with an appropriate $H$-flux element.
+Further, there exist states containing two indistinguishable spinless vortices
+which obey Fermi statistics. These results generalize to loops of nonabelian
+cosmic string in 3+1 dimensions. In the second model, fractional analogues of
+the above behaviors occur. Also, composites of vortices in this theory may
+possess fractional ``Cheshire spin'' which can be changed by passing an
+additional vortex through the system.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 23:33:55 GMT""}]","2009-10-22"

@@ -1,0 +1,61 @@
+"cond-mat/9209029","Kikuo Harigaya","Kikuo Harigaya, (Fundamental Physics Section, Physical Science
+  Division, Electrotechnical Laboratory, Umezono 1-1-4, Tsukuba, Ibaraki 305,
+  Japan)","Polaron excitations in fullerenes: Theory as pi-conjugated systems","Review article in Prog. Theor. Phys., 14pages, 7 figures","Prog.Theor.Phys.Suppl.113:229-238,1993","10.1143/PTPS.113.229",,"cond-mat",,"  We review the recent theoretical treatment of fullerenes as pi-conjugated
+systems. Polaronic properties due to the Jahn-Teller type effects are mainly
+discussed. (1) A Su-Schrieffer-Heeger type electron-phonon model is applied to
+fullerenes: C_60 and C_70, and is solved with the adiabatic approximation to
+phonons. When the system (C_60 or C_70) is doped with one or two electrons (or
+holes), the additional charges accumulate along almost an equatorial line of
+the molecule. The dimerization becomes the weakest along the same line. Two
+energy levels, the occupied state and the empty state, intrude largely in the
+gap. The intrusion is larger in C_70 than in C_60. These are ``polarons'' in
+doped fullerenes. It is also found that C_60 and C_70 are related mutually with
+respect to electronical structures as well as lattice geometries. (2) We apply
+the model to the fullerene epoxide C_60O. It has the polaron-type lattice
+distortion around the oxygen, and also shows the energy level intrusion in the
+gap. (3) Optical properties of C_60 are calculated and discussed. In the
+absorption of the doped molecule, a new peak structure is present owing to the
+polaronic distortion. In the luminescence of the neutral C_60, the spacing
+between H_g(8)-phonon side-band peaks and the relative intensities agree well
+with experiments. In the dispersion of the third harmonic generation, the
+magnitudes of |chi^(3)| agree with those of experiments at the resonance of the
+lowest allowed transition as well as in the region away from the resonance.
+","[{""version"":""v1"",""created"":""Sun, 20 Sep 1992 11:08:59 GMT""}]","2008-11-26"
+"hep-ph/9209257",,"Steven Weinberg","Three-Body Interactions Among Nucleons and Pions","16 pages plus four figures, LATEX, Texas preprint UTTG-11-92","Phys.Lett. B295 (1992) 114-121","10.1016/0370-2693(92)90099-P",,"hep-ph nucl-th",,"  A chiral invariant effective Lagrangian may be used to calculate the
+three-body interactions among low-energy pions and nucleons in terms of known
+parameters. This method is illustrated by the calculation of the pion-nucleus
+scattering length.
+","[{""version"":""v1"",""created"":""Sun, 20 Sep 1992 15:43:39 GMT""}]","2009-10-22"
+"hep-th/9209070","Jeff Harvey","R. Gregory and J. A. Harvey","Black Holes with a Massive Dilaton","36 pages with 5 figures (as uuencoded compressed tar file) (revised
+  version has one major change in bound on mass for extremal solution and minor
+  typos fixed), harvmac","Phys.Rev. D47 (1993) 2411-2422","10.1103/PhysRevD.47.2411","EFI-92-49","hep-th gr-qc",,"  The modifications of dilaton black holes which result when the dilaton
+acquires a mass are investigated. We derive some general constraints on the
+number of horizons of the black hole and argue that if the product of the black
+hole charge $Q$ and the dilaton mass $m$ satisfies $Q m < O(1)$ then the black
+hole has only one horizon. We also argue that for $Q m > O(1)$ there may exist
+solutions with three horizons and we discuss the causal structure of such
+solutions. We also investigate the possible structures of extremal solutions
+and the related problem of two-dimensional dilaton gravity with a massive
+dilaton.
+","[{""version"":""v1"",""created"":""Sat, 19 Sep 1992 17:44:48 GMT""},{""version"":""v2"",""created"":""Wed, 7 Oct 1992 21:00:01 GMT""}]","2009-10-22"
+"hep-th/9209071",,"Enrique F. Moreno","Coset Models in Monopole Backgrounds","26 pages",,,"Urbana preprint, 9-92","hep-th",,"  We study a fermionic coset model $G/H$ when the subgroup $H$ is not simply
+connected. We show that even when the fermionic zero modes impose selection
+rules which alters the values of the correlators, the Virasoro central charge
+of the theory results independent of the topological sector.
+","[{""version"":""v1"",""created"":""Sat, 19 Sep 1992 22:39:40 GMT""}]","2007-05-23"
+"math/9209221","John W. Milnor","John W. Milnor","Remarks on quadratic rational maps",,,,"Stony Brook IMS 1992/14","math.DS",,"  This will is an expository description of quadratic rational maps. Sections 2
+through 6 are concerned with the geometry and topology of such maps. Sections
+7--10 survey of some topics from the dynamics of quadratic rational maps. There
+are few proofs. Section 9 attempts to explore and picture moduli space by means
+of complex one-dimensional slices. Section 10 describes the theory of real
+quadratic rational maps. For convenience in exposition, some technical details
+have been relegated to appendices: Appendix A outlines some classical algebra.
+Appendix B describes the topology of the space of rational maps of degree
+\[d\]. Appendix C outlines several convenient normal forms for quadratic
+rational maps, and computes relations between various invariants.\break
+Appendix D describes some geometry associated with the curves
+\[\Per_n(\mu)\subset\M\]. Appendix E describes totally disconnected Julia sets
+containing no critical points. Finally, Appendix F, written in collaboration
+with Tan Lei, describes an example of a connected quadratic Julia set for which
+no two components of the complement have a common boundary point.
+","[{""version"":""v1"",""created"":""Sun, 20 Sep 1992 00:00:00 GMT""}]","2016-09-06"

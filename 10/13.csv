@@ -1,0 +1,148 @@
+"gr-qc/9210006","James Hartle","James B. Hartle","The Quantum Mechanics of Closed Systems","11pages, 4 figures, revtex4, added figures","Directions in Relativity, vol 1, ed by B.-L. Hu, M.P. Ryan, and
+  C.V. Vishveshwars, Cambridge University Press, Cambridge (1993)",,,"gr-qc hep-th quant-ph",,"  A pedagogical introduction is given to the quantum mechanics of closed
+systems, most generally the universe as a whole. Quantum mechanics aims at
+predicting the probabilities of alternative coarse-grained time histories of a
+closed system. Not every set of alternative coarse-grained histories that can
+be described may be consistently assigned probabilities because of quantum
+mechanical interference between individual histories of the set. In the quantum
+mechanics of closed systems, containing both observer and observed,
+probabilities are assigned to those sets of alternative histories for which
+there is negligible interference between individual histories as a consequence
+of the system's initial condition and dynamics. Such sets of histories are said
+to decohere. Typical mechanisms of decoherence that are widespread in our
+universe are illustrated. Copenhagen quantum mechanics is an approximation to
+the more general quantum framework of closed subsystems. It is appropriate when
+there is an approximately isolated subsystem that is a participant in a
+measurement situation in which (among other things) the decoherence of
+alternative registrations of the apparatus can be idealized as exact. Since the
+quantum mechanics of closed systems does not posit the existence of the
+quasiclassical domain of everyday experience, the domain of the approximate
+aplicability of classical physics must be explained. We describe how a
+quasiclassical domain described by averages of densities of approximately
+conserved quantities could be an emergent feature of an initial condition of
+the universe that implies the approximate classical behavior of spacetime on
+accessible scales.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 00:53:23 GMT""},{""version"":""v2"",""created"":""Mon, 16 Aug 2004 21:31:22 GMT""}]","2014-01-15"
+"gr-qc/9210007","Arley Anderson","Arlen Anderson","Unitary Equivalence of the Metric and Holonomy Formulations of 2+1
+  Dimensional Quantum Gravity on the Torus","31 pages LaTeX [Important Revision: a section is added constructing
+  the inner product/Hilbert space for the Witten-Carlip holonomy formulation;
+  the proof of unitary equivalence of the metric and holonomy formulations is
+  then completed. Other additions include discussion of relation of canonical
+  and unitary transformations. Title/abstract change.]",,"10.1103/PhysRevD.47.4458","Imperial/TP/92-93/02","gr-qc hep-th",,"  Recent work on canonical transformations in quantum mechanics is applied to
+transform between the Moncrief metric formulation and the Witten-Carlip
+holonomy formulation of 2+1-dimensional quantum gravity on the torus. A
+non-polynomial factor ordering of the classical canonical transformation
+between the metric and holonomy variables is constructed which preserves their
+classical modular transformation properties. An extension of the definition of
+a unitary transformation is briefly discussed and is used to find the inner
+product in the holonomy variables which makes the canonical transformation
+unitary. This defines the Hilbert space in the Witten-Carlip formulation which
+is unitarily equivalent to the natural Hilbert space in the Moncrief
+formulation. In addition, gravitational theta-states arising from ``large''
+diffeomorphisms are found in the theory.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 08:01:41 GMT""},{""version"":""v2"",""created"":""Thu, 31 Dec 1992 16:53:09 GMT""}]","2009-10-22"
+"hep-lat/9210017","Christian B. Lang","R. Kenna and C.B. Lang","Lee-Yang Zeroes and Logarithmic Corrections in the $\Phi^4_4$ Theory","4 p + 1 PS-figure","Nucl. Phys. B (Proc. Suppl.) 30 (1993) 697","10.1016/0920-5632(93)90305-P","UNIGRAZ-UTP-13-10-92","hep-lat",,"  The leading mean-field critical behaviour of $\phi^4_4$-theory is modified by
+multiplicative logarithmic corrections. We analyse these corrections both
+analytically and numerically. In particular we present a finite-size scaling
+theory for the Lee-Yang zeroes and temperature zeroes, both of which exhibit
+logarithmic corrections. On lattices from size $8^4$ to $24^4$, Monte-Carlo
+cluster methods and multi-histogram techniques are used to determine the
+partition function zeroes closest to the critical point. Finite-size scaling
+behaviour is verified and the logarithmic corrections are found to be in good
+agreement with our analytical predictions.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 12:19:38 GMT""}]","2009-10-22"
+"hep-lat/9210018","Greg Kilcup","Gupta, Daniel, Kilcup, Patel and Sharpe","The Kaon $B$-parameter with Wilson Fermions","39 pages, including 9 PS figures (LA UR-91-3522)","Phys.Rev. D47 (1993) 5113-5127","10.1103/PhysRevD.47.5113",,"hep-lat",,"  We calculate the kaon $B$-parameter in quenched lattice QCD at $\beta=6.0$
+using Wilson fermions at $\kappa=0.154$ and $0.155$. We use two kinds of
+non-local (``smeared'') sources for quark propagators to calculate the matrix
+elements between states of definite momentum. The use of smeared sources yields
+results with much smaller errors than obtained in previous calculations with
+Wilson fermions. By combining results for $\vec p =(0,0,0)$ and $\vec p
+=(0,0,1)$, we show that one can carry out the non-perturbative subtraction
+necessary to remove the dominant lattice artifacts induced by the chiral
+symmetry breaking term in the Wilson action. Our final results are in good
+agreement with those obtained using staggered fermions. We also present results
+for $B$-parameters of the $\Delta I = 3/2$ part of the electromagnetic penguin
+operators, and preliminary results for \bk\ in the presence of two flavors of
+dynamical quarks.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 15:56:38 GMT""}]","2009-10-22"
+"hep-ph/9210230","Jonathan Bagger","Jonathan A. Bagger","Observing Electroweak Symmetry Breaking at the SSC","5 pages; JHU-TIPAC-920028; Talk given at the XXVI ICHEP, Dallas",,"10.1063/1.43427",,"hep-ph",,"  In this talk we survey the SSC signals and backgrounds for the physics of
+electroweak symmetry breaking. We study the process $pp \rightarrow WWX$ and
+compute the rate for the ``gold-plated'' signals $W^\pm \rightarrow \ell^\pm
+\nu$ and $Z \rightarrow \ell^+\ell^-$ $(\ell = e,\mu)$ for a wide variety of
+models. We use a forward jet tag and central jet veto to suppress the
+standard-model backgrounds. In this way we estimate the SSC sensitivity to the
+physics of electroweak symmetry breaking. (Revised version contains style file
+ichep.sty.)
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 13:03:14 GMT""},{""version"":""v2"",""created"":""Fri, 20 Nov 1992 14:35:55 GMT""}]","2009-10-22"
+"hep-ph/9210231","Lisa Randall","L. Randall","ETC With a GIM Mechanism","LaTeX, 26 pages, 4 figures (not included), CTP 2112","Nucl.Phys.B403:122-140,1993","10.1016/0550-3213(93)90031-J",,"hep-ph",,"  We construct an extended technicolor model of quarks and leptons which
+preserves a GIM mechanism. Furthermore, there is only a minimal technicolor
+sector, in accordance with recent precision measurements of electroweak
+parameters. We also show how to incorporate custodial SU(2) and massless
+neutrinos into such a model.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 15:39:13 GMT""}]","2009-09-15"
+"hep-ph/9210232","Lisa Randall","L. Randall","Testing ETC Generation of the Top Quark Mass","LaTeX, 40 Pages, 1 figure (not included), CTP 2111","Phys.Lett.B297:309-317,1992","10.1016/0370-2693(92)91268-E",,"hep-ph",,"  We consider constraints on models in which a top quark mass is generated
+through unenhanced extended technicolor interactions. The deviation in the
+$\rho$ parameter from unity and $B$--$\overline{B}$ mixing could be large, but
+given the uncertainties in strong dynamics and variations in the parameters of
+models, no conclusive statement can be given. We conclude that the low
+technicolor scale which is required to generate the top quark mass is not ruled
+out.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 15:40:27 GMT""}]","2009-09-15"
+"hep-th/9210065",,"Edward Witten","Some Computations in Background Independent Open-String Field Theory","14 pp","Phys.Rev.D47:3405-3410,1993","10.1103/PhysRevD.47.3405","IASSNS-HEP-92/63","hep-th",,"  Recently, background independent open-string field theory has been formally
+defined in the space of all two-dimensional world-sheet theories. In this
+paper, to make the construction more concrete, I compute the action for an
+off-shell tachyon field of a certain simple type. From the computation it
+emerges that, although the string field action does not coincide with the
+world-sheet (matter) partition function in general, these functions do coincide
+on shell. This can be demonstrated in general, as long as matter and ghosts are
+decoupled.
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 17:01:00 GMT""}]","2010-04-07"
+"hep-th/9210066","Timothy J. Hollowood","T. Hollowood, J.L. Miramontes and J. Sanchez Guillen","Generalized Integrability and two-dimensional Gravitation","24 pages, fixed broken tex source","Theor.Math.Phys. 95 (1993) 552-567; Teor.Mat.Fiz. 95 (1993)
+  258-275","10.1007/BF01017141","CERN-TH-6678/92","hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We review the construction of generalized integrable hierarchies of partial
+differential equations, associated to affine Kac-Moody algebras, that include
+those considered by Drinfel'd and Sokolov. These hierarchies can be used to
+construct new models of 2D quantum or topological gravity, as well as new $\cal
+W$-algebras.
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 17:03:29 GMT""},{""version"":""v2"",""created"":""Tue, 26 Jan 2016 15:20:48 GMT""}]","2016-01-27"
+"hep-th/9210067","Jarmo Hietarinta","J. Hietarinta","The complete solution to the constant quantum Yang-Baxter equation in
+  two dimensions","4 pages, LaTeX",,"10.1016/0375-9601(92)90044-M",,"hep-th",,"  We describe how the complete solution to the two-dimensional constant quantum
+Yang-Baxter equation [J. Hietarinta, Phys. Lett. A165,245(1992)] was found.
+(Talk presented at the XIX International Colloquium on Group Theoretical
+Methods in Physics.)
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 06:50:11 GMT""}]","2009-10-22"
+"hep-th/9210068",,"B. de Wit, F. Vanderseypen and A. Van Proeyen","Symmetry structure of special geometries","48 pp., KUL-TF-92/7 and THU-92/19","Nucl.Phys. B400 (1993) 463-524","10.1016/0550-3213(93)90413-J",,"hep-th",,"  Using techniques from supergravity and dimensional reduction, we study the
+full isometry algebra of K\""ahler and quaternionic manifolds with special
+geometry. These two varieties are related by the so-called c-map, which can be
+understood from dimensional reduction of supergravity theories or by changing
+chirality assignments in the underlying superstring theory. An important
+subclass, studied in detail, consists of the spaces that follow from real
+special spaces using the so-called r-map. We generally clarify the presence of
+`extra' symmetries emerging from dimensional reduction and give the conditions
+for the existence of `hidden' symmetries. These symmetries play a major role in
+our analysis. We specify the structure of the homogeneous special manifolds as
+coset spaces $G/H$. These include all homogeneous quaternionic spaces.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 10:18:19 GMT""}]","2009-10-22"
+"hep-th/9210069","Jouko Mickelsson","Jouko Mickelsson","Hilbert space cocycles as representations of $(3+1)-$ D current algebras","This is an AMSTEX file, 10 pages. It was written using","Lett.Math.Phys.28:97-106,1993","10.1007/BF00750302",,"hep-th",,"  It is proposed that instead of normal representations one should look at
+cocycles of group extensions valued in certain groups of unitary operators
+acting in a Hilbert space (e.g the Fock space of chiral fermions), when dealing
+with groups associated to current algebras in gauge theories in $3+1$
+space-time dimensions. The appropriate cocycle is evaluated in the case of the
+group of smooth maps from the physical three-space to a compact Lie group. The
+cocyclic representation of a component $X$ of the current is obtained through
+two regularizations, 1) a conjugation by a background potential dependent
+unitary operator $h_A,$ 2) by a subtraction $-h_A^{-1}\Cal L_X h_A,$ where
+$\Cal L_X$ is a derivative along a gauge orbit. It is only the total operator
+$h_A^{-1} Xh_A-h_A^{-1}\Cal L_X h_A$ which is quantizable in the Fock space
+using the usual normal ordering subtraction.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 13:24:31 GMT""}]","2010-11-01"
+"nucl-th/9210010","Ruprecht Machleidt","G. E. Brown and R. Machleidt","Saturation in the Nuclear Matter Problem","16 pages text (latex), 2 figures (not included, available upon
+  request) September 1992",,,,"nucl-th",,"  Once density-dependent meson masses are introduced into the nuclear many-body
+problem, conventional mechanisms for saturation no longer operate. We suggest
+that a loop correction, essentially the introduction of the axial vector
+coupling $g_A(\rho,k)$ as function of density $\rho$ and momentum $k$, can
+bring about saturation, and present schematic calculations to illustrate this.
+We find that a very small density-dependence in $g_A$ gives rise to a very
+large saturating effect on nuclear matter. In fact, this new saturation
+mechanism turns out to be more powerful than any of the conventional
+mechanisms.
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 21:45:19 GMT""}]","2007-05-23"

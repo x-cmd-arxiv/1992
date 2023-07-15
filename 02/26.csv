@@ -1,0 +1,29 @@
+"alg-geom/9202026","David R. Morrison","David R. Morrison","Picard-Fuchs equations and mirror maps for hypersurfaces","18 pp. (AmS-LaTeX 1.0 or 1.1) or 23 pp. (LaTeX)","Essays on Mirror Manifolds (S.-T. Yau, ed.), International Press,
+  Hong Kong, 1992, pp. 241-264",,,"alg-geom math.AG",,"  We describe a strategy for computing Yukawa couplings and the mirror map,
+based on the Picard-Fuchs equation. (Our strategy is a variant of the method
+used by Candelas, de la Ossa, Green, and Parkes in the case of quintic
+hypersurfaces.) We then explain a technique of Griffiths which can be used to
+compute the Picard-Fuchs equations of hypersurfaces. Finally, we carry out the
+computation for four specific examples (including quintic hypersurfaces,
+previously done by Candelas et al.). This yields predictions for the number of
+rational curves of various degrees on certain hypersurfaces in weighted
+projective spaces. Some of these predictions have been confirmed by classical
+techniques in algebraic geometry.
+","[{""version"":""v1"",""created"":""Wed, 26 Feb 1992 02:26:10 GMT""}]","2008-02-03"
+"hep-th/9202086","Ergin Sezgin","E. Sezgin","Area-Preserving Diffeomorphisms, w_\infty Algebras and w_\infty Gravity","24 pages",,,,"hep-th",,"  The w_\infty algebra is a particular generalization of the Virasoro algebra
+with generators of higher spin 2,3,...,\infty. It can be viewed as the algebra
+of a class of functions, relative to a Poisson bracket, on a suitably chosen
+surface. Thus, w_\infty is a special case of area-preserving diffeomorphisms of
+an arbitrary surface. We review various aspects of area- preserving
+diffeomorphisms, w_\infty algebras and w_\infty gravity. The topics covered
+include a) the structure of the algebra of area-preserving diffeomorphisms with
+central extensions and their relation to w_\infty algebras, b) various
+generalizations of w_\infty algebras, c) the structure of w_\infty gravity and
+its geometrical aspects, d) nonlinear realizations of w_\infty symmetry and e)
+various quantum realizations of w_\infty symmetry.
+","[{""version"":""v1"",""created"":""Wed, 26 Feb 1992 01:33:16 GMT""}]","2007-05-23"
+"hep-th/9202087",,"R. Saroja and A. Sen","Picture Changing Operators in Closed Fermionic String Field Theory","15 pages","Phys.Lett.B286:256-264,1992","10.1016/0370-2693(92)91772-2",,"hep-th",,"  We discuss appropriate arrangement of picture changing operators required to
+construct gauge invariant interaction vertices involving Neveu-Schwarz states
+in heterotic and closed superstring field theory. The operators required for
+this purpose are shown to satisfy a set of descent equations.
+","[{""version"":""v1"",""created"":""Wed, 26 Feb 1992 06:30:00 GMT""}]","2009-09-15"

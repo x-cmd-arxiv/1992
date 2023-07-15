@@ -1,0 +1,100 @@
+"gr-qc/9207008","Amitabha Lahiri","Amitabha Lahiri","The No-Hair Theorem for the Abelian Higgs Model","9pp, harvmac","Mod. Phys. Lett. A8 (1993) 1549-1556","10.1142/S0217732393001288","LA-UR-92-1861","gr-qc",,"  We consider the general procedure for proving no-hair theorems for static,
+spherically symmetric black holes. We apply this method to the abelian Higgs
+model and find a proof of the no-hair conjecture that circumvents the
+objections raised against the original proof due to Adler and Pearson.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 17:32:51 GMT""}]","2009-10-22"
+"gr-qc/9207009","Neil Cornish","J. W. Moffat and D. C. Tatarski","Gravitational Waves from an Axi-symmetric Source in the Nonsymmetric
+  Grav. Theory","26 pages",,,"UTPT-92-01","gr-qc",,"  We examine gravitational waves in an isolated axi--symmetric reflexion
+symmetric NGT system. The structure of the vacuum field equations is analyzed
+and the exact solutions for the field variables in the metric tensor are found
+in the form of expansions in powers of a radial coordinate. We find that in the
+NGT axially symmetric case the mass of the system remains constant only if the
+system is static (as it necessarily is in the case of spherical symmetry). If
+the system radiates, then the mass decreases monotonically and the energy flux
+associated with waves is positive.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 18:12:25 GMT""}]","2007-05-23"
+"hep-lat/9207030",,"Dimitri Kusnezov (Yale) and John Sloan (Ohio State)","Global Demons in Field Theory : Critical Slowing Down in the Xy Model","23 pages text plus 12 figures [Submitted to Nuc. Phys. B, 7/92]","Nucl.Phys. B409 (1993) 635-662","10.1016/0550-3213(93)90544-Y",,"hep-lat",,"  We investigate the use of global demons, a `canonical dynamics', as an
+approach to simulating lattice regularized field theories. This
+deterministically chaotic dynamics is non-local and non-Hamiltonian, and
+preserves the canonical measure rather than $\delta(H-E)$. We apply this
+inexact dynamics to the 2D XY model, comparing to various implementations of
+hybrid Monte Carlo, focusing on critical exponents and critical slowing down.
+In addition, we discuss a scheme for making energy non-conserving dynamical
+algorithms exact without the use of a Metropolis hit.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 19:56:00 GMT""}]","2009-10-22"
+"hep-ph/9207261",,"P. Gondolo","Indirect detection of unstable heavy dark matter","11pp, 1 figure available on request, PHYZZX, Uppsala U. PT17-1992","Phys.Lett. B295 (1992) 104-108","10.1016/0370-2693(92)90097-N",,"hep-ph",,"  Unstable relics with lifetime longer than the age of the Universe could be
+the dark matter today. Electrons, photons and neutrinos are a natural outcome
+of their decay and could be searched for in cosmic rays and in $\gamma$-ray and
+neutrino detectors. I compare the sensitivities of these three types of
+searches to the mass and lifetime of a generic unstable particle. I show that
+if the relics constitute our galactic halo and their branching ratios into
+electron-positrons, photons and neutrinos are comparable, neutrino searches
+would probe the longest lifetimes for masses $\simge 40 \TeV$, while
+electron-positron searches would be better but more uncertain for lighter
+particles. If instead the relics are not clustered in our halo, neutrinos are
+more sensitive a probe than $\gamma$-rays for masses $\simge 700 \GeV$. A $ 1
+\sqkm $ neutrino telescope should be able to explore lifetimes up to $ \sim
+10^{30} \sec $ while searching for neutrinos from unstable particles above the
+atmospheric background.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 16:40:00 GMT""}]","2009-10-22"
+"hep-ph/9207265","John Collins","John C. Collins","Hard Scattering in QCD with Polarized Beams","37 pages + 4 figures (postscript available), plain TeX, PSU/TH/100","Nucl.Phys. B394 (1993) 169-199","10.1016/0550-3213(93)90105-X",,"hep-ph",,"  I show that factorization for hard processes in QCD is also valid when the
+detected particles are polarized, and that the proof of the theorem determines
+the operator form for the parton densities. Particular attention is given to
+the case of transversely polarized incoming hadrons.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 18:12:22 GMT""}]","2009-10-22"
+"hep-ph/9207266",,"C.S. Lam","Navigating Around the Algebraic Jungle of QCD: Efficient Evaluation of
+  Loop Helicity Amplitudes","22 pages of text in PLAIN TEX, plus 14 figures in 10 pages stored in
+  a POSTSCRIPT file (attached to the end of the PLAIN TEX file); McGill
+  preprint no. McGill/92-32","Nucl.Phys. B397 (1993) 143-172","10.1016/0550-3213(93)90339-Q",,"hep-ph hep-th",,"  A method is developed whereby spinor helicity techniques can be used to
+simplify the calculation of loop amplitudes. This is achieved by using the
+Feynman-parameter representation where the offending off-shell loop momenta do
+not appear. Background Feynman gauge also helps to simplify the calculations.
+This method is applicable to any Feynman diagram with any number of loops as
+long as the external masses can be ignored, and it is at least as efficient as
+the string technique in the special circumstances when the latter can be used.
+In order to minimize the very considerable algebra encountered in non-abelian
+gauge theories, graphical methods are developed for most of the calculations.
+This enables the large number of terms encountered to be organized visually in
+the Feynman diagram without the necessity of having to write down any of them
+algebraically. A one-loop four-gluon amplitude in a particular helicity
+configuration is computed explicity to illustrate the method.
+","[{""version"":""v1"",""created"":""Tue, 28 Jul 1992 12:29:00 GMT""}]","2009-10-22"
+"hep-th/9207089","Evans","V. Ogievetsky, F. Gursey and M. Evans","From 2D conformal to 4D self-dual theories: quaternionic analyticity","24 pages, LaTeX","Phys.Rev. D47 (1993) 3496-3508","10.1103/PhysRevD.47.3496","CERN-TH-6533-92, RU-92-11-B","hep-th",,"  It is shown that self-dual theories generalize to four dimensions both the
+conformal and analytic aspects of two-dimensional conformal field theories. In
+the harmonic space language there appear several ways to extend complex
+analyticity (natural in two dimensions) to quaternionic analyticity (natural in
+four dimensions). To be analytic, conformal transformations should be realized
+on $CP^3$, which appears as the coset of the complexified conformal group
+modulo its maximal parabolic subgroup. In this language one visualizes the
+twistor correspondence of Penrose and Ward and consistently formulates the
+analyticity of Fueter.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 16:02:00 GMT""}]","2009-10-22"
+"hep-th/9207090","Tetsuo Deguchi","Tetsuo Deguchi and Tomotada Ohtsuki","Invariants of Colored Links and a Property of the Clebsch-Gordan
+  Coefficients of $U_q(g)$","4 pages",,,,"hep-th math.QA",,"  We show that multivariable colored link invariants are derived from the roots
+of unity representations of $U_q(g)$. We propose a property of the
+Clebsch-Gordan coefficients of $U_q(g)$, which is important for defining the
+invariants of colored links. For $U_q(sl_2) we explicitly prove the property,
+and then construct invariants of colored links and colored ribbon graphs, which
+generalize the multivariable Alexander polynomial.
+","[{""version"":""v1"",""created"":""Tue, 28 Jul 1992 05:23:46 GMT""}]","2008-02-03"
+"hep-th/9207091",,"Bernard de Wit, Antoine Van Proeyen","Broken sigma-model isometries in very special geometry","10 pages","Phys.Lett. B293 (1992) 94-99","10.1016/0370-2693(92)91485-R",,"hep-th",,"  We show that the isometries of the manifold of scalars in $N=2$ supergravity
+in $d=5$ space-time dimensions can be broken by the supergravity interactions.
+The opposite conclusion holds for the dimensionally reduced $d=4$ theories,
+where the isometries of the scalar manifold are always symmetries of the full
+theory. These spaces, which form a subclass of the {\em special} K\""ahler
+manifolds, are relevant for superstring compactifications.
+","[{""version"":""v1"",""created"":""Tue, 28 Jul 1992 15:27:35 GMT""}]","2009-10-22"
+"hep-th/9207092","Jose M. Figueroa-O'Farrill","J.M. Figueroa-O'Farrill, J. Mas, and E. Ramos","A One-Parameter Family of Hamiltonian Structures for the KP Hierarchy
+  and a Continuous Deformation of the Nonlinear $\W_{\rm KP}$ Algebra","31 pages, compressed uuencoded .dvi file, BONN-HE-92/20, US-FT-7/92,
+  KUL-TF-92/20. [version just replaced was truncated by some mailer]","Commun.Math.Phys. 158 (1993) 17-44","10.1007/BF02097230",,"hep-th",,"  The KP hierarchy is hamiltonian relative to a one-parameter family of Poisson
+structures obtained from a generalized Adler map in the space of formal
+pseudodifferential symbols with noninteger powers. The resulting $\W$-algebra
+is a one-parameter deformation of $\W_{\rm KP}$ admitting a central extension
+for generic values of the parameter, reducing naturally to $\W_n$ for special
+values of the parameter, and contracting to the centrally extended
+$\W_{1+\infty}$, $\W_\infty$ and further truncations. In the classical limit,
+all algebras in the one-parameter family are equivalent and isomorphic to
+$\w_{\rm KP}$. The reduction induced by setting the spin-one field to zero
+yields a one-parameter deformation of $\widehat{\W}_\infty$ which contracts to
+a new nonlinear algebra of the $\W_\infty$-type.
+","[{""version"":""v1"",""created"":""Tue, 28 Jul 1992 15:55:02 GMT""},{""version"":""v2"",""created"":""Mon, 22 Mar 1993 15:36:16 GMT""},{""version"":""v3"",""created"":""Thu, 25 Mar 1993 20:52:23 GMT""}]","2009-10-22"

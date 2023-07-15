@@ -1,0 +1,142 @@
+"astro-ph/9211013",,"Joel R. Primack","Particle Astrophysics after COBE: Blois92 Summary Talk","15 pages (plus 1 fig. sent on request), phyzzx macros, SCIPP 92/51",,,,"astro-ph hep-ph",,"  The IV Rencontres de Blois, on Particle Astrophysics, held at the Ch\^ateau
+de Blois, June 15-20, 1992, was a meeting well-timed for a reconsideration of
+the issues in particle astrophysics in the light of the COBE discovery of the
+cosmic microwave background (CMB) fluctuations. This is a summary of what I
+thought were the most interesting things discussed at Blois: (1) The
+near-success of Cold Dark Matter (CDM) in predicting the COBE fluctuation
+amplitude, which favors the hypothesis that structure formed in the universe
+through gravitational collapse. (2) The indications that $\Omega\approx1$ and
+that the power spectrum has a little more power on supercluster and larger
+scales than CDM. These are suggested by the IRAS and CfA redshift surveys and
+POTENT galaxy peculiar velocity analysis, and also by the COBE data. (3) The
+consequent demise of CDM and the rise of hybrid schemes such as Cold+Hot Dark
+Matter (C+HDM). (4) The possible implications for neutrino masses and mixings,
+and for cosmology, of the recent results on solar neutrinos. (5) The first
+discovery of TeV $\gamma$ rays from an extragalactic source, which was
+announced at Blois. I also summarize here a number of the exciting ongoing and
+planned experiments and observations discussed at Blois: CERN experiments on
+$\nu_\mu \nu_\tau$ oscillations, which may be sufficiently sensitive to detect
+the $\nu_\tau$ if
+","[{""version"":""v1"",""created"":""Fri, 20 Nov 1992 03:10:22 GMT""}]","2007-05-23"
+"cond-mat/9211012","Vladimir Privman","P.-M. Binder, V. Privman","Second-Order Dynamics in the Collective Evolution of Coupled Maps and
+  Automata","11 pages (plain TeX), 4 figures (PostScript), preprint OUTP-92-51S","Mod.Phys.Lett.B6:1835-1842,1992","10.1142/S0217984992001538",,"cond-mat hep-lat",,"  We review recent numerical studies and the phenomenology of spatially
+synchronized collective states in many-body dynamical systems. These states
+exhibit thermodynamic noise superimposed on the collective, quasiperiodic order
+parameter evolution with typically one basic irrational frequency. We
+concentrate on the description of the global temporal properties in terms of
+second-order difference equations.
+","[{""version"":""v1"",""created"":""Fri, 20 Nov 1992 11:52:12 GMT""}]","2014-10-13"
+"gr-qc/9211025","Clifford M. Will","Lawrence E. Kidder and Clifford M. Will (Washington University, St.
+  Louis) and Alan G. Wiseman (Northwestern University, Evanston)","Spin effects in the inspiral of coalescing compact binaries","12 pages","Phys.Rev.D47:4183-4187,1993","10.1103/PhysRevD.47.R4183","WUGRAV-92-14","gr-qc",,"  We derive the contributions of spin-orbit and spin-spin coupling to the
+gravitational radiation from coalescing binary systems of spinning compact
+objects. We calculate spin effects in the symmetric, trace-free radiative
+multipoles that determine the gravitational waveform, and the rate of energy
+loss. Assuming a balance between energy radiated and orbital energy lost, we
+determine the spin effects in the evolution of the orbital frequency and
+orbital radius. Assuming that a laser interferometric gravitational observatory
+can track the gravitational-wave frequency (twice the orbital frequency) as it
+sweeps through its sensitive bandwidth between about 10 Hz and one kHz, we
+estimate the accuracy with which the spins of the component bodies can be
+determined from the gravitational-wave signal.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 17:25:06 GMT""}]","2010-01-06"
+"hep-lat/9211053","Christian Holm","C. Holm, and W. Janke","High precision single-cluster Monte Carlo measurement of the critical
+  exponents of the classical 3D Heisenberg model","4 pages, (contribution to the Lattice92 proceedings) 1 postscript
+  file as uufile included. Preprints FUB-HEP 21/92 and HLRZ 89/92. (note: first
+  version arrived incomplete due to mailer problems)","Nucl.Phys.Proc.Suppl. 30 (1993) 846-850","10.1016/0920-5632(93)90340-C",,"hep-lat",,"  We report measurements of the critical exponents of the classical
+three-dimensional Heisenberg model on simple cubic lattices of size $L^3$ with
+$L$ = 12, 16, 20, 24, 32, 40, and 48. The data was obtained from a few long
+single-cluster Monte Carlo simulations near the phase transition. We compute
+high precision estimates of the critical coupling $K_c$, Binder's parameter
+$U^* and the critical exponents $\nu,\beta / \nu, \eta$, and $\alpha / \nu$,
+using extensively histogram reweighting and optimization techniques that allow
+us to keep control over the statistical errors. Measurements of the
+autocorrelation time show the expected reduction of critical slowing down at
+the phase transition as compared to local update algorithms. This allows
+simulations on significantly larger lattices than in previous studies and
+consequently a better control over systematic errors in finite-size scaling
+analyses.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 16:59:56 GMT""},{""version"":""v2"",""created"":""Fri, 4 Dec 1992 22:31:27 GMT""}]","2009-10-22"
+"hep-ph/9211277",,"Meng Y. Wang and Eric D. Carlson (Lyman Laboratory of Physics, Harvard
+  University Cambridge, MA 02138)","Will discrete symmetries help solve the hierarchy problem ?",,"Nucl.Phys. B450 (1995) 60-68",,"HUTP-92/A062","hep-ph",,"  We find that massless Higgs doublets at the GUT scale can be the natural
+result of a discrete symmetry. Such a mechanism does not require elaborate fine
+tuning or complicated particle content. The same discrete symmetry will also
+protect against proton decay and flavor changing neutral currents. However,
+this mechanism always predicts non-minimal standard models. An explicit example
+of how this mechanism works is also included.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 20:34:08 GMT""}]","2007-05-23"
+"hep-ph/9211279",,"Eric D. Carlson and Meng Yuan Wang","Trinification and the Strong P Problem",,,"10.1063/1.43438","Harvard Preprint HUTP-92/A057","hep-ph",,"  Models with spontaneously broken parity symmetry can solve the strong $CP$
+problem in a natural way. We construct such a model in the context of $\SU3^3$
+unification. Parity has the conventional meaning in this model, and the gauge
+group is unified.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 21:12:20 GMT""}]","2009-10-22"
+"hep-ph/9211280","John Bahcall","John N. Bahcall","Recent Work on Standard Solar Models","4 pages, Institute for Advanced Study number AST 92/53","Nucl. Phys. Proc. Suppl. 31 (1993) 125","10.1016/0920-5632(93)90123-N",,"hep-ph astro-ph",,"  Recent results on standard solar models are reviewed. I shall summarize
+briefly three of the themes that I stressed at the Neutrino '92 Conference: 1)
+Different solar model codes give the same answers when the same input data are
+used; 2) Improved calculations of standard solar models include helium
+diffusion, the Livermore radiative opacity, the meteoritic iron abundance, and
+a variety of other corrections; and 3) There are a few basic rules that should
+be followed in using standard solar models. At the Neutrino '92 Conference, I
+reviewed in more detail the recent work on standard solar models by Marc
+Pinsonneault and myself. This work has by now appeared in print (Rev. Mod.
+Phys. 64, 885, 1992, hereafter Paper I, and ApJ Letters, 69, 717, 1992, Paper
+II). Therefore, there is no need for me to repeat the details here.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 20:20:00 GMT""}]","2009-10-22"
+"hep-ph/9211281","Tonnis A. ter Veldhuis","W.T.A. ter Veldhuis","Mass of the Lightest Higgs Boson in the Minimal Supersymmetric Standard
+  Model with an Additional Singlet","14, PURD-TH-92-11",,,,"hep-ph",,"  An upperbound on the mass of the lightest neutral scalar Higgs boson is
+calculated in an extended version of the minimal supersymmetric standard model
+that contains an additional Higgs singlet. We integrate the renormalization
+group equations of the model, and impose low energy boundary conditions
+consistent with present experimental results, and ultra-violet conditions
+following from triviality. Radiative corrections induced by a large top quark
+Yukawa coupling are included in our analysis, and we find the allowed values
+for the mass of the Higgs boson as a function of the mass of the top quark.
+Typically, for a top quark mass $m_t=150\ GeV$, the upper bound on the Higgs
+boson mass is about $25 \ GeV$ higher than in the minimal model.
+","[{""version"":""v1"",""created"":""Fri, 20 Nov 1992 00:41:40 GMT""}]","2007-05-23"
+"hep-ph/9211282",,"K. L. Kowalski and C. C. Taylor","Disoriented Chiral Condensates: A White Paper for the Full Acceptance
+  Detector at the SSC","18 pages, uses phyzzx, CWRUTH-92-6",,,,"hep-ph",,"  Theoretical speculations and experimental data suggesting the possibility of
+observing disoriented chiral condensates at a Full Acceptance Detector are
+reviewed.
+","[{""version"":""v1"",""created"":""Fri, 20 Nov 1992 03:41:41 GMT""}]","2007-05-23"
+"hep-ph/9211283","Alkofer","R. Alkofer","The Chiral Soliton of the Nambu-Jona-Lasinio Model","26 pages, 5 figures, 5 tables",,,,"hep-ph",,"  The baryon number one soliton of the NJL model is investigated. The Euclidian
+effective action is regularized using Schwinger's proper time method. Numerical
+results for the static soliton energy are presented for the cases without and
+with vector and axialvector fields. It is found that the baryon number is
+carried by the polarized Dirac sea of the quarks if the $a_1$ meson is included
+in contrast to the case without $a_1$ where the baryon number resides on
+valence quarks. Thus the model strongly supports the picture of the baryon as a
+topological soliton of the meson fields. Including the $\omega $ vector meson
+leads to a non--vanishing imaginary part of the Euclidian effective action even
+for static solitons. Leaving the chiral circle, i.e.\ including the isoscalar
+scalar meson, the soliton first seems unstable. However, we demonstrate that a
+$\phi ^4$ term stabilizes the soliton. Finally, the self--consistent
+two--flavor chiral soliton is embedded in the SU(3) flavor group and
+collectively quantized. The predicted mass splittings for the low--lying
+baryons with different hypercharge are in excellent agreement with the
+experimental data if the physical value for the kaon decay constant is
+substituted.
+","[{""version"":""v1"",""created"":""Fri, 20 Nov 1992 09:41:31 GMT""}]","2007-05-23"
+"hep-ph/9211294","Annamaria Zajec","J. Schechter","Symmetry Breaking in a Generalized Skyrme Model","14 pages",,,"SU-4240-523","hep-ph",,"  We first outline the calculations of the neutron-proton mass difference and
+of the axial singlet matrix element (relevant to the ""proton spin"" puzzle) in a
+generalized Skyrme model of pseudoscalars and vectors. These two calculations
+are, perhaps surprisingly, linked to each other and furthermore are sensitive
+to some fine details of symmetry breaking in the effective meson Lagrangian.
+This provides a motivation for us to examine these symmetry breaking terms more
+closely. We find a qualitatively new feature in the symmetry breaking pattern
+of the vector meson system and discuss its significance. (Talk at Workshop on
+""Baryons as Skyrme Solitons,"" Sept. 28-30, 1992, Siegen, Germany.)
+","[{""version"":""v1"",""created"":""Fri, 20 Nov 1992 04:30:00 GMT""}]","2007-05-23"
+"hep-th/9211090","A. Lossev","A.Lossev (ITEP)","Descendants constructed from matter fields in topological
+  Landau-Ginzburg theories coupled to topological gravity","Lossev@vxitep.itep.msk.su and @nbivax.nbi.dk (Talk on the Kiev
+  conference on string theory, June 1992)","Theor.Math.Phys.95:595-603,1993; Teor.Mat.Fiz.95:307-316,1993","10.1007/BF01017145",,"hep-th",,"  It is argued that gravitational descendants in Landau-Ginsburg theory coupled
+to topological gravity can be constructed from the matter fields only. For
+example, $\sigma_1 (\Phi) = V'\int \Phi$. This descendants turn out to be
+connected with K.Saito higher residue pairing. Naive computaitions are
+corrected with the help of the contact term, the form of this term is found.
+k-point correlation functions on a sphere are calculated.
+","[{""version"":""v1"",""created"":""Fri, 20 Nov 1992 00:05:00 GMT""}]","2011-04-20"
+"hep-th/9211091","Niall Mackay","N. J. MacKay","On the bootstrap structure of Yangian-invariant factorized S-matrices","4 pages. Talk presented at 21st DGM, Tianjin, June '92",,,,"hep-th hep-ph",,"  It is pointed out that the apparent presence of the fusing rule for purely
+elastic scattering theories in theories with dynamical Yangian invariance
+implies beautiful and hitherto unseen structure in the finite-dimensional
+representation theory of Yangians.
+","[{""version"":""v1"",""created"":""Fri, 20 Nov 1992 06:20:10 GMT""}]","2007-05-23"

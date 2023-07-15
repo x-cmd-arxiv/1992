@@ -1,0 +1,19 @@
+"cond-mat/9208010","Albert-Laszlo Barabasi","Albert-L\'aszl\'o Barab\'asi","Dynamic Scaling of Coupled Nonequilibrium Interfaces","13 pages (REVTEX) + 4 figures upon request: alb@buphy.bu.edu",,"10.1103/PhysRevA.46.R2977",,"cond-mat",,"  We propose a simple discrete model to study the nonequilibrium fluctuations
+of two locally coupled 1+1 dimensional systems (interfaces). Measuring
+numerically the tilt-dependent velocity we construct a set of stochastic
+continuum equations describing the fluctuations in the model
+  The scaling predicted by the equations are studied analytically using dynamic
+renormalization group and compared with simulation results. When the coupling
+is symmetric, the well known KPZ exponents are recovered. If one of the systems
+is fluctuating independently, an increase in the roughness exponent is observed
+for the other one.
+","[{""version"":""v1"",""created"":""Sat, 15 Aug 1992 19:55:12 GMT""}]","2009-10-22"
+"cond-mat/9208011",,"Jan von Delft and Christopher L. Henley (Laboratory of Atomic and
+  Solid State Physics, Cornell University, Ithaca, NY)","Destructive quantum interference in spin tunneling problems","14 pages (RevTex), 3 figures upon request",,"10.1103/PhysRevLett.69.3236",,"cond-mat",,"  In some spin tunneling problems, there are several different but
+symmetry-related tunneling paths that connect the same initial and final
+configurations. The topological phase factors of the corresponding tunneling
+amplitudes can lead to destructive interference between the different paths, so
+that the total tunneling amplitude is zero. In the study of tunneling between
+different ground state configurations of the Kagom\'{e}-lattice quantum
+Heisenberg antiferromagnet, this occurs when the spin $s$ is half-odd-integer.
+","[{""version"":""v1"",""created"":""Sat, 15 Aug 1992 20:49:06 GMT""}]","2009-10-22"

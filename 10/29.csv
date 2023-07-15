@@ -1,0 +1,208 @@
+"cond-mat/9210026","Jorge Vinals","Jaume Casademunt, Wenbin Zhang, Jorge Vinals, R.F. Sekerka","Narrow band noise as a model of time-dependent accelerations: study of
+  the stability of a fluid surface in a microgravity environment","20 pages (RevTeX), 2 figures (PostScript, appended). FSU-SCRI-92-157",,,,"cond-mat",,"  We introduce a stochastic model to analyze in quantitative detail the effect
+of the high frequency components of the residual accelerations onboard
+spacecraft (often called g-jitter) on fluid motion. The residual acceleration
+field is modeled as a narrow band noise characterized by three independent
+parameters: its intensity $G^{2}$, a dominant frequency $\Omega$, and a
+characteristic spectral width $\tau^{-1}$. The white noise limit corresponds to
+$\Omega \tau \rightarrow 0$, with $G^{2} \tau$ finite, and the limit of a
+periodic g-jitter (or deterministic limit) can be recovered for $\Omega \tau
+\rightarrow \infty$, $G^{2}$ finite. The analysis of the response of a fluid
+surface subjected to a fluctuating gravitational field leads to the stochastic
+Mathieu equation driven by both additive and multiplicative noise. We discuss
+the stability of the solutions of this equation in the two limits of white
+noise and deterministic forcing, and in the general case of narrow band noise.
+The results are then applied to typical microgravity conditions.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 16:56:33 GMT""}]","2007-05-23"
+"gr-qc/9210016","Wai Suen","Edward Seidel and Wai-Mo Suen","Towards a Singularity-Proof Scheme in Numerical Relativity","9 pages","Phys.Rev.Lett.69:1845-1848,1992","10.1103/PhysRevLett.69.1845","WUGRAV-92-11","gr-qc",,"  Progress in numerical relativity has been hindered for 30 years because of
+the difficulties of avoiding spacetime singularities in numerical evolution. We
+propose a scheme which excises a region inside an apparent horizon containing
+the singularity. Two major ingredients of the scheme are the use of a
+horizon-locking coordinate and a finite differencing which respects the causal
+structure of the spacetime. Encouraging results of the scheme in the spherical
+collapse case are given.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 23:10:42 GMT""}]","2008-11-26"
+"gr-qc/9210017","Wai Suen","Ian H. Redmount and Wai-Mo Suen","Is Quantum Spacetime Foam Unstable?","15 pages","Phys.Rev.D47:2163-2167,1993","10.1103/PhysRevD.47.R2163","WUGRAV-92-10","gr-qc",,"  A very simple wormhole geometry is considered as a model of a mode of
+topological fluctutation in Planck-scale spacetime foam. Quantum dynamics of
+the hole reduces to quantum mechanics of one variable, throat radius, and
+admits a WKB analysis. The hole is quantum-mechanically unstable: It has no
+bound states. Wormhole wave functions must eventually leak to large radii. This
+suggests that stability considerations along these lines may place strong
+constraints on the nature and even the existence of spacetime foam.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 23:12:54 GMT""}]","2010-01-06"
+"gr-qc/9210018","Wai Suen","Wai-Mo Suen","Self-Consistence of Semi-Classical Gravity","12 pages",,,"WUGRAV-92-12","gr-qc",,"  Simon argued that the semi-classical theory of gravity, unless with some of
+its solutions excluded, is unacceptable for reasons of both self-consistency
+and experiment, and that it has to be replaced by a constrained semi-classical
+theory. We examined whether the evidence is conclusive.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 23:14:22 GMT""}]","2007-05-23"
+"gr-qc/9210019","Wai Suen","Ian H. Redmount and Wai-Mo Suen","Path integration in relativistic quantum mechanics","14 pages","Int. J. Mod. Phys. A8 (1993) 1629-1636","10.1142/S0217751X93000667",,"gr-qc",,"  The simple physics of a free particle reveals important features of the
+path-integral formulation of relativistic quantum theories. The exact
+quantum-mechanical propagator is calculated here for a particle described by
+the simple relativistic action proportional to its proper time. This propagator
+is nonvanishing outside the light cone, implying that spacelike trajectories
+must be included in the path integral. The propagator matches the WKB
+approximation to the corresponding configuration-space path integral far from
+the light cone; outside the light cone that approximation consists of the
+contribution from a single spacelike geodesic. This propagator also has the
+unusual property that its short-time limit does not coincide with the WKB
+approximation, making the construction of a concrete skeletonized version of
+the path integral more complicated than in nonrelativistic theory.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 23:15:19 GMT""}]","2015-06-25"
+"hep-lat/9210035","Herbert Neuberger","George Bathas and Herbert Neuberger","A better large $N$ expansion for chiral Yukawa models","4p, 1 fig, latex, psfile included, sharfile distribution,
+  Contribution to the LAT92 proceedings, Preprint, RU-92-44","Nucl. Phys. Proc. Suppl. 30 (1993) 635","10.1016/0920-5632(93)90291-D",,"hep-lat hep-ph hep-th",,"  We consider the most general renormalizable chiral Yukawa model with
+$SU(3)_{\rm color}$ replaced by $SU(N_c)$, $SU(2)_{\rm L}$ replaced by $SU(N_w
+)$ and $U(1)_{Y}$ replaced by $U(1)^{N_w -1}$ in the limit $N_c
+\rightarrow\infty$, $N_w \rightarrow\infty$ with the ratio
+$\rho=\sqrt{{N_w}\over{N_c}} \ne 0,\infty$ held fixed. Since for $N_w \ge 3$
+only one renormalizable Yukawa coupling per family exists and there is no
+mixing between families the limit is appropriate for the description of the
+effects of a heavy top quark when all the other fermions are taken to be
+massless. The large $N=\sqrt{N_{c} N_{w}}$ expansion is expected to be no worse
+quantitatively in this model that in the purely scalar case and the $N=\infty$
+limit is soluble even when the model is regularized non--perturbatively. A
+rough estimate of the triviality bound on the Yukawa coupling is equivalent to
+$m_t \le 1~TeV$.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 16:31:58 GMT""}]","2009-10-22"
+"hep-lat/9210036",,"H. R. Fiebig (Physics Department FIU University Park Miami, Florida
+  33199, USA) and R. M. Woloshyn (TRIUMF, 4004 Wesbrook Mall, Vancouver, B.C.,
+  Canada)","Meson-Meson Scattering in Lattice QED_2+1",,,"10.1016/0920-5632(93)90348-A",,"hep-lat",,"  Scattering phase shifts of a meson-meson system in staggered 3-dimensional
+lattice QED are computed. The main task of the simulation is to obtain a
+discrete set of two-body energy levels. These are extracted from a 4-point time
+correlation matrix and then used to obtain scattering phase shifts. The results
+for the l=0 and l=2 partial waves are consistent with short- range repulsion
+and intermediate-range attraction of the residual meson- meson interaction.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 18:15:25 GMT""}]","2009-10-22"
+"hep-lat/9210037","Gerhard Gompper","G. Gompper and D.M. Kroll","The Shape of Inflated Vesicles","18 pages",,"10.1103/PhysRevA.46.7466",,"hep-lat cond-mat",,"  The conformation and scaling properties of self-avoiding fluid vesicles with
+zero extrinsic bending rigidity subject to an internal pressure increment
+$\Delta p>0$ are studied using Monte Carlo methods and scaling arguments. With
+increasing pressure, there is a first-order transition from a collapsed
+branched polymer phase to an extended inflated phase. The scaling behavior of
+the radius of gyration, the asphericities, and several other quantities
+characterizing the average shape of a vesicle are studied in detail. In the
+inflated phase, continuously variable fractal shapes are found to be controlled
+by the scaling variable $x=\Delta p N^{3\nu/2}$ (or equivalently, $y = {<V>}/
+N^{3\nu/2}$), where $N$ is the number of monomers in the vesicle and $V$ the
+enclosed volume. The scaling behavior in the inflated phase is described by a
+new exponent $\nu=0.787\pm 0.02$.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 16:59:37 GMT""}]","2009-10-22"
+"hep-lat/9210038",,"A.J. van der Sijs","Gauge invariant extremization","to appear in the Proceedings of Lattice 92 (Amsterdam, NL), Nucl.
+  Phys. B (Proc. Suppl.), 4 pages LaTeX. Style file espcrc2.sty needed for
+  processing, NOT included; full postscript file attached, though. Oxford
+  preprint OUTP-92-25P","Nucl.Phys.Proc.Suppl. 30 (1993) 893-896","10.1016/0920-5632(93)90350-F",,"hep-lat",,"  Recently, Duncan and Mawhinney introduced a method to find saddle points of
+the action in simulations of non-abelian lattice gauge theory. The idea, called
+`extremization', is to minimize $\int(\delta S/\delta A_\mu)^2$ instead of the
+action $S$ itself as in conventional `cooling'. The method was implemented in
+an explicitly gauge variant way, however, and gauge dependence showed up in the
+results. Here we present a gauge invariant formulaton of extremization on the
+lattice, applicable to any gauge group and any lattice action. The procedure is
+worked out in detail for U(1) and SU(N) lattice gauge theory with the plaquette
+action.
+","[{""version"":""v1"",""created"":""Thu, 29 Oct 1992 11:17:42 GMT""}]","2016-08-31"
+"hep-ph/9210270","Daniel Ng","Paul H. Frampton, Daniel Ng, Marc Sher and Yao Yuan","Search for Heavy Leptons at Hadron Colliders","17 pages(8 figures are not included),TRI-PP-92-97","Phys.Rev.D48:3128-3135,1993","10.1103/PhysRevD.48.3128",,"hep-ph",,"  Four models are considered which contain heavy leptons beyond the three
+families of the standard model. Two are fourth-generation extensions of the
+standard model in which the right-handed heavy leptons are either isosinglets
+or in an isodoublet; the other two are motivated by the aspon model of CP
+violation. In all these models, the heavy neutrino can either be heavier than,
+or comparable in mass to, the charged lepton leading to the possibility that
+the charged lepton is very long-lived. Production cross section and signatures
+for the heavy leptons are computed for the SSC and LHC.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 19:08:53 GMT""}]","2010-11-01"
+"hep-ph/9210271","Daniel Ng","P. H. Frampton, Daniel Ng, T.W. Kephart, T. C. Yuan","Search for Dileptons in Z decay","4 pages(2 figuires are not included), TRI-PP-92-96","Phys.Lett. B317 (1993) 369-370","10.1016/0370-2693(93)91010-K",,"hep-ph",,"  The lepton family number violation $Z$ boson decay, $Z \to e^-e^-\mu^+\mu^+$
+or $e^+e^+\mu^-\mu^-$, mediated by a dilepton, e.g. from an SU(15) theory, is
+calculated. The branching ratio of such exotic decay for allowed dilepton
+masses is found to be smaller than 10$^{-10}$.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 19:14:53 GMT""}]","2009-10-22"
+"hep-ph/9210272","Mihoko Nojiri","Mauel Drees and Mihoko M. Nojiri","New Contribution to Coherent neutralino-Nucleus Scattering","11 pages, Latex, 3 figures are not included, MAD/PH/723","Phys.Rev. D47 (1993) 4226-4232","10.1103/PhysRevD.47.4226",,"hep-ph",,"  We discuss coherent scattering between supersymmetric neutralinos and nuclei
+via an effective neutralino-gluon interaction. We identify two new classes of
+diagrams which are not treated in the existing literature. These occur at the
+same order of perturbation theory as the previously considered diagrams. The
+new contributions can be numerically important, and can even dominate the total
+amplitude. This affects the clculation fo event rates in experiments searching
+for direct or indirect evidence of cosmic relic neutralinos.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 21:57:00 GMT""}]","2009-10-22"
+"hep-ph/9210273","Kevin Eric Cahill","Kevin Cahill","A More Effective Potential","5 pages, UNM-92-amep",,"10.1063/1.43443",,"hep-ph",,"  In theories with spontaneous symmetry breaking, the conventional effective
+potential possesses a defective loop expansion. For such theories, the exact
+effective potential $V(\phi_c,T)$ is real and convex, but its perturbative
+series is complex and concave at small $\phi_c$ and $T$. A more effective
+potential is available.
+","[{""version"":""v1"",""created"":""Thu, 29 Oct 1992 05:58:49 GMT""}]","2009-10-22"
+"hep-ph/9210274","R. Sekhar Chivukula","R. Sekhar Chivukula, Andrew G. Cohen, Michael Luke, and Martin J.
+  Savage","A Comment on the Strong Interactions of Color-Neutral Technibaryons","6 pages, BUHEP-92-36 and UCSD/PTH 92-36","Phys.Lett. B298 (1993) 380-382","10.1016/0370-2693(93)91836-C",,"hep-ph astro-ph",,"  We estimate the cross section for the scattering of a slow, color-neutral
+technibaryon made of colored constituents with nuclei. We find a cross section
+of order $A^2\ 10^{-45}$ cm$^2$, where $A$ is the atomic number of the nucleus.
+Even if technibaryons constitute the dark matter in the galactic halo, this is
+too small to be detected in future underground detectors.
+","[{""version"":""v1"",""created"":""Thu, 29 Oct 1992 15:45:18 GMT""}]","2009-10-22"
+"hep-th/9210145",,"S. Randjbar--Daemi, Abdus Salam, J. Strathdee","Generalized Spin Systems and $\sigma$--Models","35, plain, IC/92/294","Phys.Rev.B48:3190-3205,1993","10.1103/PhysRevB.48.3190",,"hep-th cond-mat",,"  A generalization of the $SU(2)$--spin systems on a lattice and their
+continuum limit to an arbitrary compact group $G$ is discussed. The continuum
+limits are, in general, non--relativistic $\sigma$--model type field theories
+targeted on a homogeneous space $G/H$, where $H$ contains the maximal torus of
+$G$. In the ferromagnetic case the equations of motion derived from our
+continuum Lagrangian generalize the Landau--Lifshitz equations with quadratic
+dispersion relation for small wave vectors. In the antiferromagnetic case the
+dispersion law is always linear in the long wavelength limit. The models become
+relativistic only when $G/H$ is a symmetric space. Also discussed are a
+generalization of the Holstein--Primakoff representation of the $SU(N)$
+algebra, the topological term and the existence of the instanton type solutions
+in the continuum limit of the antiferromagnetic systems.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 16:22:00 GMT""},{""version"":""v2"",""created"":""Tue, 3 Nov 1992 12:17:00 GMT""}]","2010-11-01"
+"hep-th/9210146","Rinat Kedem","Rinat Kedem","Thermodynamics of the 3-State Potts Spin Chain","18 pages, LaTex. Preprint # ITP-SB-92-60. References added and first
+  section expanded",,"10.1007/BF01049954",,"hep-th cond-mat",,"  We demonstrate the relation of the infrared anomaly of conformal field theory
+with entropy considerations of finite temperature thermodynamics for the
+3-state Potts chain. We compute the free energy and compute the low temperature
+specific heat for both the ferromagnetic and anti-ferromagnetic spin chains,
+and find the central charges for both.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 17:04:48 GMT""},{""version"":""v2"",""created"":""Tue, 8 Dec 1992 16:32:49 GMT""}]","2009-10-22"
+"hep-th/9210147",,"Brett van de Sande and Stephen Pinsky","Renormalization of Tamm-Dancoff Integral Equations","19 pages, OHSTPY-HEP-T-92-014","Phys.Rev. D46 (1992) 5479-5486","10.1103/PhysRevD.46.5479",,"hep-th hep-ph",,"  During the last few years, interest has arisen in using light-front
+Tamm-Dancoff field theory to describe relativistic bound states for theories
+such as QCD. Unfortunately, difficult renormalization problems stand in the
+way. We introduce a general, non-perturbative approach to renormalization that
+is well suited for the ultraviolet and, presumably, the infrared divergences
+found in these systems. We reexpress the renormalization problem in terms of a
+set of coupled inhomogeneous integral equations, the ``counterterm equation.''
+The solution of this equation provides a kernel for the Tamm-Dancoff integral
+equations which generates states that are independent of any cutoffs. We also
+introduce a Rayleigh-Ritz approach to numerical solution of the counterterm
+equation. Using our approach to renormalization, we examine several ultraviolet
+divergent models. Finally, we use the Rayleigh-Ritz approach to find the
+counterterms in terms of allowed operators of a theory.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 18:04:00 GMT""}]","2009-10-22"
+"hep-th/9210148","Sun Chang Pu","Wei Li, Chang-Pu Sun, Mo-Lin Ge","The l-State Boson Algebra as a Non-Standard Quantum Double and its
+  Universal R-Matrix for Yang-Baxer Equation","10p",,,,"hep-th",,"  In this paper we construct a new quantum double by endowing the l-state
+bosonalgebra with a non-trivial Hopf algebra structure,which is not a
+q-deformation of the Lie algebra or superalgebra.The universal R-matrix for the
+Yang-Baxter equation associated with this new quantum group structure is
+obtained explicitly.By building the representations of this quantum double,we
+get some R-matrices ,which can result in new representations of the braid
+group.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 19:04:44 GMT""}]","2007-05-23"
+"hep-th/9210149","Wei Chen","Wei Chen (U of British Columbia) and Miao Li (UC Santa Barbara)","Driving Operators Relevant: A Feature of Chern-Simons Interaction","(ten pages, latex, figures included)","Phys.Rev.Lett. 70 (1993) 884-887","10.1103/PhysRevLett.70.884",,"hep-th cond-mat",,"  By computing anomalous dimensions of gauge invariant composite operators
+$(\bar\psi\psi)^n$ and $(\phi^*\phi)^n$ in Chern-Simons fermion and boson
+models, we address that Chern-Simons interactions make these operators more
+relevant or less irrelevant in the low energy region. We obtain a critical
+Chern-Simons fermion coupling, ${1\over \kappa_c^2} = {6\over 19}$, for a phase
+transition at which the leading irrelevant four-fermion operator
+$(\bar\psi\psi)^2$ becomes marginal, and a critical Chern-Simons boson
+coupling, ${1\over \kappa_c^2} = {6\over 34}$, for a similar phase transition
+for the leading irrelevant operator $(\phi^*\phi)^4$. We see this phenomenon
+also in the $1/N$ expansion.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 21:54:00 GMT""}]","2009-10-22"
+"hep-th/9210150",,"Peter Schupp, Paul Watts, and Bruno Zumino","Bicovariant Quantum Algebras and Quantum Lie Algebras","38 pages","Commun.Math.Phys. 157 (1993) 305-330","10.1007/BF02099762","LBL-32315 and UCB-PTH-92/14","hep-th",,"  A bicovariant calculus of differential operators on a quantum group is
+constructed in a natural way, using invariant maps from \fun\ to \uqg\ , given
+by elements of the pure braid group. These operators --- the `reflection
+matrix' $Y \equiv L^+ SL^-$ being a special case --- generate algebras that
+linearly close under adjoint actions, i.e. they form generalized Lie algebras.
+We establish the connection between the Hopf algebra formulation of the
+calculus and a formulation in compact matrix form which is quite powerful for
+actual computations and as applications we find the quantum determinant and an
+orthogonality relation for $Y$ in $SO_q(N)$.
+","[{""version"":""v1"",""created"":""Wed, 28 Oct 1992 23:18:08 GMT""}]","2009-10-22"
+"hep-th/9210152","Jiri Chyla","Ladislav Hlavaty","Quantum Braided Groups","10 pages, LATeX, In any related matters please contact
+  HLAVATY@FJFI.CVUT.CS","J.Math.Phys. 35 (1994) 2560-2569","10.1063/1.530523","PRA-HEP-92/18","hep-th",,"  A new type of algebras that represent a generalization of both quantum groups
+and braided groups is defined. These algebras are given by a pair of solutions
+of the Yang--Baxter equation that satisfy some additional conditions. Several
+examples are presented.
+","[{""version"":""v1"",""created"":""Thu, 29 Oct 1992 13:27:47 GMT""}]","2009-10-22"
+"math/9210229","Maciej P. Wojtkowski","Carlangelo Liverani, Maciej P. Wojtkowski","Ergodicity in Hamiltonian systems",,,,"Stony Brook IMS 1992/16","math.DS",,"  We discuss the Sinai method of proving ergodicity of a discontinuous
+Hamiltonian system with (non-uniform) hyperbolic behavior.
+","[{""version"":""v1"",""created"":""Thu, 29 Oct 1992 00:00:00 GMT""}]","2009-09-25"

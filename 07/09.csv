@@ -1,0 +1,163 @@
+"hep-lat/9207009","Ulli Wolff","Martin L\""uscher and Rajamani Narayanan (DESY), Peter Weisz (MPI,
+  Munich), Ulli Wolff (CERN)","The Schr\""odinger Functional - a Renormalizable Probe for Non-Abelian
+  Gauge Theories","68 pages","Nucl.Phys.B384:168-228,1992","10.1016/0550-3213(92)90466-O","DESY 92-025; CERN-TH 6410/92","hep-lat",,"  Following Symanzik we argue that the Schr\""odinger functional in lattice
+gauge theories without matter fields has a well-defined continuum limit. Due to
+gauge invariance no extra counter terms are required. The Schr\""odinger
+functional is, moreover, accessible to numerical simulations. It may hence be
+used to study the scaling properties of the theory and in particular the
+evolution of the renormalized gauge coupling from low to high energies. A
+concrete proposition along this line is made and the necessary perturbative
+analysis of the Schr\""odinger functional is carried through to 1-loop order.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 10:06:39 GMT""}]","2016-08-14"
+"hep-lat/9207010","Ulli Wolff","Martin L\""uscher (DESY), Peter Weisz (MPI, Munich), Rainer Sommer and
+  Ulli Wolff (CERN)","Computation of the Running Coupling in the SU(2) Yang-Mills Theory","23 pages, 4 ps figures","Nucl.Phys.B389:247-264,1993","10.1016/0550-3213(93)90292-W","CERN-TH 6566/92 and DESY-92-096","hep-lat",,"  A finite-size scaling technique is applied to the SU(2) gauge theory (without
+matter fields) to compute a non-perturbatively defined running coupling
+alpha(q) for a range of momenta q given in units of the string tension K. We
+find that already at rather low q, the evolution of alpha(q) is well described
+by the 2-loop approximation to the Callan-Symanzik beta-function. At the
+highest momentum reached, q=20 sqrt(K), we obtain alpha_MSbar(q)=0.187 +/-
+0.005 +/- 0.009 for the running coupling in the MSbar scheme of dimensional
+regularization.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 10:18:49 GMT""}]","2016-08-14"
+"hep-ph/9207222","Martin Savage","Ming Lu, Mark B. Wise, and Martin J. Savage","Two Photon Contribution to Polarization in $K^+ \rightarrow \pi^+ \mu^+
+  \mu^-$","(19 pages, 5 figures available on request. Uses phyzzx),
+  CALT-68-1798, UCSD/PTH 92-20","Phys.Rev.D46:5026-5033,1992","10.1103/PhysRevD.46.5026",,"hep-ph",,"  Short distance physics involving virtual top and charm quarks contributes to
+$\mu^+$ (and $\mu^-$) polarization in the decay $K^+ \rightarrow \pi^+ \mu^+
+\mu^-$. Measurement of the parity violating asymmetry $(\Gamma_R -
+\Gamma_L)/(\Gamma_R + \Gamma_L)$, where $\Gamma_R$ and $\Gamma_L$ are the rates
+to produce right and left-handed $\mu^+$, may provide valuable information on
+the unitarity triangle. The parity violating asymmetry also gets a contribution
+from Feynman diagrams with two photon intermediate states. We estimate this two
+photon contribution to the asymmetry and discuss briefly the two photon
+contribution to time reversal odd asymmetries that involve both the $\mu^+$ and
+$\mu^-$ polarizations.
+","[{""version"":""v1"",""created"":""Wed, 8 Jul 1992 17:39:19 GMT""}]","2010-11-01"
+"hep-ph/9207223",,"J M Flynn and N Isgur","Heavy quark symmetry: ideas and applications","21 pages, plain TeX, SHEP-91/92-22","J.Phys.G18:1627-1644,1992","10.1088/0954-3899/18/10/004",,"hep-ph",,"  This report is a combined version of two talks presented by the authors at
+the Edinburgh $b$-physics Workshop, December 1991. It presents the ideas of
+heavy quark symmetry and gives an introduction to some applications. The
+references indicate where to go for more information: they are not intended to
+be complete, nor do they necessarily refer to the original work on any
+particular subject.
+","[{""version"":""v1"",""created"":""Wed, 8 Jul 1992 18:15:07 GMT""}]","2010-11-01"
+"hep-ph/9207224","Leurer Miriam","Miriam Leurer (Weizmann Institute)","On the Unmixed 17 keV Neutrino","12 pages, LaTeX","Phys.Lett. B294 (1992) 63-68","10.1016/0370-2693(92)91641-L","WIS-92/56/JULY-PHYS","hep-ph",,"  Recently, it was suggested that the 17 keV neutrino does not mix with the
+electron neutrino in the weak interactions. Instead, the $\beta$ decay mode
+involving the 17 keV neutrino is induced by a completely new interaction,
+presumably mediated by leptoquarks. A previous model for the ``unmixed 17 keV
+neutrino"" suffers from difficulties with experimental data and cosmological
+constraints. Here we present an alternative model in which these difficulties
+are resolved.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 01:52:00 GMT""}]","2009-10-22"
+"hep-ph/9207225","Uri Sarid","Yosef Nir and Uri Sarid","Testing the Standard Model and Schemes for Quark Mass Matrices with CP
+  Asymmetries in B Decays","11 pages and 4 postscript figures available on request, LaTeX,
+  WIS-92/52/Jun-PH, LBL-32563","Phys.Rev.D47:2818-2824,1993","10.1103/PhysRevD.47.2818",,"hep-ph",,"  The values of $\sin (2 \alpha)$ and $\sin (2 \beta)$, where $\alpha$ and
+$\beta$ are angles of the unitarity triangle, will be readily measured in a B
+factory (and maybe also in hadron colliders). We study the standard model
+constraints in the $\sin (2 \alpha) - \sin (2 \beta)$ plane. We use the results
+from recent analyses of $f_B$ and $\tau_b|V_{cb}|^2$ which take into account
+heavy quark symmetry considerations. We find $\sin (2 \beta) \geq 0.15$ and
+most likely $\sin (2 \beta) \roughly{>} 0.6$, and emphasize the strong
+correlations between $\sin (2 \alpha)$ and $\sin (2 \beta)$. Various schemes
+for quark mass matrices allow much smaller areas in the $\sin (2 \alpha) - \sin
+(2 \beta)$ plane. We study the schemes of Fritzsch, of Dimopoulos, Hall and
+Raby, and of Giudice, as well as the ``symmetric CKM'' idea, and show how CP
+asymmetries in B decays will crucially test each of these schemes.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 07:09:37 GMT""}]","2010-11-01"
+"hep-ph/9207226",,"Thomas Appelquist and George Triantaphyllou","Technicolor Enhancement of $t \bar{t}$ Production at TeV-Colliders","12 pages","Phys.Rev.Lett. 69 (1992) 2750-2753","10.1103/PhysRevLett.69.2750","YCTP-P26-92","hep-ph",,"  It is shown that a technicolor theory containing a color-octet technipion,
+usually denoted by $P^{0'}_{8}$, will give rise to an enhancement of $t \bar t$
+production at the Tevatron, LHC and SSC, via the process $gg \rightarrow
+P^{0'}_{8} \rightarrow t \bar t$. The relevant cross-sections are computed
+taking into account the large lower bound on the top mass coming from the ""top
+search"" experiments at LEP and CDF.
+  At the LHC and SSC, the signal is found to be comparable to the QCD
+background, making the process quite accesible.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 15:19:00 GMT""}]","2009-10-22"
+"hep-ph/9207229","JoAnne Hewett","J.L. Hewett and T.G. Rizzo","The Effects of Detector Descoping and Neutral Boson Mixing on New Gauge
+  Boson Physics at the SSC","17 pages, 4 figures (available by request), phyzzx, ANL-HEP-PR-92-34",,,,"hep-ph",,"  We examine how the abilities of an SDC-like detector to discover and identify
+the origin of a new neutral gauge boson are affected by $Z_1-Z_2 $ mixing and
+by variations in detector parameters such as lepton pair mass resolution,
+particle identification efficiency, and rapidity coverage. Also examined is the
+sensitivity of these results to variations in structure function uncertainties
+and uncertainties in the machine integrated luminosity. Such considerations are
+of importance when dealing with the issues of detector descoping and design.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 15:26:45 GMT""}]","2007-05-23"
+"hep-th/9207021",,"Igor Pesando","Polymers and Topological Field Theory: A 2 Loop Computation","17 pages with 5 figures (included), DFTT 29/92","Phys.Lett. B296 (1992) 341-352","10.1016/0370-2693(92)91330-C",,"hep-th",,"  Within the Quantum Action Principle framework we show the perturbative
+renormalizability of previously proposed topological lagrangian \`a la
+Witten-Fujikawa describing polymers, then we perform a 2 loop computation. The
+theory turns out to have the same predictive power of De Gennes theory, even
+though its running coupling constants exhibit a very peculiar behaviour.
+Moreover we argue that the theory presents two phases , a topological and a non
+topological one.
+","[{""version"":""v1"",""created"":""Wed, 8 Jul 1992 17:16:00 GMT""}]","2009-10-22"
+"hep-th/9207022",,"G. von Gehlen","Phase diagram and two-particle structure of the $Z_3$-chiral Potts model","20 pages, (LATEX), preprint BONN-HE-92-18",,,,"hep-th",,"  We calculate the low-lying part of the spectrum of the $Z_3$-symmetrical
+chiral Potts quantum chain in its self-dual and integrable versions, using
+numerical diagonalisation of the hamiltonian for $N \leq 12$ sites and
+extrapolation $N \ra \infty$. From the sequences of levels crossing we show
+that the massive phases have oscillatory correlation functions. We calculate
+the wave vector scaling exponent. In the high-temperature massive phase the
+pattern of the low-lying levels can be explained assuming the existence of two
+particles, with $Z_3$-charge $Q\!=\!1$ and $Q\!=\!2$, and their scattering
+states. In the superintegrable case the $Q\!=\!2$-particle has twice the mass
+of the $Q\!=\!1$-particle. Exponential convergence in $N$ is observed for the
+single particle gaps, while power convergence is seen for the scattering
+levels. In the high temperature limit of the self-dual model the parity
+violation in the particle dispersion relation is equivalent to the presence of
+a macroscopic momentum $P_m = \pm \vph/3$, where $\vph$ is the chiral angle.
+","[{""version"":""v1"",""created"":""Wed, 8 Jul 1992 17:38:51 GMT""}]","2007-05-23"
+"hep-th/9207023","Murat Gunaydin","Murat Gunaydin","On the Chiral Rings in N=2 and N=4 Superconformal Algebras","29 Pages","Int.J.Mod.Phys.A8:301-324,1993","10.1142/S0217751X93000126","Penn State Preprint PSU-TH-107 (May 1992)","hep-th",,"  We study the chiral rings in N=2 and N=4 superconformal algebras. The chiral
+primary states of N=2 superconformal algebras realized over hermitian triple
+systems are given. Their coset spaces G/H are hermitian symmetric which can be
+compact or non-compact. In the non-compact case, under the requirement of
+unitarity of the representations of G we find an infinite set of chiral primary
+states associated with the holomorphic discrete series representations of G.
+Further requirement of the unitarity of the corresponding N=2 module truncates
+this infinite set to a finite subset. The chiral primary states of the N=2
+superconformal algebras realized over Freudenthal triple systems are also
+studied. These algebras have the special property that they admit an extension
+to N=4 superconformal algebras with the gauge group SU(2)XSU(2)XU(1). We
+generalize the concept of the chiral rings to N=4 superconformal algebras. We
+find four different rings associated with each sector (left or right moving).
+We also show that our analysis yields all the possible rings of N=4
+superconformal algebras.
+","[{""version"":""v1"",""created"":""Wed, 8 Jul 1992 18:46:48 GMT""}]","2014-11-18"
+"hep-th/9207024","Neil Marcus","Neil Marcus (U of Tel-Aviv)","The N=2 open string","17 Pages (LaTeX)","Nucl.Phys.B387:263-279,1992","10.1016/0550-3213(92)90161-4","TAUP-1929-91","hep-th",,"  We show that the N=2 open string describes a theory of self-dual Yang Mills
+(SDYM) in (2,2) dimensions. The coupling to the closed sector is described by
+SDYM in a Kahler background, with the Yang-Mills fields providing a source term
+to the self-duality equation in the gravity sector. The four-point S-matrix
+elements of the theory vanish, so the tree-level unitarity constraints leading
+to the Chan-Paton construction are relaxed. By considering more general
+group-theory ansatze the N=2 string can be written for any gauge group, and not
+just the classical groups allowed for the bosonic and N=1 strings. Such ad hoc
+group-theory factors can not be appended to the closed N=2 string, explaining
+why the Z_n closed N=2 strings are trivial extensions of the Z_1 theory.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 11:03:05 GMT""}]","2010-11-01"
+"hep-th/9207025","Ji-Deog Kim","H.W. Braden, H.S. Cho, J.D. Kim, I.G. Koh and R. Sasaki","Singularity analysis in $A_n$ Affine Toda Theories","15 pages, plain latex","Prog.Theor.Phys. 88 (1992) 1205-1212","10.1143/ptp/88.6.1205","Edinburgh-/91-92/01 KAIST-THP-92/702 YITP/U-92-19","hep-th",,"  The leading and the subleading Landau singularities in affine Toda field
+theories are examined in some detail. Formulae describing the subleading simple
+pole structure of box diagrams are given explicitly. This leads to a new and
+nontrivial test of the conjectured exact S-matrices for these theories. We show
+that to the one-loop level the conjectured S-matrices of the $A_n$ Toda family
+reproduce the correct singularity structure, leading as well as subleading, of
+the field theoretical amplitudes. The present test has the merit of being
+independent of the details of the renormalisations.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 05:02:11 GMT""}]","2017-02-01"
+"hep-th/9207026","Robert-Schrader-3032-1. 3. 16","M. Karowski, R. Schrader, FU-Berlin","A quantum group version of quantum gauge theories in two dimensions","6 pages (plain TeX)","J.Phys. A25 (1992) L1151-L1154","10.1088/0305-4470/25/19/003",,"hep-th",,"  For the special case of the quantum group $SL_q (2,{\bf C})\ (q= \exp \pi
+i/r,\ r\ge 3)$ we present an alternative approach to quantum gauge theories in
+two dimensions. We exhibit the similarities to Witten's combinatorial approach
+which is based on ideas of Migdal. The main ingredient is the Turaev-Viro
+combinatorial construction of topological invariants of closed, compact
+3-manifolds and its extension to arbitrary compact 3-manifolds as given by the
+authors in collaboration with W. Mueller.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 06:52:00 GMT""}]","2015-06-26"
+"hep-th/9207027","Jean-Loup Gervais","Fran\c{c}ois Delduc, Jean-Loup Gervais, Mikhail Saveliev","Supersymmetric Black Holes from Toda Theories","4 pages, Latex","Phys.Lett. B292 (1992) 295-297","10.1016/0370-2693(92)91178-C","LPTENS--92/20, ENSLAPP-L-393/92","hep-th",,"  On the example of nonabelian Toda type theory associated with the Lie
+superalgebra $osp(2|4)$ we show that this integrable dynamical system is
+relevant to a black hole background metric in the corresponding target space.
+In the even sector the model under consideration reduces to the exactly
+solvable conformal theory (nonabelian $B_2$ Toda system) in the presence of a
+black hole recently proposed in the article ""Black holes from non-abelian Toda
+theories"" by the last two authors (hep-th 9203039).
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 13:34:19 GMT""}]","2009-10-22"
+"hep-th/9207028",,"J. Greensite","Vanishing of the Cosmological Constant in Stabilized Quantum Gravity","10 pages, Latex, NBI-HE-92-41","Phys.Lett. B291 (1992) 405-410","10.1016/0370-2693(92)91395-P",,"hep-th",,"  It is shown that the probability distribution $P(\lambda)$ for the effective
+cosmological constant is sharply peaked at $\lambda=0$ in stochastic (or
+""fifth-time"") stabilized quantum gravity. The effect is similar to the
+Baum-Hawking mechanism, except that it comes about due to quantum fluctuations,
+rather than as a zeroth-order (in $\hbar$) semiclassical effect.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 14:38:00 GMT""}]","2009-10-22"

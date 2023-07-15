@@ -1,0 +1,247 @@
+"alg-geom/9210008","David A. Cox","David A. Cox (Amherst College)","Erratum to ""The Homogeneous Coordinate Ring of a Toric Variety"", along
+  with the original paper","Erratum: 6 pages, LaTeX; Original paper: 28 pages, TeX C Version 3.0
+  with AMS fonts","Erratum: J. Algebraic Geometry 23 (2014) 393-398; Original paper:
+  J. Algebraic Geometry 4 (1995) 17-50",,,"alg-geom math.AG","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  This submission consists of two papers: 1) an erratum that corrects an error
+in the proof of Proposition 4.3 in my paper ""The Homogeneous Coordinate Ring of
+a Toric Variety"", and 2) the original (unchanged) version of the paper,
+published in 1995. The original paper introduced the homogeneous coordinate
+ring of a toric variety (now called the total coordinate ring or Cox ring) and
+gave a quotient construction. The paper also studied sheaves on a toric
+variety, and in Section 4 described its automorphism group. The error in the
+proof of Proposition 4.3 resulted from the faulty assumption that a certain set
+of graded endomorphisms forms a ring; rather, it is a monoid under composition.
+The erratum notes this error and gives a correct proof of the proposition.
+","[{""version"":""v1"",""created"":""Thu, 22 Oct 1992 17:50:23 GMT""},{""version"":""v2"",""created"":""Mon, 21 Jun 1993 18:16:47 GMT""},{""version"":""v3"",""created"":""Thu, 6 Mar 2014 15:43:36 GMT""}]","2014-03-07"
+"cond-mat/9210021","Franco Dalfovo","F.Dalfovo and S.Stringari","Static Response Function for Longitudinal and Transverse Excitations in
+  Superfluid Helium","19 pages (plain TeX) and 3 Figures (postscript), UTF-263",,"10.1103/PhysRevB.46.13991",,"cond-mat",,"  The sum rule formalism is used to evaluate rigorous bounds for the density
+and current static response functions in superfluid helium at zero temperature.
+Both lower and upper bounds are considered. The bounds are expressed in terms
+of ground state properties (density and current correlation funtions) and of
+the interatomic potential. The results for the density static response
+significantly improve the Feynman approximation and turn out to be close to the
+experimental (neutron scattering) data. A quantitative prediction for the
+transverse current response is given. The role of one-phonon and multi-particle
+excitations in the longitudinal and transverse channels is discussed.
+(Phys.Rev.B, in press)
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 10:59:52 GMT""}]","2009-10-22"
+"cond-mat/9210022","Chang Qin Wu","C.Q.Wu (Max-Planck-Institue f\""ur Festk\""orperforschung, Stuttgart,
+  Germany)","Correlaction Effects on the Band Gap of Conducting Polymers","23 pages, 3 figures (not included), REVTEX",,"10.1103/PhysRevB.47.4204",,"cond-mat",,"  By applying the projection technique to the computation of excitation
+energies, we study the correlation effects on the band gap of conducting
+polymers. In the presence of an additional electron or hole, the correlation
+induces a polarization cloud around the addi- tional particle, which forms a
+polaron. For the excitation energy of a polaron,there is a competition between
+a {\it loss} of the correla- tion energy in the ground state and a {\it gain}
+of polarization energy. For the Hubbard interaction, the {\it loss} of
+correlation energy is dominant and correlations increase the band
+gap.However,for long-range interactions, the {\it gain} of polarization energy
+is dominant and correlations decrease the band gap. Screening the long- range
+interaction suppresses the {\it gain}of the polarization energy so that
+correlations again increase the band gap.A small dimerization is always
+favorable to the correlation effects. For {\it trans}-poly- acetylene, we
+obtain the on-site repulsion $U=4.4$eV and the nearest- neighbor interaction
+$V=0.8$ eV. The screening of $\pi$ electrons due to the polarizability of
+$\sigma$ electrons is quite strong. ** to be published in Phys. Rev. B
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 11:00:42 GMT""}]","2009-10-22"
+"cond-mat/9210023","Franco Dalfovo","L.Pitaevskii and S.Stringari","Uncertainty Principle and Off-Diagonal Long Range Order in the
+  Fractional Quantum Hall Effect","10 pages, plain TeX, UTF-09-92",,"10.1103/PhysRevB.47.10915",,"cond-mat",,"  A natural generalization of the Heisenberg uncertainty principle inequality
+holding for non hermitian operators is presented and applied to the fractional
+quantum Hall effect (FQHE). This inequality was used in a previous paper to
+prove the absence of long range order in the ground state of several 1D systems
+with continuous group symmetries. In this letter we use it to rule out the
+occurrence of Bose-Einstein condensation in the bosonic representation of the
+FQHE wave function proposed by Girvin and MacDonald. We show that the absence
+of off-diagonal long range order in this 2D problem is directly connected with
+the $q^2$ behavior of the static structure function $S(q)$ at small momenta.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 13:44:53 GMT""}]","2009-10-22"
+"hep-lat/9210026","Pavlos Vranas","Urs M. Heller, Markus Klomfass, Herbert Neuberger and Pavlos Vranas","Regularization dependence of the Higgs mass triviality bound","5 pages with 5 ps figures included. LaTex file. Contribution to the
+  LAT92 proceedings. Preprint, FSU-SCRI-92-150, RU-92-43","Nucl.Phys.Proc.Suppl. 30 (1993) 685-689","10.1016/0920-5632(93)90302-M",,"hep-lat",,"  We calculate the triviality bound on the Higgs mass in scalar field theory
+models whose global symmetry group $SU(2)_L \times SU(2)_{\rm custodial}
+\approx O(4)$ has been replaced by $O(N)$ and $N$ has been taken to infinity.
+Limits on observable cutoff effects at four percent in several regularized
+models with tunable couplings in the bare action yield triviality bounds
+displaying a large degree of universality. Extrapolating from $N=\infty$ to
+$N=4$ we conservatively estimate that a Higgs particle with mass up to
+$0.750~TeV$ and width up to $0.290~TeV$ is realizable without large cutoff
+effects, indicating that strong scalar self interactions in the standard model
+are not ruled out. We also present preliminary numerical results of the
+physical $N=4$ case for the $F_4$ lattice that are in agreement with the large
+$N$ expectations. Note: The full ps file is also available via anonymous ftp to
+ftp.scri.fsu.edu. To get the ps file, ftp to this address and use for username
+""anonymous"" and for password your name. The file is in the directory pub/vranas
+(to go to that directory type: cd pub/vranas) and is called lat92_proc.ps (to
+get it type: get lat92_proc.ps)
+","[{""version"":""v1"",""created"":""Thu, 22 Oct 1992 16:52:56 GMT""}]","2009-10-22"
+"hep-lat/9210027","Philippe de Forcrand","Alexander Bochkarev and Philippe de Forcrand","Nonperturbative evaluation of the diffusion rate in field theory at high
+  temperatures","21 pages, figures upon request, BUTP-92/22","Phys.Rev. D47 (1993) 3476-3486","10.1103/PhysRevD.47.3476",,"hep-lat",,"  Kramer's approach to the rate of the thermally activated escape from a
+metastable state is extended to field theory. Diffusion rate in the
+1+1-dimensional Sine-Gordon model as a function of temperature and friction
+coefficient is evaluated numerically by solving the Langevin equation in real
+time. A clear crossover from the semiclassical to the high temperature domain
+is observed. The temperature behaviour of the diffusion rate allows one to
+determine the kink mass which is found equal to the corresponding classical
+value. The Kramer's predictions for the dependence on viscosity are
+qualitatively valid in this multidimensional case. In the limit of vanishing
+friction the diffusion rate is shown to coincide with the one obtained from the
+direct measurements of the conventional classical real-time Green function at
+finite temperature.
+","[{""version"":""v1"",""created"":""Thu, 22 Oct 1992 20:59:57 GMT""}]","2009-10-22"
+"hep-lat/9210028",,"Howard D. Trottier and R. M. Woloshyn","The Savvidy ``ferromagnetic vacuum'' in three-dimensional lattice gauge
+  theory","9pp (REVTEX manuscript). Postscript figures appended","Phys.Rev.Lett. 70 (1993) 2053-2057","10.1103/PhysRevLett.70.2053",,"hep-lat hep-th",,"  The vacuum effective potential of three-dimensional SU(2) lattice gauge
+theory in an applied color-magnetic field is computed over a wide range of
+field strengths. The background field is induced by an external current, as in
+continuum field theory. Scaling and finite volume effects are analyzed
+systematically. The first evidence from lattice simulations is obtained of the
+existence of a nontrivial minimum in the effective potential. This supports a
+``ferromagnetic'' picture of gluon condensation, proposed by Savvidy on the
+basis of a one-loop calculation in (3+1)-dimensional QCD.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 01:18:49 GMT""}]","2009-10-22"
+"hep-lat/9210029","R. Horsley","R. Altmeyer, K. D. Born, M. Goeckeler, R. Horsley, E. Laermann and G.
+  Schierholz","Renormalisation of lattice currents and the calculation of decay
+  constants for dynamical staggered fermions","5 pages, HLRZ preprint 92-70","Nucl.Phys.Proc.Suppl. 30 (1993) 423-426","10.1016/0920-5632(93)90242-X",,"hep-lat",,"  A numerical calculation of the lattice staggered renormalisation constants at
+$\beta = 5.35$, $m = 0.01$ is presented. It is seen that there are considerable
+non-perturbative effects present. As an application the vector decay constant
+$f_\rho$ is estimated. (LAT92 contribution, one LATEX file with 3 postscript
+figures appended.)
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 15:15:24 GMT""}]","2009-10-22"
+"hep-lat/9210032","Alan Sokal","A.C.D. van Enter, R. Fernandez and A.D. Sokal","Regularity Properties and Pathologies of Position-Space
+  Renormalization-Group Transformations","273 pages including 14 figures, Postscript, See also
+  ftp.scri.fsu.edu:hep-lat/papers/9210/9210032.ps.Z","J. Statist. Phys. 72 (1994) 879","10.1007/BF01048183","NYU-TH-92/10/02","hep-lat",,"  We reconsider the conceptual foundations of the renormalization-group (RG)
+formalism, and prove some rigorous theorems on the regularity properties and
+possible pathologies of the RG map. Regarding regularity, we show that the RG
+map, defined on a suitable space of interactions (= formal Hamiltonians), is
+always single-valued and Lipschitz continuous on its domain of definition. This
+rules out a recently proposed scenario for the RG description of first-order
+phase transitions. On the pathological side, we make rigorous some arguments of
+Griffiths, Pearce and Israel, and prove in several cases that the renormalized
+measure is not a Gibbs measure for any reasonable interaction. This means that
+the RG map is ill-defined, and that the conventional RG description of
+first-order phase transitions is not universally valid. For decimation or
+Kadanoff transformations applied to the Ising model in dimension $d \ge 3$,
+these pathologies occur in a full neighborhood $\{ \beta > \beta_0 ,\, |h| <
+\epsilon(\beta) \}$ of the low-temperature part of the first-order
+phase-transition surface. For block-averaging transformations applied to the
+Ising model in dimension $d \ge 2$, the pathologies occur at low temperatures
+for arbitrary magnetic-field strength. Pathologies may also occur in the
+critical region for Ising models in dimension $d \ge 4$. We discuss in detail
+the distinction between Gibbsian and non-Gibbsian measures, and give a rather
+complete catalogue of the known examples. Finally, we discuss the heuristic and
+numerical evidence on RG pathologies in the light of our rigorous theorems.
+","[{""version"":""v1"",""created"":""Thu, 22 Oct 1992 21:31:51 GMT""}]","2015-06-25"
+"hep-ph/9210258","Ken-ichiro Aoki","Kenichiro Aoki, Santiago Peris","Non--perturbative evidence for non--decoupling of heavy fermions","10pp, harvmac, figures not included, /UCLA/92/TEP/34,UAB--FT--291","Phys.Rev.Lett.70:1743-1746,1993","10.1103/PhysRevLett.70.1743",,"hep-ph",,"  We investigate, using a $1/N$ expansion, the behavior of a parameter in the
+scalar--fermion sector of the standard model that shows perturbative
+non--decoupling as the fermion becomes heavy. This low energy parameter is
+related to the $S$ parameter defined through the $W_3-B$ vacuum polarization
+tensor. We obtain the leading $1/N$ contribution to this parameter that, if
+expanded perturbatively, collapses to its constant one--loop result; remarkably
+all the higher--order terms in the series vanish. Non--perturbatively, however,
+we find that as the mass of the fermion approaches the built--in cutoff scale
+of the theory --- the triviality scale --- the parameter is highly dependent on
+the implementation of the cutoff; it is non--universal, and shows
+non--decoupling.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 00:40:30 GMT""}]","2008-11-26"
+"hep-ph/9210259",,"B. Margolis, J. Ng, M. Phipps, and H. D. Trottier","Quark model calculation of $\eta \to l^+ l^-$ to all orders in the bound
+  state relative momentum","17 pages REVTEX. Postscript figures appended","Phys.Rev. D47 (1993) 1942-1950","10.1103/PhysRevD.47.1942",,"hep-ph",,"  The electromagnetic box diagram for the leptonic decays of pseudoscalar
+mesons in the quark model is evaluated to all orders in ${\bf p} / m_q$, where
+${\bf p}$ is the relative three-momentum of the quark-antiquark pair and $m_q$
+is the quark mass. We compute $B_P \equiv \Gamma(\eta \to l^+ l^-) /
+\Gamma(\eta \to \gamma\gamma)$ using a popular nonrelativistic (NR) harmonic
+oscillator wave function, and with a relativistic momentum space wave function
+that we derive from the MIT bag model. We also compare with a calculation in
+the limit of extreme NR binding due to Bergstr\""om. Numerical calculations of
+$B_P$ using these three parameterizations of the wave function agree to within
+a few percent over a wide kinematical range. We find that the quark model leads
+in a natural way to a negligible value for the ratio of dispersive to
+absorptive parts of the electromagnetic amplitude for $\eta \to \mu^+ \mu^-$
+(unitary bound). However we find substantial deviations from the unitary bound
+in other kinematical regions, such as $\eta,\pi^0 \to e^+ e^-$. These quark
+models yield $B(\eta \to \mu^+\mu^-) \approx 4.3 \times 10^{-6}$, within errors
+of the recent SATURNE measurement of $5.1 \pm 0.8 \times 10^{-6}$, $B(\eta \to
+e^+ e^-) \approx 6.3 \times 10^{-9}$, and $B(\pi^0 \to e^+ e^-) \approx 1.0
+\times 10^{-7}$.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 01:51:03 GMT""}]","2009-10-22"
+"hep-th/9210123",,"M. Cveti\v{c}, R. Davis, S. Griffies, and H. H. Soleng","Cauchy Horizons, Thermodynamics and Closed Time-like Curves in Planar
+  Supersymmetric Space-times","11 pages, 1 figure appended, phyzzx","Phys.Rev.Lett.70:1191-1194,1993","10.1103/PhysRevLett.70.1191","UPR-534-T","hep-th gr-qc",,"  We study geodesically complete, singularity free space-times induced by
+supersymmetric planar domain walls interpolating between Minkowski and anti-de
+Sitter ($AdS_4$) vacua. A geodesically complete space-time without closed
+time-like curves includes an infinite number of semi-infinite Minkowski
+space-times, separated from each other by a region of $AdS_4$ space-time. These
+space-times are closely related to the extreme Reissner Nordstr\"" om (RN) black
+hole, exhibiting Cauchy horizons with zero Hawking temperature, but in contrast
+to the RN black hole there is no entropy. Another geodesically complete
+extension with closed time-like curves involves space-times connecting a finite
+number of semi-infinite Minkowski space-times.
+","[{""version"":""v1"",""created"":""Thu, 22 Oct 1992 16:14:05 GMT""}]","2009-09-17"
+"hep-th/9210124",,"J. M. Isidro, J. M. F. Labastida and A. V. Ramallo","Polynomials for Torus Links from Chern-Simons Gauge Theories","50 pages","Nucl.Phys. B398 (1993) 187-236","10.1016/0550-3213(93)90632-Y",,"hep-th",,"  Invariant polynomials for torus links are obtained in the framework of the
+Chern-Simons topological gauge theory. The polynomials are computed as vacuum
+expectation values on the three-sphere of Wilson line operators representing
+the Verlinde algebra of the corresponding rational conformal field theory. In
+the case of the $SU(2)$ gauge theory our results provide explicit expressions
+for the Jones polynomial as well as for the polynomials associated to the
+$N$-state ($N>2$) vertex models (Akutsu-Wadati polynomials). By means of the
+Chern-Simons coset construction, the minimal unitary models are analyzed,
+showing that the corresponding link invariants factorize into two $SU(2)$
+polynomials. A method to obtain skein rules from the Chern-Simons knot
+operators is developed. This procedure yields the eigenvalues of the braiding
+matrix of the corresponding conformal field theory.
+","[{""version"":""v1"",""created"":""Thu, 22 Oct 1992 19:54:00 GMT""}]","2009-10-22"
+"hep-th/9210125","Andreas Honecker","G. von Gehlen and A. Honecker","Multi-particle structure in the Z_n-chiral Potts models","22 pages (LaTeX) plus 5 figures (included as PostScript),
+  BONN-HE-92-32","J.Phys. A26 (1993) 1275-1298","10.1088/0305-4470/26/6/012",,"hep-th",,"  We calculate the lowest translationally invariant levels of the Z_3- and
+Z_4-symmetrical chiral Potts quantum chains, using numerical diagonalization of
+the hamiltonian for N <= 12 and N <= 10 sites, respectively, and extrapolating
+N to infinity. In the high-temperature massive phase we find that the pattern
+of the low-lying zero momentum levels can be explained assuming the existence
+of n-1 particles carrying Z_n-charges Q = 1, ... , n-1 (mass m_Q), and their
+scattering states. In the superintegrable case the masses of the n-1 particles
+become proportional to their respective charges: m_Q = Q m_1. Exponential
+convergence in N is observed for the single particle gaps, while power
+convergence is seen for the scattering levels. We also verify that
+qualitatively the same pattern appears for the self-dual and integrable cases.
+For general Z_n we show that the energy-momentum relations of the particles
+show a parity non-conservation asymmetry which for very high temperatures is
+exclusive due to the presence of a macroscopic momentum P_m=(1-2Q/n)/\phi,
+where \phi is the chiral angle and Q is the Z_n-charge of the respective
+particle.
+","[{""version"":""v1"",""created"":""Thu, 22 Oct 1992 19:51:05 GMT""}]","2009-10-22"
+"hep-th/9210126",,"A. Borzi, A.Koubek","A Multi-Grid Method for the Resolution of Thermodynamic Bethe Ansatz
+  Equations","SISSA-123/92/FM, 15pp","Comput.Phys.Commun. 74 (1993) 118-126; Comput.Phys.Commun. 75
+  (1993) 118-126","10.1016/0010-4655(93)90169-D",,"hep-th",,"  We present a multi-grid algorithm in order to solve numerically the
+thermodynamic Bethe ansatz equations. We specifically adapt the program to
+compute the data of the conformal field theory reached in the ultraviolet
+limit. Submitted to Computer Physics Communications
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 12:36:07 GMT""}]","2009-10-22"
+"hep-th/9210127","A. Sagnotti","Augusto Sagnotti","A Note on the Green - Schwarz Mechanism in Open - String Theories","13 pages, phyzzx","Phys.Lett.B294:196-203,1992","10.1016/0370-2693(92)90682-T","ROM2F-92-49","hep-th",,"  An interesting feature of some open superstring models in $D < 10$ is the
+simultaneous presence, in the spectrum, of gauge fields and of a number of
+antisymmetric tensor fields. In these cases the Green-Schwarz mechanism can
+(and does) take a generalized form, resulting from the combined action of all
+the antisymmetric tensors. These novelties are illustrated referring to some
+simple rational models in six dimensions, and some of their implications for
+the low-energy effective field theory are pointed out.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 14:49:28 GMT""}]","2014-11-18"
+"hep-th/9210128","Michel Talon","J. Avan and M. Talon","Classical R-matrix structure for the Calogero model","Latex file 9 pages","Phys.Lett. B303 (1993) 33-37","10.1016/0370-2693(93)90039-K",,"hep-th",,"  A classical R-matrix structure is described for the Lax representation of the
+integrable n-particle chains of Calogero-Olshanetski-Perelo\-mov. This R-matrix
+is dynamical, non antisymmetric and non-invertible. It immediately triggers the
+integrability of the Type I, II and III potentials, and the algebraic
+structures associated with the Type V potential.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 15:50:01 GMT""}]","2009-10-22"
+"nucl-th/9210017","Niels R. Walet","R.D. Amado, R. Bijker, F. Cannata, J.P. Dedonder and N.R. Walet","Quartets of superdeformed bands and supersymmetry breaking","14 pages, REVTEX, PSI-92-","Int.J.Mod.Phys. E3 (1994) 171-182","10.1142/S0218301394000061",,"nucl-th",,"  We examine the prediction of supersymmetric quantum mechanics that bands with
+identical gamma-ray energies occur in quartets. The experimental data suggest
+that this scenario is actually realized in nature. In the $A=150$ mass region,
+four known pairs of isospectral bands can be grouped in two quartets, while
+there are indications of such patterns around $A=190$. We introduce a small
+supersymmetry breaking, necessary to describe the details of the data. We
+derive relations among the transition rates that can be used to test our
+predictions. pacs: 21.10.Re, 11.30.Pb, 21.60.Fw, 23.20.Lv
+","[{""version"":""v1"",""created"":""Thu, 22 Oct 1992 18:51:45 GMT""}]","2015-06-26"
+"nucl-th/9210018","Yasuo Umino","Y. Umino and F. Myhrer","Electromagnetic Decays of Hyperons (II)","41 pages (LaTex file), SUNYSB-NTG-92-07 (Accepted for publication in
+  Nucl. Phys. A)","Nucl.Phys. A554 (1993) 593-619","10.1016/0375-9474(93)90248-V",,"nucl-th",,"  Excited negative parity hyperon masses are calculated in a chiral bag model
+in which the pion and the kaon fields are treated as perturbations. We also
+calculate the hadronic widths of $\lama$ and $\lamb$ as well as the coupling
+constants of the lightest $I=0$ excited hyperon to the meson-baryon channels,
+and discuss how the dispersive effects of the hadronic meson-baryon decay
+channels affect the excited hyperon masses. Meson cloud corrections to the
+electromagnetic decay widths of the two lightest excited hyperons into ground
+states $\lamz$ and $\sigz$ are calculated within the same model and are found
+to be small. Our results strengthen the argument that predictions of these
+hyperon radiative decay widths provide an excellent test for various quark
+models of hadrons.
+","[{""version"":""v1"",""created"":""Fri, 23 Oct 1992 13:13:51 GMT""}]","2009-10-22"

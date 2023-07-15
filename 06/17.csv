@@ -1,0 +1,95 @@
+"alg-geom/9206006","Jean Francois Mestre","Jean-Francois Mestre","Corps quadratiques dont le 5-rang du groupe des classes est >=3","4 pages, LaTeX. (A paraitre dans les Comptes-Rendus de l'Acad. des
+  Sciences de Paris.)",,,,"alg-geom math.AG",,"  We prove the existence of infinitely many real and imaginary fields whose
+5-rank of the class group is >=3.
+","[{""version"":""v1"",""created"":""Tue, 16 Jun 1992 19:08:36 GMT""}]","2008-02-03"
+"alg-geom/9206007","Jean Francois Mestre","Jean-Francois Mestre","Rang de courbes elliptiques d'invariant donne","4 pages. (A paraitre aux Comptes-Rendus de l'Acad. des Sc. de Paris.)",,,,"alg-geom math.AG",,"  We prove that there exist infinitely many elliptic curves over \Q with given
+modular invariant, and rank >=2. Furthermore, there exist infinitely many
+elliptic curves over $\Q$ with invariant equal at 0 (resp. 1728) and rank >=6
+(resp. >=4).
+","[{""version"":""v1"",""created"":""Tue, 16 Jun 1992 19:31:34 GMT""}]","2008-02-03"
+"astro-ph/9206001","Robert Brandenberger","Robert H. Brandenberger (Brown) and Anne-Christine Davis (DAMTP,
+  Cambridge)","Electroweak Baryogenesis with Electroweak Strings","BROWN-HET-862, 12 pages; use phyzzx","Phys.Lett.B308:79-84,1993","10.1016/0370-2693(93)90604-G",,"astro-ph hep-ph",,"  If stable electroweak strings are copiously produced during the electroweak
+phase transition, they may contribute significantly to the presently observed
+baryon to entropy ratio of the Universe. This analysis establishes the
+feasibility of implementing an electroweak baryogenesis scenario without a
+first order phase transition.
+","[{""version"":""v1"",""created"":""Tue, 16 Jun 1992 19:23:00 GMT""}]","2010-11-01"
+"hep-lat/9206016","Jesus Salas","M. Garcia Perez and A. Gonzalez-Arroyo","Numerical study of Yang-Mills classical solutions on the twisted torus","20pp (fig.included)","J.Phys.A26:2667-2678,1993","10.1088/0305-4470/26/11/015",,"hep-lat",,"  We use the lattice cooling method to investigate the structure of some gauge
+fixed SU(2) Yang-Mills classical solutions of the euclidean equations of motion
+which are defined in the 3-torus with symmetric twisted boundary conditions.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 11:05:33 GMT""},{""version"":""v2"",""created"":""Thu, 18 Jun 1992 13:34:34 GMT""}]","2009-10-22"
+"hep-ph/9206225",,"Raman Sundrum and Stephen D. H. Hsu","Walking Technicolor and Electroweak Radiative Corrections","22 pages (4 figures, available upon request)","Nucl.Phys.B391:127-146,1993","10.1016/0550-3213(93)90144-E",,"hep-ph",,"  We examine the effect of walking technicolor dynamics on the electroweak $S$
+parameter and contrast it with the effect of QCD-like technicolor dynamics. Our
+main tools are the operator product expansion for the high-momentum behavior of
+the electroweak gauge boson vacuum polarizations and the analyticity of these
+polarizations which relate their low and high momentum behaviors. We show that
+whereas in large QCD-like technicolor models $S$ is large and positive, in
+walking technicolor models a negative contribution is emphasized, related to
+the large anomalous dimension of the technifermion condensate. Thus in walking
+technicolor $S$ is determined by a large cancellation of two competing effects.
+This may result in much smaller values of $S$ than in QCD-like technicolor,
+although considerable uncertainties are involved. We conclude that it is
+impossible to rule out walking technicolor based on the present experimental
+limits on $S$ and the present theoretical technology.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 01:10:28 GMT""}]","2009-09-15"
+"hep-ph/9206226","Ernest Ma","Ernest Ma","Fixing the Top-Quark and Higgs-Boson Masses","7 pages","Mod.Phys.Lett. A7 (1992) 2741-2746","10.1142/S0217732392002202","UCRHEP-T95 (June 1992)","hep-ph",,"  If the quadratic divergence of the standard electroweak model and its local
+variation with mass scale are both assumed to be zero, then a modified one-loop
+calculation yields m_t = 117 GeV and m_H = 183 GeV. Such a scenario may be the
+result of an underlying theory to be revealed at a much higher mass scale.
+","[{""version"":""v1"",""created"":""Tue, 16 Jun 1992 21:26:29 GMT""}]","2015-06-25"
+"hep-ph/9206227","Fabio Zwirner","J. R. Espinosa, M. Quir\'os and F. Zwirner","On the phase transition in the scalar theory","10 A4 pages, table and figures not included and available (by
+  ordinary mail) upon request, plain LATEX, CERN-TH.6451/92, IEM-FT-56/92","Phys.Lett.B291:115-124,1992","10.1016/0370-2693(92)90129-R",,"hep-ph",,"  The basic tool for the study of the electroweak phase transition is $V_{eff}
+(\phi,T)$, the one-loop finite-temperature effective potential, improved by
+all-loop resummations of the most important infrared contributions. In this
+paper we perform, as a first step towards a full analysis of the Standard Model
+case, a detailed study of the effective potential of the scalar theory. We show
+that subleading corrections to the self-energies lead to spurious terms, linear
+in the field-dependent mass $m(\phi)$, in the daisy-improved effective
+potential. Consistency at subleading order requires the introduction of
+superdaisy diagrams, which prevent the appearance of linear terms. The
+resulting $V_{eff}(\phi,T)$ for the scalar theory hints at a phase transition
+which is either second-order or very weakly first-order.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 13:44:51 GMT""}]","2008-11-26"
+"hep-th/9206064","Robert C. Myers","Rene Lafrance and Robert Myers","What unitary matrix models are not?","9 pages (use jnl)","Phys. Rev. D 47, 4785 (1993)","10.1103/PhysRevD.47.4785","McGill/92--25","hep-th",,"  We report results of two investigations of the double-scaling equations for
+the unitary matrix models. First, the fixed area partition functions have all
+positive coefficients only for the first four critical points. This implies
+that the critical points at $k\ge5$ describe non-unitary continuum theories.
+Secondly, we examine a conjectured connection to branched polymers, but find
+that the scaling solutions of the unitary models do not agree with those of a
+particular model describing branched polymers.
+","[{""version"":""v1"",""created"":""Tue, 16 Jun 1992 17:41:14 GMT""}]","2013-11-13"
+"hep-th/9206065",,"T. Altherr and T. Grandou","Thermal Field Theory and Infinite Statistics","25 pp, INLN 92/16, ENSLAPP-A-372/92","Nucl.Phys.B402:195-216,1993","10.1016/0550-3213(93)90641-2",,"hep-th",,"  We construct a quantum thermal field theory for scalar particles in the case
+of infinite statistics. The extension is provided by working out the Fock space
+realization of a ""quantum algebra"", and by identifying the hamiltonian as the
+energy operator. We examine the perturbative behavior of this theory and in
+particular the possible extension of the KLN theorem, and argue that it appears
+as a stable structure in a quantum field theory context.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 10:09:36 GMT""},{""version"":""v2"",""created"":""Wed, 28 Oct 1992 14:02:36 GMT""}]","2010-11-01"
+"hep-th/9206066","C. V. Johnson","Clifford V. Johnson, Tim R. Morris and Peter L. White","The Boundary Cosmological Constant in Stable 2D Quantum Gravity","(Plain Tex, 11pp, 4 figures available on request) SHEP 91/92-21","Phys.Lett. B292 (1992) 283-289","10.1016/0370-2693(92)91176-A",,"hep-th",,"  We study further the r\^ole of the boundary operator $\O_B$ for macroscopic
+loop length in the stable definition of 2D quantum gravity provided by the
+$[{\tilde P},Q]=Q$ formulation. The KdV flows are supplemented by an additional
+flow with respect to the boundary cosmological constant $\sigma$. We
+numerically study these flows for the $m=1$, $2$ and $3$ models, solving for
+the string susceptibility in the presence of $\O_B$ for arbitrary coupling
+$\sigma$. The spectrum of the Hamiltonian of the loop quantum mechanics is
+continuous and bounded from below by $\sigma$. For large positive $\sigma$, the
+theory is dominated by the `universal' $m=0$ topological phase present only in
+the $[{\tilde P},Q]=Q$ formulation. For large negative $\sigma$, the
+non--perturbative physics approaches that of the $[P,Q]=1$ definition, although
+there is no path to the unstable solutions of the $[P,Q]=1$ $m$-even models.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 08:55:41 GMT""}]","2009-10-22"
+"hep-th/9206067","A. A. Tseytlin","A.A. Tseytlin","String cosmology and dilaton","30 pages, DAMTP-92-36, harvmac","in: String quantum gravity and physics at the Planck scale, erice,
+  21-28 June 1992, ed. N. Sachez, World Scientific, 1993, p.202",,,"hep-th",,"  We discuss some aspects of string cosmology with an emphasis on the role
+played by the dilaton.
+  A cosmological scenario based on the assumption that all spatial dimensions
+are periodic so that winding modes play an important role is reviewed. A
+possibility of a transition from a `string phase' to the `standard' cosmology
+via a radiation dominated era and inflation is analysed. We also summarise some
+recent results about time dependent solutions of tree level string equations.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 10:20:14 GMT""}]","2007-05-23"
+"hep-th/9206069",,"Edward Witten","Two Dimensional String Theory And Black Holes","15 pp",,,"IASSNS-HEP-92/24","hep-th",,"  This lecture surveys a few loosely related topics, ranging from the scarcity
+of quantum field theories -- and the role that this has played, and still
+plays, in physics -- to paradoxes involving black holes in soluble two
+dimensional string theory and the question of whether naked singularities might
+be of even greater interest to string theorists than black holes.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 14:36:00 GMT""}]","2007-05-23"

@@ -1,0 +1,25 @@
+"hep-ph/9203210",,"F. del Aguila, M. Martinez and M. Quiros","Precision bounds on $m_H$ and $m_t","11 pages","Nucl.Phys. B381 (1992) 451-466","10.1016/0550-3213(92)90485-T",,"hep-ph",,"  We perform a fit to precise electroweak data to determine the Higgs and top
+masses. Penalty functions taking into account their production limits are
+included. We find ${\displaystyle m_H=65^{+245}_{-4}\ GeV}$ and ${\displaystyle
+m_t=122^{+25}_{-20}\ GeV}$. However whereas the top $\chi^2$ distribution
+behaves properly near the minimum, the Higgs $\chi^2$ distribution does not,
+indicating a statistical fluctuation or new physics. In fact no significative
+bound on the Higgs mass can be given at present. However, if the LEP accuracy
+is improved and the top is discovered in the preferred range of top masses, a
+meaningful bound on the Higgs mass could be obtained within the standard model
+framework.
+","[{""version"":""v1"",""created"":""Sun, 15 Mar 1992 16:26:39 GMT""}]","2009-10-22"
+"hep-ph/9203211",,"Anton Rebhan (CERN, Geneva)","Comment on ``Damping of energetic gluons and quarks in high-temperature
+  QCD''","5 pages","Phys.Rev. D46 (1992) 482-483","10.1103/PhysRevD.46.482",,"hep-ph",,"  Burgess and Marini have recently pointed out that the leading contribution to
+the damping rate of energetic gluons and quarks in the QCD plasma, given by
+$\gamma=c g^2\ln(1/g)T$, can be obtained by simple arguments obviating the need
+of a fully resummed perturbation theory as developed by Braaten and Pisarski.
+Their calculation confirmed previous results of Braaten and Pisarski, but
+contradicted those proposed by Lebedev and Smilga. While agreeing with the
+general considerations made by Burgess and Marini, I correct their actual
+calculation of the damping rates, which is based on a wrong expression for the
+static limit of the resummed gluon propagator. The effect of this, however,
+turns out to be cancelled fortuitously by another mistake, so as to leave all
+of their conclusions unchanged. I also verify the gauge independence of the
+results, which in the corrected calculation arises in a less obvious manner.
+","[{""version"":""v1"",""created"":""Mon, 16 Mar 1992 10:16:09 GMT""}]","2009-10-22"

@@ -1,0 +1,173 @@
+"cond-mat/9212020",,"Zheng Weihong and C.J. Hamer","Spin-Wave Theory and Finite-Size Scaling for the Heisenberg
+  Antiferromagnet","19 pages(3 figures not included), RevTeX 2.0, Submitted to Phys. Rev
+  B (BV4570)",,"10.1103/PhysRevB.47.7961",,"cond-mat",,"  Spin-wave perturbation theory for the Heisenberg antiferromagnet at zero
+temperature is used to compute the finite-lattice corrections to the ground
+state energy, the staggered magnetization and the energy gap. The dispersion
+relation, the spin-wave velocity and the bulk ground state energy to order
+$O(1/S^2)$ are also computed for the square lattice. The results agree very
+well with the predictions of Neuberger and Ziman and Fisher.
+","[{""version"":""v1"",""created"":""Mon, 14 Dec 1992 23:47:55 GMT""}]","2009-10-22"
+"cond-mat/9212021","Rudolph A Romer","Rudolf A. R\""omer and Bill Sutherland","Test of Conformal Invariance in One-Dimensional Quantum Liquid with
+  Long-Range Interaction","25 pages","Phys. Rev. B 48, 6058-6064 (1993)","10.1103/PhysRevB.48.6058","UU-rar-92-1214","cond-mat hep-th",,"  We numerically study the momentum distribution of one-dimensional Bose and
+Fermi systems with long-range interaction $g/r^2$ for the ``special'' values
+$g= -\frac{1}{2}, 0, 4$, singled out by random matrix theory. The critical
+exponents are shown to be independent of density and in excellent agreement
+with estimates obtained from $c=1$ conformal finite-size scaling analysis.
+","[{""version"":""v1"",""created"":""Tue, 15 Dec 1992 01:02:53 GMT""}]","2014-09-02"
+"cond-mat/9212022",,"F. Guinea, J. Gonzalez and M.A. H. Vozmediano","Electronic interactions in fullerene spheres","12 pages. No figures",,"10.1103/PhysRevB.47.16576",,"cond-mat",,"  The electron-phonon and Coulomb interactions inC$_{60}$, and larger fullerene
+spheres are analyzed. The coupling between electrons and intramolecular
+vibrations give corrections $\sim 1 - 10$ meV to the electronic energies for
+C$_{60}$, and scales as $R^{-4}$ in larger molecules. The energies associated
+with electrostatic interactions are of order $\sim 1 - 4$ eV, in C$_{60}$ and
+scale as $R^{-1}$. Charged fullerenes show enhanced electron-phonon coupling,
+$\sim 10$ meV, which scales as $R^{-2}$. Finally, it is argued that non only
+C$_{60}^{-}$, but also C$_{60}^{--}$ are highly polarizable molecules. The
+polarizabilities scale as $R^3$ and $R^4$, respectively. The role of this large
+polarizability in mediating intermolecular interactions is also discussed.
+","[{""version"":""v1"",""created"":""Tue, 15 Dec 1992 15:52:00 GMT""}]","2009-10-22"
+"gr-qc/9212010",,"A. Casher and F. Englert","Black Hole Tunneling Entropy and the Spectrum of Gravity","26 pages + 3 figures, phyzzx macropackage, figures available from
+  Authors","Class.Quant.Grav.10:2479-2494,1993","10.1088/0264-9381/10/12/007","ULB-TH 8/92 and TAUP 2017-92","gr-qc hep-th",,"  The tunneling approach for entropy generation in quantum gravity is applied
+to black holes. The area entropy is recovered and shown to count only a tiny
+fraction of the black hole degeneracy. The latter stems from the extension of
+the wave function outside the barrier. In fact the semi-classical analysis
+leads to infinite degeneracy. Evaporating black holes leave then infinitely
+degenerate ""planckons"" remnants which can neither decay into, nor be formed
+from, ordinary matter in a finite time. Quantum gravity opens up at the Planck
+scale into an infinite Hilbert space which is expected to provide the
+ultraviolet cutoff required to render the theory finite in the sector of large
+scale physics.
+","[{""version"":""v1"",""created"":""Tue, 15 Dec 1992 13:51:00 GMT""}]","2010-04-06"
+"hep-lat/9212017","Tony Kennedy","A. D. Kennedy","Progress in Lattice Field Theory Algorithms","27 pages","Nucl.Phys.Proc.Suppl. 30 (1993) 96-107","10.1016/0920-5632(93)90180-E",,"hep-lat",,"  I present a summary of recent algorithmic developments for lattice field
+theories. In particular I give a pedagogical introduction to the new
+Multicanonical algorithm, and discuss the relation between the Hybrid
+Overrelaxation and Hybrid Monte Carlo algorithms. I also attempt to clarify the
+role of the dynamical critical exponent z and its connection with
+`computational cost.' [Includes four PostScript figures]
+","[{""version"":""v1"",""created"":""Mon, 14 Dec 1992 19:10:38 GMT""}]","2009-10-22"
+"hep-lat/9212018","Paul B. Mackenzie","Paul B. Mackenzie","Heavy Quark Physics","15 pages. Review presented at {\em Lattice 92}, Amsterdam, Sept.
+  15--19, 1992. Figures were xeroxed from reviewed articles and are not
+  available electronically, sorry","Nucl.Phys.Proc.Suppl.30:35-49,1993","10.1016/0920-5632(93)90176-7",,"hep-lat",,"  Lattice calculations of heavy quark systems provide very good measures of the
+lattice spacing, a key element in recent determinations of the strong coupling
+constant using lattice methods. They also provide excellent testing grounds for
+lattice methods in general. I review recent phenomenological and technical
+developments in this field.
+","[{""version"":""v1"",""created"":""Mon, 14 Dec 1992 20:02:18 GMT""}]","2010-11-01"
+"hep-ph/9212258","Pramoda Mohapatra","P. K. Mohapatra","How unique are the MSW parameters ?","12 pages, 4 figures in two pages",,,"COLO-HEP-296","hep-ph",,"  We investigate the effect of a possible large frozen-in magnetic field in the
+core of the sun and a neutrino magnetic moment of the order of $10^{-10}$ Bohr
+magneton on the MSW parameters. Such a possibility can completely depolarize
+the $\nu_{eL}$ resulting in a factor of half of the emitted number. This in
+combination with MSW can explain the present experimental data on solar
+neutrinos but with a different region of the parameter space than the regular
+MSW alone. In this scenario there is a larger region of parameter space
+allowed. There is a large strip of parameter space corresponding to adiabatic
+solution and no solution for large mixing angle region. The non-adiabatic
+region still remains as a solution but shifted and larger relative to the
+regular MSW.
+","[{""version"":""v1"",""created"":""Mon, 14 Dec 1992 17:11:47 GMT""}]","2007-05-23"
+"hep-ph/9212259","Pramoda Mohapatra","P. K. Mohapatra Pages 9 COLO-HEP-271","Differentiating various extra $Z^{\prime}$'s at Future Colliders",,"Mod.Phys.Lett.A8:771-776,1993","10.1142/S0217732393000799",,"hep-ph",,"  We propose a way to differentiate between various extra $U(1)$ models using
+flavor tagging in the decay modes $Z^{\prime}\rightarrow q{\bar{q}}$ once the
+extra $Z^{\prime}$ is observed at future colliders in the lepton channel. A
+generalization of the R parameter, namely, one for charge $\frac{1}{3}$ and one
+for charge $\frac{2}{3}$ quark gives a two parameter test for the various
+models. Flavor tagging eliminates the uncertainty because of extra fermions and
+can reduce the QCD background at SSC/LHC dramatically. For $E_{6}$ and $SO(10)$
+based models the former is always 3. This seems to be a very good way to
+eliminate certain models.
+","[{""version"":""v1"",""created"":""Mon, 14 Dec 1992 17:32:07 GMT""}]","2014-11-17"
+"hep-ph/9212260","JoAnne Hewett","J.L. Hewett","Constraints on the Charged Higgs Sector from B Physics","4 pages (+ 3 figures, available by request), LaTex,
+  ANL-HEP-CP-92-125, Presented at the 1992 Meeting of the DPF, Fermilab,
+  November 1992",,,,"hep-ph",,"  We present the bounds that can be obtained on the charged Higgs sector in
+two-Higgs-Doublet Models from measurements at LEP of the decay $B\to D\tau\nu$,
+and from searches by CLEO for the inclusive decay $b\to s\gamma$.
+","[{""version"":""v1"",""created"":""Mon, 14 Dec 1992 17:06:45 GMT""}]","2007-05-23"
+"hep-ph/9212261","JoAnne Hewett","M.A. Doncheski and J.L. Hewett","Signals for Virtual Leptoquark Exchange at Colliders","4 pages (+ 2 figures, available by request), LaTex, Presented at the
+  1992 Meeting of the DPF, Fermilab, November 1992, ANL-HEP-CP-92-126",,,,"hep-ph",,"  We study the effects of virtual leptoquark exchange on charged current and
+neutral current processes at HERA, on di-lepton production at the Tevatron, and
+on quark pair production at LEP II. We present the areas of parameter space
+that can be excluded at these colliders by searching for deviations from
+Standard Model expectations.
+","[{""version"":""v1"",""created"":""Mon, 14 Dec 1992 17:20:27 GMT""}]","2007-05-23"
+"hep-ph/9212262","John N. Bahcall","John Bahcall","Summary Talk: International Symposium on Neutrino Astrophysics,
+  Takayama/Kamioka (10/'92)","11 pages (figures not included). For a hard copy with the figures,
+  write: BEST@IASSNS.BITNET. Institute for",,,"Advanced Study number AST 92/59.","hep-ph astro-ph",,"  Contents:
+  1. The Conference
+  2. Solar Neutrinos
+  -A. Operating Experiments
+  -B. New Funded Experiments
+  -C. Are Solar Neutrino Fluxes Time Dependent?
+  -D. Have $pp$ Neutrinos Been Detected?
+  -E. Is Directionality Required for Astronomical Observations?
+  -F. Is There a Solar Neutrino Problem?
+  -G. What Have We Learned?
+  3. Supernova Neutrinos
+  4. Atmospheric Neutrinos
+  5. High-Energy Neutrinos
+  6. Our Field Is Flourishing
+","[{""version"":""v1"",""created"":""Mon, 14 Dec 1992 18:52:00 GMT""}]","2007-05-23"
+"hep-ph/9212263","Kiyoshi Kudo","E.R. Nakamura, K. Kudo, T. Hashimoto, I. Yoneda","Intermittency and Phase Transition","7 pages, LaTeX, FUP/December2/1992",,,,"hep-ph",,"  On the basis of a lattice gas model and the convolution formula with cell
+construction scheme, we demonstrate that intermittency in the rapidity-space
+with respect to the scaled moments comes from a phase transition between
+ordered phase and disordered phase. It is pointed out that as concerns the
+power-law behavior of the moments the critical exponent depends on the size of
+rapidity interval in the case of the system which is not enough near to the
+critical point.
+","[{""version"":""v1"",""created"":""Tue, 15 Dec 1992 12:35:24 GMT""}]","2007-05-23"
+"hep-ph/9212264",,"T. Altherr, E. Petitgirard, T. del Rio Gaztelurrutia","Photon Propagation in Dense Media","12pp (3 PS figures available upon request), ENSLAPP-A-412/92","Astropart.Phys.1:289-296,1993","10.1016/0927-6505(93)90015-6",,"hep-ph",,"  Using thermal field theory, we derive simple analytic expressions for the
+spectral density of photons in degenerate QED plasmas, without assuming the
+usual non or ultra-relativistic limit. We recover the standard results in both
+cases. Although very similar in ultra-relativistic plasmas, transverse and
+longitudinal excitations behave very differently as the electron Fermi momentum
+decreases.
+","[{""version"":""v1"",""created"":""Tue, 15 Dec 1992 14:53:45 GMT""}]","2011-05-23"
+"hep-th/9212087","Maarten Bergvelt","M. J. Bergvelt, A. P. E. ten Kroode","Partitions, Vertex Operator Constructions and Multi-component KP
+  equations","55 pages (repaired TeX problem, hopefully)","Pacific J. Math. 171 (1995) 23-88",,,"hep-th math.QA",,"  For every partition of a positive integer $n$ in $k$ parts and every point of
+an infinite Grassmannian we obtain a solution of the $k$ component
+differential-difference KP hierarchy and a corresponding Baker function. A
+partition of $n$ also determines a vertex operator construction of the
+fundamental representations of the infinite matrix algebra $gl_\infty$ and
+hence a $\tau$ function. We use these fundamental representations to study the
+Gauss decomposition in the infinite matrix group $Gl_\infty$ and to express the
+Baker function in terms of $\tau$-functions. The reduction to loop algebras is
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 14 Dec 1992 16:09:21 GMT""},{""version"":""v2"",""created"":""Tue, 15 Dec 1992 20:11:02 GMT""}]","2008-02-03"
+"hep-th/9212088",,"E.V. Shuryak and J.J.M. Verbaarschot","Random matrix theory and spectral sum rules for the Dirac operator in
+  QCD","18 pages, SUNY-NTG-92/45","Nucl.Phys.A560:306-320,1993","10.1016/0375-9474(93)90098-I",,"hep-th hep-lat",,"  We construct a random matrix model that, in the large $N$ limit, reduces to
+the low energy limit of the QCD partition function put forward by Leutwyler and
+Smilga. This equivalence holds for an arbitrary number of flavors and any value
+of the QCD vacuum angle. In this model, moments of the inverse squares of the
+eigenvalues of the Dirac operator obey sum rules, which we conjecture to be
+universal. In other words, the validity of the sum rules depends only on the
+symmetries of the theory but not on its details. To illustrate this point we
+show that the sum rules hold for an interacting liquid of instantons. The
+physical interpretation is that the way the thermodynamic limit of the spectral
+density near zero is approached is universal. However, its value, $i.e.$ the
+chiral condensate, is not.
+","[{""version"":""v1"",""created"":""Mon, 14 Dec 1992 17:06:17 GMT""}]","2016-09-06"
+"hep-th/9212089","Dieter L\""ust","L. Ibanez and D.Luest","A Comment on Duality Transformations and (Discrete) Gauge Symmetries in
+  Four-Dimensional Strings","15 pages, CERN-TH.6737/92","Phys.Lett.B302:38-46,1993","10.1016/0370-2693(93)90632-R",,"hep-th",,"  We discuss the relationship between target space modular invariance and
+discrete gauge symmetries in four-dimensional orbifold-like strings. First we
+derive the modular transformation properties of various string vertex operators
+of the massless string fields. Then we find that for supersymmetric
+compactifications the action of the duality elements, leaving invariant the
+multicritical points, corresponds to a combination of finite K\""ahler and gauge
+transformations. However, those finite gauge transformations are not elements
+of a remnant discrete gauge symmetry. We suggest that, at least in the case of
+Gepner models corresponding to tensor products of identical minimal models, the
+duality element leaving invariant the multicritical point corresponds to the
+${\bf Z}_{k+2}$ symmetry of any of the minimal $N=2$ models appearing in the
+tensor product.
+","[{""version"":""v1"",""created"":""Tue, 15 Dec 1992 13:36:29 GMT""}]","2009-10-07"
+"hep-th/9212090",,"B.Rusakov","Large-N quantum gauge theories in two dimensions","6pp., Latex, TAUP-2012-92 (revised: few changes, some references
+  added)","Phys.Lett. B303 (1993) 95-98","10.1016/0370-2693(93)90049-N",,"hep-th hep-lat",,"  The partition function of a two-dimensional quantum gauge theory in the
+large-$N$ limit is expressed as the functional integral over some scalar field.
+The large-$N$ saddle point equation is presented and solved. The free energy is
+calculated as the function of the area and of the Euler characteristic. There
+is no non-trivial saddle point at genus $g>0$. The existence of a non-trivial
+saddle point is closely related to the weak coupling behavior of the theory.
+Possible applications of the method to higher dimensions are briefly discussed.
+","[{""version"":""v1"",""created"":""Tue, 15 Dec 1992 13:37:08 GMT""},{""version"":""v2"",""created"":""Sun, 3 Jan 1993 16:45:25 GMT""}]","2009-10-22"
+"hep-th/9212091","Judy Mack","C. R. Hagen","Comment on ""Attractive Forces between Electrons in 2 + 1 Dimensional
+  QED""","4 pages","Phys.Rev.Lett. 71 (1993) 202","10.1103/PhysRevLett.71.202","UR-1297, ER-40685-746","hep-th",,"  It is shown that a model recently proposed for numerical calculations of
+bound states in QED$_3$ is in fact an improper truncation of the Aharonov-Bohm
+potential.
+","[{""version"":""v1"",""created"":""Tue, 15 Dec 1992 14:31:00 GMT""}]","2016-09-06"

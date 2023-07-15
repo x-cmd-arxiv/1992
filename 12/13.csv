@@ -1,0 +1,49 @@
+"hep-ph/9212255",,"Harry J. Lipkin","Bose-Einstein Correlations for Mixed Neutral Mesons","11 pages","Phys.Rev.Lett.69:3700-3703,1992","10.1103/PhysRevLett.69.3700",,"hep-ph",,"  Correlations are shown to arise in nonidentical mixed-particle pairs like
+$K^o \bar K^o$ when observed in identical decay modes like $K_S K_S$ in
+multiparticle final states containing many partial waves. No enhancement is
+found in any single partial wave and all partial wave analyses of the s-wave
+threshold resonance $a_o$ and $f_o$ should give the same results for all decay
+modes. In CP violation experiments where $B^o - \bar B^o$ pairs are inclusively
+produced and correlated decays into $\psi K_S$ and leptonic modes are observed,
+the CP-violating lepton asymmetry is enhanced by a factor of two in the
+kinematic region where Bose enhancement occurs.
+","[{""version"":""v1"",""created"":""Sun, 13 Dec 1992 15:13:00 GMT""}]","2010-11-01"
+"hep-th/9212079",,"A. Gamba, I. Kolokolov and M. Martellini","Mean Field Approach to the Giant Wormhole Problem","10 pages, Latex","Int.J.Mod.Phys. D3 (1994) 421-430","10.1142/S0218271894000605",,"hep-th",,"  We introduce a gaussian probability density for the space-time distribution
+of wormholes, thus taking effectively into account wormhole interaction. Using
+a mean-field approximation for the free energy, we show that giant wormholes
+are probabilistically suppressed in a homogenous isotropic ``large'' universe.
+","[{""version"":""v1"",""created"":""Sat, 12 Dec 1992 16:53:34 GMT""}]","2015-06-26"
+"hep-th/9212080",,"M. Martellini, M. Spreafico and K. Yoshida","A Continuum Approach to 2D-Quantum Gravity for C>1","14 pages, phyzzx.tex",,,,"hep-th",,"  A Lagrangian continuum model for a string theory with central charge $c>1$ is
+formulated by incorporating Weyl and diffeomorphism gauge fixing. In particular
+the tachyon scattering amplitudes are deduced generalizing the standard $c\le
+1$ computation.
+","[{""version"":""v1"",""created"":""Sat, 12 Dec 1992 17:17:13 GMT""}]","2007-05-23"
+"hep-th/9212081","Eugeny Ivanov","Stefano Bellucci, Evgenyi Ivanov and Sergey Krivonos","Multi-Field Coset Space Realizations of $w_{1+\infty}$","19 pages, LaTex, LNF-92/099 (P), ENSLAPP-L-409/92 (November 1992)","Class.Quant.Grav.10:1711-1730,1993","10.1088/0264-9381/10/9/014",,"hep-th",,"  We extend the coset space formulation of the one-field realization of
+$w_{1+\infty}$ to include more fields as the coset parameters. This can be done
+either by choosing a smaller stability subalgebra in the nonlinear realization
+of $w_{1+\infty}$ symmetry, or by considering a nonlinear realization of some
+extended symmetry, or by combining both options. We show that all these
+possibilities give rise to the multi-field realizations of $w_{1+\infty}$. We
+deduce the two-field realization of $w_{1+\infty}$ proceeding from a coset
+space of the symmetry group $\tilde{G}$ which is an extension of $w_{1+\infty}$
+by the second self-commuting set of higher spin currents. Next, starting with
+the unextended $w_{1+\infty}$ but placing all its spin 2 generators into the
+coset, we obtain a new two-field realization of $w_{1+\infty}$ which
+essentially involves a $2D$ dilaton. In order to construct the invariant action
+for this system we add one more field and so get a new three-field realization
+of $w_{1+\infty}$. We re-derive it within the coset space approach, by applying
+the latter to an extended symmetry group $\hat{G}$ which is a nonlinear
+deformation of $\tilde{G}$. Finally we present some multi-field generalizations
+of our three-field realization and discuss several intriguing parallels with
+$N=2$ strings and conformal affine Toda theories.
+","[{""version"":""v1"",""created"":""Sat, 12 Dec 1992 20:48:36 GMT""}]","2010-04-06"
+"hep-th/9212082","Frank Nijhoff","F.W. Nijhoff and H.W. Capel (Clarkson University)","Integrable Quantum Mappings and Quantization Aspects of Integrable
+  Discrete-time Systems","INS #193 (september 1992). to be published in Proc. of the NATO ARW
+  on Appl. of Anal. and Geom. Meth. to Nonlinear Diff. Eqs., Exeter, July 1992",,,,"hep-th",,"  We study a quantum Yang-Baxter structure associated with non-ultralocal
+lattice models. We discuss the canonical structure of a class of integrable
+quantum mappings, i.e. canonical transformations preserving the basic
+commutation relations. As a particular class of solutions we present two
+examples of quantum mappings associated with the lattice analogues of the KdV
+and MKdV equations, together with their exact quantum invariants. plain LaTeX,
+equations.sty appended
+","[{""version"":""v1"",""created"":""Sun, 13 Dec 1992 06:47:59 GMT""}]","2007-05-23"

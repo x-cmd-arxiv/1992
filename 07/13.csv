@@ -1,0 +1,35 @@
+"hep-th/9207035",,"E.S.Fradkin and V.Ya.Linetsky","Classification of Superconformal Algebras with Quadratic Non-Linearity","11 pages, ITP-SB-92-34, Latex",,,,"hep-th",,"  A unified treatment of both superconformal and quasisuperconformal algebras
+with quadratic non-linearity is given. General formulas describing their
+structure are found by solving the Jacobi identities. A complete classification
+of quasisuperconformal and ${\bf Z}_2\times{\bf Z}_2$-graded algebras are
+obtained and in addition to the previously known cases five exceotional
+quasisuperconformal algebras and a series of ${\bf Z}_2\times{\bf
+Z}_2$-superconformal algebras containing affine
+$\widehat{sp}_2\otimes\widehat{osp}(N|2M)$ are constructed.
+","[{""version"":""v1"",""created"":""Sun, 12 Jul 1992 20:51:00 GMT""}]","2007-05-23"
+"hep-th/9207036",,"Jan Govaerts","Finite Euler Hierarchies And Integrable Universal Equations","(replaces previous unprintable version corrupted mailer) 13 p.,
+  (Plain TeX), DTP-92/35","Czech.J.Phys. 42 (1992) 1313-1324","10.1007/BF01589661",,"hep-th",,"  Recent work on Euler hierarchies of field theory Lagrangians iteratively
+constructed {}from their successive equations of motion is briefly reviewed. On
+the one hand, a certain triality structure is described, relating arbitrary
+field theories, {\it classical\ts} topological field theories -- whose
+classical solutions span topological classes of manifolds -- and
+reparametrisation invariant theories -- generalising ordinary string and
+membrane theories. On the other hand, {\it finite} Euler hierarchies are
+constructed for all three classes of theories. These hierarchies terminate with
+{\it universal\ts} equations of motion, probably defining new integrable
+systems as they admit an infinity of Lagrangians. Speculations as to the
+possible relevance of these theories to quantum gravity are also suggested.
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 08:55:24 GMT""},{""version"":""v2"",""created"":""Thu, 23 Jul 1992 16:02:59 GMT""}]","2009-10-22"
+"hep-th/9207037","Alan H. Guth","Sean M. Carroll, Edward Farhi, and Alan H. Guth","Gott Time Machines Cannot Exist in an Open (2+1)-Dimensional Universe
+  With Timelike Total Momentum","34 pages, RevTeX v. 2.0 or 2.1, 3 Postscript figures appended, June,
+  1992. (Updated version, July 30, 1992: differs from original by modifications
+  in references.)",,,"MIT preprint CTP#2117","hep-th gr-qc hep-ph",,"  We prove the title.
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 12:47:00 GMT""},{""version"":""v2"",""created"":""Mon, 13 Jul 1992 14:04:00 GMT""},{""version"":""v3"",""created"":""Tue, 11 Aug 1992 07:56:00 GMT""}]","2008-02-03"
+"hep-th/9207038","Shamir Yigal","Yigal Shamir","Compensating Fields and Anomalies in Supergravity","24 pages, IC/92/131","Nucl.Phys. B389 (1993) 323-348","10.1016/0550-3213(93)90324-I",,"hep-th",,"  We discuss the quantization of theories which are formulated using
+compensating fields. In particular, we discuss the relation between the
+components formulation and the superspace formulation of supergravity theories.
+The requirement that the compensating field can be eliminated at the quantum
+level gives rise to on-shell constraints on the operators of the theory. In
+some cases, the constraints turn out to be physically unacceptable. Using these
+considerations we show that new minimal supergravity is in general anomalous.
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 13:29:17 GMT""}]","2009-10-22"

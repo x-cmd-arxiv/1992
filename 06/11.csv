@@ -1,0 +1,138 @@
+"cond-mat/9206003","Alexander V. Balatsky","Elihu Abrahams(Rutgers), Alexander Balatsky(Los Alamos), J.R.
+  Schrieffer(NHMFL), Philip B. Allen(SUNY)","Interactions for odd-omega gap singlet superconductors","This paper corrects some errors (including the omission of one of the
+  authors) in the original 9206003 and also a minor error in the published
+  version, Phys. Rev. B {\bf 47}, 513 (1993). It also contains some comments on
+  subsequent claims of the impossibility of odd-frequency pairing. Latex file",,"10.1103/PhysRevB.47.513","LA-UR-95-08","cond-mat",,"  A class of singlet superconductors with a gap function $\Delta({\bf k},
+\omega_n)$ which is {\it odd} in both momentum and Matsubara frequency was
+proposed recently \cite{ba}. To show an instability in the {\it odd} gap
+channel, a model phonon propagator was used with the $p$-wave interaction
+strength larger than the $s$-wave. We argue that the positive scattering matrix
+element entering the Eliashberg equations leads to a constraint on the relative
+strength of $p$- and $s$-wave interactions which inhibits odd pairing. However,
+a general spin dependent electron-electron interaction can satisfy all
+constraints and produce the odd singlet gap. A possibility which may lead to an
+odd gap is a strongly antiferromagnetically correlated system, such as a
+high-$T_c$ material.
+","[{""version"":""v1"",""created"":""Wed, 10 Jun 1992 18:51:08 GMT""},{""version"":""v2"",""created"":""Tue, 23 Jun 1992 18:08:57 GMT""},{""version"":""v3"",""created"":""Wed, 16 Aug 1995 18:48:25 GMT""}]","2009-10-22"
+"hep-lat/9206013","David Kaplan","D.B. Kaplan","A Method for Simulating Chiral Fermions on the Lattice","10 pages, UCSD-PTH-92-16","Phys.Lett.B288:342-347,1992","10.1016/0370-2693(92)91112-M",,"hep-lat hep-ph",,"  A method for simulating chiral gauge theories on the lattice is proposed,
+involving zeromodes on a topological defect. Lattice doublers may be decoupled
+in a gauge invariant manner, and flavor anomalies can be directly observed on a
+finite lattice. (Requires harvmac)
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 00:46:24 GMT""}]","2011-07-19"
+"hep-lat/9206014","Karl Jansen","Karl Jansen","Chiral Fermions and Anomalies on a Finite Lattice","UCSD/PTH 92-18","Phys.Lett. B288 (1992) 348-354","10.1016/0370-2693(92)91113-N",,"hep-lat hep-ph",,"  A recent proposal by Kaplan for a chiral gauge theory on the lattice is
+tested with background gauge fields. The spectrum of the finite lattice
+Hamiltonian is calculated and the existence of a chiral fermion is
+demonstrated. Lattice doublers are found to decouple. The flavor anomalies,
+which are in agreement with the continuum anomaly relation, are obeserved on a
+finite lattice. Non-trivial anomaly cancellation is observed in a chiral gauge
+current.
+","[{""version"":""v1"",""created"":""Wed, 10 Jun 1992 23:58:37 GMT""}]","2009-10-22"
+"hep-ph/9206214","David Kaplan","A. G. Cohen, D. B. Kaplan and A. E. Nelson","Debye Screening and Baryogenesis during the Electroweak Phase Transition","12 pages, UCSD-PTH-92-19, BU-HEP-92-20","Phys.Lett. B294 (1992) 57-62","10.1016/0370-2693(92)91640-U",,"hep-ph",,"  We examine a recent claim that Debye screening will affect the charge
+transport mechanism of anomalous electroweak baryogenesis. We show that the
+effects of gauge charge screening do not affect the baryon number produced
+during a first order electroweak phase transition. (Requires harvmac.tex)
+","[{""version"":""v1"",""created"":""Wed, 10 Jun 1992 21:35:55 GMT""}]","2009-10-22"
+"hep-ph/9206215","Daijiro Suematsu","Yasuji Ono and Daijiro Suematsu","Neutrino Magnetic Moment Model and Solar Neutrino Problem","DPKU9206 BUTP-92/09 (with 4 figures)",,,,"hep-ph",,"  We examine the time variation problem of solar neutrinos in the spin-flavour
+precession mechanism taking into account the $\nu_e$-$\nu_{\mu}$ mixing. The
+models with the small and large mixing angle are studied. It shows that the
+models which realize $m_{\nu_e\nu_e} \sim m_{\nu_{\mu}\nu_{\mu}} \ll
+m_{\nu_e\nu_{\mu}}$ and $m_{\nu_e\nu_e} \sim m_{\nu_{\mu}\nu_{\mu}} {^>_\sim}
+m_{\nu_e\nu_{\mu}}$ seem to have preferable time variation features. It is very
+interesting that the former type of models can give the large magnetic moment
+to neutrinos and also suppress the radiative mass correction naturally.
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 02:22:20 GMT""}]","2007-05-23"
+"hep-ph/9206216","John Preskill","John Preskill","Semilocal Defects","41 pages, CALT-68-1787","Phys.Rev.D46:4218-4231,1992","10.1103/PhysRevD.46.4218",,"hep-ph hep-th",,"  I analyze the interplay of gauge and global symmetries in the theory of
+topological defects. In a two-dimensional model in which both gauge symmetries
+and {\it exact} global symmetries are spontaneously broken, stable vortices may
+fail to exist even though magnetic flux is topologically conserved. Following
+Vachaspati and Ach\'ucarro, I formulate the condition that must be satisfied by
+the pattern of symmetry breakdown for finite-energy configurations to exist in
+which the conserved magnetic flux is spread out instead of confined to a
+localized vortex. If this condition is met, vortices are always unstable at
+sufficiently weak gauge coupling. I also describe the properties of defects in
+models with an ``accidental'' symmetry that is partially broken by gauge boson
+exchange. In some cases, the spontaneously broken accidental symmetry is not
+restored inside the core of the defect. Then the structure of the defect can be
+analyzed using an effective field theory; the details of the physics
+responsible for the spontaneous symmetry breakdown need not be considered.
+Examples include ``semilocal'' domain walls and vortices that are classically
+unstable, but are stabilized by loop corrections, and ``semilocal'' magnetic
+monopoles that have an unusual core structure. Finally, I examine the general
+theory of the ``electroweak strings'' that were recently discussed by
+Vachaspati. These arise only in models with gauge boson ``mixing,'' and can
+always end on magnetic monopoles. Cosmological implications are briefly
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 13:49:25 GMT""}]","2010-11-01"
+"hep-ph/9206217","Frank Close","Frank Close and Zhenping Li","Effective Heavy Quark Theory","9 pages","Phys.Lett.B289:143-147,1992","10.1016/0370-2693(92)91376-K",,"hep-ph",,"  We show how heavy quark effective theory, including 1/M corrections, may be
+matched onto dynamical quark models by making a specific choice of K,m and v in
+the p=mv+K expansion. We note that Wigner rotations of heavy quark spins arise
+at $O(p^2/m^2)$ in non-relativistic models but at $O(\Lambda_{QCD}/M_Q)$ or
+O(velocity-transfer) in HQET and so are necessary for a consistent treatment.
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 14:22:00 GMT""}]","2010-11-01"
+"hep-th/9206045",,"Howard J. Schnitzer","Concerning the Double Scaling Limit in the $O(N)$ Vector Model in
+  Four-Dimensions","6, BRX-TH-333","Mod. Phys. Lett. A7 (1992) 2449-2452","10.1142/S021773239200389X",,"hep-th",,"  The 1/N expansion for the O(N) vector model in four dimensions is
+reconsidered. It is emphasized that the effective potential for this model
+becomes everywhere complex just at the critical point, which signals an
+unstable vacuum. Thus a critical O(N) vector model cannot be consistently
+defined in the 1/N expansion for four-dimensions, which makes the existence of
+a double-scaling limit for this theory doubtful.
+","[{""version"":""v1"",""created"":""Wed, 10 Jun 1992 16:51:00 GMT""}]","2015-06-26"
+"hep-th/9206046",,"Joseph A. Minahan and Alexios P. Polychronakos","Integrable Systems for Particles with Internal Degrees of Freedom","10 pages, UVA-92-04, CU-TP-566","Phys.Lett. B302 (1993) 265-270","10.1016/0370-2693(93)90395-X",,"hep-th cond-mat",,"  We show that a class of models for particles with internal degrees of freedom
+are integrable. These systems are basically generalizations of the models of
+Calogero and Sutherland. The proofs of integrability are based on a recently
+developed exchange operator formalism. We calculate the wave-functions for the
+Calogero-like models and find the ground-state wave-function for a
+Calogero-like model in a position dependent magnetic field. This last model
+might have some relevance for matrix models of open strings.
+","[{""version"":""v1"",""created"":""Wed, 10 Jun 1992 18:38:04 GMT""}]","2009-10-22"
+"hep-th/9206047",,"Luca Mezincescu and Rafael I. Nepomechie","Addendum to ``Integrability of Open Spin Chains with Quantum Algebra
+  Symmetry''","4 pages, plain tex, UMTG-167","Int.J.Mod.Phys. A6 (1991) 5231-5248; Addendum-ibid. A7 (1992)
+  5657-5660","10.1142/S0217751X91002458",,"hep-th",,"  We show that the quantum-algebra-invariant open spin chains associated with
+the affine Lie algebras $A^{(1)}_n$ for $n>1$ are integrable. The argument,
+which applies to a large class of other quantum-algebra-invariant chains, does
+not require that the corresponding $R$ matrix have crossing symmetry.
+","[{""version"":""v1"",""created"":""Wed, 10 Jun 1992 20:10:00 GMT""}]","2015-06-26"
+"hep-th/9206048","Konstadinos Sfetsos","Konstadinos Sfetsos","Conformally Exact Results for SL(2,R)\times SO(1,1)^{d-2}/SO(1,1) Coset
+  Models","USC-92/HEP-S1, 21 pages","Nucl.Phys. B389 (1993) 424-444","10.1016/0550-3213(93)90327-L",,"hep-th",,"  Using the conformal invariance of the $SL(2,R)\otimes SO(1,1)^{d-2}/SO(1,1)$
+coset models we calculate the conformally exact metric and dilaton, to all
+orders in the $1/k$ expansion. We consider both vector and axial gauging. We
+find that these cosets represent two different space--time geometries: ($2d$
+black hole)$\otimes \IR^{d-2}$ for the vector gauging and ($3d$ black
+string)$\otimes \IR^{d-3}$ for the axial one. In particular for $d=3$ and for
+the axial gauging one obtains the exact metric and dilaton of the charged black
+string model introduced by Horne and Horowitz. If the value of $k$ is finite we
+find two curvature singularities which degenerate to one in the semi--classical
+$k\to \infty$ limit. We also calculate the reflection and transmission
+coefficients for the scattering of a tachyon wave and using the Bogoliubov
+transformation we find the Hawking temperature.
+","[{""version"":""v1"",""created"":""Wed, 10 Jun 1992 23:25:28 GMT""}]","2009-10-22"
+"hep-th/9206049",,"L. Brink, T.H. Hansson and M.A. Vasiliev","Explicit Solution to the N-Body Calogero Problem","6 p., latex, USITP-92-5","Phys.Lett. B286 (1992) 109-111","10.1016/0370-2693(92)90166-2",,"hep-th",,"  We solve the N-body Calogero problem, \ie N particles in 1 dimension subject
+to a two-body interaction of the form $\half \sum_{i,j}[ (x_i - x_j)^2 + g/
+{(x_i - x_j)^2}]$, by constructing annihilation and creation operators of the
+form $ a_i^\mp =\frac 1 {\sqrt 2} (x _i \pm i\hat{p}_i )$, where $\hat{p}_i$ is
+a modified momentum operator obeying %!!!!!!! Heisenberg-type commutation
+relations with $x_i$, involving explicitly permutation operators. On the other
+hand, $ D_j =i\,\hat{p}_j$ can be interpreted as a covariant derivative
+corresponding to a flat connection. The relation to fractional statistics in
+1+1 dimensions and anyons in a strong magnetic field is briefly discussed.
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 09:29:00 GMT""}]","2009-10-22"
+"hep-th/9206050",,"Ramon Munoz-Tapia","A New Approach to Lower Dimensional Gauge Theories","8 pag. in Latex","Phys.Lett. B295 (1992) 95-98","10.1016/0370-2693(92)90095-L",,"hep-th",,"  We apply the method of differential renormalization to two and three
+dimensional abelian gauge theories. The method is especially well suited for
+these theories as the problems of defining the antisymmetric tensor are avoided
+and the calculus involved is impressively simple. The topological and dynamical
+photon masses are obtained.
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 11:57:00 GMT""}]","2009-10-22"
+"hep-th/9206051",,"Alok Kumar","Gauged String Actions and O($\tilde{d}$, $\tilde{d}$) Transformation","14 pages, CERN-Th.6530/92 and IP/BBSR/92-44","Phys.Lett. B293 (1992) 49-55","10.1016/0370-2693(92)91479-S",,"hep-th",,"  An O($\tilde{d}$, $\tilde{d}$) transformation is given which relates ungauged
+string actions to the gauged ones for a large class of models discussed
+recently by Giveon and Rocek. Interestingly, the transformation is background
+independent and has a unique matrix representation in a given space-time
+dimension.
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 14:14:06 GMT""}]","2009-10-22"
+"hep-th/9206052","Patrick Dorey","Patrick Dorey and Francesco Ravanini","Staircase Models from Affine Toda Field Theory","22 pages, Saclay-Bologna preprint SPhT/92-065, DFUB-92-09","Int.J.Mod.Phys. A8 (1993) 873-894","10.1142/S0217751X93000333",,"hep-th",,"  We propose a class of purely elastic scattering theories generalising the
+staircase model of Al. B. Zamolodchikov, based on the affine Toda field
+theories for simply-laced Lie algebras g=A,D,E at suitable complex values of
+their coupling constants. Considering their Thermodynamic Bethe Ansatz
+equations, we give analytic arguments in support of a conjectured
+renormalisation group flow visiting the neighbourhood of each W_g minimal model
+in turn.
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 15:03:43 GMT""}]","2015-06-26"

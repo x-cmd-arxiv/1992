@@ -1,0 +1,107 @@
+"gr-qc/9207002",,"Riccardo Capovilla and Ted Jacobson","Remarks on Pure Spin Connection Formulations of Gravity",,"Mod.Phys.Lett.A7:1871-1878,1992","10.1142/S0217732392001579",,"gr-qc",,"  In the derivation of a pure spin connection action functional for gravity two
+methods have been proposed. The first starts from a first order lagrangian
+formulation, the second from a hamiltonian formulation. In this note we show
+that they lead to identical results for the specific cases of pure gravity with
+or without a cosmological constant.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 23:52:00 GMT""}]","2010-11-01"
+"hep-lat/9207022","Clive Baillie","C.F. Baillie and D.A. Johnston","Crossover Between Weakly and Strongly Self-avoiding Random Surfaces","5 pages","Phys.Lett. B295 (1992) 249-254","10.1016/0370-2693(92)91562-N","COLO-HEP-290","hep-lat",,"  We investigate the crossover between weak and strong self-avoidance in a
+simulation of random surfaces with extrinsic curvature. We consider both
+dynamically triangulated and rigid surfaces with the two possible
+discretizations of the extrinsic curvature term.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 17:16:19 GMT""}]","2009-10-22"
+"hep-lat/9207023",,"B.A. Berg and T. Celik","Multicanonical Spin Glass Simulations","24 pages","Int.J.Mod.Phys. C3 (1992) 1251-1274","10.1142/S0129183192000865","FSU-SCRI-92-75","hep-lat cond-mat",,"  We report a Monte Carlo simulation of the $2D$ Edwards-Anderson spin glass
+model within the recently introduced multicanonical ensemble. Replica on
+lattices of size $L^2$ up to $L=48$ are investigated. Once a true groundstate
+is found, we are able to give a lower bound on the number of statistically
+independent groundstates sampled. Temperature dependence of the energy, entropy
+and other quantities of interest are easily calculable. In particular we report
+the groundstate results. Computations involving the spin glass order parameter
+are more tedious. Our data indicate that the large $L$ increase of the
+ergodicity time is reduced to an approximately $V^3$ power law. Altogether the
+results suggest that the multicanonical ensemble improves the situation of
+simulations for spin glasses and other systems which have to cope with similar
+problems of conflicting constraints.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 19:35:41 GMT""}]","2015-06-25"
+"hep-ph/9207251",,"T. Barnes, E.S. Swanson, and J. Weinstein","I=3/2 $K \pi$ Scattering in the Nonrelativisitic Quark Potential Model","12 pages + 2 postscript figures, Revtex, MIT-CTP-2108","Phys.Rev. D46 (1992) 4868-4872","10.1103/PhysRevD.46.4868",,"hep-ph",,"  We study $I=3/2$ elastic $K\pi $ scattering to Born order using
+nonrelativistic quark wavefunctions in a constituent-exchange model. This
+channel is ideal for the study of nonresonant meson-meson scattering amplitudes
+since s-channel resonances do not contribute significantly. Standard quark
+model parameters yield good agreement with the measured S- and P-wave phase
+shifts and with PCAC calculations of the scattering length. The P-wave phase
+shift is especially interesting because it is nonzero solely due to $SU(3)_f$
+symmetry breaking effects, and is found to be in good agreement with experiment
+given conventional values for the strange and nonstrange constituent quark
+masses.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 19:00:05 GMT""}]","2009-10-22"
+"hep-ph/9207252","Boris M. Kastening","Boris Kastening","Renormalization Group Improvement of the Effective Potential in Massive
+  O(N) Symmetric $\phi^4$ Theory","8pages, no figures, plain Latex, UCLA/92/TEP/26. (equation 9
+  corrected, results unchanged)",,"10.1016/0370-2693(92)90021-U",,"hep-ph",,"  The renormalization group is used to improve the effective potential of
+massive ${\rm O}(N)$ symmetric $\phi^4$ theory. Explicit results are given at
+the two-loop level.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 22:29:00 GMT""},{""version"":""v2"",""created"":""Wed, 21 Jul 1993 09:10:00 GMT""}]","2009-10-22"
+"hep-ph/9208241","Jim Pantaleone","D. Harley(1), TK Kuo(2) and J. Pantaleone","Solar Neutrinos with Three Flavor Mixings","August 1992 (Revised) PURD-TH-92-8","Phys.Rev. D47 (1993) 4059-4062","10.1103/PhysRevD.47.4059",,"hep-ph",,"  The recent 71Ga solar neutrino observation is combined with the 37Cl and
+Kamiokande-II observations in an analysis for neutrino masses and mixings. The
+allowed parameter region is found for matter enhanced mixings among all three
+neutrino flavors. Distortions of the solar neutrino spectrum unique to three
+flavors are possible and may be observed in continuing and next generation
+experiments.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 20:52:21 GMT""}]","2009-10-22"
+"hep-th/9207067","Wolfgang Lerche","M. Bershadsky, W. Lerche, D. Nemeschansky, N.P. Warner","A BRST Operator for non-critical W-Strings","12p, CERN-TH.6582/92, HUTP-A034/92, USC-92/015","Phys.Lett. B292 (1992) 35-41","10.1016/0370-2693(92)90605-4",,"hep-th",,"  We construct the BRST operator for non-critical $W_3$-strings and discuss the
+tachyon-like spectrum. For $N$-punctured spheres with $N \leq 5$ we briefly
+describe a formal definition of the integral over $W_3$-moduli space.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 19:56:47 GMT""}]","2009-10-22"
+"hep-th/9207069","Francesco Ravanini","F.Ravanini, R. Tateo and A.Valleriani","A New Family of Diagonal Ade-Related Scattering Theories","13 pages, Latex (no macros), DFUB-92-12, DFTT/30-92","Phys.Lett. B293 (1992) 361-366","10.1016/0370-2693(92)90896-C",,"hep-th",,"  We propose the factorizable S-matrices of the massive excitations of the
+non-unitary minimal model $M_{2,11}$ perturbed by the operator $\Phi_{1,4}$.
+The massive excitations and the whole set of two particle S-matrices of the
+theory is simply related to the $E_8$ unitary minimal scattering theory. The
+counting argument and the Thermodynamic Bethe Ansatz (TBA) are applied to this
+scattering theory in order to support this interpretation. Generalizing this
+result, we describe a new family of NON UNITARY and DIAGONAL $ADE$-related
+scattering theories. A further generalization suggests the magnonic TBA for a
+large class of non-unitary $\G\otimes\G/\G$ coset models
+($\G=A_{odd},D_n,E_{6,7,8}$) perturbed by $\Phi_{id,id,adj}$, described by
+non-diagonal S-matrices.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 22:38:00 GMT""}]","2009-10-22"
+"hep-th/9207070",,"David Kastor and Jennie Traschen","Horizons Inside Classical Lumps","13 pages, UMHEP-374","Phys.Rev. D46 (1992) 5399-5403","10.1103/PhysRevD.46.5399",,"hep-th gr-qc",,"  Hopefully tex-able version.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 21:47:00 GMT""},{""version"":""v2"",""created"":""Thu, 23 Jul 1992 16:23:00 GMT""}]","2009-10-22"
+"hep-th/9207071","Niels Obers","M.B. Halpern and N.A. Obers","Ward Identities for Affine-Virasoro Correlators","53 pages, Latex, LBL-32619, UCB-PTH-92/24, BONN-HE-92/21","Int.J.Mod.Phys.A9:265-312,1994","10.1142/S0217751X94000133",,"hep-th",,"  Generalizing the Knizhnik-Zamolodchikov equations, we derive a hierarchy of
+non-linear Ward identities for affine-Virasoro correlators. The hierarchy
+follows from null states of the Knizhnik-Zamolodchikov type and the assumption
+of factorization, whose consistency we verify at an abstract level. Solution of
+the equations requires concrete factorization ans\""atze, which may vary over
+affine-Virasoro space. As a first example, we solve the non-linear equations
+for the coset constructions, using a matrix factorization. The resulting coset
+correlators satisfy first-order linear partial differential equations whose
+solutions are the coset blocks defined by Douglas.
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 00:48:15 GMT""}]","2008-11-26"
+"hep-th/9207072","Andreas Honecker","R. Blumenhagen, W. Eholzer, A. Honecker, R. Huebel","New N=1 Extended Superconformal Algebras with Two and Three Generators","30 pages (Plain TeX), BONN-HE-92-02","Int.J.Mod.Phys. A7 (1992) 7841-7871","10.1142/S0217751X92003550",,"hep-th gr-qc",,"  In this paper we consider extensions of the super Virasoro algebra by one and
+two super primary fields. Using a non-explicitly covariant approach we compute
+all SW-algebras with one generator of dimension up to 7 in addition to the
+super Virasoro field. In complete analogy to W-algebras with two generators
+most results can be classified using the representation theory of the super
+Virasoro algebra. Furthermore, we find that the SW(3/2, 11/2)-algebra can be
+realized as a subalgebra of SW(3/2, 5/2) at c = 10/7. We also construct some
+new SW-algebras with three generators, namely SW(3/2, 3/2, 5/2), SW(3/2, 2, 2)
+and SW(3/2, 2, 5/2).
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 10:34:06 GMT""}]","2015-02-03"
+"hep-th/9207073","Tim Hollowood","J.M. Evans and T.J. Hollowood","Integrable N=2 Supersymmetric Field Theories","14 pages, OUTP-92-12P","Phys.Lett. B293 (1992) 100-110","10.1016/0370-2693(92)91486-S",,"hep-th",,"  Some additional references are included on the last 3 pages.
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 13:40:13 GMT""},{""version"":""v2"",""created"":""Fri, 24 Jul 1992 13:44:37 GMT""}]","2009-10-22"
+"math/9207207",,"Edward Odell, Haskell P. Rosenthal, Thomas Schlumprecht","On Weakly Null FDD's in Banach Spaces",,,,"Banach Archive 7/21/92","math.FA",,"  In this paper we show that every sequence (F_n) of finite dimensional
+subspaces of a real or complex Banach space with increasing dimensions can be
+``refined'' to yield an F.D.D. (G_n), still having increasing dimensions, so
+that either every bounded sequence (x_n), with x_n in G_n for n in N, is weakly
+null, or every normalized sequence (x_n), with x_n in G_n for n in N, is
+equivalent to the unit vector basis of l_1.
+  Crucial to the proof are two stabilization results concerning Lipschitz
+functions on finite dimensional normed spaces. These results also lead to other
+applications. We show, for example, that every infinite dimensional Banach
+space X contains an F.D.D. (F_n), with lim_{n to infty} dim (F_n)=infty, so
+that all normalized sequences (x_n), with x_n in F_n, n in N, have the same
+spreading model over X. This spreading model must necessarily be
+1-unconditional over X.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 18:55:45 GMT""}]","2016-09-06"
+"math/9207208",,"Fouad Chaatit","On Uniform Homeomorphisms of the Unit Spheres of Certain Banach Lattices",,,,"Banach Archive 7/21/92","math.FA",,"  We prove that if X is an infinite dimensional Banach lattice with a weak unit
+then there exists a probability space (Omega, Sigma,mu) so that the unit sphere
+S(L_1(Omega, Sigma, mu) is uniformly homeomorphic to the unit sphere S(X) if
+and only if X does not contain l_{infty}^n's uniformly.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 18:55:45 GMT""}]","2016-09-06"

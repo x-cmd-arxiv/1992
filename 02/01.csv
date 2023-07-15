@@ -1,0 +1,41 @@
+"hep-th/9201080",,"P. Furlan, A. Ch. Ganchev, R. Paunov, V. B. Petkova","Solutions of the Knizhnik - Zamolodchikov Equation with Rational
+  Isospins and the Reduction to the Minimal Models","40 pages","Nucl.Phys. B394 (1993) 665-706","10.1016/0550-3213(93)90227-G",,"hep-th",,"  In the spirit of the quantum Hamiltonian reduction we establish a relation
+between the chiral $n$-point functions, as well as the equations governing
+them, of the $A_1^{(1)}$ WZNW conformal theory and the corresponding Virasoro
+minimal models. The WZNW correlators are described as solutions of the Knizhnik
+- Zamolodchikov equations with rational levels and isospins. The technical tool
+exploited are certain relations in twisted cohomology. The results extend to
+arbitrary level $k+2 \neq 0$ and isospin values of the type $J=j-j'(k+2)$, $ \
+2j, 2j' \in Z\!\!\!Z_+$.
+","[{""version"":""v1"",""created"":""Fri, 31 Jan 1992 17:23:00 GMT""}]","2009-10-22"
+"hep-th/9201081",,"Adrian R. Lugo","Comments on Gauged WZW Models","7 pages",,,,"hep-th",,"  Some remarks are made about free anomaly groups in gauged WZW models.
+Considering a quite general action, anomaly cancellation is analyzed. The
+possibility of gauging left and right sectors independently in some cases is
+remarked. In particular Toda theories can be seen as such a kind of models.
+","[{""version"":""v1"",""created"":""Fri, 31 Jan 1992 20:21:00 GMT""}]","2007-05-23"
+"math/9202206","Peter W. Michor","Andreas Kriegl, Peter W. Michor","Aspects of the theory of infinite dimensional manifolds",,"Diff. Geom. Appl. 1 (1991), 159-176",,"Michor 99-08","math.DG math.FA",,"  The convenient setting for smooth mappings, holomorphic mappings, and real
+analytic mappings in infinite dimension is sketched. Infinite dimensional
+manifolds are discussed with special emphasis on smooth partitions of unity and
+tangent vectors as derivations. Manifolds of mappings and diffeomorphisms are
+treated. Finally the differential structure on the inductive limits of the
+groups $GL(n)$, $SO(n)$ and some of their homogeneus spaces is treated.
+","[{""version"":""v1"",""created"":""Sat, 1 Feb 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9202207","Peter W. Michor","Peter W. Michor","Graded derivations of the algebra of differential forms associated with
+  a connection",,"Lecture Notes in Math. 1410 (1989), 249-261",,"Michor 99-08","math.DG",,"  In the main part of this paper a connection is just a fiber projection onto a
+(not necessarily integrable) distribution or sub vector bundle of the tangent
+bundle. Here curvature is computed via the Froelicher-Nijenhuis bracket, and it
+is complemented by cocurvature and the Bianchi identity still holds. In this
+situation we determine the graded Lie algebra of all graded derivations over
+the horizontal projection of a connection and we determine their commutation
+relations. Finally, for a principal connection on a principal bundle and the
+induced connection on an associated bundle we show how one may pass from one to
+the other. The final results relate derivations on vector bundle valued forms
+and derivations over the horizontal projection of the algebra of forms on the
+principal bundle with values in the standard vector space.
+","[{""version"":""v1"",""created"":""Sat, 1 Feb 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9202208","Peter W. Michor","Vincente Cervera, Francisca Mascar\'o, Peter W. Michor","The action of the diffeomorphism group on the space of immersions",,"Diff. Geom. Appl. 1 (1991), 391-401",,"Michor 99-08","math.DG",,"  We study the action of the diffeomorphism group $\Diff(M)$ on the space of
+proper immersions $\Imm_{\text{prop}}(M,N)$ by composition from the right. We
+show that smooth transversal slices exist through each orbit, that the quotient
+space is Hausdorff and is stratified into smooth manifolds, one for each
+conjugacy class of isotropy groups.
+","[{""version"":""v1"",""created"":""Sat, 1 Feb 1992 00:00:00 GMT""}]","2016-09-06"

@@ -1,0 +1,150 @@
+"alg-geom/9210004","Olivier Debarre","Olivier Debarre and Matthew Klassen","Points of Low Degree on Smooth Plane Curves","8 pages, PlainTex 1.2",,,,"alg-geom math.AG",,"  The purpose of this note is to provide some applications of Faltings' recent
+proof of S. Lang's conjecture to smooth plane curves. Let $C$ be a smooth plane
+curve defined by an equation of degree $d$ with integral coefficients. We show
+that for $d\ge 7$, the curve $C$ has only finitely many points whose field of
+definition has degree $\le d-2$ over $Q$, and that for $d\ge 8$, all but
+finitely many points of $C$ whose field of definition has degree $\le d-1$ over
+$Q$ arise as points of intersection of rational lines through rational points
+of $C$.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 19:27:49 GMT""}]","2008-02-03"
+"alg-geom/9210005","Olivier Debarre","Olivier Debarre","Degrees of Curves in Abelian Varieties","17 pages, PlainTex 1.2",,,,"alg-geom math.AG",,"  The degree of a curve $C$ in a polarized abelian variety $(X,\lambda)$ is the
+integer $d=C\cdot\lambda$. When $C$ generates $X$, we find a lower bound on $d$
+which depends on $n$ and the degree of the polarization $\lambda$. The smallest
+possible degree is $d=n$ and is obtained only for a smooth curve in its
+Jacobian with its principal polarization (Ran, Collino). The cases $d=n+1$ and
+$d=n+2$ are studied. Moreover, when $X$ is simple, it is shown, using results
+of Smyth on the trace of totally positive algebraic integers, that if $d\le
+1.7719\, n$, then $C$ is smooth and $X$ is isomorphic to its Jacobian. We also
+get an upper bound on the geometric genus of $C$ in terms of its degree.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 21:36:17 GMT""}]","2008-02-03"
+"astro-ph/9210002",,"S. Cristiani, E. Giallongo, L. M. Buson, C. Gouiffes, F. La Franca","Coordinated UV-optical observations of quasars: the evolution of the
+  Lyman absorption","8 pages Astronomy Astrophysics TEX",,,,"astro-ph",,"  The average flux decrement shortward the Ly$_{\alpha}$ emission, due to the
+well-known ``forest'' of absorptions, has been measured in the spectra of 8
+quasars. Quasi-simultaneous optical and IUE observations of the two low
+redshift quasars PKS 0637--75 (z=0.654) and MC 1104+16 (z=0.632) have been
+carried out, obtaining relatively high S/N, spectrophotometrically calibrated
+data on their energy distribution from the rest frame H$_{\beta}$ to the Lyman
+continuum. Six more quasars in the redshift range 2.5-3.4 have been observed in
+the optical domain. For all the quasars the ``intrinsic'' continuum slope and
+normalization have been estimated longward the Ly$_{\alpha}$ emission and
+extrapolated towards the Lyman continuum to measure the average depressions,
+which have been compared with the model statistics of the Ly$_{\alpha}$ clouds.
+When all the known classes of absorbers are taken into account with plausible
+values for their equivalent width distribution and evolution, a good agreement
+is obtained with the observations. The results for the observed continuum
+decrement at $z \sim 0.65$ are identical to those predicted by the evolution
+with redshift of the number of Ly$_{\alpha}$ forest systems including the HST
+data and within $2\sigma$ of the predicted value using the ``standard''
+Ly$_{\alpha}$ evolution (as determined only at high z).
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 15:44:00 GMT""}]","2007-05-23"
+"cond-mat/9210008",,"Ajit Mohan Srivastava","String Defects in Condensed Matter Systems as Optical Fibers","8 pages, in LATEX, 1 figure (not included)",,,"TPI-MINN-92/53-T; NSF-ITP-92-145","cond-mat hep-ph",,"  We analyze the core structure of string defects in various condensed matter
+systems, such as nematic liquid crystals and superfluid helium, and argue that
+in certain cases the variation of the refractive index near the core is such
+that it can lead to total internal reflection of light travelling along the
+string core. These strings thus behave as optical fibers providing a
+qualitatively new approach to optical fibers. We present a candidate for such a
+fiber by looking at string segments in a thin nematic liquid crystal film on
+water. We discuss various possibilities for constructing such fibers as well as
+possible technological applications.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 01:14:00 GMT""}]","2007-05-23"
+"cond-mat/9210009","Fong Liu","Fong Liu and Gene F. Mazenko","Phase Ordering Dynamics in the Continuum q-state Clock Model","12 Pages, in Tex (PHYZZX Macro required)",,"10.1103/PhysRevB.47.2866",,"cond-mat",,"  The order parameter correlation function of the nonconserved, continuum
+$q$-state clock model is evaluated in the asymptotic scaling limit, during the
+phase ordering process after a temperature quench. The short distance behavior
+of the order parameter scaling function exhibits explicit crossover from that
+characteristic of the Ising universality class to that of the $O(2)$ model.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 00:33:44 GMT""}]","2009-10-22"
+"cond-mat/9210010","Kikuo Harigaya","Kikuo Harigaya (Fundamental Physics Section, Physical Science
+  Division, Electrotechnical Laboratory, Japan), Mitsutaka Fujita (Institute of
+  Materials Science, University of Tsukuba, Japan)","Dimerization structures on the metallic and semiconducting fullerene
+  tubules with half-filled electrons","submitted to Phys. Rev. B, pages 15, figures 11","Phys.Rev. B47 (1993) 16563-16569","10.1103/PhysRevB.47.16563",,"cond-mat",,"  Possible dimerization patterns and electronic structures in fullerene tubules
+as the one-dimensional pi-conjugated systems are studied with the extended
+Su-Schrieffer-Heeger model. We assume various lattice geometries, including
+helical and nonhelical tubules. The model is solved for the half-filling case
+of $\pi$-electrons. (1) When the undimerized systems do not have a gap, the
+Kekule structures prone to occur. The energy gap is of the order of the room
+temperatures at most and metallic properties would be expected. (2) If the
+undimerized systems have a large gap (about 1eV), the most stable structures
+are the chain-like distortions where the direction of the arranged
+trans-polyacetylene chains is along almost the tubular axis. The electronic
+structures are ofsemiconductors due to the large gap.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 13:23:14 GMT""}]","2007-05-23"
+"hep-ph/9210233",,"Christopher T. Hill, Dallas C. Kennedy, Tetsuya Onogi, Hoi--Lai Yu","Spontaneously Broken Technicolor and the Dynamics of Virtual Vector
+  Technimesons","22 pages (sans figure) FERMILAB--Pub-92/218-T","Phys.Rev. D47 (1993) 2940-2948","10.1103/PhysRevD.47.2940",,"hep-ph",,"  We propose spontaneously breaking technicolor, thus liberating techniquarks
+and suppressing large resonance contributions to the electroweak $S$ parameter.
+The dynamics is modeled by a fermion bubble approximation to a single massive
+techni--gluon exchange potential. This contains a Nambu--Jona-Lasinio model
+with additional interactions. ``Virtual'' vector mesons occur and contribute to
+$S$, and their effects are studied. Models of broken technicolor are discussed.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 18:42:02 GMT""},{""version"":""v2"",""created"":""Thu, 15 Oct 1992 17:05:28 GMT""}]","2009-10-22"
+"hep-th/9210070","Barnich Glenn","R. Ferraro, M. Henneaux and M. Puchin","On the Quantization of Reducible Gauge Systems","41 pages, Plain Tex file, ULB-PMIF\92-07, GTCRG/92-04","J.Math.Phys.34:2757-2778,1993","10.1063/1.530094",,"hep-th",,"  Reducible gauge theories with constraints linear in the momenta are
+quantized. The equivalence of the reduced phase space quantization, Dirac
+quantization and BRST quantization is established. The ghosts of ghosts are
+found to play a crucial role in the equivalence proof.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 16:20:38 GMT""}]","2014-11-18"
+"hep-th/9210071","John Harnad","J. Harnad and M.-. Wisse","Matrix Nonlinear Schr\""odinger Equations and Moment Maps into Loop
+  Algebras${}^\dag$","17 pgs, plus 4 Tables Preprint CRM-1831","J.Math.Phys. 33 (1992) 4164-4176","10.1063/1.529815",,"hep-th",,"  It is shown how Darboux coordinates on a reduced symplectic vector space may
+be used to parametrize the phase space on which the finite gap solutions of
+matrix nonlinear Schr\""odinger equations are realized as isospectral
+Hamiltonian flows. The parametrization follows from a moment map embedding of
+the symplectic vector space, reduced by suitable group actions, into the dual
+$\tilde\grg^{+*}$ of the algebra $\tilde\grg^+$ of positive frequency loops in
+a Lie algebra $\grg$. The resulting phase space is identified with a Poisson
+subspace of $\tilde\grg^{+*}$ consisting of elements that are rational in the
+loop parameter. Reduced coordinates associated to the various Hermitian
+symmetric Lie algebras $(\grg,\grk)$ corresponding to the classical Lie
+algebras are obtained.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 20:29:44 GMT""}]","2009-10-22"
+"hep-th/9210072","Andrei Mironov","S.Kharchev, A.Marshakov","Topological versus Non--Topological Theories and $p-q$ Duality in $c \le
+  1$ 2d Gravity Models","15 pp, preprint FIAN/TD-15/92, latex",,,,"hep-th",,"  We discuss the non--perturbative formulation for $c \leq 1$ string theory.
+The field theory like formulation of topological and non--topological models is
+presented. The integral representation for arbitrary $(p,q)$ solutions is
+derived which explicitly obeys $p-q$ duality of these theories. The exact
+solutions to string equation and various examples are also discussed.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 06:14:19 GMT""}]","2007-05-23"
+"hep-th/9210073","Craig Tracy","Craig A. Tracy and Harold Widom","Introduction to Random Matrices","44 pages","Springer Lecture Notes in Physics 424 (1993) 103-130","10.1007/BFb0021444","ITD 92/93--10","hep-th cond-mat math-ph math.MP nlin.SI solv-int",,"  These notes provide an introduction to the theory of random matrices. The
+central quantity studied is $\tau(a)= det(1-K)$ where $K$ is the integral
+operator with kernel $1/\pi} {\sin\pi(x-y)\over x-y} \chi_I(y)$. Here
+$I=\bigcup_j(a_{2j-1},a_{2j})$ and $\chi_I(y)$ is the characteristic function
+of the set $I$. In the Gaussian Unitary Ensemble (GUE) the probability that no
+eigenvalues lie in $I$ is equal to $\tau(a)$. Also $\tau(a)$ is a tau-function
+and we present a new simplified derivation of the system of nonlinear
+completely integrable equations (the $a_j$'s are the independent variables)
+that were first derived by Jimbo, Miwa, M{\^o}ri, and Sato in 1980. In the case
+of a single interval these equations are reducible to a Painlev{\'e} V
+equation. For large $s$ we give an asymptotic formula for $E_2(n;s)$, which is
+the probability in the GUE that exactly $n$ eigenvalues lie in an interval of
+length $s$.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 00:46:07 GMT""}]","2015-06-26"
+"hep-th/9210074","Craig Tracy","Craig A. Tracy and Harold Widom","Level-Spacing Distributions and the Airy Kernel","9 pages","Phys.Lett. B305 (1993) 115-118","10.1016/0370-2693(93)91114-3","ITD 92/93-11","hep-th cond-mat math-ph math.MP nlin.SI solv-int",,"  Scaling level-spacing distribution functions in the ``bulk of the spectrum''
+in random matrix models of $N\times N$ hermitian matrices and then going to the
+limit $N\to\infty$, leads to the Fredholm determinant of the sine kernel
+$\sin\pi(x-y)/\pi (x-y)$. Similarly a double scaling limit at the ``edge of the
+spectrum'' leads to the Airy kernel $[{\rm Ai}(x) {\rm Ai}'(y) -{\rm Ai}'(x)
+{\rm Ai}(y)]/(x-y)$. We announce analogies for this Airy kernel of the
+following properties of the sine kernel: the completely integrable system of
+P.D.E.'s found by Jimbo, Miwa, M{\^o}ri and Sato; the expression, in the case
+of a single interval, of the Fredholm determinant in terms of a Painlev{\'e}
+transcendent; the existence of a commuting differential operator; and the fact
+that this operator can be used in the derivation of asymptotics, for general
+$n$, of the probability that an interval contains precisely $n$ eigenvalues.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 00:52:35 GMT""}]","2009-07-13"
+"hep-th/9210075","Alexandre T. Filippov","A.T. Filippov, A.P. Isaev and A.B. Kurdikov","On Paragrassmann Differential Calculus","19pp","Theor.Math.Phys. 94 (1993) 150-165; Teor.Mat.Fiz. 94N2 (1993)
+  213-231","10.1007/BF01019327",,"hep-th",,"  Explicit general constructions of paragrassmann calculus with one and many
+variables are given. Relations of the paragrassmann calculus to quantum groups
+are outlined and possible physics applications are briefly discussed. This
+paper is the same as the original 9210075 except added Appendix and minor
+changes in Acknowledgements and References. IMPORTANT NOTE: This paper bears
+the same title as the Dubna preprint E5-92-392 but is NOT identical to it,
+containing new results, extended discussions, and references.
+","[{""version"":""v1"",""created"":""Wed, 14 Oct 1992 07:11:42 GMT""},{""version"":""v2"",""created"":""Wed, 4 Nov 1992 09:49:25 GMT""}]","2009-10-22"
+"nucl-th/9210011","Ruprecht Machleidt","F. Sammarruca, D. P. Xu, and R. Machleidt","Relativistic Corrections to the Triton Binding Energy","25 pages of text (latex), 1 figure (not included, available upon
+  request)","Phys.Rev.C46:1636-1641,1992","10.1103/PhysRevC.46.1636",,"nucl-th",,"  The influence of relativity on the triton binding energy is investigated. The
+relativistic three-dimensional version of the Bethe-Salpeter equation proposed
+by Blankenbecler and Sugar (BbS) is used. Relativistic (non-separable)
+one-boson-exchange potentials (constructed in the BbS framework) are employed
+for the two-nucleon interaction. In a 34-channel Faddeev calculation, it is
+found that relativistic effects increase the triton binding energy by about 0.2
+MeV. Including charge-dependence (besides relativity), the final triton binding
+energy predictions are 8.33 and 8.16 MeV for the Bonn A and B potential,
+respectively.
+","[{""version"":""v1"",""created"":""Tue, 13 Oct 1992 22:45:18 GMT""}]","2008-11-26"

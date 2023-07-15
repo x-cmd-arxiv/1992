@@ -1,0 +1,119 @@
+"cond-mat/9207005","Kaare Olaussen","K{\aa}re Olaussen","On the Harmonic Oscillator Regularization of Partition Functions","5 pages, LaTex",,,,"cond-mat",,"  A convenient way to calculate $N$-particle quantum partition functions is by
+confining the particles in a weak harmonic potential instead of using a finite
+box or periodic boundary conditions. There is, however, a slightly different
+connection between partition functions and thermodynamic quantities with such
+volume regularization. This is made explicit, and its origin explained to be
+due to the system having a space-varying density in an external potential.
+Beyond perturbation theory there is a potential pitfall with the method, which
+is pointed out.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1992 14:22:14 GMT""}]","2007-05-23"
+"hep-lat/9207003","Martin Grabenstein","M.Grabenstein and K.Pinn","Kinematics of Multigrid Monte Carlo","28 pages, 8 ps-figures, DESY 92-094","J.Statist.Phys. 71 (1993) 607","10.1007/BF01058439",,"hep-lat",,"  We study the kinematics of multigrid Monte Carlo algorithms by means of
+acceptance rates for nonlocal Metropolis update proposals. An approximation
+formula for acceptance rates is derived. We present a comparison of different
+coarse-to-fine interpolation schemes in free field theory, where the formula is
+exact. The predictions of the approximation formula for several interacting
+models are well confirmed by Monte Carlo simulations. The following rule is
+found: For a critical model with fundamental Hamiltonian H(phi), absence of
+critical slowing down can only be expected if the expansion of <H(phi + psi)>
+in terms of the shift psi contains no relevant (mass) term. We also introduce a
+multigrid update procedure for nonabelian lattice gauge theory and study the
+acceptance rates for gauge group SU(2) in four dimensions.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 16:46:13 GMT""}]","2009-10-22"
+"hep-lat/9207004","Donald N. Petcher","M.F.L. Golterman and D.N. Petcher","Fermions in Models with Wilson--Yukawa Couplings","11 pages, 1 figure, Wash. U. HEP/92-81","Nucl. Phys. Proc. Suppl. 29BC (1992) 60","10.1016/0920-5632(92)90008-G",,"hep-lat",,"  Our work on models with Wilson--Yukawa couplings is reviewed. Conclusions
+include the failure of such models to produce continuum chiral gauge theories.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1992 01:25:50 GMT""}]","2009-10-22"
+"hep-lat/9207005","Donald N. Petcher","M.F.L. Golterman, D.N. Petcher and E. Rivas","On the Eichten--Preskill Proposal for Lattice Chiral Gauge Theories","7 pages, Wash. U. HEP/92-82","Nucl. Phys. Proc. Suppl. 29BC (1992) 193","10.1016/0920-5632(92)90020-S",,"hep-lat",,"  We have studied the Eichten--Preskill proposal for constructing lattice
+chiral gauge theories using both strong and weak coupling methods. The results
+indicate that this proposal is unlikely to work due to a dynamical behavior
+similar to that of the Smit--Swift proposal, which also does not give rise to
+chiral fermions.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1992 01:27:03 GMT""}]","2009-10-22"
+"hep-ph/9207212",,"V. Barger, Kingman Cheung, R. J. N. Phillips and A. L. Stange","Collider discovery limits for supersymmetric Higgs bosons","24 pages, 23 postscript figures available on request. MAD/PH/696","Phys.Rev.D46:4914-4929,1992","10.1103/PhysRevD.46.4914",,"hep-ph",,"  The prospects for discovery of the five Higgs bosons of the minimal
+supersymmetric standard model are assessed for existing and planned future
+colliders, including LEP\,I, LEP\,II, LHC and SSC. As a benchmark for
+comparisons, we take a top-quark mass $m_t= 150\,$GeV and squark mass parameter
+$\tilde m= 1\,$TeV in evaluating one-loop radiative corrections; some results
+for other $m_t$ values are also given. Searches based on the most promising
+production and decay channels are taken into account. For large regions in
+parameter space, detectable signals are predicted for one or more of the Higgs
+bosons, but there remains a region for which no signals would be visible at the
+above colliders.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 21:05:00 GMT""}]","2009-09-15"
+"hep-ph/9207213",,"S. A. Bludman, N. Hata, D. C. Kennedy, and P. G. Langacker","Implication of Combined Solar Neutrino Observation and their Theoretical
+  Uncertainties","20 pages, 19 figures (not included), Latex, UPR-0516T","Phys.Rev.D47:2220-2233,1993","10.1103/PhysRevD.47.2220",,"hep-ph astro-ph",,"  Constraints on the core temperature (T_c) of the Sun and on neutrino-
+oscillation parameters are obtained from the existing solar neutrino data,
+including the recent GALLEX and Kamiokande III results. (1) A purely
+astrophysical solution to the solar neutrino problem is strongly disfavored by
+the data: the best fit in a cooler Sun model requires an 8% reduction in T_c,
+but the chi-sqaured test rejects this hypothesis at 99.99% C.L., suggesting new
+neutrino physics. (2) Assuming the Standard Solar Model (SSM) and MSW
+oscillations, the MSW parameters are constrained to two small regions: one in
+the non-adiabatic region and the other in the large-mixing region. The
+non-adiabatic solution gives a considerably better fit. For nu_e oscillations
+into sterile neutrinos, the allowed region (90%) is constrained to non-
+adiabatic oscillations. As long as the SSM is assumed, the neutrino mixing
+angles are at least four times larger, or considerably smaller, than the
+corresponding quark mixing angles. (3) Allowing both MSW oscillations and a
+non-standard core temperature, a) the experiments determine the core
+temperature at the 5% level, yielding a value consistent with the SSM
+prediction. b) When T_c is used as a free parameter, the allowed MSW region is
+broadened: a cooler Sun (T_c=0.95) allows mass and mixing implied by the SUSY
+SO(10) GUT, while a warmer Sun (T_c=1.05) allows parameter space suggested by
+intermediate-scale SO(10) GUTs. Superstring-inspired models are consistent with
+all solutions. (4) From the narrowed parameter space, we predict the neutrino
+spectral shape which should be observed in SNO. Throughout the calculation we
+use the latest Bahcall-Pinsonneault SSM, and include nuclear and astrophysical
+uncertainties in a simplified, but physically transparent way.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 22:18:25 GMT""}]","2009-04-13"
+"hep-ph/9207214","Arkady Vainshtein","I.I.Bigi, N.G.Uraltsev, A.I.Vainshtein","Nonperturbative Corrections to Inclusive Beauty and Charm Decays: QCD
+  versus Phenomenological Models","11 pages (2 figs are not included), Latex file, FERMILAB-PUB-92/158-T
+  UND-HEP-92-BIG04 TPI-MINN-92/30-T","Phys.Lett.B293:430-436,1992; ERRATUM-ibid.B297:477,1993","10.1016/0370-2693(92)90908-M",,"hep-ph",,"  We present a selfconsistent method for treating nonperturbative effects in
+inclusive nonleptonic and semileptonic decays of heavy flavour hadrons. These
+effects give rise to powerlike corrections $\propto 1/m_Q^n\,$, $n \ge 2$ with
+$m_Q$ denoting the heavy quark mass.The leading correction to the semileptonic
+branching ratio occurs for n=2. It is expressed in terms of the
+vector-pseudoscalar mass splitting: $\delta BR\ind{sl}/BR\ind{sl} \simeq
+BR\ind{nl}\, \cdot \,6\,(\,(M_V^2-M_P^2)/m_Q^2)\cdot (c_+^2 - c_-^2)/2N_c$ and
+yields a {\it reduction} of $BR\ind{sl}$. This nonperturbative correction
+contributes to the nonleptonic width with a sign opposite to that of the
+perturbative terms that are non-leading in $1/N_c$. In beauty decays the former
+reduces the latter by 20 \% whereas in charm decays they more or less cancel.
+This leads to a {\it reduction} of $BR\ind{sl}$ by no more than 10 \% in beauty
+decays and by a factor of roughly two in charm decays. We confront these
+results with those obtained from phenomenological models of heavy flavour
+decays and find that such models are unable to mimic these leading corrections
+by a specific choice of quark masses or by invoking Fermi motion.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1992 01:06:35 GMT""}]","2011-07-18"
+"hep-th/9207011",,"Avinash Dhar, Gautam Mandal and Spenta R. Wadia","Non-relativistic Fermions, Coadjoint Orbits of \winf\ and String Field
+  Theory at $c=1$","22 pages","Mod.Phys.Lett.A7:3129-3146,1992","10.1142/S0217732392002512",,"hep-th",,"  We apply the method of coadjoint orbits of \winf-algebra to the problem of
+non-relativistic fermions in one dimension. This leads to a geometric
+formulation of the quantum theory in terms of the quantum phase space
+distribution of the fermi fluid. The action has an infinite series expansion in
+the string coupling, which to leading order reduces to the previously discussed
+geometric action for the classical fermi fluid based on the group $w_\infty$ of
+area-preserving diffeomorphisms. We briefly discuss the strong coupling limit
+of the string theory which, unlike the weak coupling regime, does not seem to
+admit of a two dimensional space-time picture. Our methods are equally
+applicable to interacting fermions in one dimension.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 18:39:00 GMT""}]","2011-04-20"
+"hep-th/9207012",,"W. A. Sabra","Classical Hamiltonian Reduction and Superconformal Algebras","21 pages, revised version contains minor grammatical changes and an
+  update of refernces","Phys.Lett. B313 (1993) 68-74","10.1016/0370-2693(93)91192-P","BIR/PH/92-2","hep-th",,"  The Polyakov's ""soldering procedure"" which shows how two-dimensional
+diffeomorphisms can be obtained from SL(2,R) gauge transformations is discussed
+using the free-field representation of SL(2,R) current algebra. Using this
+formalism, the relation of Polyakov's method to that of the Hamiltonian
+reduction becomes transparent. This discussion is then generalised to N=1
+superdiffeomorphisms which can be obtained from N=1 super Osp(1,2) gauge
+transformations. It is also demonstrated that the phase space of the Osp(2,2)
+supercurrent algebra represented by free superfields is connected to the
+classical phase space of N=2 superconformal algebra via Hamiltonian reduction.}
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 17:06:00 GMT""},{""version"":""v2"",""created"":""Thu, 9 Jul 1992 18:50:00 GMT""}]","2009-10-22"
+"hep-th/9207013","Jose M. Figueroa-O'Farrill","J.M. Figueroa-O'Farrill, J. Mas, and E. Ramos","On the two-boson picture of the KP hierarchy","8 pages, Plain TeX, BONN-HE-92-17, KUL-TF-92/26, US-FT-4/92","Phys.Lett. B292 (1992) 337-340","10.1016/0370-2693(92)91184-B",,"hep-th",,"  A two-boson realization of the second hamiltonian structure for the KP
+hierarchy has recently appeared in the literature. Furthermore, it has been
+claimed that this is also a realization of the hierarchy itself. This is
+surprising because it would mean that the dynamics of the KP hierarchy---which
+in its usual formulation requires an infinite number of fields---can be
+described with only two. The purpose of this short note is to point out the
+almost obvious fact that the hierarchy described by the two bosons is not the
+KP hierarchy but rather a reduction thereof---one which is moreover
+incompatible with the reduction to the KdV-type subhierarchies.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 22:07:20 GMT""}]","2009-10-22"

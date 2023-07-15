@@ -1,0 +1,62 @@
+"cond-mat/9210007","Brad Marston","A. Houghton and J. B. Marston","Bosonization and Fermion Liquids in Dimensions Greater Than One","48 text pages, plain TeX, BUP-JBM-1",,"10.1103/PhysRevB.48.7790",,"cond-mat hep-th",,"  (Revised, with postscript figures appended, corrections and added comments.)
+We develop and describe new approaches to the problem of interacting Fermions
+in spatial dimensions greater than one. These approaches are based on
+generalizations of powerful tools previously applied to problems in one spatial
+dimension. We begin with a review of one-dimensional interacting Fermions. We
+then introduce a simplified model in two spatial dimensions to study the role
+that spin and perfect nesting play in destabilizing Fermion liquids. The
+complicated functional renormalization group equations of the full problem are
+made tractable in our model by replacing the continuum of points that make up
+the closed Fermi line with four Fermi points. Despite this drastic
+approximation, the model exhibits physically reasonable behavior both at
+half-filling (where instabilities occur) and away from half-filling (where a
+Luttinger liquid arises). Next we implement the Bosonization of higher
+dimensional Fermi surfaces introduced by Luther and advocated most recently by
+Haldane. Bosonization incorporates the phase space and small-angle scattering
+.... (7 figures, appended as a postscript file at the end of the TeX file).
+","[{""version"":""v1"",""created"":""Sat, 10 Oct 1992 20:45:11 GMT""},{""version"":""v2"",""created"":""Fri, 23 Oct 1992 16:21:06 GMT""}]","2009-10-22"
+"hep-th/9210058",,"E. Ivanov, S. Krivonos and R.P. Malik","Boussinesq-type equations from nonlinear realizations of $W_3$","23 pages, LaTeX","Int. J. Mod. Phys. A8 (1993) 3199-3222","10.1142/S0217751X93001284",,"hep-th",,"  We construct new coset realizations of infinite-dimensional linear
+$W_3^{\infty}$ symmetry associated with Zamolodchikov's $W_3$ algebra which are
+different from the previously explored $sl_3$ Toda realization of
+$W_3^{\infty}$. We deduce the Boussinesq and modified Boussinesq equations as
+constraints on the geometry of the corresponding coset manifolds.The main
+characteristic features of these realizations are:i. Among the coset parameters
+there are the space and time coordinates $x$ and $t$ which enter the Boussinesq
+equations, all other coset parameters are regarded as fields depending on these
+coordinates;ii. The spin 2 and 3 currents of $W_3$ and two spin 1 $U(1)$ Kac-
+Moody currents as well as two spin 0 fields related to the $W_3$currents via
+Miura maps, come out as the only essential parameters-fields of these cosets.
+The remaining coset fields are covariantly expressed through them;iii.The Miura
+maps get a new geometric interpretation as $W_3^{\infty}$ covariant constraints
+which relate the above fields while passing from one coset manifold to another;
+iv. The Boussinesq equation and two kinds of the modified Boussinesq equations
+appear geometrically as the dynamical constraints accomplishing $W_3^{\infty}$
+covariant reductions of original coset manifolds to their two-dimensional
+geodesic submanifolds;v. The zero-curvature representations for these equations
+arise automatically as a consequence of the covariant reduction. The approach
+proposed could provide a universal geometric description of the relationship
+between $W$-type algebras and integrable hierarchies.
+","[{""version"":""v1"",""created"":""Sat, 10 Oct 1992 16:26:00 GMT""}]","2015-06-26"
+"hep-th/9210059",,"S.Bellucci, E.Ivanov and S.Krivonos","N=3 Supersymmetric Extension of KdV Equation","13 pages, LaTeX",,,,"hep-th",,"  We construct a one-parameter family of N=3 supersymmetric extensions of the
+KdV equation as a Hamiltonian flow on N=3 superconformal algebra and argue that
+it is non-integrable for any choice of the parameter. Then we propose a
+modified N=3 super KdV equation which possesses the higher order conserved
+quantities and so is a candidate for an integrable system. Upon reduction to
+N=2, it yields the recently discussed ``would-be integrable'' version of the
+N=2 super KdV equation. In the bosonic core it contains a coupled system of the
+KdV type equation and a three-component generalization of the mKdV equation. We
+give a Hamiltonian formulation of the new N=3 super KdV equation as a flow on
+some contraction of the direct sum of two N=3 superconformal algebras.
+","[{""version"":""v1"",""created"":""Sat, 10 Oct 1992 16:58:00 GMT""}]","2007-05-23"
+"hep-th/9210060",,"T. Curtright and C. Zachos","Supersymmetry and the Nonlocal Yangian Deformation Symmetry","6 pages, Latex, (completion of refs and reformatting)","Nucl.Phys.B402:604-612,1993","10.1016/0550-3213(93)90120-E",,"hep-th",,"  In the quantized two-dimensional non-linear supersymmetric $\sigma$-model,
+the supercurrent supermultiplet, which contains the energy-momentum tensor, is
+transformed by the nonlocal symmetry of the model into the isospin current
+supermultiplet. This effect incorporates supersymmetry into the known
+infinite-dimensional Yangian deformation symmetry of plain $\sigma$-models,
+leads to precisely the same nontrivial extension of the two-dimensional
+super-Poincar\'e group as found previously for the Poincar\'e group, and thus
+determines the theory's mass spectrum. A generalization to all higher-order
+nonlocal charges is conjectured such that their generating function, the
+so-called ``master charge'', has a definite Lorentz spin which depends on the
+spectral parameter.
+","[{""version"":""v1"",""created"":""Sat, 10 Oct 1992 21:47:41 GMT""},{""version"":""v2"",""created"":""Thu, 15 Oct 1992 01:19:43 GMT""}]","2009-10-02"

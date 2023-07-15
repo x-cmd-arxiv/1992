@@ -1,0 +1,115 @@
+"alg-geom/9206002","Martin Schlichenmaier","Andreas Ruffing, Thomas Deck, Martin Schlichenmaier","String Branchings on Complex Tori and Algebraic Representations of
+  Generalized Krichever-Novikov Algebras","11 pages, amstex",,"10.1007/BF00420515",,"alg-geom math.AG",,"  The propagation differential for bosonic strings on a complex torus with
+three symmetric punctures is investigated. We study deformation aspects between
+two point and three point differentials as well as the behaviour of the
+corresponding Krichever-Novikov algebras. The structure constants are
+calculated and from this we derive a central extension of the Krichever-Novikov
+algebras by means of b-c systems. The defining cocycle for this central
+extension deforms to the well known Virasoro cocycle for certain kinds of
+degenerations of the torus.
+  AMS subject classification (1991): 17B66, 17B90, 14H52, 30F30, 81T40
+","[{""version"":""v1"",""created"":""Wed, 3 Jun 1992 13:29:37 GMT""},{""version"":""v2"",""created"":""Thu, 4 Jun 1992 10:00:56 GMT""}]","2009-10-22"
+"cond-mat/9206001","Ofer Biham","Ofer Biham, A. Alan Middleton and Dov Levine","Self Organization and a Dynamical Transition in Traffic Flow Models","6 pages, 4 figures",,"10.1103/PhysRevA.46.R6124",,"cond-mat",,"  A simple model that describes traffic flow in two dimensions is studied. A
+sharp {\it jamming transition } is found that separates between the low density
+dynamical phase in which all cars move at maximal speed and the high density
+jammed phase in which they are all stuck. Self organization effects in both
+phases are studied and discussed.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 16:21:42 GMT""}]","2009-10-22"
+"cond-mat/9206002","Michael Fowler","Naichang Yu and Michael Fowler","Twisted Boundary Conditions and the Adiabatic Ground State for the
+  Attractive XXZ Luttinger Liquid","24 pages, 10 figures available from authors on request",,"10.1103/PhysRevB.46.14583",,"cond-mat",,"  The one-dimensional attractive lattice fermion gas equivalent to the
+Heisenberg-Ising spin 1/2 chain is studied for a ring geometry threaded by
+magnetic flux. We find that for charged fermions having interaction strength
+$\Delta=\cos(\pi / p)$ with $p$ {\it noninteger}, the adiabatic ground state is
+periodic in the magnetic flux threading the chain, with period 2 flux quanta,
+as found by Shastry and Sutherland for the repulsive case. We find that, at
+particular values of the threading field, a sequence of initially zero-energy
+bound states form at the Fermi surface during the adiabatic process, the
+largest containing $[p]$ (the integer part of $p$) fermions. This largest bound
+state moves around to the other Fermi point and sequentially unbinds. We find
+Berry's Phase for the whole process to be $[p] \pi$. For $p$ {\it integer}, as
+$\Phi$ increases, eventually all the particles in the system go into bound
+states of size $[p]$. The period in this case is of order the size of the
+system.
+","[{""version"":""v1"",""created"":""Wed, 3 Jun 1992 07:50:23 GMT""}]","2009-10-22"
+"hep-lat/9206002","Alexander Migdal","A.A. Migdal","Exact Solution of Induced Lattice Gauge Theory at Large $N$","PUPT-1323","Mod.Phys.Lett. A8 (1993) 359-371","10.1142/S0217732393000374",,"hep-lat hep-th",,"  We find the exact solution of a recently proposed model of the lattice gauge
+theory induced by heavy scalar field in adjoint representation at $ N= \infty $
+for arbitrary dimension $D$. The nonlinear integral equation for the gauge
+invariant density of eigenvalues of the vacuum average of the scalar field is
+derived. In the continuum limit, the density grows as $ \phi^{\alpha} $ where $
+\alpha = 1 + \frac{1}{\pi}\arccos\frac{D}{3D-2} $.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 16:13:50 GMT""},{""version"":""v2"",""created"":""Wed, 17 Jun 1992 17:48:39 GMT""}]","2009-10-22"
+"hep-lat/9206003","Alan Irving","A.C. Irving and C. Michael","Finite size effects and scaling in lattice CP(N-1)","6 pages of text plus 2 pages of figures, Liverpool Preprint LTH283","Phys.Lett.B292:392-396,1992","10.1016/0370-2693(92)91192-C",,"hep-lat",,"  We present model predictions for the spectrum of $CP^{N-1}$ in a periodic box
+and use them to interpret the strong finite size effects observed in lattice
+simulations at medium values of $N$. The asymptotic scaling behaviour of
+alternative lattice actions is discussed along with some aspects of multigrid
+algorithm efficiency.
+","[{""version"":""v1"",""created"":""Wed, 3 Jun 1992 08:42:40 GMT""}]","2008-11-26"
+"hep-lat/9206004","Christian B. Lang","C.R. Gattringer and C.B. Lang","Resonance Scattering Phase Shifts in a 2-d Lattice Model","24 p + 8 PS-figures, UNIGRAZ-UTP-04-05-92","Nucl.Phys. B391 (1993) 463-482","10.1016/0550-3213(93)90155-I",,"hep-lat",,"  We study a simple 2-d model representing two fields with different mass and a
+3-point coupling term. The phase shift in the resonating 2-particle channel is
+determined from the energy spectrum obtained in Monte Carlo simulations on
+finite lattices. Masses and wave function renormalization constants of the
+fields as well as mass and width of the resonance are determined and discussed.
+The representation of scattering states in terms of the considered operators is
+analysed.
+","[{""version"":""v1"",""created"":""Wed, 3 Jun 1992 08:52:56 GMT""}]","2009-10-22"
+"hep-lat/9206005","Jose Luis Alonso","J.L. Alonso, Ph. Boucaud, J.L. Cortes, F. Lesmes, E. Rivas","Massless Decoupled Doublers: Chiral Yukawa Models and Chiral Gauge
+  Theories","11 pages",,"10.1016/0920-5632(92)90018-N",,"hep-lat",,"  We present a new method for regularizing chiral theories on the lattice. The
+arbitrariness in the regularization is used in order to decouple massless
+replica fermions. A continuum limit with only one fermion is obtained in
+perturbation theory and a Golterman-Petcher like symmetry related to the
+decoupling of the replicas in the non-perturbative regime is identified. In the
+case of Chiral Gauge Theories gauge invariance is broken at the level of the
+regularization, so our approach shares many of the characteristics of the Rome
+approach.
+","[{""version"":""v1"",""created"":""Wed, 3 Jun 1992 10:36:19 GMT""}]","2009-10-22"
+"hep-ph/9206204",,"Mary K. Gaillard","Interpretation of Precision Measurements in the Strongly Interacting
+  Limit of the Standard Electroweak Model","12 pages","Phys.Lett. B293 (1992) 410-416","10.1016/0370-2693(92)90905-J",,"hep-ph",,"  Strong rescattering corrections to one-loop contributions to the parameters
+of the standard electroweak model are considered.
+","[{""version"":""v1"",""created"":""Wed, 3 Jun 1992 00:26:22 GMT""},{""version"":""v2"",""created"":""Fri, 21 Aug 1992 22:00:18 GMT""}]","2009-10-22"
+"hep-th/9206010","Antti Niemi","A. Hietamaki and A.J. Niemi","Index Theorems and Loop Space Geometry","15 pages, report CERN-TH-6471 and HU-TFT-92-15","Phys.Lett. B288 (1992) 331-341","10.1016/0370-2693(92)91111-L",,"hep-th",,"  We investigate the evaluation of the Dirac index using symplectic geometry in
+the loop space of the corresponding supersymmetric quantum mechanical model. In
+particular, we find that if we impose a simple first class constraint, we can
+evaluate the Callias index of an odd dimensional Dirac operator directly from
+the quantum mechanical model which yields the Atiyah-Singer index of an even
+dimensional Dirac operator in one more dimension. The effective action obtained
+by BRST quantization of this constrained system can be interpreted in terms of
+loop space symplectic geometry, and the corresponding path integral for the
+index can be evaluated exactly using the recently developed localization
+techniques.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 20:14:00 GMT""}]","2009-10-22"
+"hep-th/9206011",,"Daniel C. Cabra","Zamolodchikov's c-function for the Chiral Gross-Neveu Model","22 pages","Phys.Rev. D47 (1993) 3509-3517","10.1103/PhysRevD.47.3509",,"hep-th",,"  We construct the Zamolodchikov's c-function for the Chiral Gross-Neveu Model
+up to two loops. We show that the c-function interpolates between the two known
+critical points of the theory, it is stationary at them and it decreases with
+the running coupling constant. In particular one can infer the non-existence of
+additional critical points in the region under investigation.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 18:32:03 GMT""}]","2009-10-22"
+"hep-th/9206012","Ohta","Nobuyoshi Ohta","Discrete States in Two-Dimensional Quantum Gravity","40 pages, OS-GE 26-92",,,,"hep-th",,"  Minor misprints corrected.
+","[{""version"":""v1"",""created"":""Wed, 3 Jun 1992 00:50:34 GMT""},{""version"":""v2"",""created"":""Sat, 13 Jun 1992 00:48:18 GMT""}]","2008-02-03"
+"hep-th/9206013",,"Shahn Majid and M.J Rodriguez-Plaza","Quantum and super-quantum group related to the Alexander-Conway
+  polynomial","8 pages, LaTex file, Talk given at the XXVIII Karpacz Winter School,
+  Karpacz, Poland, February 1992",,"10.1016/0393-0440(93)90069-Q",,"hep-th",,"  We describe the quasitriangular structure (universal $R$-matrix) on the
+non-standard quantum group $U_q(H_1,H_2,X^\pm)$ associated to the
+Alexander-Conway matrix solution of the Yang-Baxter equation. We show that this
+Hopf algebra is connected with the super-Hopf algebra $U_qgl(1|1)$ by a general
+process of superization.
+","[{""version"":""v1"",""created"":""Wed, 3 Jun 1992 10:13:00 GMT""}]","2009-10-22"
+"hep-th/9206015","Vladimir Kazakov","V.A. Kazakov and A.A. Migdal","Induced QCD at Large N","20 pages","Nucl.Phys. B397 (1993) 214-238","10.1016/0550-3213(93)90342-M","PUPT-1322, LPTENS-92/15","hep-th",,"  We propose and study at large N a new lattice gauge model , in which the
+Yang-Mills interaction is induced by the heavy scalar field in adjoint
+representation. At any dimension of space and any $ N $ the gauge fields can be
+integrated out yielding an effective field theory for the gauge invariant
+scalar field, corresponding to eigenvalues of the initial matrix field. This
+field develops the vacuum average, the fluctuations of which describe the
+elementary excitations of our gauge theory. At $N= \infty $ we find two phases
+of the model, with asymptotic freedom corresponding to the strong coupling
+phase (if there are no phase transitions at some critical $N$). We could not
+solve the model in this phase, but in the weak coupling phase we have derived
+exact nonlinear integral equations for the vacuum average and for the scalar
+excitation spectrum. Presumably the strong coupling equations can be derived by
+the same method.
+","[{""version"":""v1"",""created"":""Wed, 3 Jun 1992 14:07:30 GMT""}]","2009-10-22"
+"hep-th/9206017",,"S. Pratik Khastgir and Jnanadeva Maharana","Symmetries of String Effective Action and Space-Time Geometry","14 pages",,,"IP/BBSR/92-38","hep-th",,"  Two dimensional charged black hole solution is obtained by implementing an
+$O(2,2)$ transformation on the three dimensional black string solution. Two
+different monopole backgrounds in five dimensions are related through an
+$O(2,2)$ transformation. It has been shown in these examples that the
+particular $O(2,2)$ transformation corresponds to duality transformation.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 19:35:26 GMT""}]","2007-05-23"

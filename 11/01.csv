@@ -1,0 +1,26 @@
+"astro-ph/9210007",,"B. Fields, S. Dodelson, M.S. Turner (U. Chicago/Fermilab)","Effect of Neutrino Heating on Primordial Nucleosynthesis","14 pages/4 Figs (upon request)","Phys.Rev. D47 (1993) 4309-4314","10.1103/PhysRevD.47.4309","FERMILAB-Pub-92/298-A","astro-ph hep-ph",,"  We have modified the standard code for primordial nucleosynthesis to include
+the effect of the slight heating of neutrinos by $e^\pm$ annihilations. There
+is a small, systematic change in the $^4$He yield, $\Delta Y \simeq +1.5\times
+10^{-4}$, which is insensitive to the value of the baryon-to-photon ratio
+$\eta$ for $10^{-10}\la \eta \la 10^{-9}$. We also find that the
+baryon-to-photon ratio decreases by about 0.5\% less than the canonical factor
+of 4/11 because some of the entropy in $e^\pm$ pairs is transferred to
+neutrinos. These results are in accord with recent analytical estimates.
+","[{""version"":""v1"",""created"":""Sat, 31 Oct 1992 20:40:38 GMT""}]","2009-10-22"
+"hep-lat/9210042",,"Jeffrey E. Mandula and Michael C. Ogilvie","The Isgur-Wise Limit on the Lattice","Talk given at the 1992 International Lattice Gauge Theory Conference
+  (""Lattice '92""), Amsterdam, 4 pages, in postscript","Nucl.Phys.Proc.Suppl.30:477-480,1993","10.1016/0920-5632(93)90254-4",,"hep-lat hep-ph",,"  We construct the Isgur-Wise limit of QCD in a form appropriate to lattice
+gauge theory techniques. The formulation permits a calculation of heavy quark
+processes even when the momentum transfers are much larger than the inverse
+lattice spacing. Applications include semi-leptonic heavy quark decay and
+scattering processes, including the computation of the nonperturbative part of
+the Isgur-Wise universal function.
+","[{""version"":""v1"",""created"":""Sat, 31 Oct 1992 20:25:07 GMT""}]","2010-11-01"
+"math/9211216","Greg Kuperberg","Greg Kuperberg (U Chicago)","A low-technology estimate in convex geometry","The abstract is adapted from the Math Review by Keith Ball, MR
+  93h:52010","Internat. Math. Res. Notices, 1992 (1992), no. 9, 181-183",,"Kuperberg migration 5/2002","math.MG math.FA",,"  Let $K$ be an $n$-dimensional symmetric convex body with $n \ge 4$ and let
+$K\dual$ be its polar body. We present an elementary proof of the fact that
+$$(\Vol K)(\Vol K\dual)\ge \frac{b_n^2}{(\log_2 n)^n},$$ where $b_n$ is the
+volume of the Euclidean ball of radius 1. The inequality is asymptotically
+weaker than the estimate of Bourgain and Milman, which replaces the $\log_2 n$
+by a constant. However, there is no known elementary proof of the
+Bourgain-Milman theorem.
+","[{""version"":""v1"",""created"":""Sun, 1 Nov 1992 00:00:00 GMT""}]","2008-02-03"

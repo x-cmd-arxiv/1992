@@ -1,0 +1,68 @@
+"cond-mat/9205006","Alexander V. Balatsky","A. V. Balatsky","Quaternion Generalization of the Laughlin State and the Three
+  Dimensional Fractional QHE","14 pages",,,,"cond-mat",,"  The 3D state of strongly correlated electrons is proposed, which in the
+external magnetic field $\vec B$ exhibits the fractional quantum Hall effect,
+with the zero temperature conductivity tensor $\sigma_{ij} = (e^2/h)(1/m)
+\sum_k \epsilon_{ijk} B^k/\mid \vec B\mid $. The analog of Landau and Laughlin
+states in 3D are given using quaternion coordinates as generalization of
+complex coordinates. We discuss the notion of the fractional statistics in 3D
+introduced recently by Haldane.
+","[{""version"":""v1"",""created"":""Wed, 6 May 1992 17:06:54 GMT""}]","2007-05-23"
+"funct-an/9205001",,"Alberto Bressan and Benedetto Piccoli","A Baire Category Approach to the Bang-Bang Property","21 pages",,,,"funct-an math.FA",,"  Aim of this paper is to develop a new technique, based on the Baire category
+theorem, in order to establish the closure of reachable sets and the existence
+of optimal trajectories for control systems, without the usual convexity
+assumptions. The bang-bang property is proved for a new class of ``concave""
+multifunctions, characterized by the existence of suitable linear selections.
+The proofs rely on Lyapunov's theorem in connection with a Baire category
+argument.
+","[{""version"":""v1"",""created"":""Wed, 6 May 1992 16:03:24 GMT""}]","2008-02-03"
+"hep-ph/9205206","Jose Valle","J C Romao, C A Santos, J W F Valle","R parity can spontaneously break","4 pages and 1 figure",,,,"hep-ph",,"  We refute the claims made by Chaichian and Smilga in a recent paper in Phys
+Rev Letters on the impossibility of spontaneous R Parity breaking. Apart from
+explaining their error we summarize the results of a more detailed work that
+demonstrates explicitly that R parity can break spontaneously at a scale
+anywhere in the range 10 GeV to 1 Tev in a simple extension of the minimal SUSY
+standard model proposed previously.
+","[{""version"":""v1"",""created"":""Wed, 6 May 1992 17:00:13 GMT""}]","2007-05-23"
+"hep-th/9205011",,"M. Dine, R.G. Leigh and D.A. MacIntire","Of CP and other Gauge Symmetries in String Theory","8 pages","Phys.Rev.Lett. 69 (1992) 2030-2032","10.1103/PhysRevLett.69.2030",,"hep-th",,"  We argue that \CP is a gauge symmetry in string theory. As a consequence, \CP
+cannot be explicitly broken either perturbatively or non-pertubatively; there
+can be no non-perturbative \CP-violating parameters. String theory is thus an
+example of a theory where all $\theta$ angles arise due to spontaneous \CP
+violation, and are in principle calculable.
+","[{""version"":""v1"",""created"":""Thu, 7 May 1992 06:38:00 GMT""}]","2009-10-22"
+"hep-th/9205012",,"B. de Wit, M.T. Grisaru, E. Rabinovici, H. Nicolai","Two-loop finiteness of D=2 supergravity","11 pages","Phys.Lett. B286 (1992) 78-84","10.1016/0370-2693(92)90161-V",,"hep-th",,"  We establish two-loop (on shell) finiteness of certain supergravity theories
+in two dimensions. Possible implications of this result are discussed
+","[{""version"":""v1"",""created"":""Thu, 7 May 1992 09:17:51 GMT""}]","2009-10-22"
+"hep-th/9205013","Gerard Watts","G.M.T.Watts","A Note of W-algebra Realisations","8 pages","Phys.Lett. B288 (1992) 31-37","10.1016/0370-2693(92)91950-E",,"hep-th",,"  We provide a general description of realisations of W--algebras in terms of
+smaller W--algebras and free fields. This is based on the definition of the
+W--algebra as the commutant of a set of screening charges. This is conjectured
+to be related to partial gauge-fixings in the Hamiltonian reduction model.
+","[{""version"":""v1"",""created"":""Thu, 7 May 1992 10:58:07 GMT""}]","2009-10-22"
+"math/9205202",,"Randall Dougherty","Critical points in an algebra of elementary embeddings",,"Annals of Pure and Applied Logic Volume 65, Issue 3, 15 December
+  1993, Pages 211-241","10.1016/0168-0072(93)90012-3","Logic E-prints May 7, 1992","math.LO",,"  Given two elementary embeddings from the collection of sets of rank less than
+$\lambda$ to itself, one can combine them to obtain another such embedding in
+two ways: by composition, and by applying one to (initial segments of) the
+other. Hence, a single such nontrivial embedding $j$ generates an algebra of
+embeddings via these two operations, which satisfies certain laws (for example,
+application distributes over both composition and application). Laver has
+shown, among other things, that this algebra is free on one generator with
+respect to these laws.
+  The set of critical points of members of this algebra is the subject of this
+paper. This set contains the critical point $\kappa_0$ of $j$, as well as all
+of the other ordinals $\kappa_n$ in the critical sequence of $j$ (defined by
+$\kappa_{n+1} = j(\kappa_n)$). But the set includes many other ordinals as
+well. The main result of this paper is that the number of critical points below
+$\kappa_n$ (which has been shown to be finite by Laver and Steel) grows so
+quickly with $n$ that it dominates any primitive recursive function. In fact,
+it grows faster than the Ackermann function, and even faster than a slow
+iterate of the Ackermann function. Further results show that, even just below
+$\kappa_4$, one can find so many critical points that the number is only
+expressible using fast-growing hierarchies of iterated functions (six levels of
+iteration beyond exponentials).
+","[{""version"":""v1"",""created"":""Thu, 7 May 1992 00:00:00 GMT""}]","2021-02-09"
+"math/9205204",,"W. T. Gowers, Bernard Maurey","The unconditional basic sequence problem",,,,"Banach Archive 5/6/92","math.FA",,"  We construct a Banach space that does not contain any infinite unconditional
+basic sequence.
+","[{""version"":""v1"",""created"":""Wed, 6 May 1992 16:35:52 GMT""}]","2009-09-25"
+"math/9205205",,"Denny H. Leung","On $c_0$-saturated Banach spaces",,,,"Banach Archive 5/7/92","math.FA",,"  A Banach space E is c_0-saturated if every closed infinite dimensional
+subspace of E contains an isomorph of c_0. A c_0-saturated Banach space with an
+unconditional basis which has a quotient space isomorphic to l^2 is
+constructed.
+","[{""version"":""v1"",""created"":""Thu, 7 May 1992 15:38:00 GMT""}]","2016-09-06"

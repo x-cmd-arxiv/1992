@@ -1,0 +1,65 @@
+"alg-geom/9202027","Kapil and Sudeshna","Kapil H. Paranjape","Cohomological and Cycle-theoretic connectivity","AmsTeX 2.1, 13 pages. Those who did ""get"" the earlier paper will find
+  that Section 4 of this paper is the entire contents of the previous paper.
+  The rest of the paper contains a number of new results","Annals of Mathematics 140 (1994) pages 641-660",,,"alg-geom math.AG",,"  One of the themes in algebraic geometry is the study of the relation between
+the ``topology'' of a smooth projective variety and a (``general'') hyperplane
+section. Recent results of Nori produce cohomological evidence for a conjecture
+that a general hypersurface of sufficently large degree should have no
+``interesting'' cycles. We compute precise bounds for these results and show by
+example that there are indeed interesting cycles for degrees that are not high
+enough. In a different direction Esnault, Nori and Srinivas have shown
+connectivity for intersections of small multidegree. We show analogous
+cycle-theoretic connectivity results.
+","[{""version"":""v1"",""created"":""Wed, 26 Feb 1992 17:45:00 GMT""},{""version"":""v2"",""created"":""Tue, 7 Apr 1992 07:04:00 GMT""}]","2008-02-03"
+"alg-geom/9202028","Alexander A. Voronov","A. A. Voronov","Complex Divisors on Algebraic Curves and Some Applications to String
+  Theory","8 pages, LaTeX","Contemp. Math. 131, part 3, 515-522 (1992)",,,"alg-geom hep-th math.AG",,"  These are notes of a talk to the International Conference on Algebra in honor
+of A. I. Mal'tsev, Novosibirsk, USSR, 1989 (to appear in Contemporary
+Mathematics). The concept of a divisor with complex coefficients on an
+algebraic curve is introduced. We consider families of complex divisors, or,
+equivalently, families of invertible sheaves and define Arakelov-type metrics
+on some invertible sheaves produced from them on the base. We apply this
+technique to obtain a formula for the measure on the moduli space that gives
+tachyon correlators in string theory.
+","[{""version"":""v1"",""created"":""Thu, 27 Feb 1992 03:13:24 GMT""}]","2008-02-03"
+"hep-th/9202088","Daniel H. Gottlieb","Daniel H. Gottlieb and Geetha Samaranayake","The Index of discontinuous Vector Fields: Topological Particles and
+  Vector Fields","25 page",,,,"hep-th math.GT",,"  We define the concepts of topological particles and topological radiation.
+These are nothing more than connected components of defects of a vector field.
+To each topological particle we assign an index which is an integer which is
+conserved under interactions with other particles much as electric charge is
+conserved. For space-like vector fields of space-times this index is invariant
+under all coordinate transformations. We propose the following physical
+principal: For physical vector fields the index changes only when there is
+radiation. As an implication of this principal we predict that any physical
+psuedo-vector field has index zero. The definition of the index is quite
+elementary. It only depends upon the concepts of continuity, compactness, the
+Euler-Poincare number, and the idea of inward pointing. The proof that this
+definition is well defined takes up most of the paper. The paper concludes with
+a list of properties of the index.
+","[{""version"":""v1"",""created"":""Wed, 26 Feb 1992 19:39:07 GMT""}]","2008-02-03"
+"hep-th/9202089",,"E. Abdalla, M.C.B. Abdalla, D. Dalmazi, K. Harada","Correlation Functions in non critical (super) string theory","22 pages","Int. J. Mod. Phys. A7 (1992) 7339-7363","10.1142/S0217751X92003367",,"hep-th",,"  We consider the correlation functions of the tachyon vertex operator of the
+super Liouville theory coupled to matter fields in the super Coulomb gas
+formulation, on world sheets with spherical topology. After integrating over
+the zero mode and assuming that the $s$ parameter takes an integer value, we
+subsequently continue it to an arbitrary real number and compute the
+correlators in a closed form. We also included an arbitrary number of screening
+charges and, as a result, after renormalizing them, as well as the external
+legs and the cosmological constant, the form of the final amplitudes do not
+modify. The result is remarkably parallel to the bosonic case. For
+completeness, we discussed the calculation of bosonic correlators including
+arbitrary screening charges.
+","[{""version"":""v1"",""created"":""Wed, 26 Feb 1992 20:05:20 GMT""}]","2015-06-26"
+"hep-th/9202090","Matt Visser","By Matt Visser","From wormhole to time machine: Comments on Hawking's Chronology
+  Protection Conjecture","43 pages,ReV_TeX,major revisions","Phys.Rev. D47 (1993) 554-565","10.1103/PhysRevD.47.554","WASH-U-HEP-92/70","hep-th",,"  The recent interest in ``time machines'' has been largely fueled by the
+apparent ease with which such systems may be formed in general relativity,
+given relatively benign initial conditions such as the existence of traversable
+wormholes or of infinite cosmic strings. This rather disturbing state of
+affairs has led Hawking to formulate his Chronology Protection Conjecture,
+whereby the formation of ``time machines'' is forbidden. This paper will use
+several simple examples to argue that the universe appears to exhibit a
+``defense in depth'' strategy in this regard. For appropriate parameter regimes
+Casimir effects, wormhole disruption effects, and gravitational back reaction
+effects all contribute to the fight against time travel. Particular attention
+is paid to the role of the quantum gravity cutoff. For the class of model
+problems considered it is shown that the gravitational back reaction becomes
+large before the Planck scale quantum gravity cutoff is reached, thus
+supporting Hawking's conjecture.
+","[{""version"":""v1"",""created"":""Wed, 26 Feb 1992 20:32:21 GMT""},{""version"":""v2"",""created"":""Thu, 8 Oct 1992 20:46:26 GMT""}]","2009-10-22"

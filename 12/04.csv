@@ -1,0 +1,209 @@
+"cond-mat/9212004","Hisao Nakanishi","Hisao Nakanishi, Muhammad Sahimi, Michelle C. Robertson, Charles C.
+  Sammis and Mark D. Rintoul","Fractal Properties of the Distribution of Earthquake Hypocenters","11 pages, LaTeX, HLRZ 68/92",,"10.1051/jp1:1993158",,"cond-mat",,"  We investigate a recent suggestion that the spatial distribution of
+earthquake hypocenters makes a fractal set with a structure and fractal
+dimensionality close to those of the backbone of critical percolation clusters,
+by analyzing four different sets of data for the hypocenter distributions and
+calculating the dynamical properties of the geometrical distribution such as
+the spectral dimension $d_s$. We find that the value of $d_s$ is consistent
+with that of the backbone, thus supporting further the identification of the
+hypocenter distribution as having the structure of the percolation backbone.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 08:15:25 GMT""}]","2009-10-22"
+"gr-qc/9212003",,"Carl H. Brans and Duane Randall","Exotic Differentiable Structures and General Relativity","11 pages, LaTeX",,"10.1007/BF00758828",,"gr-qc",,"  We review recent developments in differential topology with special concern
+for their possible significance to physical theories, especially general
+relativity. In particular we are concerned here with the discovery of the
+existence of non-standard (``fake'' or ``exotic'') differentiable structures on
+topologically simple manifolds such as $S^7$, \R and $S^3\times {\bf R^1}.$
+Because of the technical difficulties involved in the smooth case, we begin
+with an easily understood toy example looking at the role which the choice of
+complex structures plays in the formulation of two-dimensional vacuum
+electrostatics. We then briefly review the mathematical formalisms involved
+with differentiable structures on topological manifolds, diffeomorphisms and
+their significance for physics. We summarize the important work of Milnor,
+Freedman, Donaldson, and others in developing exotic differentiable structures
+on well known topological manifolds. Finally, we discuss some of the geometric
+implications of these results and propose some conjectures on possible physical
+implications of these new manifolds which have never before been considered as
+physical models.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 19:59:17 GMT""}]","2009-10-22"
+"gr-qc/9212004",,"A L Matacz, A C Ottewill and P C W Davies","Quantum Vacuum Instability Near Rotating Stars","17 Pages, (accepted by PRD), (previously incorrect header files have
+  been corrected)","Phys.Rev. D47 (1993) 1557-1562","10.1103/PhysRevD.47.1557",,"gr-qc",,"  We discuss the Starobinskii-Unruh process for the Kerr black hole. We show
+how this effect is related to the theory of squeezed states. We then consider a
+simple model for a highly relativistic rotating star and show that the
+Starobinskii-Unruh effect is absent.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 19:28:00 GMT""},{""version"":""v2"",""created"":""Tue, 8 Dec 1992 14:19:00 GMT""}]","2009-10-22"
+"hep-ph/9212215","Psilvestrov","P.G.Silvestrov","Constrained Instanton and Baryon Number Non--Conservation at High
+  Energies","20 pages, BUDKERINP 92--92","Phys. Lett. B323 (1994) 25-35","10.1016/0370-2693(94)00059-X",,"hep-ph",,"  Constrained Instanton and Baryon Number Non--Conservation at High Energies,
+P.G.Silvestrov, BUDKERINP 92--92. The total cross-section for baryon number
+violating processes at high energies is usually parametrized as
+$\sigma_{total}\propto\exp(\frac{4\pi}{\alpha} F(\varepsilon))$, where
+$\varepsilon =\sqrt{s}/E_0 , \,\, E_0 = \sqrt{6} \pi m_w/\alpha$. In the
+present paper the third nontrivial term of the expansion \[ F(\varepsilon)=
+-1+\frac{9}{8}\varepsilon^{4/3} -\frac{9}{16}\varepsilon^2 -\frac{9}{32} \left(
+\frac{m_h}{m_w}\right)^2 \varepsilon^{8/3}\log\left(
+\frac{1}{3\varepsilon}\left( \frac{2m_w}{\gamma m_h}\right)^2 \right) +
+O(\varepsilon^{8/3}) \] is obtained.The unknown corrections to $F(\varepsilon)$
+are expected to be of the order of $\varepsilon^{8/3}$, but have neither
+$(m_h/m_w)^2$, nor $\log(\varepsilon)$ enhancement. The total cross-section is
+extremely sensitive to the value of single Instanton action. The correction to
+Instanton action $\triangle S\sim (m\rho)^4 \log(m\rho)/g^2$ is found ($\rho$
+is the Instanton radius). For sufficiently heavy Higgs boson the $\rho$
+-dependent part of the Instanton action is changed drastically. In this case
+even the leading contribution to $F(\varepsilon)$, responsible for a growth of
+cross-section due to the multiple production of classical W-bosons, is changed:
+\[ F(\varepsilon)=-1+ \frac{9}{8}\left( \frac{2}{3} \right)^{2/3}
+\varepsilon^{4/3} +\ldots \,\, , \,\, \varepsilon\ll 1\ll \varepsilon \left(
+\frac{m_h}{m_w} \right)^{3/2} \,\, . \]
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 18:41:00 GMT""}]","2009-10-22"
+"hep-ph/9212216",,"Patrick Huet","Aspects of the Electroweak Phase Transition","5 pages",,,,"hep-ph",,"  Presented at the 1992 Meeting of the DPF, Fermilab. The electroweak phase
+transition is reviewed in light of some recent developments. Emphasis is on the
+issue whether the transition is first or second order and its possible role in
+the generation of the baryon asymmetry of the universe.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 20:22:00 GMT""},{""version"":""v2"",""created"":""Tue, 8 Dec 1992 01:25:00 GMT""}]","2008-02-03"
+"hep-ph/9212217","Stephen Sharpe","Stephen Sharpe","Recent Progress in Lattice QCD","(summary talk at DPF '92, Fermilab, 11/92), 17 pages latex, 3
+  postscript figures (included), uses psfig.tex, UW/PT-92-22",,,,"hep-ph hep-lat",,"  I give a brief overview of the status of lattice QCD, concentrating on topics
+relevant to phenomenology. I discuss the calculation of the light quark
+spectrum, the lattice prediction of $\alpha_\MS(M_Z)$, and the calculation of
+$f_B$.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 22:17:45 GMT""}]","2007-05-23"
+"hep-ph/9212218","Mike Musolf","M. J. Musolf and T. W. Donnelly","Non-Standard Physics and Nucleon Strangeness in Low-Energy PV Electron
+  Scattering","29 pages, MIT preprint 2149, CEBAF preprint TH-92-29","Z.Phys.C57:559-568,1993","10.1007/BF01561475",,"hep-ph nucl-th",,"  Contributions from physics beyond the Standard Model, strange quarks in the
+nucleon, and nuclear structure effects to the left-right asymmetry measured in
+parity-violating (PV) electron scattering from $\nuc{12}{C}$ and the proton are
+discussed. It is shown how lack of knowledge of the distribution of strange
+quarks in the nucleon, as well as theoretical uncertainties associated with
+higher-order dispersion amplitudes and nuclear isospin-mixing, enter the
+extraction of new limits on the electroweak parameters $S$ and $T$ from these
+PV observables. It is found that a series of elastic PV electron scattering
+measurements using $^{4}$He could significantly constrain the $s$-quark
+electric form factor if other theoretical issues are resolved. Such constraints
+would reduce the associated form factor uncertainty in the carbon and proton
+asymmetries below a level needed to permit extraction of interesting low-energy
+constraints on $S$ and $T$ from these observables. For comparison, the much
+smaller scale of $s$-quark contributions to the weak charge measured in atomic
+PV is quantified. It is likely that only in the case of heavy muonic atoms
+could nucleon strangeness enter the weak charge at an observable level.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 22:08:36 GMT""}]","2014-11-17"
+"hep-ph/9212219",,"K.S. Babu and S.M. Barr","Family Symmetry, Gravity, and the Strong CP Problem","BA-92-79, 14 pages, in LaTeX, no figures","Phys.Lett.B300:367-372,1993","10.1016/0370-2693(93)91347-P",,"hep-ph",,"  We show how in a class of models Peccei--Quinn symmetry can be realized as an
+automatic consequence of a gauged $U(1)$ family symmetry. These models provide
+a solution to the strong CP problem either via a massless $u$--quark or via the
+DFSZ invisible axion. The local family symmetry protects against potentially
+large corrections to $\overline{\theta} $ induced by quantum gravitational
+effects. In a supersymmetric extension, the `$\mu$--problem' is shown to have a
+natural solution in the context of gravitationally induced operators. We also
+present a plausible mechanism which can explain the inter--generational mass
+hierarchy in such a context.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 04:59:08 GMT""}]","2008-11-26"
+"hep-ph/9212220",,"J.G.Korner, D.Pirjol and K.Schilcher","Radiative Decays of the P-Wave Charmed Mesons","12 pages, LaTeX, MZ-TH/92-51","Phys.Rev. D47 (1993) 3955-3961","10.1103/PhysRevD.47.3955",,"hep-ph",,"  Minor (mainly numerical) corrections.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 20:55:00 GMT""},{""version"":""v2"",""created"":""Sun, 6 Dec 1992 13:16:00 GMT""}]","2009-10-22"
+"hep-ph/9212221",,"Beth Basista and Peter Suranyi (University of Cincinnati, Cincinnati,
+  OH, USA)","Hamiltonian Effective Potential","21 pages","Phys.Rev. D48 (1993) 3826-3835","10.1103/PhysRevD.48.3826",,"hep-ph",,"  A Hamiltonian effective potential (the logarithm of the square of the wave
+functional) is defined and calculated at the tree and one loop levels in a
+$\phi^4$ scalar field theory. The loop expansion for eigenfunctionals is
+equivalent to the combination of WKB expansion and an expansion around constant
+field configurations. The results are compared with those obtained from the
+Lagrangian effective potential. While at tree level the results from the two
+methods coincide, at one loop level they differ. Our result at one loop level
+is that the reflection symmetry is not broken at $m^2\geq0$.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 20:55:08 GMT""}]","2009-10-22"
+"hep-ph/9212222",,"K.Charchula and J.Gajewski","Numerical study of radiative corrections in the low $Q^2$ region at HERA","12 pages, 6 figures (not included), Deutsches Electronen Synchrotron
+  preprint DESY 92-173, LaTex, hardcopy of the figures available upon request
+  to krzych@fuw.edu.pl","Int.J.Mod.Phys. A9 (1994) 3229-3244","10.1142/S0217751X94001278",,"hep-ph",,"  A detailed numerical study of radiative corrections in the low $Q^2$ region
+at the HERA $ep$ collider was performed. The specific case of the total
+photoproduction cross section measurement was taken as an example. Two
+different programs, TERAD91 and HERACLES4.2, were used to get an estimation of
+the size of radiative effects. It was found that radiative corrections can be
+quite large in some points of the space of leptonic $(x,y)$ variables. However,
+after imposing experimentally feasible cuts on the radiated photon and the
+hadronic final state one gets corrections at the level of a few per cent.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 13:43:20 GMT""}]","2015-06-25"
+"hep-th/9212023","Edward Hsu","Edward Hsu and David Kutasov","The Gravitational Sine-Gordon Model","14 pages, 4 figures (not included), PUPT-1357","Nucl.Phys. B396 (1993) 693-707","10.1016/0550-3213(93)90668-F",,"hep-th",,"  We use matrix model results to investigate the Sine-Gordon model coupled to
+two dimensional gravity. For relevant (in the RG sense) potentials, we show
+that the $c=1$ string, which appears in the ultraviolet limit of this model,
+flows to a set of decoupled $c=0$ (pure gravity) models in the infrared. The
+torus partition sum, which was argued previously to count the number of string
+degrees of freedom and hence satisfy a new $c$ -- theorem, is shown to be a
+monotonically decreasing function of the scale (given by the quantum area of
+the world-sheet).
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 19:34:03 GMT""}]","2009-10-22"
+"hep-th/9212024","Alex Kovner","A. Kovner and B. Rosenstein","Quarks as topological defects or what is confined inside a hadron?","45 pages, 1 figure available on request","Int. J. Mod. Phys. A8 (1993) 5575","10.1142/S0217751X93002204","UBCTP 92-009","hep-th",,"  We present a picture of confinement based on representation of quarks as
+pointlike topological defects. The topological charge carried by quarks and
+confined in hadrons is explicitly constructed in terms of Yang - Mills
+variables. In 2+1 dimensions we are able to construct a local complex scalar
+field $V(x)$, in terms of whichthe topological charge is $Q=-\frac{i}{4\pi}\int
+d^2x \epsilon_{ij}\partial_i(V^*\partial_i V -c.c.)$. The VEV of the field $V$
+in the confining phase is nonzero and the charge is the winding number
+corresponding to homotopy group $\pi_1(S^1)$. Qurks carry the charge $Q$ and
+therefore are topological solitons. The effective Lagrangian for $V$ is derived
+in models with adjoint and fundamental quarks. In 3+1 dimensions the explicit
+expression for $V$ and therefore a detailed picture is not available. However,
+assuming the validity of the same mechanism wepoint out several interesting
+qualitative consequences. We argue that in the Georgi - Glashow model or any
+grand unified model the photon (in the Higgs phase) should have a small
+nonperturbative mass and $W^\pm$ should be confined although with small string
+tension.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 19:43:19 GMT""}]","2015-06-26"
+"hep-th/9212025","Sonoda","Hidenori Sonoda","Current-Current Singularities under External Gauge Fields","harvmac, UCLA/92/TEP/46",,,,"hep-th",,"  We study the operator product expansion of two non-interacting chiral
+currents in the presence of external gauge fields in four dimensional euclidean
+space. We obtain the operator singularity in terms of the beta function of the
+free energy density and a connection on the space of external gauge fields, by
+imposing the consistency between the variational formula, introduced previously
+by the author, and both the renormalization group equations and the equation of
+motion for the currents. As a byproduct, we derive a euclidean version of the
+anomalous commutator of two currents in an appendix.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 19:57:29 GMT""},{""version"":""v2"",""created"":""Fri, 4 Dec 1992 19:28:52 GMT""}]","2008-02-03"
+"hep-th/9212026",,"Ramzi R. Khuri","Geodesic Scattering of Solitonic Strings","6 pages","Phys.Lett. B307 (1993) 298-301","10.1016/0370-2693(93)90223-5",,"hep-th",,"  We compute the metric on moduli space for the Dabholkar-Harvey string soliton
+in $D=4$ to lowest nontrivial order in the string tension. The metric is found
+to be flat, which implies trivial scattering of the solitons. This result is
+consistent with an earlier test-string calculation of the leading order
+dynamical force and a computation of the Veneziano amplitude for the scattering
+of macroscopic strings.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 20:12:11 GMT""}]","2009-10-22"
+"hep-th/9212027","Gautam Mandal","Avinash Dhar, Gautam Mandal and Spenta R. Wadia","A Time-Dependent Classical Solution of C=1 String Field Theory and
+  Non-Perturbative Effects","23p","Int. J. Mod. Phys. A8 (1993) 3811-3828","10.1142/S0217751X93001557","TIFR-TH-92/40","hep-th",,"  We describe a real-time classical solution of $c=1$ string field theory
+written in terms of the phase space density, $u(p,q,t)$, of the equivalent
+fermion theory. The solution corresponds to tunnelling of a single fermion
+above the filled fermi sea and leads to amplitudes that go as $\exp(- C/
+\gst)$. We discuss how one can use this technique to describe non-perturbative
+effects in the Marinari-Parisi model. We also discuss implications of this type
+of solution for the two-dimensional black hole.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 23:51:40 GMT""}]","2015-06-26"
+"hep-th/9212028","Solodukhin-63942","S.N.Solodukhin","Supersymmetric Topological Quantum Field Theories Of Differential Forms
+  I. Gauge p-forms","12 pages, Latex","Mod. Phys. Lett. A8 (1993) 2553-2564","10.1142/S0217732393002919",,"hep-th",,"  We consider the topological theory of Witten type for gauge differential
+p-forms. It is shown that some topological invariants such as linking numbers
+appear under quantization of this theory. The non-abelian generalization of the
+model is discussed.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 18:41:00 GMT""}]","2015-06-26"
+"hep-th/9212029",,"Ramzi R. Khuri","Classical Dynamics of Macroscopic Strings","16 pages","Nucl.Phys. B403 (1993) 335-350","10.1016/0550-3213(93)90039-R",,"hep-th",,"  In recent work, Dabholkar {\it et al.} constructed static ``cosmic string""
+solutions of the low-energy supergravity equations of the heterotic string, and
+conjectured that these solitons are actually exterior solutions for infinitely
+long fundamental strings. In this paper we provide compelling dynamical
+evidence to support this conjecture by computing the dynamical force exerted by
+a solitonic string on an identical test-string limit, the Veneziano amplitude
+for the scattering of macroscopic winding states and the metric on moduli space
+for the scattering of two string solitons. All three methods yield trivial
+scattering in the low-energy limit.
+","[{""version"":""v1"",""created"":""Thu, 3 Dec 1992 23:36:48 GMT""}]","2009-10-22"
+"hep-th/9212030","Andrei Linde","E. A. Bergshoeff, R. Kallosh and T. Ortin","Supersymmetric String Waves","19 pages, LaTeX, SU-ITP-92-30 and UG-10/92","Phys.Rev.D47:5444-5452,1993","10.1103/PhysRevD.47.5444",,"hep-th",,"  We present plane-wave-type solutions of the lowest order superstring
+effective action which have unbroken space-time supersymmetries. They describe
+dilaton, axion and gauge fields in a stringy generalization of the Brinkmann
+metric. Some conspiracy between the metric and the axion field is required. We
+show that there exists a special class of these solutions, for which
+$\alpha^\prime$ stringy corrections to the effective on-shell action, to the
+equations of motion (and therefore to the solutions themselves), and to the
+supersymmetry transformations vanish. We call these solutions supersymmetric
+string waves (SSW).
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 06:55:57 GMT""}]","2011-04-20"
+"hep-th/9212031",,"Krzysztof Kowalski","B\""acklund transformations for nonlinear evolution equations: Hilbert
+  space approach","15 pages",,"10.1016/0378-4371(93)90236-W","KFT UL 20/92","hep-th math.AP",,"  A new method of determining B\""acklund transformations for nonlinear partial
+differential equations of the evolution type is introduced. Using the Hilbert
+space approach the problem of finding B\""acklund transformations is brought
+down to the solution of an abstract equation in Hilbert space.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 15:45:43 GMT""}]","2009-10-22"
+"hep-th/9212032",,"A.Sedrakyan","3D-Ising Model as a String Theory in Three Dimentional Euclidean Space","12 pages, preprint ENSLAPP-A-410/92 November 1992,LATEX","Phys.Lett. B304 (1993) 256-262","10.1016/0370-2693(93)90291-O",,"hep-th hep-lat",,"  A three dimensional string model is analyzed in the strong coupling regime.
+The contribution of surfaces with different topology to the partition function
+is essential. A set of corresponding models is discovered. Their critical
+indices, which depend on two integers (m,n), are calculated analyticaly. The
+critical indices of the three dimensioal Ising model should belong to this set.
+A possible connection with the chain of three dimensional lattice Pott's models
+is pointed out.
+","[{""version"":""v1"",""created"":""Fri, 4 Dec 1992 11:39:52 GMT""}]","2007-05-23"

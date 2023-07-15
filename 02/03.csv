@@ -1,0 +1,57 @@
+"hep-th/9202001",,"N. Read and G. Moore","Fractional quantum Hall effect and nonabelian statistics","17 pages","Prog.Theor.Phys.Suppl.107:157-166,1992","10.1143/PTPS.107.157",,"hep-th",,"  It is argued that fractional quantum Hall effect wavefunctions can be
+interpreted as conformal blocks of two-dimensional conformal field theory.
+Fractional statistics can be extended to nonabelian statistics and examples can
+be constructed from conformal field theory. The Pfaffian state is related to
+the 2D Ising model and possesses fractionally charged excitations which are
+predicted to obey nonabelian statistics.
+","[{""version"":""v1"",""created"":""Sun, 2 Feb 1992 22:44:00 GMT""},{""version"":""v2"",""created"":""Mon, 3 Feb 1992 19:34:00 GMT""}]","2008-11-26"
+"hep-th/9202002","Stephen Chung","Stephen-wei Chung and S.-H. Henry Tye","Chiral Gauged WZW Theories and Coset Models in Conformal Field Theory","42 pages","Phys.Rev.D47:4546-4566,1993","10.1103/PhysRevD.47.4546",,"hep-th",,"  The Wess-Zumino-Witten (WZW) theory has a global symmetry denoted by
+$G_L\otimes G_R$. In the standard gauged WZW theory, vector gauge fields (\ie\
+with vector gauge couplings) are in the adjoint representation of the subgroup
+$H \subset G$. In this paper, we show that, in the conformal limit in two
+dimensions, there is a gauged WZW theory where the gauge fields are chiral and
+belong to the subgroups $H_L$ and $H_R$ where $H_L$ and $H_R$ can be different
+groups. In the special case where $H_L=H_R$, the theory is equivalent to vector
+gauged WZW theory. For general groups $H_L$ and $H_R$, an examination of the
+correlation functions (or more precisely, conformal blocks) shows that the
+chiral gauged WZW theory is equivalent to $(G/H)_L\otimes (G/H)_R$ coset models
+in conformal field theory. The equivalence of the vector gauged WZW theory and
+the corresponding $G/H$ coset theory then follows.
+","[{""version"":""v1"",""created"":""Sun, 2 Feb 1992 23:35:46 GMT""}]","2010-01-08"
+"hep-th/9202003","Marc Kamionkowski","Marc Kamionkowski and John March-Russell","Planck-Scale Physics and the Peccei-Quinn Mechanism","10pp","Phys.Lett. B282 (1992) 137-141","10.1016/0370-2693(92)90492-M",,"hep-th",,"  Global-symmetry violating higher-dimension operators, expected to be induced
+by Planck-scale physics, in general drastically alter the properties of the
+axion field associated with the Peccei-Quinn solution to the strong-CP problem,
+and render this solution unnatural. The particle physics and cosmology
+associated with other global symmetries can also be significantly changed.
+","[{""version"":""v1"",""created"":""Sun, 2 Feb 1992 23:57:21 GMT""},{""version"":""v2"",""created"":""Thu, 6 Feb 1992 23:25:22 GMT""}]","2009-10-22"
+"hep-th/9202004","Steve Giddings","S.B. Giddings and A. Strominger","Dynamics of Extremal Black Holes","31 pages","Phys.Rev.D46:627-637,1992","10.1103/PhysRevD.46.627",,"hep-th",,"  Particle scattering and radiation by a magnetically charged, dilatonic black
+hole is investigated near the extremal limit at which the mass is a constant
+times the charge. Near this limit a neighborhood of the horizon of the black
+hole is closely approximated by a trivial product of a two-dimensional black
+hole with a sphere. This is shown to imply that the scattering of
+long-wavelength particles can be described by a (previously analyzed)
+two-dimensional effective field theory, and is related to the
+formation/evaporation of two-dimensional black holes. The scattering proceeds
+via particle capture followed by Hawking re-emission, and naively appears to
+violate unitarity. However this conclusion can be altered when the effects of
+backreaction are included. Particle-hole scattering is discussed in the light
+of a recent analysis of the two-dimensional backreaction problem. It is argued
+that the quantum mechanical possibility of scattering off of extremal black
+holes implies the potential existence of additional quantum numbers - referred
+to as ``quantum whiskers'' - characterizing the black hole.
+","[{""version"":""v1"",""created"":""Mon, 3 Feb 1992 06:56:55 GMT""}]","2009-09-17"
+"hep-th/9202005","David Gershon","David Gershon","Exact Solutions of Four Dimensional Black Holes in String Theory","19 pages","Phys.Rev. D51 (1995) 4387-4393","10.1103/PhysRevD.51.4387",,"hep-th",,"  We construct an exact CFT as an SL(2,R)xSU(2)/U(1)^2 gauged WZW model, which
+describes a black hole in 4 dimensions. Another exact solution, describing a
+black membrane in 4D (in the sense that the event horizon is an infinite plane)
+is found as an SL(2,R)xU(1)^2/U(1) gauged WZW model. Finally, we construct an
+exact solution of a 4D black hole with electromagnetic field, as an
+SL(2,R)xSU(2)xU(1)/U(1)^2 gauged WZW model. This black hole carries both
+electric and axionic charges.
+","[{""version"":""v1"",""created"":""Mon, 3 Feb 1992 10:30:16 GMT""}]","2009-10-22"
+"math/9202209","Jacek Graczyk","Jacek Graczyk, Grzegorz Swiatek, Folkert Tangerman, J. J. P. Veerman","Scalings in circle maps III",,,,"Stony Brook IMS 1992/2","math.DS",,"  Circle maps with a flat spot are studied which are differentiable, even on
+the boundary of the flat spot. Estimates on the Lebesgue measure and the
+Hausdorff dimension of the non-wandering set are obtained. Also, a sharp
+transition is found from degenerate geometry similar to what was found earlier
+for non-differentiable maps with a flat spot to bounded geometry as in critical
+maps without a flat spot.
+","[{""version"":""v1"",""created"":""Mon, 3 Feb 1992 00:00:00 GMT""}]","2016-09-06"

@@ -1,0 +1,61 @@
+"hep-ph/9209283","Stephen Naculich","Stephen G. Naculich and Jonathan A. Bagger","Quantum Corrections to Deep Bags","Talk given at the XXVI Int. Conf. on High Energy Physics, August,
+  1992 LATEX file, 7 pages + 2 figures available upon request, JHU-TIPAC-920021",,"10.1063/1.43441",,"hep-ph",,"  Nontopological solitons, or ``bags,'' can arise when fermions acquire their
+mass through a Yukawa coupling to some scalar field. Bags have played an
+important role in models of baryons, nuclei, and more recently, in the idea
+that a Higgs condensate may form around a very heavy top quark. It has been
+claimed that deep bags, which correspond to tightly-bound states of fermions,
+will form when the Yukawa coupling is strong. Quantum corrections, however, are
+significant in this regime. We examine the effects of these quantum corrections
+on the formation of nontopological solitons in an exactly solvable large-$N$
+model. We find that quantum bags differ dramatically from those of the
+classical theory. In particular, for large Yukawa coupling, the bags remain
+shallow and the fermions weakly bound.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 22:51:00 GMT""}]","2009-10-22"
+"hep-th/9209105","Gerard Watts","P. Bowcock and G.M.T. Watts","Null vectors of the W_3 algebra","8 pages, LaTeX, EFI-92-50, DAMTP-92-62 (second version - slight TeX
+  error in first version)","Phys.Lett. B297 (1992) 282-288","10.1016/0370-2693(92)91263-9",,"hep-th",,"  We construct $W_3$ null vectors of a restricted class explicitly in two
+different forms. The method we use is an extension of that of Bauer et al.~in
+the Virasoro case. Our results are analogous to the formulae of Benoit and
+St.~Aubin for the Virasoro null vectors. We derive in the Virasoro case some
+alternative formulae for the same null vectors involving only the $L_{-1}$ and
+$L_{-2}$ modes of the Virasoro algebra. }
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 16:36:47 GMT""}]","2009-10-22"
+"hep-th/9209106",,"Piotr Bizon (Institut f\""ur Theoretische Physik Universit\""at Wien
+  Boltzmanngasse 5, A-1090 Vienna, Austria)","Saddle point solutions in Yang-Mills-dilaton theory","11 pages","Phys.Rev.D47:1656-1663,1993","10.1103/PhysRevD.47.1656","UWThPh-1992-46","hep-th gr-qc",,"  The coupling of a dilaton to the $SU(2)$-Yang-Mills field leads to
+interesting non-perturbative static spherically symmetric solutions which are
+studied by mixed analitical and numerical methods. In the abelian sector of the
+theory there are finite-energy magnetic and electric monopole solutions which
+saturate the Bogomol'nyi bound. In the nonabelian sector there exist a
+countable family of globally regular solutions which are purely magnetic but
+have zero Yang-Mills magnetic charge. Their discrete spectrum of energies is
+bounded from above by the energy of the abelian magnetic monopole with unit
+magnetic charge. The stability analysis demonstrates that the solutions are
+saddle points of the energy functional with increasing number of unstable
+modes. The existence and instability of these solutions are ""explained"" by the
+Morse-theory argument recently proposed by Sudarsky and Wald.
+","[{""version"":""v1"",""created"":""Sat, 26 Sep 1992 07:47:00 GMT""}]","2010-11-19"
+"hep-th/9209107","Christian Preitschopf","Martin Cederwall and Christian Preitschopf","Quaternionic Superconformal Field Theory","31 pages, phyzzx, G\""oteborg-ITP-92-40","Nucl.Phys.B403:238-264,1993","10.1016/0550-3213(93)90035-N",,"hep-th",,"  We develop a superfield formalism for N=4 superconformal two-dimensional
+field theory. A list is presented of minimal free superfields, i.e. of
+multiplets containing four bosons and four fermions. We show that the
+super-Poincar\'e algebra of the six-dimensional superstring in the light-cone
+gauge is essentially equivalent to a local N=4 superconformal symmetry, and
+outline the construction of octonionic superconformal field theory.
+","[{""version"":""v1"",""created"":""Sat, 26 Sep 1992 08:12:03 GMT""}]","2009-02-23"
+"math/9209216",,"Nigel J. Kalton","On vector-valued inequalities for Sidon sets and sets of interpolation",,,,"Banach Archive 9/25/92","math.FA",,"  Let $E$ be a Sidon subset of the integers and suppose $X$ is a Banach space.
+Then Pisier has shown that $E$-spectral polynomials with values in $X$ behave
+like Rademacher sums with respect to $L_p-$norms. We consider the situation
+when $X$ is a quasi-Banach space. For general quasi-Banach spaces we show that
+a similar result holds if and only if $E$ is a set of interpolation
+($I_0$-set). However for certain special classes of quasi-Banach spaces we are
+able to prove such a result for larger sets. Thus if $X$ is restricted to be
+``natural'' then the result holds for all Sidon sets. We also consider spaces
+with plurisubharmonic norms and introduce the class of analytic Sidon sets.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 20:11:56 GMT""}]","2009-09-25"
+"math/9209217",,"Nigel J. Kalton","Calder\'on couples of re-arrangement invariant spaces",,,,"Banach Archive 9/25/92","math.FA",,"  We examine conditions under which a pair of re-arrangement invariant function
+spaces on $[0,1]$ or $[0,\infty)$ form a Calder\'on couple. A very general
+criterion is developed to determine whether such a pair is a Calder\'on couple,
+with numerous applications. We give, for example, a complete classification of
+those spaces $X$ which form a Calder\'on couple with $L_{\infty}.$ We
+specialize our results to Orlicz spaces and are able to give necessary and
+sufficient conditions on an Orlicz function $F$ so that the pair
+$(L_F,L_{\infty})$ forms a Calder\'on pair.
+","[{""version"":""v1"",""created"":""Fri, 25 Sep 1992 17:44:57 GMT""}]","2016-09-06"

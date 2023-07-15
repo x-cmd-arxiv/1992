@@ -1,0 +1,39 @@
+"hep-lat/9208014","Radel Ben-Av","A. Nabutovsky, R. Ben-Av","Noncomputability Arising In Dynamical Triangulation Model Of
+  Four-Dimensional Quantum Gravity","8 Pages, LaTex, PUPT-1327","Commun.Math.Phys. 157 (1993) 93-98","10.1007/BF02098020",,"hep-lat",,"  Computations in Dynamical Triangulation Models of Four-Dimensional Quantum
+Gravity involve weighted averaging over sets of all distinct triangulations of
+compact four-dimensional manifolds. In order to be able to perform such
+computations one needs an algorithm which for any given $N$ and a given compact
+four-dimensional manifold $M$ constructs all possible triangulations of $M$
+with $\leq N$ simplices. Our first result is that such algorithm does not
+exist. Then we discuss recursion-theoretic limitations of any algorithm
+designed to perform approximate calculations of sums over all possible
+triangulations of a compact four-dimensional manifold.
+","[{""version"":""v1"",""created"":""Tue, 18 Aug 1992 03:08:03 GMT""}]","2009-10-22"
+"hep-ph/9208229","Ernest Ma","T. V. Duong and Ernest Ma","Decay of the Z Boson into Scalar Particles","11 pages (2 figures, not included) (Revised, Oct 1992). Some
+  equations have been corrected and 1 figure has been eliminated","Phys.Rev. D47 (1993) 2020-2024","10.1103/PhysRevD.47.2020","UCRHEP-T96","hep-ph",,"  In extensions of the standard model, light scalar particles are often
+possible because of symmetry considerations. We study the decay of the Z boson
+into such particles. In particular, we consider for illustration the scalar
+sector of a recently proposed model of the 17-keV neutrino which satisfies all
+laboratory, astrophysical, and cosmological constraints.
+","[{""version"":""v1"",""created"":""Mon, 17 Aug 1992 18:50:46 GMT""},{""version"":""v2"",""created"":""Thu, 8 Oct 1992 15:53:37 GMT""}]","2009-10-22"
+"hep-ph/9208230",,"Eugeni Akhmedov, Zurab Berezhiani Goran Senjanovic and Zhijian Tao","Planck scale effects in neutrino physics","24 pages, 1 figure (not included but available upon request), LaTex,
+  IC/92/196, SISSA-140/92/EP, LMU-09/92","Phys.Rev.D47:3245-3253,1993","10.1103/PhysRevD.47.3245",,"hep-ph",,"  We study the phenomenology and cosmology of the Majoron (flavon) models of
+three active and one inert neutrino paying special attention to the possible
+(almost) conserved generalization of the Zeldovich-Konopinski-Mahmoud lepton
+charge. Using Planck scale physics effects which provide the breaking of the
+lepton charge, we show how in this picture one can incorporate the solutions to
+some of the central issues in neutrino physics such as the solar and
+atmospheric neutrino puzzles, dark matter and a 17 keV neutrino. These
+gravitational effects induce tiny Majorana mass terms for neutrinos and
+considerable masses for flavons. The cosmological demand for the sufficiently
+fast decay of flavons implies a lower limit on the electron neutrino mass in
+the range of 0.1-1 eV.
+","[{""version"":""v1"",""created"":""Tue, 18 Aug 1992 12:33:05 GMT""}]","2008-11-26"
+"hep-th/9208047","Claudio Lucchesi","C. Lucchesi, O. Piguet and S.P. Sorella","Renormalization and finiteness of topological BF theories","27 p., Latex file","Nucl.Phys. B395 (1993) 325-353","10.1016/0550-3213(93)90219-F",,"hep-th",,"  We show that the BF theory in any space-time dimension, when quantized in a
+certain linear covariant gauge, possesses a vector supersymmetry. The generator
+of the latter together with those of the BRS transformations and of the
+translations form the basis of a superalgebra of the Wess-Zumino type. We give
+a general classification of all possible anomalies and invariant counterterms.
+Their absence, which amounts to ultraviolet finiteness, follows from purely
+algebraic arguments in the lower-dimensional cases.
+","[{""version"":""v1"",""created"":""Tue, 18 Aug 1992 15:28:08 GMT""}]","2009-10-22"

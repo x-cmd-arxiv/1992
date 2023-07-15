@@ -1,0 +1,51 @@
+"cond-mat/9212032","Denis Golosov","D.I.Golosov and M.I.Kaganov","Spatial Correlation of Conduction Electrons in Metal with Complicated
+  Geometry Of The Fermi Surface","12 pages, LaTeX, 5 figures upon request (to appear in J.Phys.:CM,
+  1993)","J.Phys.Condens.Matter 5 (1993) 1481-1492","10.1088/0953-8984/5/10/006",,"cond-mat",,"  The ""density-density"" correlation function of conduction electrons in metal
+is investigated. It is shown, that the asymptotic behaviour of the CF depends
+on the shape and the local geometry of the Fermi surface. In particular, the
+exponent of power law which describes the damping of Friedel oscillations at
+large r (-4 for an isotropic Fermi gas) is determined by local geometry of the
+FS. The applications of the obtained results to calculations of the CF in a
+metal near the electron topological transition and of the RKKY exchange
+integral are considered as well.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1992 08:50:29 GMT""}]","2009-10-22"
+"hep-lat/9212033","Alex Krasnitz","A. Krasnitz and R. Potting","A realistic heat bath: theory and application to kink-antikink dynamics","21 pages including 7 figures (the shar file includes the tex file + 7
+  postscript files for figures). IUHET-241, IPS-92-29, UALG-PHYS-12","Nucl.Phys.B410:649-662,1993","10.1016/0550-3213(93)90532-T",,"hep-lat cond-mat hep-th",,"  We propose a new method of studying a real-time canonical evolution of
+field-theoretic systems with boundary coupling to a realistic heat bath. In the
+free-field case the method is equivalent to an infinite extension of the system
+beyond the boundary, while in the interacting case the extension of the system
+is done in linear approximation. We use this technique to study kink-antikink
+dynamics in $\varphi^4$ field theory in 1+1 dimensions.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1992 17:05:15 GMT""}]","2010-11-01"
+"hep-lat/9212034","Robert Edwards","Khalil Bitar, Robert G. Edwards, Urs M. Heller, and A.D. Kennedy","On the Dynamics of Light Quarks in QCD","4 pages (all in postscript), proceedings of LAT'92","Nucl.Phys.Proc.Suppl. 30 (1993) 249-252","10.1016/0920-5632(93)90201-G","FSU-SCRI-92-161","hep-lat",,"  We describe recent results concerning the behavior of lattice QCD with light
+dynamical Wilson and Staggered quarks. We show that it is possible to reach
+regions of parameter space with light pions $m_\pi\approx 0.2/a$ using Wilson
+fermions. If the Hybrid Molecular Dynamics (HMD) algorithm is used with the
+same parameters it gives incorrect results. We also present preliminary results
+using a higher-order integration scheme.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1992 17:17:53 GMT""}]","2016-08-31"
+"hep-lat/9212035","Yue Shen","Claude Bernard, Yue Shen and Amarjit Soni","Calculating the Isgur-Wise Function on the Lattice","4 pages, 1 postscript figure attached","Nucl.Phys.Proc.Suppl. 30 (1993) 473","10.1016/0920-5632(93)90253-3","BUHEP-92-39","hep-lat hep-ph",,"  We calculate the Isgur-Wise function by measuring the heavy-heavy meson
+transition matrix element on the lattice. The standard Wilson action is used
+for both the heavy and light quarks. Our first numerical results are presented.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1992 22:17:58 GMT""}]","2009-10-22"
+"hep-ph/9212308","Bern","Z. Bern, L. Dixon and D.A. Kosower","Dimensionally Regulated One-Loop Integrals","13 pages, SLAC-PUB-6001 (T), CERN-TH.6756/92, UCLA/92/42","Phys.Lett.B302:299-308,1993; ERRATUM-ibid.B318:649,1993","10.1016/0370-2693(93)90400-C",,"hep-ph hep-th",,"  We describe methods for evaluating one-loop integrals in $4-2\e$ dimensions.
+We give a recursion relation that expresses the scalar $n$-point integral as a
+cyclicly symmetric combination of $(n-1)$-point integrals. The computation of
+such integrals thus reduces to the calculation of box diagrams ($n=4$). The
+tensor integrals required in gauge theory may be obtained by differentiating
+the scalar integral with respect to certain combinations of the kinematic
+variables. Such relations also lead to differential equations for scalar
+integrals. For box integrals with massless internal lines these differential
+equations are easy to solve.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1992 22:32:49 GMT""}]","2008-11-26"
+"nucl-th/9212015",,"M.Matsuo, T.D{\o}ssing, B.Herskind, S.Frauendorf, E.Vigezzi and
+  R.A.Broglia","Chaotic Behavior in Warm Deformed Nuclei Induced by Residual Two-Body
+  Interactions","7 pages, phyzzx, YITP/K-1001",,"10.1016/0375-9474(93)90542-6",,"nucl-th",,"  Band mixing calculations in rapidly rotating well-deformed nuclei are
+presented, investigating the properties of energy levels and rotational
+transitions as a function of excitation energy. Substantial fragmentation of E2
+transitions is found for $E_x \gsim$ 800 keV above yrast, which represents the
+onset of rotational damping. Above $E_x \approx $ 2 MeV, energy levels and E2
+strengths display fluctuations typical of quantum chaotic systems, which are
+determined by the high multipole components of the two-body residual
+interaction.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1992 01:38:23 GMT""}]","2009-10-22"

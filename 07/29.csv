@@ -1,0 +1,56 @@
+"gr-qc/9207010",,"\.Ibrahim Semiz (Yale U.)","The Dirac Equation Is Separable On The Dyon Black Hole Metric","13 pages","Phys.Rev. D46 (1992) 5414-5420","10.1103/PhysRevD.46.5414","YCTP-GR1-92","gr-qc",,"  Using the tetrad formalism, we carry out the separation of variables for the
+massive complex Dirac equation in the gravitational and electromagnetic field
+of a four-parameter (mass, angular momentum, electric and magnetic charges)
+black hole.
+","[{""version"":""v1"",""created"":""Tue, 28 Jul 1992 16:33:20 GMT""}]","2016-08-17"
+"hep-ph/9207267",,"Howard E. Haber and Alex Pomarol","Constraints from Global Symmetries on Radiative Corrections to the Higgs
+  Sector","15 pages, SCIPP-92/29","Phys.Lett. B302 (1993) 435-441","10.1016/0370-2693(93)90423-F",,"hep-ph",,"  We discuss the implications of global symmetries on the radiative corrections
+to the Higgs sector. We focus on two examples: the charged Higgs mass in the
+minimal supersymmetric model and the Higgs couplings to vector boson pairs. In
+the first case, we find that in the absence of squark mixing a global
+SU(2)$\times$SU(2) symmetry protects the charged Higgs mass from corrections of
+${\cal O}(g^2m^4_t/m^2_W)$. In the second case, it is the {\it custodial}
+symmetry which plays an analogous role in constraining the fermion-mass
+dependence of the radiative corrections.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 00:16:00 GMT""}]","2009-10-22"
+"hep-th/9207093","Ted Allen","Theodore J. Allen","Collective Coordinate Action for Charged Sigma-Model Vortices in Finite
+  Geometries","7 pp., Plain TeX (macros included), MAD/TH-92-03","Mod.Phys.Lett. A8 (1993) 1815-1820","10.1142/S0217732393001537",,"hep-th",,"  In this Letter the method of Lund is applied to formulate a variational
+principle for the motion of charged vortices in an effective non-linear
+Schr\""{o}dinger field theory describing finite size two-dimensional quantum
+Hall samples under the influence of an arbitrary perpendicular magnetic field.
+Freezing out variations in the modulus of the effective field yields a $U(1)$
+sigma-model. A duality transformation on the sigma-model reduces the problem to
+finding the Green function for a related electrostatics problem. This duality
+illuminates the plasma analogy to the Laughlin wave function.
+","[{""version"":""v1"",""created"":""Tue, 28 Jul 1992 18:55:00 GMT""},{""version"":""v2"",""created"":""Tue, 28 Jul 1992 19:36:00 GMT""}]","2009-10-22"
+"hep-th/9207094",,"Edward Witten","Chern-Simons Gauge Theory As A String Theory","50 pages; the sole change in the 2003 resubmission is inclusion of
+  the figures","Prog.Math.133:637-678,1995",,"IASSNS-HEP-92/45","hep-th",,"  Certain two dimensional topological field theories can be interpreted as
+string theory backgrounds in which the usual decoupling of ghosts and matter
+does not hold. Like ordinary string models, these can sometimes be given
+space-time interpretations. For instance, three-dimensional Chern-Simons gauge
+theory can arise as a string theory. The world-sheet model in this case
+involves a topological sigma model. Instanton contributions to the sigma model
+give rise to Wilson line insertions in the space-time Chern-Simons theory. A
+certain holomorphic analog of Chern-Simons theory can also arise as a string
+theory.
+","[{""version"":""v1"",""created"":""Tue, 28 Jul 1992 20:45:00 GMT""},{""version"":""v2"",""created"":""Mon, 22 Dec 2003 15:53:11 GMT""}]","2010-04-07"
+"hep-th/9207095","Senarath P. de Alwis","S. P. de Alwis","Quantum Black Holes in Two Dimensions","28 pages, phyzzx, revised discussion of Hawking radiation","Phys.Rev.D46:5429-5438,1992","10.1103/PhysRevD.46.5429","COLO-PHYS-288","hep-th gr-qc",,"  We show that a whole class of quantum actions for dilaton-gravity, which
+reduce to the CGHS theory in the classical limit, can be written as a
+Liouville-like theory. In a sub-class of this, the field space singularity
+observed by several authors is absent, regardless of the number of matter
+fields, and in addition it is such that the dilaton-gravity functional
+integration range (the real line) transforms into itself for the Liouville
+theory fields. We also discuss some problems associated with the usual
+calculation of Hawking radiation, which stem from the neglect of back reaction.
+We give an alternative argument incorporating back reaction but find that the
+rate is still asymptotically constant. The latter is due to the fact that the
+quantum theory does not seem to have a lower bound in energy and Hawking
+radiation takes positive Bondi (or ADM) mass solutions to arbitrarily large
+negative mass.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 03:53:55 GMT""},{""version"":""v2"",""created"":""Wed, 14 Oct 1992 15:17:04 GMT""}]","2010-11-01"
+"hep-th/9207097",,"J. Alfaro","The Large-$N$ Limit of the Two-Hermitian-matrix model by the hidden BRST
+  method","19 pages, Latex,CERN--TH-6531/92","Phys.Rev. D47 (1993) 4714-4722","10.1103/PhysRevD.47.4714",,"hep-th",,"  This paper discusses the large N limit of the two-Hermitian-matrix model in
+zero dimensions, using the hidden BRST method. A system of integral equations
+previously found is solved, showing that it contained the exact solution of the
+model in leading order of large $N$.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 15:27:18 GMT""},{""version"":""v2"",""created"":""Fri, 18 Sep 1992 15:24:24 GMT""}]","2009-10-22"

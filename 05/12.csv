@@ -1,0 +1,97 @@
+"alg-geom/9205005","Carel Faber","Paolo Aluffi, Carel Faber","Linear orbits of d-tuples of points in P^1","Tex dialect: `old' amstex 14 pages","J. Reine Angew. Math. 445 (1993), 205-220",,,"alg-geom math.AG",,"  The group PGL(2) of linear transformations of the projective line acts
+naturally on the d-dimensional projective space P^d parametrizing
+configurations (`d-tuples') of points on the line. In this note we are
+concerned with the orbits of this action of PGL(2) on P^d. The closure of each
+orbit is a projective subvariety of P^d of which we determine the degree, the
+`boundary'--i.e., the complement of an orbit in its closure--, and the
+multiplicity at points of the boundary. These results are used to provide a
+complete classification of the non-singular orbit closures, and criteria for an
+orbit closure to be non-singular in codimension 1.
+","[{""version"":""v1"",""created"":""Tue, 12 May 1992 15:38:51 GMT""}]","2012-04-10"
+"hep-ph/9205215","Bruno Machet","B. Machet","4-dimensional spontaneously broken U(1)L gauge theories without
+  asymptotic quarks and Higgs boson","Latex/postscript file [11pt,times, amssymbols, psgreek, epsf], 25
+  pages. Uuencoded compressed tar figures file. Revised and augmented version
+  of hep-ph/9205215",,,"PAR-LPTHE 92/14","hep-ph hep-th",,"  We show, in the case of a U(1)L spontaneously broken gauge theory, how
+introducing a composite Wess-Zumino field, with a derivative coupling to the
+fermionic current, and a composite scalar sector leads to infinitely massive
+quarks and Higgs boson, making them unobservable as asymptotic states. This
+results from the constraints that need to be introduced in the Feynman path
+integral to take into account the non-independent scalar degrees of freedom,
+and from the breaking of the symmetry by the non-vanishing vacuum expectation
+value of the Higgs boson. Unitarity and gauge invariance are achieved; the
+former can be made explicit by ""gauging"" the Wess-Zumino field into the third
+component of the massive gauge boson; the latter is recovered at the level of
+Green functions through the cancellation of the non-invariance of the action
+with that of the fermionic measure. The compensation of the anomaly can also be
+seen as a consequence of the infinite mass of the fermions. The pseudoscalar
+partner of the Higgs is shown to behave like an abelian pion, specially as far
+are its leptonic decays are concerned; in particular, no extra scale of
+interaction is needed, unlike in ""technicolour"" theories. The correct decay of
+the pion into two photons is recovered despite the abscence of anomaly.
+Arguments are given in favour of renormalizability. The leptonic sector is the
+object of a subsequent work.
+","[{""version"":""v1"",""created"":""Tue, 12 May 1992 08:49:38 GMT""},{""version"":""v2"",""created"":""Fri, 2 Apr 1993 08:44:21 GMT""},{""version"":""v3"",""created"":""Tue, 6 Apr 1993 11:40:40 GMT""}]","2008-02-03"
+"hep-th/9205021",,"B. Harms and Y. Leblanc","Statistical Mechanics of Black Holes","21 pages","Phys.Rev. D46 (1992) 2334-2340","10.1103/PhysRevD.46.2334",,"hep-th",,"  We analyze the statistical mechanics of a gas of neutral and charged black
+holes. The microcanonical ensemble is the only possible approach to this
+system, and the equilibrium configuration is the one for which most of the
+energy is carried by a single black hole. Schwarzschild black holes are found
+to obey the statistical bootstrap condition. In all cases, the microcanonical
+temperature is identical to the Hawking temperature of the most massive black
+hole in the gas. U(1) charges in general break the bootstrap property. The
+problems of black hole decay and of quantum coherence are also addressed.
+","[{""version"":""v1"",""created"":""Mon, 11 May 1992 20:06:22 GMT""}]","2009-10-22"
+"hep-th/9205022","Steve Carlip","Steven Carlip","Entropy vs. Action in the (2+1)-Dimensional Hartle-Hawking Wave Function","17 pages","Phys.Rev.D46:4387-4395,1992","10.1103/PhysRevD.46.4387","UCD-92-18","hep-th",,"  In most attempts to compute the Hartle-Hawking ``wave function of the
+universe'' in Euclidean quantum gravity, two important approximations are made:
+the path integral is evaluated in a saddle point approximation, and only the
+leading (least action) extremum is taken into account. In (2+1)-dimensional
+gravity with a negative cosmological constant, the second assumption is shown
+to lead to incorrect results: although the leading extremum gives the most
+important single contribution to the path integral, topologically inequivalent
+instantons with larger actions occur in great enough numbers to predominate.
+One can thus say that in 2+1 dimensions --- and possibly in 3+1 dimensions as
+well --- entropy dominates action in the gravitational path integral.
+","[{""version"":""v1"",""created"":""Mon, 11 May 1992 20:25:08 GMT""}]","2010-04-28"
+"hep-th/9205024",,"Marcio J. Martins","Renormalization group trajectories from resonance factorized S-matrices","(7 pages) (no figures included)","Phys.Rev.Lett. 69 (1992) 2461-2464","10.1103/PhysRevLett.69.2461","preprint (1992) SISSA EP-72","hep-th",,"  We propose and investigate a large class of models possessing resonance
+factorized S-matrices. The associated Casimir energy describes a rich pattern
+of renormalization group trajectories related to flows in the coset models
+based on the simply laced Lie Algebras. From a simplest resonance S-matrix,
+satisfying the ``$\phi^3$-property'', we predict new flows in non-unitary
+minimal models.
+","[{""version"":""v1"",""created"":""Tue, 12 May 1992 12:57:06 GMT""}]","2009-10-22"
+"hep-th/9205025","Marco Fabbrichesi","M. Fabbrichesi, R. Iengo, K. Roland","The Gravitational Field of String Matter","40 PAGES","Nucl.Phys. B402 (1993) 360-398","10.1016/0550-3213(93)90647-8","REPORT SISSA/ISAS 52-92-EP","hep-th",,"  We study the scattering of a massless and neutral test particle in the
+gravitational field of a body (the string star) made of a large number of
+scalar states of the superstring. We consider two cases, the one in which these
+states are neutral string excitations massive already in ten dimensions and the
+one in which their masses (and charges) originate in the process of
+compactification on tori. A perturbative calculation based on superstring
+amplitudes gives us the deflection angle up to the second order in Newton's
+constant. A comparison with field theory explicitly shows which among the
+various massless fields of the superstring give a contribution to the
+scattering process. In both cases, the deflection angle is smaller than the one
+computed in general relativity. The perturbative series can be resummed by
+finding the exact solution to the classical equations of motion of the
+corresponding low-energy action. The space-time metric of our two examples of
+string stars has no horizon.
+","[{""version"":""v1"",""created"":""Tue, 12 May 1992 14:04:03 GMT""}]","2009-10-22"
+"hep-th/9205026","Vipul Periwal","J.D. Cohn and Vipul Periwal","Lorentz invariance of effective strings","9 pages","Nucl.Phys. B395 (1993) 119-128","10.1016/0550-3213(93)90210-G","iassns-hep-92-18/fermilab-92/126-T","hep-th",,"  Starting from a Poincar\'e invariant field theory of a real scalar field with
+interactions governed by a double-well potential in 2+1 dimensions, the Lorentz
+representation induced on the collective coordinates describing low-energy
+excitations about an effective string background is derived. In this
+representation, Lorentz transformations are given in terms of an infinite
+series, in powers of derivatives along the worldsheet. Transformations that act
+on the direction transverse to the string worldsheet involve a universal
+dimension $-1$ term. As a consequence, Lorentz invariance holds in this theory
+of long effective strings due to cancellations in the action between irrelevant
+terms and the dimension two term that describes free massless scalar fields in
+two dimensions. (in plain tex, no macropackages necessary)
+","[{""version"":""v1"",""created"":""Tue, 12 May 1992 15:27:56 GMT""}]","2009-10-22"
+"math/9205206",,"Nigel J. Kalton, Stephen J. Montgomery-Smith","Set-functions and factorization",,"Arch. Math. 61, (1993), 183-200",,,"math.FA",,"  If $\phi$ is a submeasure satisfying an appropriate lower estimate we give a
+quantitative result on the total mass of a measure $\mu$ satisfying
+$0\le\mu\le\phi.$ We give a dual result for supermeasures and then use these
+results to investigate convexity on non-locally convex quasi-Banach lattices.
+We then show how to use these results to extend some factorization theorems due
+to Pisier to the setting of quasi-Banach spaces. We conclude by showing that if
+$X$ is a quasi-Banach space of cotype two then any operator $T:C(\Omega)\to X$
+is 2-absolutely summing and factors through a Hilbert space and discussing
+general factorization theorems for cotype two spaces.
+","[{""version"":""v1"",""created"":""Mon, 11 May 1992 16:07:16 GMT""},{""version"":""v2"",""created"":""Mon, 6 Dec 1999 05:13:15 GMT""}]","2008-02-03"

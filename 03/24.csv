@@ -1,0 +1,31 @@
+"hep-th/9203062","Didier Depireux","Didier A Depireux","A note on the KP hierarchy","12 pages, no figures","Mod.Phys.Lett. A7 (1992) 1825-1834","10.1142/S0217732392001531",,"hep-th",,"  Given the two boson representation of the conformal algebra \hat W_\infty,
+the second Hamiltonian structure of the KP hierarchy, I construct a
+bi-Hamiltonian hierarchy for the two associated currents. The KP hierarchy
+appears as a composite of this new and simpler system. The bi-Hamiltonian
+structure of the new hierarchy gives naturally all the Hamiltonian structures
+of the KP system.
+","[{""version"":""v1"",""created"":""Mon, 23 Mar 1992 17:08:39 GMT""}]","2015-06-26"
+"hep-th/9203064","Giorgio Giavarini","C. Destri and H.J. de Vega","New Approach to Thermal Bethe Ansatz","11 pages",,,"LPTHE 92/11, UPRF-92-340 March 1992","hep-th",,"  We present a new approach to the calculation of thermodynamic functions for
+crossing-invariant models solvable by Bethe Ansatz. In the case of the XXZ
+Heisemberg chain we derive, for arbitrary values of the anysotropy, a {\bf
+single} non--linear integral equation from which the free energy can be exactly
+calculated. The high--temperature expansion follows in a sistematic and
+relatively simple way. For low temperatures we obtain the correct central
+charge and predict the analytic structure of the full expansion around $T=0$.
+Furthermore, we derive a single non-linear integral equation describing the
+finite--size ground--state energy of the Sine--Gordon quantum field theory.
+PACS: 05.30, 03.70. 75.10.5
+","[{""version"":""v1"",""created"":""Tue, 24 Mar 1992 14:25:05 GMT""},{""version"":""v2"",""created"":""Tue, 26 May 1992 15:14:04 GMT""}]","2008-02-03"
+"hep-th/9203065","Giorgio Giavarini","C. Destri and H.J. de Vega","Bethe Ansatz and Quantum Groups: The Light--Cone Approach. II. From
+  RSOS($p+1$) models to $p-$restricted Sine--Gordon Field Theories","33 pages","Nucl.Phys. B385 (1992) 361-394","10.1016/0550-3213(92)90105-K","LPTHE 92/08, UPRF-92-33 February 1992","hep-th",,"  We solve the RSOS($p$) models on the light--cone lattice with fixed boundary
+conditions by disentangling the type II representations of $SU(2)_q$, at
+$q=e^{i\pi/p}$, from the full SOS spectrum obtained through Algebraic Bethe
+Ansatz. The rule which realizes the quantum group reduction to the RSOS states
+is that there must not be {\it singular} roots in the solutions of the Bethe
+Ansatz equations describing the states with quantum spin $J<(p-1)/2$. By
+studying how this rule is active on the particle states, we are able to give a
+microscopic derivation of the lattice $S-$matrix of the massive kinks. The
+correspondence between the light--cone Six--Vertex model and the Sine--Gordon
+field theory implies that the continuum limit of the RSOS($p+1$) model is to be
+identified with the $p-$restricted Sine--Gordon field theory.
+","[{""version"":""v1"",""created"":""Tue, 24 Mar 1992 14:29:28 GMT""},{""version"":""v2"",""created"":""Tue, 26 May 1992 14:53:46 GMT""}]","2009-10-22"

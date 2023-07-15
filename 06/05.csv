@@ -1,0 +1,141 @@
+"hep-lat/9206010","Maarten Golterman","Maarten Golterman, Don Petcher and Elena Rivas","Absence of Chiral Fermions in the Eichten--Preskill Model","30 pages, no figures, Wash. U. HEP/92-80","Nucl.Phys. B395 (1993) 596-622","10.1016/0550-3213(93)90049-U",,"hep-lat",,"  The model proposed by Eichten and Preskill for obtaining theories with chiral
+fermions from the lattice is shown to undergo spontaneous symmetry breaking. In
+addition, the fermions appear to be Dirac-like everywhere in the phase diagram
+with no room for undoubled Weyl fermions. The phase diagram of a closely
+related Higgs-Yukawa model is similar to that of the Smit--Swift model, which
+also does not give rise to chiral fermions. These results cast serious doubts
+on the original scenario for the emergence of chiral fermions.
+","[{""version"":""v1"",""created"":""Thu, 4 Jun 1992 22:37:00 GMT""}]","2009-10-22"
+"hep-lat/9206011","Thomas A. DeGrand","T. A. DeGrand and M. W. Hecht","More about orbitally excited hadrons from lattice QCD","21 pages plus 14 figs, 3 included","Phys.Rev. D46 (1992) 3937-3944","10.1103/PhysRevD.46.3937",,"hep-lat",,"  This is a second paper describing the calculation of spectroscopy for
+orbitally excited states from lattice simulations of Quantum Chromodynamics.
+New features include higher statistics for P-wave systems and first results for
+the spectroscopy of D-wave mesons and baryons, for relatively heavy quark
+masses. We parameterize the Coulomb gauge wave functions for P-wave and D-wave
+systems and compare them to those of their corresponding S-wave states.
+","[{""version"":""v1"",""created"":""Thu, 4 Jun 1992 23:41:54 GMT""}]","2009-10-22"
+"hep-ph/9206209","Jiang Liu","Paul Langacker and Jiang Liu","Standard Model Contributions to the Neutrino Index of Refraction in the
+  Early Universe","46pp, 13 figures (not included), UPR-0495T","Phys.Rev.D46:4140-4160,1992","10.1103/PhysRevD.46.4140",,"hep-ph",,"  With the standard electroweak interactions, the lowest-order coherent forward
+scattering amplitudes of neutrinos in a CP symmetric medium (such as the early
+universe) are zero, and the index of refraction of a propagating neutrino can
+only arise from the expansion of gauge boson propagators, from radiative
+corrections, and from new physics interactions. Motivated by nucleosynthesis
+constraints on a possible sterile neutrino (suggested by the solar neutrino
+deficit and a possible $17\ keV$ neutrino), we calculate the standard model
+contributions to the neutrino index of refraction in the early universe,
+focusing on the period when the temperature was of the order of a few $MeV$. We
+find sizable radiative corrections to the tree level result obtained by the
+expansion of the gauge boson propagator. For $\nu_e+e(\bar{e})\to
+\nu_e+e(\bar{e})$ the leading log correction is about $+10\%$, while for
+$\nu_e+\nu_e(\bar{\nu}_e)\to \nu_e+\nu_e(\bar{\nu}_e)$ the correction is about
+$+20\%$. Depending on the family mixing (if any), effects from different family
+scattering can be dominated by radiative corrections. The result for
+$\nu+\gamma\to\nu+\gamma$ is zero at one-loop level, even if neutrinos are
+massive. The cancellation of infrared divergence in a coherent process is also
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 4 Jun 1992 18:48:26 GMT""}]","2009-12-30"
+"hep-ph/9206210",,"Debajyoti Choudhury","Discrete Symmetry, Neutrino Magnetic Moment and the 17 Kev Neutrino","LaTeX file, 17 pages & two figures (postscript file appended)","Phys.Rev. D48 (1993) 1437-1440","10.1103/PhysRevD.48.1437",,"hep-ph",,"  The problem of generating large transition magnetic moments for nearly
+massless neutrinos in a truly three--generation case is discussed. A model to
+achieve the same by exploiting an octahedral symmetry is presented. The scheme
+also accomodates a radiatively generated mass of $17\:keV$ for a pseudo--Dirac
+neutrino that decays rapidly through the Majoron channel.
+","[{""version"":""v1"",""created"":""Thu, 4 Jun 1992 21:42:00 GMT""}]","2009-10-22"
+"hep-ph/9206211","Myron Bander","Myron Bander and Hector Rubinstein","Hadronic Instabilities in Very Intense Magnetic Fields","Submitted to the 26th International Conference on High Energy Physics
+  (using macropackage REVTEX II), 10 pages","Nucl.Phys.Proc.Suppl. 31 (1992) 248-251","10.1016/0920-5632(93)90142-S","UCI TR 92-28","hep-ph",,"  Composite hadronic states exhibit interesting properties in the presence of
+very intense magnetic fields, such as those conjectured to exist in the
+vicinity of certain astrophysical objects. We discuss three scenarios. (i) The
+presence of vector particles with anomalous magnetic moment couplings to scalar
+particles, induces an instability of the vacuum. (ii) A delicate interplay
+between the anomalous magnetic moments of the proton and neutron makes, in
+magnetic fields $B\ge 2\times 10^{14}$ T, the neutron stable and for fields
+$B\ge 5\times 10^{14}$ T the proton becomes unstable to a decay into a neutron
+via $\beta$ emission. (iii) In the unbroken chiral $\sigma$ model magnetic
+fields would be screened out as in a superconductor. It is the explicit
+breaking of chiral invariance that restores standard electrodynamics.
+Astrophysical consequences of all these phenomena are discussed.
+","[{""version"":""v1"",""created"":""Thu, 4 Jun 1992 23:26:48 GMT""}]","2009-10-22"
+"hep-th/9206020","Senarath P. de Alwis","S. P. de Alwis","Black Hole Physics from Liouville Theory","15 pages, phyzzx (Note on Bondi mass added to end of paper)","Phys.Lett. B300 (1993) 330-335","10.1016/0370-2693(93)91341-J","COLO-HEP-284","hep-th",,"  In a previous paper it was shown that the quantum consistency conditions for
+the dilaton-gravity theory of Callan et al., imply that the cosmological
+constant term undergoes a dilaton dependent renormalization, in such a manner
+that the theory can be written as a Liouville-like theory. In this paper we
+discuss the physical interpretation of the solutions of this theory. In
+particular we demonstrate explicitly how quantum corrections tame the black
+hole singularity. Also under the assumption that in asymptotically Minkowski
+coordinates, there are no incoming or outgoing ghosts, we show that the Hawking
+radiation rate is independent of the number of matter fields and is determined
+by the ghost conformal anomaly.
+","[{""version"":""v1"",""created"":""Thu, 4 Jun 1992 19:51:21 GMT""},{""version"":""v2"",""created"":""Fri, 12 Jun 1992 02:20:55 GMT""}]","2009-10-22"
+"hep-th/9206021",,"Daniel S. Freed","Classical Chern-Simons theory, Part 1","60 pages. This paper is written using AMSTeX 2.1, which can be
+  obtained via ftp from the American Mathematical Society (instructions
+  included)","Adv.Math. 113 (1995) 237-303",,,"hep-th math.QA",,"  There is a large mathematical literature on classical mechanics and field
+theory, especially on the relationship to symplectic geometry. One might think
+that the classical Chern-Simons theory, which is topological and so has
+vanishing hamiltonian, is completely trivial. However, this theory exhibits
+interesting geometry that is usually absent from ordinary field theories. (The
+same is true on the quantum level; topological quantum field theories exhibit
+geometric properties not usually seen in ordinary quantum field theories, and
+they lack analytic properties which are usually seen.) In this paper we
+carefully develop this geometry. Of particular interest are the line bundles
+with connection over the moduli space of flat connections on a 2-manifold. We
+extend the usual theory to cover 2-manifolds with boundary. We carefully
+develop ``gluing laws'' in all of our constructions, including the line bundle
+with connection over moduli space. The corresponding quantum gluing laws are
+fundamental. Part 1 covers connected and simply connected gauge groups; Part 2
+will cover arbitrary compact Lie groups.
+","[{""version"":""v1"",""created"":""Thu, 4 Jun 1992 19:39:25 GMT""}]","2008-02-03"
+"hep-th/9206022","Robert Mann","R.B. Mann and S.F. Ross","Gravitation \& Cosmology in $(1+1)$-dimensional Dilaton Gravity","19 pgs., WATPHYS TH-92/02","Phys.Rev. D47 (1993) 3312-3318","10.1103/PhysRevD.47.3312",,"hep-th",,"  The properties of a string-inspired two-dimensional theory of gravity are
+studied. The post-Newtonian and weak-field approximations, `stellar' structure
+and cosmological solutions of this theory are developed. Some qualitative
+similarities to general relativity are found, but there are important
+differences.
+","[{""version"":""v1"",""created"":""Thu, 4 Jun 1992 21:20:13 GMT""}]","2009-10-22"
+"hep-th/9206023",,"Amit Giveon","On String Field Theory and Effective Actions","33 pages, IASSNS-HEP-92/33","Nucl.Phys. B391 (1993) 229-256","10.1016/0550-3213(93)90148-I",,"hep-th",,"  A truncation of string field theory is compared with the duality invariant
+effective action of $D=4, N=4$ heterotic strings to cubic order. The three
+string vertex must satisfy a set of compatibility conditions. Any cyclic three
+string vertex is compatible with the $D=4, N=4$ effective field theory. The
+effective actions may be useful in understanding the non--polynomial structure
+and the underlying symmetry of covariant closed string field theory, and in
+addressing issues of background independence. We also discuss the effective
+action and string field theory of the $N=2$ string.
+","[{""version"":""v1"",""created"":""Thu, 4 Jun 1992 22:30:00 GMT""}]","2009-10-22"
+"hep-th/9206024",,"Peter Schupp, Paul Watts, and Bruno Zumino","The 2-Dimensional Quantum Euclidean Algebra","8 pages, LBL-31711 and UCB-PTH-92/05","Lett.Math.Phys. 24 (1992) 141-147","10.1007/BF00402677",,"hep-th",,"  The algebra dual to Woronowicz's deformation of the 2-\-di\-men\-sion\-al
+Euclidean group is constructed. The same algebra is obtained from $SU_{q}(2)$
+via contraction on both the group and algebra levels.
+","[{""version"":""v1"",""created"":""Thu, 4 Jun 1992 22:19:50 GMT""}]","2009-10-22"
+"hep-th/9206025",,"J.S.Dowker and A.Wolski","A finite model of two-dimensional ideal hydrodynamics","(25 p., 7 figures, not included. MUTP/92/1)",,"10.1103/PhysRevA.46.6417",,"hep-th",,"  A finite-dimensional su($N$) Lie algebra equation is discussed that in the
+infinite $N$ limit (giving the area preserving diffeomorphism group) tends to
+the two-dimensional, inviscid vorticity equation on the torus. The equation is
+numerically integrated, for various values of $N$, and the time evolution of an
+(interpolated) stream function is compared with that obtained from a simple
+mode truncation of the continuum equation. The time averaged vorticity moments
+and correlation functions are compared with canonical ensemble averages.
+","[{""version"":""v1"",""created"":""Fri, 5 Jun 1992 10:13:00 GMT""}]","2009-10-22"
+"hep-th/9206026",,"E. Bergshoeff, L.A.J London and P.K. Townsend","Spacetime Scale-Invariance and the Super p-Brane","14 pages (LATEX), UG-3/92","Class.Quant.Grav.9:2545-2556,1992","10.1088/0264-9381/9/12/002",,"hep-th",,"  We generalize to p-dimensional extended objects and type II superstrings a
+recently proposed Green-Schwarz type I superstring action in which the tension
+$T$ emerges as an integration constant of the equations of motion. The action
+is spacetime scale-invariant but its equations of motion are equivalent to
+those of the standard super p-brane for $T\ne 0$ and the null super p-brane for
+$T=0$. We also show that for $p=1$ the action can be written in ``Born-Infeld''
+form.
+","[{""version"":""v1"",""created"":""Fri, 5 Jun 1992 13:41:00 GMT""}]","2010-04-06"
+"hep-th/9206027",,"A. Cappelli, C. A. Trugenberger and G. R. Zemba","Infinite Symmetry in the Quantum Hall Effect","28 pages","Nucl.Phys. B396 (1993) 465-490","10.1016/0550-3213(93)90660-H","CERN-TH 6516/92","hep-th cond-mat",,"  Free planar electrons in a uniform magnetic field are shown to possess the
+symmetry of area-preserving diffeomorphisms ($W$-infinity algebra).
+Intuitively, this is a consequence of gauge invariance, which forces dynamics
+to depend only on the flux. The infinity of generators of this symmetry act
+within each Landau level, which is infinite-dimensional in the thermodynamical
+limit. The incompressible ground states corresponding to completely filled
+Landau levels (integer quantum Hall effect) are shown to be infinitely
+symmetric, since they are annihilated by an infinite subset of generators. This
+geometrical characterization of incompressibility also holds for fractional
+fillings of the lowest level (simplest fractional Hall effect) in the presence
+of Haldane's effective two-body interactions. Although these modify the
+symmetry algebra, the corresponding incompressible ground states proposed by
+Laughlin are again symmetric with respect to the modified infinite algebra.
+","[{""version"":""v1"",""created"":""Fri, 5 Jun 1992 14:06:31 GMT""}]","2009-10-22"
+"math/9206202",,"Nigel J. Kalton, P. Wojtaszczyk","On nonatomic Banach lattices and Hardy spaces",,,,"Banach Archive 6/5/92","math.FA",,"  We are interested in the question when a Banach space $X$ with an
+unconditional basis is isomorphic (as a Banach space) to an order-continuous
+nonatomic Banach lattice. We show that this is the case if and only if $X$ is
+isomorphic as a Banach space with $X(\ell_2)$. This and results of J. Bourgain
+are used to show that spaces $H_1(\bold T^n)$ are not isomorphic to nonatomic
+Banach lattices. We also show that tent spaces introduced in \cite{4} are
+isomorphic to Rad $H_1$.
+","[{""version"":""v1"",""created"":""Fri, 5 Jun 1992 15:52:16 GMT""}]","2008-02-03"

@@ -1,0 +1,122 @@
+"astro-ph/9209001",,"Annie C. Robin, Michel Creze, Vijay Mohan","The Radial Structure of the Galactic Disc","16 pages, Besancon Observatory Preprint (figures not included)","Astron.Astrophys.265:32,1992",,,"astro-ph",,"  Three colour photometry on CCD frames in the Special Area SpA23 provides a
+deep probe of the galactic disc in a low absorption window towards the
+anticenter. Magnitudes to better than 10% at V = 25 and B-V colour down to V =
+23 have been obtained. These new data, used in combination with lower magnitude
+photographic data in a wider field, give a strong evidence that the galactic
+density scale length is rather short (2.5 kpc) and drops abruptly beyond 6 kpc.
+","[{""version"":""v1"",""created"":""Fri, 4 Sep 1992 12:55:33 GMT""},{""version"":""v2"",""created"":""Fri, 18 Sep 1992 13:46:08 GMT""}]","2011-05-23"
+"cond-mat/9209002","Fabian Essler","Fabian H.L. Essler, Vladimir E. Korepin, Kareljan Schoutens","New Exactly Solvable Model of Strongly Correlated Electrons Motivated by
+  High T_c Superconductivity","10 pages, using latex, Phys.Rev.Lett. 68 (1992) 2960","Phys.Rev.Lett.68:2960-2963,1992","10.1103/PhysRevLett.68.2960",,"cond-mat",,"  We present a new model describing strongly correlated electrons on a general
+$d$-dimensional lattice. It differs from the Hubbard model by interactions of
+nearest neighbours, and it contains the $t$-$J$ model as a special case. The
+model naturally describes local electron pairs, which can move coherently at
+arbitrary momentum. By using an $\eta$-pairing mechanism we can construct
+eigenstates of the hamiltonian with off-diagonal-long-range-order (ODLRO).
+These might help to relate the model to high-$T_c$ superconductivity. On a
+one-dimensional lattice, the model is exactly solvable by Bethe Ansatz.
+","[{""version"":""v1"",""created"":""Thu, 3 Sep 1992 23:01:17 GMT""}]","2008-11-26"
+"cond-mat/9209003","Emilio Hernandez-Garcia","E. Hernandez-Garcia, T. Ala-Nissila, and Martin Grant","Interface roughening with a time-varying external driving force","11 pages (LATEX file with a .PS file appended for two figures)","Europhys.Lett.21:401-406,1993","10.1209/0295-5075/21/4/004","University of Helsinki preprint HU-TFT-92-25","cond-mat",,"  We present a theoretical and numerical investigation of the effect of a
+time-varying external driving force on interface growth. First, we derive a
+relation between the roughening exponents which comes from a generalized
+Galilean invariance, showing how the critical dimension of the model is tunable
+with the external field. We further conjecture results for the exponents in two
+dimensions, and find consistency with data obtained through simulations of two
+models we expect to be in the same universality class. Finally, we discuss how
+our results can be investigated experimentally.
+","[{""version"":""v1"",""created"":""Fri, 4 Sep 1992 08:42:00 GMT""}]","2010-12-17"
+"cond-mat/9209004",,"A.J. Schofield and J.M. Wheatley","Combination Rules, Charge Symmetry, and Hall Effect in Cuprates","8 pages",,"10.1103/PhysRevB.47.11607",,"cond-mat",,"  The rule relating the observed Hall coefficient to the spin and charge
+responses of the uniform doped Mott insulator is derived. It is essential to
+include the contribution of holon and spinon three-current correlations to the
+effective action of the gauge field. In the vicinity of the Mott insulating
+point the Hall coefficient is holon dominated and weakly temperature dependent.
+In the vicinity of a point of charge conjugation symmetry the holon
+contribution to the observed Hall coefficient is small: the Hall coefficient
+follows the temperature dependence of the diamagnetic susceptibility with a
+sign determined by the Fermi surface shape. NOTE: document prepared using
+REVTEX. (3 Figs, not included, available on request from: ajs16@phx.cam.ac.uk)
+","[{""version"":""v1"",""created"":""Fri, 4 Sep 1992 12:26:00 GMT""}]","2009-10-22"
+"hep-lat/9209007","Peter Stephenson","The UKQCD Collaboration: S.P. Booth, A. Hulsebos, A.C. Irving, A.
+  McKerrell, C. Michael, P.S. Spencer, P.W. Stephenson","SU(2) Potentials from Large Lattices","22 pages, 4 PostScript figures (attached), Liverpool preprint LTH 284","Nucl.Phys.B394:509-526,1993","10.1016/0550-3213(93)90023-I",,"hep-lat",,"  We measure accurate values of the inter-quark potentials on a $48^{3}56$
+lattice with SU(2) pure gauge theory at $ \beta =2.85$. The scale is set by
+extracting the string tension - we obtain ${\sqrt K}a=0.063(3)$ at $\beta
+=2.85.$ From a careful study of the small-$R$ potentials in the region 2 GeV $<
+R^{-1} < 5$ GeV, we extract a running coupling constant and estimate the scale
+$\Lambda _{\msbar} = 272(24)$ MeV.
+","[{""version"":""v1"",""created"":""Thu, 3 Sep 1992 17:49:06 GMT""}]","2011-02-19"
+"hep-lat/9209008","Peter Stephenson","The UKQCD Collaboration: S.P. Booth, D.S. Henty, A. Hulsebos, A.C.
+  Irving, C. Michael, P.W. Stephenson","The Running Coupling from SU(3) Lattice Gauge Theory","11 pages, one PostScript figure (appended), Liverpool preprint LTH
+  285","Phys.Lett.B294:385-390,1992","10.1016/0370-2693(92)91538-K",,"hep-lat",,"  {}From an accurate determination of the inter-quark potential, one can study
+the running coupling constant for a range of $R$-values and hence estimate the
+scale $\Lambda_{\msbar} $. Detailed results are presented for $SU(3)$ pure
+gauge theory.
+","[{""version"":""v1"",""created"":""Thu, 3 Sep 1992 18:04:45 GMT""}]","2011-02-19"
+"hep-ph/9209208",,"E. J. Chun and A. Lukas","Discrete Gauge Symmetries in Axionic Extensions of the SSM","13 pages, TUM-TH-150/92, MPI-Ph/92-71","Phys.Lett. B297 (1992) 298-304","10.1016/0370-2693(92)91266-C",,"hep-ph",,"  We examine discrete gauge symmetries in axionic extensions of the SSM which
+provide a solution of the $\mu$-problem. Automatic-PQ symmetry and proton
+stability are shown to be guaranteed by certain discrete symmetries. Focusing
+on the L-violating discrete symmetries we discuss two sources of neutrino
+masses and their relevance for the solar neutrino problem.
+","[{""version"":""v1"",""created"":""Thu, 3 Sep 1992 16:11:28 GMT""}]","2009-10-22"
+"hep-ph/9209209","Ghosh","Varun Sahni","The Large Scale Structure of the Universe: Theory {\it vs.} Observations","21 pages (plain tex), 10 figures (not included),(Tex macros included
+  in resubmission) IUCAA-02-92",,,,"hep-ph",,"  Invited talk delivered at the International Conference on General Relativity
+and Cosmology (ICGC), Ahmedabad, India; 13 - 18 December 1991. To appear in its
+proceedings.
+","[{""version"":""v1"",""created"":""Thu, 3 Sep 1992 22:20:39 GMT""},{""version"":""v2"",""created"":""Mon, 7 Sep 1992 12:17:14 GMT""}]","2008-02-03"
+"hep-ph/9209210","John Preskill","John Preskill and Alexander Vilenkin","Decay of Metastable Topological Defects","43 pages, harvmac, HUTP-92/A018, CALT-68-1786","Phys.Rev.D47:2324-2342,1993","10.1103/PhysRevD.47.2324",,"hep-ph hep-th",,"  We systematically analyze the decay of metastable topological defects that
+arise from the spontaneous breakdown of gauge or global symmetries.
+Quantum-mechanical tunneling rates are estimated for a variety of decay
+processes. The decay rate for a global string, vortex, domain wall, or kink is
+typically suppressed compared to the decay rate for its gauged counterpart. We
+also discuss the decay of global texture, and of semilocal and electroweak
+strings.
+","[{""version"":""v1"",""created"":""Thu, 3 Sep 1992 17:03:46 GMT""}]","2010-11-01"
+"hep-ph/9209211","David London","David London and C.P. Burgess","Loop Calculations with Anomalous Gauge Boson Couplings","7 pages, 1 figure (not included), plain TeX, UdeM-LPN-TH-104,
+  McGill-92/38, talk presented at the Beyond the Standard Model III conference,
+  Ottawa, Canada, June 1992",,,,"hep-ph",,"  Analyses which use loop calculations to put constraints on anomalous
+trilinear gauge boson couplings (TGC's) often give bounds which are much too
+stringent. The reason has nothing to do with gauge invariance, in contrast to
+the recent claims of de Rujula et. al., since the lagrangians used in these
+calculations ARE gauge invariant, with the SU(2)L X U(1)Y symmetry nonlinearly
+realized. We trace the true cause of the problem to the improper interpretation
+of cutoffs in the calculation. The point is that the cutoff dependence of a
+loop integral does not necessarily reflect the true dependence on the heavy
+physics scale M. We illustrate that, if done carefully, one finds that the true
+constraints on anomalous TGC's are much weaker.
+","[{""version"":""v1"",""created"":""Thu, 3 Sep 1992 20:30:26 GMT""}]","2007-05-23"
+"hep-th/9209011","Yong-Shi Wu","Yong-Shi Wu and Chuan-Jie Zhu","The Complete Structure of the Cohomology Ring and Associated Symmetries
+  in $D=2$ String Theory","48 pages, UU-HEP/92/6, with postscript file for one figure; with
+  input line corrected","Nucl.Phys. B404 (1993) 245-287","10.1016/0550-3213(93)90480-D",,"hep-th",,"  We determine explicitly all structure constants of the whole chiral BRST
+cohomology ring in $D=2$ string theory including both the discrete states and
+tachyon states. This is made possible by establishing several identities for
+Schur polynomials with operator argument and exploring associativity.
+Furthermore we find that the (chiral) symmetry algebra of the charges obtained
+by using the descent equations can actually be read off from the cohomology
+ring structure by simple operation involving the ghost field $b$. We also
+determine the enlarged symmetry algebra which contains the charges having ghost
+number $-1$ and $1$. Finally the complete symmetry transformation rules are
+derived for closed string discrete states by carefully combining the left and
+right sectors. It turns out that the new states introduced recently by Witten
+and Zwiebach are naturally created when symmetries act on the old states.
+","[{""version"":""v1"",""created"":""Fri, 4 Sep 1992 01:05:14 GMT""},{""version"":""v2"",""created"":""Tue, 8 Sep 1992 05:31:22 GMT""}]","2009-10-22"
+"hep-th/9209012","Larus Thorlacius","J. Russo, L. Susskind and L. Thorlacius","Cosmic Censorship in Two-Dimensional Gravity","16 pages, 1 figure (not included), a few minor corrections added","Phys.Rev.D47:533-539,1993","10.1103/PhysRevD.47.533","UTTG-19-92; SU-ITP-92-24","hep-th",,"  A weak version of the cosmic censorship hypothesis is implemented as a set of
+boundary conditions on exact semi-classical solutions of two-dimensional
+dilaton gravity. These boundary conditions reflect low-energy matter from the
+strong coupling region and they also serve to stabilize the vacuum of the
+theory against decay into negative energy states. Information about low-energy
+incoming matter can be recovered in the final state but at high energy black
+holes are formed and inevitably lead to information loss at the semi-classical
+level.
+","[{""version"":""v1"",""created"":""Fri, 4 Sep 1992 06:53:35 GMT""},{""version"":""v2"",""created"":""Tue, 22 Sep 1992 11:23:54 GMT""}]","2009-10-07"
+"hep-th/9209013",,"John Ellis, N.E. Mavromatos, D.V. Nanopoulos","The String Universe: High $T_c$ Superconductor or Quantum Hall
+  Conductor?","19 pages","Phys.Lett.B296:40-50,1992","10.1016/0370-2693(92)90801-A","CERN-TH.6536/92","hep-th",,"  Our answer is the latter. Space-time singularities, including the initial
+one, are described by world-sheet topological Abelian gauge theories with a
+Chern-Simons term. Their effective $N=2$ supersymmetry provides an initial
+fixed point where the Bogomolny bound is saturated on the world-sheet,
+corresponding to an extreme Reissner-Nordstrom solution in space-time. Away
+from the singularity the gauge theory has world-sheet matter fields, bosons and
+fermions, associated with the generation of target space-time. Because the
+fermions are complex (cf the Quantum Hall Effect) rather than real (cf
+high-$T_c$ superconductors) the energetically-preferred vacuum is not parity or
+time-reversal invariant, and the associated renormalization group flow explains
+the cosmological arrow of time, as well as the decay of real or virtual black
+holes, with a monotonic increase in entropy.
+","[{""version"":""v1"",""created"":""Fri, 4 Sep 1992 14:23:22 GMT""}]","2016-09-06"

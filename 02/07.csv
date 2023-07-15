@@ -1,0 +1,67 @@
+"hep-th/9202021",,"Erik Verlinde","The Master Equation of 2D String Theory","19 pages, two figures (not included)","Nucl.Phys. B381 (1992) 141-157","10.1016/0550-3213(92)90644-Q",,"hep-th",,"  A general method is presented for deriving on-shell Ward-identities in (2D)
+string theory. It is shown that all tree-level Ward identities can be
+summarized in a quadratic differential equation for the generating function of
+tree-amplitudes. This result is extended to loop amplitudes and leads to a
+master equation {\it \`{a} la} Batalin-Vilkovisky for the complete partition
+function.
+","[{""version"":""v1"",""created"":""Thu, 6 Feb 1992 17:53:00 GMT""}]","2009-10-22"
+"hep-th/9202022","Konstantinos Anagnostopoulos","Lee Smolin","Recent Developments in Non-Perturbative Quantum Gravity","82 pages",,,,"hep-th",,"  New results from the new variables/loop representation program of
+nonperturbative quantum gravity are presented, with a focus on results of
+Ashtekar, Rovelli and the author which greatly clarify the physical
+interpretation of the quantum states in the loop representation. These include:
+1) The construction of a class of states which approximate smooth metrics for
+length measurements on scales, $L$, to order $l_{Planck}/L$. 2) The discovery
+that any such state must have discrete structure at the Planck length. 3) The
+construction of operators for the area of arbitrary surfaces and volumes of
+arbitrary regions and the discovery that these operators are finite. 4) The
+diagonalization of these operators and the demonstration that the spectra are
+discrete, so that in quantum gravity areas and volumes are quantized in Planck
+units. 5) The construction of finite diffeomorphism invariant operators that
+measure geometrical quantities such as the volume of the universe and the areas
+of minimal surfaces. These results are made possible by the use of new
+techniques for the regularization of operator products that respect
+diffeomorphism invariance. Several new results in the classical theory are also
+reviewed including the solution of the hamiltonian and diffeomorphism
+constraints in closed form of Capovilla, Dell and Jacobson and a new form of
+the action that induces Chern-Simon theory on the boundaries of spacetime. A
+new classical discretization of the Einstein equations is also presented.
+","[{""version"":""v1"",""created"":""Fri, 7 Feb 1992 01:00:00 GMT""}]","2007-05-23"
+"hep-th/9202023","Jorge Pullin","Richard H. Price and Jorge Pullin","The Emergence of Radiation from Gravitational Potential Wells: The
+  Absence of $\omega M$ Effects","29pp","Phys.Rev. D46 (1992) 2497-2506","10.1103/PhysRevD.46.2497",,"hep-th",,"  We consider a source of gravitational waves of frequency $\omega$, located
+near the center of a massive galaxy of mass $M$ and radius $R$, with $\omega\gg
+R^{-1}$. In the case of a perfect fluid galaxy, and of odd-parity waves, there
+is no direct matter-wave interaction and the propagation of the waves is
+affected by the galaxy only through the curvature of the spacetime background
+through which the waves propagate. We find that, in addition to the expected
+redshift of the radiation emerging from the galaxy, there is a small amount of
+backscatter, of order $M/\omega^2R^3$. We show that there is no suppression of
+radiative power by the factor $1+\omega^2M^2/4$ as has been recently predicted
+by Kundu. The origin of Kundu's suppression lies in the interpretation of a
+term in the expansion of the exterior field of the galaxy in inverse powers of
+radius. It is shown why that term is not related to the source strength or to
+the strength of the emerging radiation.
+","[{""version"":""v1"",""created"":""Fri, 7 Feb 1992 02:43:10 GMT""}]","2009-10-22"
+"hep-th/9202024","Christopher Ting","Christopher Ting and C. H. Lai","Spinning Braid Group Representation and the Fractional Quantum Hall
+  Effect","(36 pages) e-mail scip1005@nusvm.bitnet","Nucl.Phys. B396 (1993) 429-464","10.1016/0550-3213(93)90659-D",,"hep-th",,"  The path integral approach to representing braid group is generalized for
+particles with spin. Introducing the notion of {\em charged} winding number in
+the super-plane, we represent the braid group generators as homotopically
+constrained Feynman kernels. In this framework, super Knizhnik-Zamolodchikov
+operators appear naturally in the Hamiltonian, suggesting the possibility of
+{\em spinning nonabelian} anyons. We then apply our formulation to the study of
+fractional quantum Hall effect (FQHE). A systematic discussion of the ground
+states and their quasi-hole excitations is given. We obtain Laughlin, Halperin
+and Moore-Read states as {\em exact} ground state solutions to the respective
+Hamiltonians associated to the braid group representations. The energy gap of
+the quasi-excitation is also obtainable from this approach.
+","[{""version"":""v1"",""created"":""Fri, 7 Feb 1992 03:00:55 GMT""}]","2009-10-22"
+"hep-th/9202025","Jan Willem v. Holten","J.W. van Holten","BRST Field Theory of Relativistic Particles","17 pages","Int.J.Mod.Phys.A7:7119-7134,1992","10.1142/S0217751X92003276",,"hep-th",,"  A generalization of BRST field theory is presented, based on wave operators
+for the fields constructed out of, but different from the BRST operator. We
+discuss their quantization, gauge fixing and the derivation of propagators. We
+show, that the generalized theories are relevant to relativistic particle
+theories in the Brink-Di Vecchia-Howe-Polyakov (BDHP) formulation, and argue
+that the same phenomenon holds in string theories. In particular it is shown,
+that the naive BRST formulation of the BDHP theory leads to trivial quantum
+field theories with vanishing correlation functions.
+","[{""version"":""v1"",""created"":""Fri, 7 Feb 1992 13:47:57 GMT""}]","2011-07-19"
+"math/9202201",,"Friedrich Haslinger","Szeg\""o kernels for certain unbounded domains in $\Bbb C^2$",,,,,"math.CV",,"  No abstract available.
+","[{""version"":""v1"",""created"":""Fri, 7 Feb 1992 05:00:00 GMT""}]","2009-09-25"

@@ -1,0 +1,77 @@
+"hep-ph/9203202","Cliff Burgess","C.P. Burgess, J. Cline and Markus Luty","A Natural Framework for Solar and 17 keV Neutrinos","23 pages","Phys.Rev. D46 (1992) 364-373","10.1103/PhysRevD.46.364",,"hep-ph",,"  Motivated by recent experimental claims for the existence of a 17 keV
+neutrino and by the solar neutrino problem, we construct a class of models
+which contain in their low-energy spectrum a single light sterile neutrino and
+one or more Nambu-Goldstone bosons. In these models the required pattern of
+breaking of lepton-number symmetry takes place near the electroweak scale and
+all mass heirarchies are technically natural. The models are compatible with
+all cosmological and astrophysical constraints, and can solve the solar
+neutrino problem via either the MSW effect or vacuum oscillations. The deficit
+in atmospheric muon neutrinos seen in the Kamiokande and IMB detectors can also
+be explained in these models.
+","[{""version"":""v1"",""created"":""Sun, 8 Mar 1992 23:36:56 GMT""}]","2009-10-22"
+"hep-ph/9203204","Fabio Zwirner","F. Zwirner","The quest for low-energy supersymmetry and the role of high-energy
+  $e^+e^-$ colliders","44 pages",,,,"hep-ph",,"  The motivations for low-energy supersymmetry and the main features of the
+minimal supersymmetric extension of the Standard Model are reviewed. Possible
+non-minimal models and the issue of gauge coupling unification are also
+discussed. Theoretical results relevant for supersymmetric particle searches at
+present and future accelerators are presented, with emphasis on the role of a
+proposed $\epem$ collider with $\sqrt{s}
+  = 500 \gev$. In particular, recent results on radiative corrections to
+supersymmetric Higgs boson masses and couplings are summarized, and their
+implications for experimental searches are discussed in some detail. (Plenary
+talk at the Workshop on Physics and Experiments with Linear Colliders,
+Saariselk\""a, Lapland, Finland, 9--14 September 1991)
+","[{""version"":""v1"",""created"":""Mon, 9 Mar 1992 12:53:52 GMT""}]","2007-05-23"
+"hep-th/9203018","Larry Romans","L. J. Romans","Supersymmetric, cold and lukewarm black holes in cosmological
+  Einstein-Maxwell theory","(18 pp., plain tex)","Nucl.Phys. B383 (1992) 395-415","10.1016/0550-3213(92)90684-4",,"hep-th",,"  In flat space, the extreme Reissner-Nordstr\o m (RN) black hole is
+distinguished by its coldness (vanishing Hawking temperature) and its
+supersymmetry. We examine RN solutions to Einstein-Maxwell theory with a
+cosmological constant $\Lambda$, classifying the cold black holes and, for
+positive $\Lambda$, the ``lukewarm"" black holes at the same temperature as the
+de Sitter thermal background. For negative $\Lambda$, we classify the
+supersymmetric solutions within the context of $N=2$ gauged supergravity. One
+finds supersymmetric analogues of flat-space extreme RN black holes, which for
+nonzero $\Lambda$ differ from the cold black holes. In addition, there is an
+exotic class of supersymmetric solutions which cannot be continued to flat
+space, since the magnetic charge becomes infinite in that limit.
+","[{""version"":""v1"",""created"":""Sun, 8 Mar 1992 21:44:51 GMT""}]","2009-10-22"
+"hep-th/9203019","Simon Dalley","S.Dalley","The Weingarten Model a la Polyakov","16 pages (5 illustrations not included)","Mod. Phys. Lett. A7 (1992) 1651-1660","10.1142/S0217732392001348",,"hep-th",,"  The Weingarten lattice gauge model of Nambu-Goto strings is generalised to
+allow for fluctuations of an intrinsic worldsheet metric through a dynamical
+quadrilation. The continuum limit is taken for $c\leq1$ matter, reproducing the
+results of hermitian matrix models to all orders in the genus expansion. For
+the compact $c=1$ case the vortices are Wilson lines, whose exclusion leads to
+the theory of non-interacting fermions. As a by-product of the analysis one
+finds the critical behaviour of SOS and vertex models coupled to 2D quantum
+gravity.
+","[{""version"":""v1"",""created"":""Mon, 9 Mar 1992 03:05:32 GMT""}]","2015-06-26"
+"hep-th/9203020","Jurgen Laartz","J. Laartz","The Extension Structure of 2D Massive Current Algebras","9 pages","Mod. Phys. Lett. A7 (1992) 3309-3318","10.1142/S021773239200269X",,"hep-th",,"  The extension structure of the 2-dimensional current algebra of non-linear
+sigma models is analysed by introducing Kostant Sternberg $(L,M)$ systems. It
+is found that the algebra obeys a two step extension by abelian ideals. The
+second step is a non-split extension of a representation of the quotient of the
+algebra by the first step of the extension. The cocycle which appears is
+analysed.
+","[{""version"":""v1"",""created"":""Mon, 9 Mar 1992 04:07:18 GMT""}]","2015-06-26"
+"hep-th/9203021","Hiroshi Suzuki","Joaquim Gomis and Hiroshi Suzuki","Covariant Currents in N=2 Super-Liouville Theory","30 pages","Nucl.Phys. B393 (1993) 126-148","10.1016/0550-3213(93)90241-G",,"hep-th",,"  Based on a path integral prescription for anomaly calculation, we analyze an
+effective theory of the two-dimensional $N=2$ supergravity, i.e., $N=2$
+super-Liouville theory. We calculate the anomalies associated with the BRST
+supercurrent and the ghost number supercurrent. From those expressions of
+anomalies, we construct covariant BRST and ghost number supercurrents in the
+effective theory. We then show that the (super-)coordinate BRST current algebra
+forms a superfield extension of the topological conformal algebra for an {\it
+arbitrary\/} type of conformal matter or, in terms of the string theory, for an
+arbitrary number of space-time dimensions. This fact is very contrast with
+$N=0$ and $N=1$ (super-)Liouville theory, where the topological algebra singles
+out a particular value of dimensions. Our observation suggests a topological
+nature of the two-dimensional $N=2$ supergravity as a quantum theory.
+","[{""version"":""v1"",""created"":""Mon, 9 Mar 1992 06:03:43 GMT""}]","2009-10-22"
+"hep-th/9203022","C. V. Johnson","Clifford Johnson, Tim Morris and Bill Spence","Stable Non--Perturbative Minimal Models Coupled to 2D Quantum Gravity","(35 pp; two figures not included; plain TEX)","Nucl.Phys. B384 (1992) 381-410","10.1016/0550-3213(92)90472-N",,"hep-th",,"  A generalisation of the non--perturbatively stable solutions of string
+equations which respect the KdV flows, obtained recently for the $(2m-1,2)$
+conformal minimal models coupled to two--dimensional quantum gravity, is
+presented for the $(p,q)$ models. These string equations are the most general
+string equations compatible with the $q$--th generalised KdV flows. They
+exhibit a close relationship with the bi-hamiltonian structure in these
+hierarchies. The Ising model is studied as a particular example, for which a
+real non-singular numerical solution to the string susceptibility is presented.
+","[{""version"":""v1"",""created"":""Mon, 9 Mar 1992 09:52:08 GMT""}]","2009-10-22"
+"math/9203201",,"Eric Bedford and Sergey Pinchuk","Domains in $\cx {n+1}$ with Noncompact Automorphism Group. II",,,,,"math.CV",,"  No abstract available.
+","[{""version"":""v1"",""created"":""Sun, 8 Mar 1992 17:29:56 GMT""}]","2008-02-03"

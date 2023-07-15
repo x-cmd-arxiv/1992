@@ -1,0 +1,69 @@
+"cond-mat/9208012",,"Daniel Loss, David P. DiVincenzo, and G. Grinstein (IBM)","Suppression of tunneling by interference in half-integer--spin particles","14 pages (RevTeX), 2 postscript figures available upon request","Phys.Rev.Lett.69:3232-3235,1992","10.1103/PhysRevLett.69.3232",,"cond-mat",,"  Within a wide class of ferromagnetic and antiferromagnetic systems, quantum
+tunneling of magnetization direction is spin-parity dependent: it vanishes for
+magnetic particles with half-integer spin, but is allowed for integer spin. A
+coherent-state path integral calculation shows that this topological effect
+results from interference between tunneling paths.
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 14:32:10 GMT""}]","2009-01-23"
+"gr-qc/9208007",,"Niall \'O Murchadha and Hugh Shanahan","There is no $R^3 X S^1$ vacuum gravitational instanton","10 pages","Phys.Rev.Lett. 70 (1993) 1576-1578","10.1103/PhysRevLett.70.1576",,"gr-qc hep-th",,"  Gravitational instantons, solutions to the euclidean Einstein equations, with
+topology $R^3 XS^1$ arise naturally in any discussion of finite temperature
+quantum gravity. This Letter shows that all such instantons (irrespective of
+their interior behaviour) must have the same asymptotic structure as the
+Schwarzschild instanton. Using this, it can be shown that if the Ricci tensor
+of the manifold is non-negative it must be flat. One special case is when the
+Ricci tensor vanishes; hence one can conclude that there is no nontrivial
+vacuum gravitational instanton. This result has uses both in quantum and
+classical gravity. It places a significant restriction on the instabilities of
+hot flat space. It also can be used to show that any static vacuum Lorentzian
+Kaluza-Klein solution is flat.
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 11:04:00 GMT""}]","2009-10-22"
+"gr-qc/9208008",,"Edward Malec and Niall \'O Murchadha","Trapped surfaces and spherical closed cosmologies","36 pages","Phys.Rev. D47 (1993) 1454-1464","10.1103/PhysRevD.47.1454",,"gr-qc astro-ph",,"  This article gives necessary and sufficient conditions for the formation of
+trapped surfaces in spherically symmetric initial data defined on a closed
+manifold. Such trapped surfaces surround a region in which there occurs an
+enhancement of matter over the average. The conditions are posed directly in
+terms of physical variables and show that what one needs is a relatively large
+amount of excess matter confined to a small volume. The expansion of the
+universe and an outward flow of matter oppose the formation of trapped
+surfaces; an inward flow of matter helps. The model can be regarded as a
+Friedmann-Lema\^\i tre-Walker cosmology with localized spherical
+inhomogeneities. We show that the total excess mass cannot be too large.
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 15:19:00 GMT""}]","2009-10-22"
+"hep-ph/9208231","Edward Kolb","Marcelo Gleiser and Edward W. Kolb","Critical Behavior in the Electroweak Phase Transition","26 pages","Phys.Rev. D48 (1993) 1560-1570","10.1103/PhysRevD.48.1560","FERMILAB-Pub-92/222-A","hep-ph astro-ph gr-qc",,"  We examine the behavior of the standard-model electroweak phase transition in
+the early Universe. We argue that close to the critical temperature it is
+possible to estimate the {\it effective} infrared corrections to the 1-loop
+potential using well known $\varepsilon$-expansion results from the theory of
+critical phenomena in 3 spatial dimensions. The theory with the
+$\varepsilon$-corrected potential exhibits much larger fluctuations in the
+spatial correlations of the order parameter, considerably weakening the
+strength of the transition.
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 01:04:27 GMT""}]","2009-10-22"
+"hep-ph/9208232","Volker Koch","Volker Koch and George Bertsch","Effects of Collective Potentials on Pion Spectra in Relativistic Heavy
+  Ion Collisions","11 pages","Nucl.Phys. A552 (1993) 591-604","10.1016/0375-9474(93)90287-8",,"hep-ph",,"  The effect of collective potentials on pion spectra in ultrarelativistic
+heavy ion collisions is investigated. We find the effect of these potential to
+be very small, too small to explain the observed enhancement at low transverse
+momenta. (7 figures, bill be send on request)
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 13:04:52 GMT""}]","2009-10-22"
+"hep-ph/9208233","Ajit Srivastava","M.J. Bowick, L. Chandar, E.A. Schiff, and A.M. Srivastava","The Cosmological Kibble Mechanism in the Laboratory: String Formation in
+  Liquid Crystals","17 pages, in TEX, 2 figures (not included, available on request)","Science 263:943-945,1994","10.1126/science.263.5149.943","SU-HEP-4241-512, TPI-MINN-92/35-T","hep-ph cond-mat hep-th",,"  We have observed the production of strings (disclination lines and loops) via
+the Kibble mechanism of domain (bubble) formation in the isotropic to nematic
+phase transition of a sample of uniaxial nematic liquid crystal. The probablity
+of string formation per bubble is measured to be $0.33 \pm 0.01$. This is in
+good agreement with the theoretical value $1/ \pi$ expected in two dimensions
+for the order parameter space $S^2/{\bf Z}_2$ of a simple uniaxial nematic
+liquid crystal.
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 15:17:02 GMT""}]","2011-07-19"
+"hep-th/9208046","Stanislav Pakuliak","S. Kharchev, A. Marshakov, A. Mironov, A. Morozov","Landau-Ginzburg Topological Theories in the Framework of GKM and
+  Equivalent Hierarchies","14 pages, FIAN/TD-7/92 & ITEP-M-5/92, improved version","Mod.Phys.Lett.A8:1047-1062,1993; Theor.Math.Phys.95:571-582,1993","10.1007/BF01017143",,"hep-th",,"  We consider the deformations of ``monomial solutions'' to Generalized
+Kontsevich Model \cite{KMMMZ91a,KMMMZ91b} and establish the relation between
+the flows generated by these deformations with those of $N=2$ Landau-Ginzburg
+topological theories. We prove that the partition function of a generic
+Generalized Kontsevich Model can be presented as a product of some
+``quasiclassical'' factor and non-deformed partition function which depends
+only on the sum of Miwa transformed and flat times. This result is important
+for the restoration of explicit $p-q$ symmetry in the interpolation pattern
+between all the $(p,q)$-minimal string models with $c<1$ and for revealing its
+integrable structure in $p$-direction, determined by deformations of the
+potential. It also implies the way in which supersymmetric Landau-Ginzburg
+models are embedded into the general context of GKM. From the point of view of
+integrable theory these deformations present a particular case of what is
+called equivalent hierarchies.
+","[{""version"":""v1"",""created"":""Wed, 19 Aug 1992 11:23:41 GMT""},{""version"":""v2"",""created"":""Sat, 12 Sep 1992 03:06:31 GMT""}]","2011-04-20"

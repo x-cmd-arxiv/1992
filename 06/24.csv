@@ -1,0 +1,136 @@
+"astro-ph/9206005",,"R. Brandenberger (Brown), V. Mukhanov (ETH Zuerich) and T. Prokopec
+  (Brown)","Entropy of a Classical Stochastic Field and Cosmological Perturbation","10 pages, uses phyzzx; BROWN-HET-859","Phys.Rev.Lett. 69 (1992) 3606-3609","10.1103/PhysRevLett.69.3606",,"astro-ph hep-ph",,"  We propose a general definition of nonequilibrium entropy of a classical
+stochastic field. As an example of particular interest in cosmology we apply
+this definition to compute the entropy of density perturbations in an
+inflationary Universe. On the scales of structures in the Universe, the entropy
+of density perturbations dominates over the statistical fluctuations of the
+entropy of cosmic microwave photons, indicating the relevance of the entropy of
+density fluctuations for structure formation.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 07:35:05 GMT""}]","2009-10-22"
+"hep-lat/9206019","Dick Haymaker","Vandana Singh, Richard W. Haymaker and Dana A. Browne","London relation and fluxoid quantization for monopole currents in U(1)
+  lattice gauge theory","LSUHEP-1-92 May 1992, 13 pages","Phys.Rev. D47 (1993) 1715-1718","10.1103/PhysRevD.47.1715",,"hep-lat",,"  We explore the analogy between quark confinement and the Meissner effect in
+superconductors. We measure the response of color-magnetic ""supercurrents"" from
+Dirac magnetic monopoles to the presence of a static quark-antiquark pair in
+four dimensional U(1) lattice gauge theory. Our results indicate that in the
+confined phase these currents screen the color-electric flux due to the quarks
+in an electric analogy of the Meisner effect. We show that U(1) lattice guage
+theory obeys both a dual London equation and an electric fluxoid quantization
+condition.
+","[{""version"":""v1"",""created"":""Tue, 23 Jun 1992 22:05:39 GMT""}]","2009-10-22"
+"hep-lat/9206020","Michael Creutz","Gyan Bhanot, Michael Creutz, and Jan Lacki","Low temperature expansion for the 3-d Ising Model","10 pages, IASSNS-HEP-92/42, BNL-47671","Phys.Rev.Lett. 69 (1992) 1841-1844","10.1103/PhysRevLett.69.1841",,"hep-lat",,"  We compute the weak coupling expansion for the energy of the three
+dimensional Ising model through 48 excited bonds. We also compute the
+magnetization through 40 excited bonds. This was achieved via a recursive
+enumeration of states of fixed energy on a set of finite lattices. We use a
+linear combination of lattices with a generalization of helical boundary
+conditions to eliminate finite volume effects.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 14:51:52 GMT""}]","2009-10-22"
+"hep-ph/9206246",,"T. Han, G. Valencia and S. Willenbrock (FNAL and BNL)","Structure Function Approach to Vector-Boson Scattering in pp Collisions","11 pages, latex file, 2 figures. Figs. 2a and 2b appended as
+  postscript files. Fig. 1 is available from the authors. Send request to
+  HAN@FNAL VALENCIA@FNAL or SCOTTW@BNL","Phys.Rev.Lett. 69 (1992) 3274-3277","10.1103/PhysRevLett.69.3274","FERMILAB-PUB-92/171-T","hep-ph",,"  We discuss weak-vector-boson scattering, at next-to-leading order in QCD,
+within the framework of hadronic structure functions. We use this approach to
+calculate the Higgs-boson production cross section via vector-boson fusion at
+the LHC/SSC; we find a modest increase over the leading-order prediction. We
+also give expressions for the distribution of vector bosons in a proton
+(effective-$W$ approximation) including ${\cal O} (\alpha_s)$ corrections.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 00:18:36 GMT""}]","2009-10-22"
+"hep-ph/9206247","Kiwoon Choi","Kiwoon Choi","Light Quark Masses and Quarkonium Decays","15pages, UCSD/PTH 92/06","Phys.Lett.B292:159-163,1992","10.1016/0370-2693(92)90624-D",,"hep-ph",,"  After discussing the intrinsic ambiguity in determining the light quark mass
+ratio $m_u/m_d$, we reexamine the recent proposal that this ambiguity can be
+resolved by applying the QCD multipole expansion for the heavy quarkonium
+decays. It is observed that, due to instanton effects, some matrix elements
+which have been ignored in previous works can give a significant contribution
+to the decay amplitudes, which results in a large uncertainty in the value of
+$m_u/m_d$ deduced from quarkonium phenomenology. This uncertainty can be
+resolved only by a QCD calculation of some second order coefficients in the
+chiral expansion of the decay amplitudes.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 04:35:26 GMT""}]","2008-11-26"
+"hep-th/9206083","J. A. Casas","J.A. Casas, F. G\'omez and C. Mu\~noz","Fitting the Quark and Lepton Masses in String Theories","19 pages","Phys.Lett. B292 (1992) 42-54","10.1016/0370-2693(92)90606-5",,"hep-th",,"  The capability of string theories to reproduce at low energy the observed
+pattern of quark and lepton masses and mixing angles is examined, focusing the
+attention on orbifold constructions, where the magnitude of Yukawa couplings
+depends on the values of the deformation parameters which describe the size and
+shape of the compactified space. A systematic exploration shows that for $Z_3$,
+$Z_4$, $Z_6$--I and possibly $Z_7$ orbifolds a correct fit of the physical
+fermion masses is feasible. In this way the experimental masses, which are
+low--energy quantities, select a particular size and shape of the compactified
+space, which turns out to be very reasonable (in particular the modulus $T$
+defining the former is $T=O(1)$). The rest of the $Z_N$ orbifolds are rather
+hopeless and should be discarded on the assumption of a minimal $SU(3)\times
+SU(2)\times U(1)_Y$ scenario. On the other hand, due to stringy selection
+rules, there is no possibility of fitting the Kobayashi--Maskawa parameters at
+the renormalizable level, although it is remarked that this job might well be
+done by non--renormalizable couplings.
+","[{""version"":""v1"",""created"":""Tue, 23 Jun 1992 16:25:10 GMT""}]","2009-10-22"
+"hep-th/9206084",,"Barton Zwiebach","Closed String Field Theory: Quantum Action and the BV Master Equation","115 pages, 5 figures (not included). IASSNS-HEP-92/41","Nucl.Phys.B390:33-152,1993","10.1016/0550-3213(93)90388-6",,"hep-th",,"  The complete quantum theory of covariant closed strings is constructed in
+detail. The action is defined by elementary vertices satisfying recursion
+relations that give rise to Jacobi-like identities for an infinite chain of
+string field products. The genus zero string field algebra is the homotopy Lie
+algebra $L_\infty$, and the higher genus algebraic structure implies the
+Batalin-Vilkovisky (BV) master equation. From these structures on the off-shell
+state space, we show how to derive the $L_\infty$ algebra, and the BV equation
+on physical states, recently constructed in d=2 string theory. The string
+diagrams are surfaces with minimal area metrics, foliated by closed geodesics
+of length $2\pi$. These metrics generalize quadratic differentials in that
+foliation bands can cross. The string vertices are succinctly characterized;
+they include the surfaces whose foliation bands are all of height smaller than
+$2\pi$.
+  --While this is not a review paper, an effort was made to give a fairly
+complete and accessible account of the quantum closed string field theory.--
+","[{""version"":""v1"",""created"":""Tue, 23 Jun 1992 22:11:00 GMT""}]","2010-11-01"
+"hep-th/9206085","Mark Srednicki","M. Srednicki","A New Construction of the Penner Model","4 pages, in Plain Tex, UCSBTH-92-23","Mod.Phys.Lett. A7 (1992) 2857-2860","10.1142/S0217732392004237",,"hep-th",,"  The free energy of the Penner model is shown to be closely related to the
+integral over the two diagonalizing unitary matrices of a complex rectangular
+matrix.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 00:35:12 GMT""}]","2015-06-26"
+"hep-th/9206086","Shin'ichi Nojiri","Shin'ichi Nojiri","$N=\half$ Superstring in Zero Dimension and the Spontaneous Breakdown of
+  the Supersymmetry","16 pages","Mod.Phys.Lett. A7 (1992) 2979-2989","10.1142/S0217732392002354",,"hep-th",,"  We propose random matrix models which have $N=\half$ supersymmetry in zero
+dimension. The supersymmetry breaks down spontaneously. It is shown that the
+double scaling limit can be defined in these models and the breakdown of the
+supersymmetry remains in the continuum limit. The exact non-trivial partition
+functions of the string theories corresponding to these matrix models are also
+obtained.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 02:59:13 GMT""}]","2015-06-26"
+"hep-th/9206087","Shin'ichi Nojiri","Shin'ichi Nojiri and Ichiro Oda","Charged Dilatonic Black Hole and Hawking Radiation in Two Dimensions","15pp","Phys.Lett. B294 (1992) 317-324","10.1016/0370-2693(92)91527-G",,"hep-th",,"  We consider Callan, Giddings, Harvey and Strominger's (CGHS) two dimensional
+dilatonic gravity with electromagnetic interactions. This model can be also
+solved classically. Among the solutions describing static black holes, there
+exist extremal solutions which have zero temperatures. In the extremal
+solutions, the space-time metric is not singular. We also obtain the solutions
+describing charged matter (chiral fermions) collapsing into black holes.
+Through the collapsing, not only future horizon but past horizon is also
+shifted. The quantum corrections including chiral anomaly are also discussed.
+In a way similar to CGHS model, the curvature singularity also appeared, except
+extremal case, when the matter collapsing. The screening effects due to the
+chiral anomaly have a tendency to cloak the singularity
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 03:01:32 GMT""}]","2009-10-22"
+"hep-th/9206088",,"G.P.Korchemsky","Loops in the Curvature Matrix Model","UPRF-92-340, 14 pages, 3 figures, LaTeX file","Phys.Lett. B296 (1992) 323-334","10.1016/0370-2693(92)91328-7",,"hep-th",,"  Macroscopic loop correlators are investigated in the hermitian one matrix
+model with the potential perturbed by the higher order curvature term. In the
+phase of smooth surfaces the model is equivalent to the minimal conformal
+matter coupled to gravity. The properties of the model in the intermediate
+phase are similar to that of the discretized bosonic string with the central
+charge $C > 1.$ Loop correlators describe the effect of the splitting of the
+random surfaces. It is shown, that the properties of the surfaces are changed
+in the intermediate phase because the perturbation modifies the spectrum of the
+scaling operators.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 09:21:00 GMT""}]","2009-10-22"
+"hep-th/9206089","Francois Gieres","Jean-Pierre Ader, Francois Gieres and Yves Noirot","Relating Weyl and diffeomorphism anomalies on super Riemann surfaces","(LATEX, 18 pages), MPI-Ph/92-38, LPTB 92-6","Class.Quant.Grav.10:1-18,1993","10.1088/0264-9381/10/1/005",,"hep-th",,"  Starting from the Wess-Zumino action associated to the super Weyl anomaly, we
+determine the local counterterm which allows to pass from this anomaly to the
+chirally split superdiffeomorphism anomaly (as defined on a compact super
+Riemann surface without boundary). The counterterm involves the graded
+extension of the Verlinde functional and the results can be applied to the
+study of holomorphic factorization of partition functions in superconformal
+field theory.
+","[{""version"":""v1"",""created"":""Tue, 23 Jun 1992 23:00:06 GMT""}]","2010-04-06"
+"hep-th/9206090","Philippe Di Francesco","P. Di Francesco, C. Itzykson, J.-B. Zuber","Polynomial averages in the Kontsevich model","30 pages","Commun.Math.Phys. 151 (1993) 193-219","10.1007/BF02096753","SPhT 92/073","hep-th math.QA",,"  We obtain in closed form averages of polynomials, taken over hermitian
+matrices with the Gaussian measure involved in the Kontsevich integral, and
+prove a conjecture of Witten enabling one to express analogous averages with
+the full (cubic potential) measure, as derivatives of the partition function
+with respect to traces of inverse odd powers of the external argument. The
+proofs are based on elementary algebraic identities involving a new set of
+invariant polynomials of the linear group, closely related to the general Schur
+functions.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 11:18:03 GMT""}]","2015-06-26"
+"hep-th/9206091",,"H. Itoyama","Integrable Superhierarchy of Discretized 2d Supergravity","10 pages, Latex","Phys.Lett. B299 (1993) 64-71","10.1016/0370-2693(93)90884-K","ITP-SB-92-33","hep-th",,"  The hierarchical nonlinear super-differential equations are identified which
+describe universal behavior of the discretized model of $2d$ supergravity
+recently proposed. This is done by first taking a double scaling limit of the
+super Virasoro constraints ( at finite $N$) of the model and by rederiving it
+from the $\tilde{G}_{-1/2}$ constraint and the two reduction of the super KP
+hierarchy discussed. The double-scaled constraints are found to be described by
+a twisted scalar and a Ramond fermion.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 15:34:13 GMT""}]","2009-10-22"

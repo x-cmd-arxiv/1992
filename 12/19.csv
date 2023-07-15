@@ -1,0 +1,202 @@
+"cond-mat/9212027","Subir Sachdev","Jinwu Ye, Subir Sachdev, and N. Read","A Solvable Spin-Glass of Quantum Rotors","13 pages, REVTEX, 1 figure available by request from
+  subir@cmphys.eng.yale.edu","Phys.Rev.Lett.70:4011,1993","10.1103/PhysRevLett.70.4011",,"cond-mat",,"  We examine a model of $M$-component quantum rotors coupled by
+Gaussian-distributed random, infinite-range exchange interactions. A complete
+solution is obtained at $M=\infty$ in the spin-glass and quantum-disordered
+phases. The quantum phase transition separating them is found to possess
+logarithmic violations of scaling, with no further modifications to the leading
+critical behavior at any order in $1/M$; this suggests that the critical
+properties of the transverse-field Ising model (believed to be identical to the
+$M\rightarrow 1$ limit) are the same as those of the $M=\infty$ quantum rotors.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 21:37:26 GMT""}]","2009-01-23"
+"cond-mat/9212028",,"Bill Sutherland, B. Sriram Shastry (Physics Department, AT&T Bell
+  Labs, Murray Hill, NJ and University of Utah, Salt Lake City, UT)","Solution of Some Integrable One-Dimensional Quantum Systems",,"Phys.Rev.Lett. 71 (1993) 5-8","10.1103/PhysRevLett.71.5",,"cond-mat",,"  In this paper, we investigate a family of one-dimensional multi-component
+quantum many-body systems. The interaction is an exchange interaction based on
+the familiar family of integrable systems which includes the inverse square
+potential. We show these systems to be integrable, and exploit this
+integrability to completely determine the spectrum including degeneracy, and
+thus the thermodynamics. The periodic inverse square case is worked out
+explicitly. Next, we show that in the limit of strong interaction the ""spin""
+degrees of freedom decouple. Taking this limit for our example, we obtain a
+complete solution to a lattice system introduced recently by Shastry, and
+Haldane; our solution reproduces the numerical results. Finally, we emphasize
+the simple explanation for the high multiplicities found in this model.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 22:29:04 GMT""}]","2009-10-22"
+"cond-mat/9212029",,"B. Sriram Shastry (AT & T Bell Laboratories, Murray Hill, N.J.) and
+  Bill Sutherland (Department of Physics,University of Utah, Salt Lake City)","Super Lax Pairs and Infinite Symmetries in The $1/r^2$ System",,"Phys.Rev.Lett.70:4029-4033,1993","10.1103/PhysRevLett.70.4029",,"cond-mat",,"  We present an algebraic structure that provides an interesting and novel link
+between supersymmetry and quantum integrability. This structure underlies two
+classes of models that are exactly solvable in 1-dimension and belong to the
+$1/r^2 $ family of interactions. The algebra consists of the commutation
+between a ``Super- Hamiltonian'', and two other operators, in a Hilbert space
+that is an enlargement of the original one by introducing fermions. The
+commutation relations reduce to quantal Ordered Lax equations when projected to
+the original subspace, and to a statement about the ``Harmonic Lattice
+Potential'' structure of the Lax operator. These in turn lead to a highly
+automatic proof of the integrability of these models. In the case of the
+discrete $SU(n)-1/r^2$ model, the `` Super-Hamiltonian'' is again an
+$SU(m)-1/r^2$ model with a related $m$, providing an interesting hierarchy of
+models.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1992 02:41:13 GMT""}]","2009-01-23"
+"funct-an/9212003","Alan Hopenwasser","Alan Hopenwasser, Cecelia Laurie","Compression Limit Algebras","12 pages AMS-TEX Version 2.1",,,,"funct-an math.OA",,"  This paper studies direct limits of full upper triangular matrix algebras
+with embeddings which are not *-extendible. A representation of the limit
+algebra is found so that the generated C*-algebra is the C*-envelope. Some
+examples are described.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 17:47:31 GMT""}]","2008-02-03"
+"funct-an/9212004","Ruy Exel","Ruy Exel","The Soft Torus II: A Variational Analysis of Commutator Norms","14 pages, plain TeX, UNM-RE-003",,,,"funct-an math.OA",,"  The field of C*-algebras over the interval [0,2] for which the fibers are the
+Soft Tori is shown to be continuous. This result is applied to show that any
+pair of non-commuting unitary operators can be perturbed (in a weak sense) in
+such a way to decrease the commutator norm. Perturbations in norm are also
+considered and a characterization is given for pairs of unitary operators which
+are local minimum points for the commutator norm in the finite dimensional
+case.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1992 03:00:44 GMT""}]","2008-02-03"
+"hep-lat/9212024","Focht","A.K. De, E. Focht, W. Franzki and J. Jersak","How much are 2d Yukawa models similar to the Gross-Neveu models?","talk at Lattice '92, Amsterdam, 4 pages, 4 figures (included as PS
+  files), requires espcrc2.sty, Juelich preprint HLRZ 92-97","Nucl.Phys.Proc.Suppl. 30 (1993) 662-665","10.1016/0920-5632(93)90297-J",,"hep-lat",,"  We present numerical evidence that the 2d Yukawa models with strong quartic
+selfcoupling of the scalar field have the same phase structure and are
+asymptotically free in the Yukawa coupling like the Gross-Neveu models.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 17:43:41 GMT""}]","2009-10-22"
+"hep-lat/9212025",,"C.H.Llewellyn Smith and N.J.Watson","The Shifted Coupled Cluster Method: A New Approach to Hamiltonian
+  Lattice Gauge Theories","13 pages + 5 postscript figures, plain Latex","Phys.Lett. B302 (1993) 463-471","10.1016/0370-2693(93)90428-K","OUTP-92-42P; CPT-92/PE.2840","hep-lat hep-ph",,"  It is shown how to adapt the non-perturbative coupled cluster method of
+many-body theory so that it may be successfully applied to Hamiltonian lattice
+$SU(N)$ gauge theories. The procedure involves first writing the wavefunctions
+for the vacuum and excited states in terms of linked clusters of gauge
+invariant excitations of the strong coupling vacuum. The fundamental
+approximation scheme then consists of i) a truncation of the infinite set of
+clusters in the wavefunctions according to their geometric {\em size}, with all
+larger clusters appearing in the Schr\""odinger equations simply discarded, ii)
+an expansion of the truncated wavefunctions in terms of the remaining clusters
+rearranged, or ``shifted'', to describe gauge invariant {\em fluctuations}
+about their vacuum expectation values. The resulting non-linear truncated
+Schr\""odinger equations are then solved self-consistently and exactly. Results
+are presented for the case of $SU(2)$ in $d=3$ space-time dimensions.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 20:34:05 GMT""}]","2009-10-22"
+"hep-lat/9212026","Wolfgang Bock","Wolfgang Bock, Christoph Frick, Jan Smit and Jeroen C. Vink","Can the Couplings in the Fermion-Higgs Sector of the Standard Model be
+  Strong?","36 pages + 12 postscript figures (appended), Amsterdam ITFA 92-23,
+  HLRZ Juelich 92-58, UCSD/PTH 92-38","Nucl.Phys. B400 (1993) 309-346","10.1016/0550-3213(93)90408-H",,"hep-lat hep-ph",,"  We present results for the renormalized quartic self-coupling $\lambda_R$ and
+the Yukawa coupling $y_R$ in a lattice fermion-Higgs model with two SU(2)$_L$
+doublets, mostly for large values of the bare couplings. One-component
+(`reduced') staggered fermions are used in a numerical simulation with the
+Hybrid Monte Carlo algorithm. The fermion and Higgs masses and the renormalized
+scalar field expectation value are computed on $L^3 24$ lattices, where $L$
+ranges from $6$ to $16$. In the scaling region these quantities are found to
+have a $1/L^2$ dependence, which is used to determine their values in the
+infinite volume limit. We then calculate the $y_R$ and $\lambda_R$ from their
+tree level definitions in terms of the masses and renormalized scalar field
+expectation value, extrapolated to infinite volume. The scalar field
+propagators can be described for momenta up to the cut-off by one fermion loop
+renormalized perturbation theory and the results for $\lambda_R$ and $y_R$ come
+out to be close to the tree level unitarity bounds. There are no signs that are
+in contradiction with the triviality of the Yukawa and quartic self-coupling.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 23:10:33 GMT""}]","2009-10-22"
+"hep-ph/9212283","Michael Martin Nieto","Michael Martin Nieto","Past, Present, and Possible Future Limits on the Photon Rest Mass","6 pages, LaTeX","Gamma Ray - Neutrino Cosmology and Planck Scale Physics, ed. D. B.
+  Cline, (World Sci., 1993) 291",,"LA-UR-92-4244","hep-ph",,"  In an historical context, present limits on the photon rest mass are
+reviewed. More stringent, yet speculative, limits which have been proposed are
+mentioned. Finally, new theoretical ideas and possible experimental
+improvements on the present limits are discussed, along with possible
+relationships between these two areas.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 18:36:48 GMT""}]","2007-05-23"
+"hep-ph/9212284","Daniel Ng","Daniel Ng","The electroweak theory of SU(3) $\times$ U(1)","19 pages (3 figures are not included), TRI-PP-92-125","Phys.Rev.D49:4805-4811,1994","10.1103/PhysRevD.49.4805",,"hep-ph",,"  An electroweak model of SU(3) $\times$ U(1) gauge group is studied. {}From
+the group theoretical constraint, the symmetry breaking of this model to the
+standard model occurs at 1.7~TeV or lower. Hence the mass of the new neutral
+gauge boson is less than 1.7 TeV. The $Y^\pm$ and $Y^{\pm\pm}$ masses are found
+to be less than half of the $Z_2$ mass. Thus, the decays $Z_2 \to Y^{++}
+Y^{--}$ with $Y^{++} \to 2\ell^+ \: (\ell \!=\! e,\mu,\tau)$ is allowed,
+providing spectacular signatures at future colliders. {}From the
+flavor-changing neutral current processes, the representations of quarks can be
+uniquely determined. The neutrino-isoscalar scattering experiments are also
+considered.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 19:49:04 GMT""}]","2011-07-19"
+"hep-ph/9212285","Sergio H. Fanchiotti","Sergio Fanchiotti, Bernd Kniehl and Alberto Sirlin","Incorporation of QCD Effects in Basic Corrections of the Electroweak
+  Theory","51 pages (needs doublespace, equations, and cite styles)","Phys.Rev. D48 (1993) 307-331","10.1103/PhysRevD.48.307","CERN-TH.6749/92 and NYU-Th-92/12/05","hep-ph",,"  We study the incorporation of QCD effects in the basic electroweak
+corrections \drcar, \drcarw, and \dr. They include perturbative
+\Ord{\alpha\alpha_s} contributions and $t\bar{t}$ threshold effects. The latter
+are studied in the resonance and Green-function approaches, in the framework of
+dispersion relations that automatically satisfy relevant Ward identities.
+Refinements in the treatment of the electroweak corrections, in both the \ms\
+and the on-shell schemes of renormalization, are introduced, including the
+decoupling of the top quark in certain amplitudes, its effect on
+$\hat{e}^2(\mz)$ and \sincarmz, the incorporation of recent results on the
+leading irreducible \Ord{\alpha^2} corrections, and simple expressions for the
+residual, i.e.\ ``non-electromagnetic'', parts of \drcar, \drcarw, and \dr. The
+results are used to obtain accurate values for \mw\ and \sincarmz, as functions
+of \mt\ and \mh. The higher-order effects induce shifts in these parameters
+comparable to the expected experimental accuracy, and they increase the
+prediction for \mt\ derived from current measurements. The \ms\ and the
+on-shell calculations of \dr, in a recently proposed formulation, are compared
+and found to be in excellent agreement over the wide ranges $60\GeV \leq \mh
+\leq 1 \TeV$, $\mz \leq \mt \leq 250 \GeV$.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 23:05:47 GMT""}]","2016-09-01"
+"hep-th/9212114","Marek Karliner","Marek Karliner, Alexander Migdal and Boris Rusakov","Ground State of 2D Quantum Gravity and Spectral Density of Random
+  Matrices","14 pages (LaTeX) + 4 postscript figures encoded through uufiles.
+  PUPT-1354, TAUP-2013-92","Nucl.Phys.B399:514-526,1993","10.1016/0550-3213(93)90507-L",,"hep-th hep-lat",,"  We compute the exact spectral density of random matrices in the ground state
+of the quantum hamiltonian corresponding to the matrix model whose double
+scaling limit describes pure gravity in 2D. We show that the non-perturbative
+effects are very large and in certain cases dominate the semi-classical WKB
+contribution studied in the earlier literature. The physical observables in
+this model are the loop averages with respect to the spectral density. We
+compute their exact ground-state expectation values and show that they differ
+significantly from the values obtained in the WKB approximation. Unlike the
+alternative regularizations of the nonperturbative 2D quantum gravity, based on
+analytic continuation of the Painlev\'e transcendent, our solution shows no
+pathologies.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 16:04:00 GMT""}]","2010-11-01"
+"hep-th/9212115","Daniel S. Freed","Daniel S. Freed","Higher Algebraic Structures and Quantization","62 pages + 16 figures (revised version). In this revision we make
+  some small corrections and clarifications","Commun.Math.Phys. 159 (1994) 343-398","10.1007/BF02102643",,"hep-th math.QA",,"  We derive (quasi-)quantum groups in 2+1 dimensional topological field theory
+directly from the classical action and the path integral. Detailed computations
+are carried out for the Chern-Simons theory with finite gauge group. The
+principles behind our computations are presumably more general. We extend the
+classical action in a d+1 dimensional topological theory to manifolds of
+dimension less than d+1. We then ``construct'' a generalized path integral
+which in d+1 dimensions reduces to the standard one and in d dimensions
+reproduces the quantum Hilbert space. In a 2+1 dimensional topological theory
+the path integral over the circle is the category of representations of a
+quasi-quantum group. In this paper we only consider finite theories, in which
+the generalized path integral reduces to a finite sum. New ideas are needed to
+extend beyond the finite theories treated here.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 17:07:20 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jun 1993 20:17:54 GMT""}]","2016-09-06"
+"hep-th/9212116","Michael Martin Nieto","Michael Martin Nieto","Coherent States and Squeezed States, Supercoherent States and
+  Supersqueezed States","10 pages, LaTeX","On Klauderâs Path: A Field Trip, ed. G. G. Emch, G. C. Hegerfeldt,
+  and L. Streit (World Sci., 1994) 147",,"Los Alamos Preprint LAUR-92-1284","hep-th",,"  This article reports on a program to obtain and understand coherent states
+for general systems. Most recently this has included supersymmetric systems. A
+byproduct of this work has been studies of squeezed and supersqueezed states.
+To obtain a physical understanding of these systems has always been a primary
+goal. In particular, in the work on supersymmetry an attempt to understand the
+role of Grassmann numbers in quantum mechanics has been initiated.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 17:59:32 GMT""}]","2016-10-03"
+"hep-th/9212117",,"H. Lu, C.N. Pope, S. Schrans and X.J. Wang","The Interacting $W_3$ String","(Revised version), 26 pages, Plain Tex, CTP TAMU-86/92, KUL-TF-92/43","Nucl.Phys.B403:351-376,1993","10.1016/0550-3213(93)90040-V",,"hep-th",,"  We present a procedure for computing gauge-invariant scattering amplitudes in
+the $W_3$ string, and use it to calculate three-point and four-point functions.
+We show that non-vanishing scattering amplitudes necessarily involve external
+physical states with excitations of ghosts as well as matter fields. The
+crossing properties of the four-point functions are studied, and it is shown
+that the duality of the Virasoro string amplitudes generalises in the $W_3$
+string, with different sets of intermediate states being exchanged in different
+channels. We also exhibit a relation between the scattering amplitudes of the
+$W_3$ string and the fusion rules of the Ising model.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 22:30:25 GMT""},{""version"":""v2"",""created"":""Mon, 4 Jan 1993 22:05:06 GMT""}]","2009-10-07"
+"hep-th/9212118","Konno Hitoshi","Hitoshi Konno","$SU(2)_k\times SU(2)_l/SU(2)_{k+l}$ Coset Conformal Field Theory and
+  Topological Minimal Model on Higher Genus Riemann Surface","30 pages, RIMS-908, plain TeX","Int. J. Mod. Phys. A8 (1993) 5537-5562","10.1142/S0217751X93002186",,"hep-th",,"  We consider the Feigin-Fuchs-Felder formalism of the $SU(2)_k\times
+SU(2)_l/SU(2)_{k+l}$ coset minimal conformal field theory and extend it to
+higher genus. We investigate a double BRST complex with respect to two
+compatible BRST charges, one associated with the parafermion sector and the
+other associated with the minimal sector in the theory. The usual screened
+vertex operator is extended to the BRST invariant screened three string vertex.
+We carry out a sewing operation of these string vertices and derive the BRST
+invariant screened $g$-loop operator. The latter operator characterizes the
+higher genus structure of the theory. An analogous operator formalism for the
+topological minimal model is obtained as the limit $ l=0$ of the coset theory.
+We give some calculations of correlation functions on higher genus.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1992 08:15:33 GMT""}]","2015-06-26"
+"hep-th/9212119",,"G. Mussardo","Correlation Functions in 2-Dimensional Integrable Quantum Field Theories","19pp, LATEX version, (talk at Como Conference on ``Integrable Quantum
+  Field Theories'')",,,"ISAS/EP/92/236","hep-th",,"  In this talk I discuss the form factor approach used to compute correlation
+functions of integrable models in two dimensions. The Sinh-Gordon model is our
+basic example. Using Watson's and the recursive equations satisfied by matrix
+elements of local operators, I present the computation of the form factors of
+the elementary field $\phi(x)$ and the stress-energy tensor $T_{\mu\nu}(x)$ of
+the theory.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1992 09:39:49 GMT""}]","2007-05-23"
+"nucl-th/9212014","Niels R. Walet","Bin Shao, Niels R. Walet, and R. D. Amado","Dynamics of antibaryon-baryon annihilation in the Skyrme model","9 pages, 4 eps figs, UPR-0125 MT. standard LaTeX using epsf style
+  (new version of figs.)","Phys.Lett. B303 (1993) 1-4","10.1016/0370-2693(93)90033-E",,"nucl-th",,"  We examine the dynamics of a baryon number zero lump in the Skyrme picture,
+as a model for annihilation in the $\bar{N}N$ system. We find that radiation
+propagates at the causal limit as a localized pulse and that the linearized
+theory gives a good approximation. Both of these results are contrary to
+findings in the Sine-Gordon model.
+","[{""version"":""v1"",""created"":""Fri, 18 Dec 1992 17:46:41 GMT""},{""version"":""v2"",""created"":""Mon, 21 Dec 1992 21:31:35 GMT""}]","2009-10-22"

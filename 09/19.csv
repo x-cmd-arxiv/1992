@@ -1,0 +1,89 @@
+"cond-mat/9209025","Tinka Gammel","J. Tinka Gammel and D.K. Campbell","Relaxed Excited State Geometries in a Peierls-Hubbard Model for Polyenes","3 Figs (appended)",,,,"cond-mat",,"  Using parameter values relevant to polyacetylene and its finite polyene
+analogs, we determine, via exact finite size diagonalization of a 1D
+Peierls-Hubbard model, the relaxed geometry and optical absorption spectra of
+several states of interest in optical experiments (the singlet ($1^1A_g$) and
+triplet ($1^3B_u$) ground states, the singlet one ($n^1B_u$) and two ($2^1A_g$)
+photon gaps, and the triplet one ($n^3A_g$) photon gap) in order to examine the
+question of how well this simple model can really capture the behavior of this
+simple material.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 23:17:11 GMT""}]","2007-05-23"
+"cond-mat/9209026","Jan T. Gammel","J. Tinka Gammel, D.K. Campbell, and E.Y. Loh, Jr","Extracting Infinite System Properties from Finite Size Clusters: `Phase
+  Randomization/Boundary Condition Averaging'","6 pages, 3 postscript figures, appended",,,,"cond-mat",,"  When electron-electron correlations are important, it is often necessary to
+use exact numerical methods, such as Lanczos diagonalization, to study the full
+many-body Hamiltonian. Unfortunately, such exact diagonalization methods are
+restricted to small system sizes. We show that if the Hubbard $U$ term is
+replaced by a ``periodic Hubbard"" term, the full many body Hamiltonian may be
+numerically exactly solved, even for very large systems (even $>$100 sites),
+though only for low fillings. However, for half-filled systems and large $U$
+this approach is not only no longer exact, it no longer improves extrapolation
+to larger systems. We discuss how generalized ``randomized variable averaging''
+(RVA) or ``phase randomization'' schemes can be reliably employed to improve
+extrapolation to large system sizes in this regime. This general approach can
+be combined with any many-body method and is thus of broad interest and
+applicability.
+","[{""version"":""v1"",""created"":""Sat, 19 Sep 1992 00:06:26 GMT""}]","2012-08-27"
+"cond-mat/9209027","Jan T. Gammel","J. Tinka Gammel, K. Yonemitsu A. Saxena, A.R. Bishop, and H. R\""oder","Electron-Phonon Driven Spin Frustration in Multi-Band Hubbard Models: MX
+  Chains and Oxide Superconductors","6 pages, four postscript figures (appended), in regular TeX",,,,"cond-mat",,"  We discuss the consequences of both electron-phonon and electron-electron
+couplings in 1D and 2D multi-band (Peierls-Hubbard) models. After briefly
+discussing various analytic limits, we focus on (Hartree-Fock and exact)
+numerical studies in the intermediate regime for both couplings, where unusual
+spin-Peierls as well as long-period, frustrated ground states are found. Doping
+into such phases or near the phase boundaries can lead to further interesting
+phenomena such as separation of spin and charge, a dopant-induced phase
+transition of the global (parent) phase, or real-space (``bipolaronic'')
+pairing. We discuss possible experimentally observable consequences of this
+rich phase diagram for halogen-bridged, transition metal, linear chain
+complexes (MX chains) in 1D and the oxide superconductors in 2D.
+","[{""version"":""v1"",""created"":""Sat, 19 Sep 1992 00:35:21 GMT""}]","2007-05-23"
+"cond-mat/9209028","Jan T. Gammel","L.A. Worl, S.C. Huckett, B.I. Swanson, A. Saxena, A.R. Bishop, J.
+  Tinka Gammel","Photoinduced charge separation in Q1D heterojunction materials: Evidence
+  for electron-hole pair separation in mixed-halide $MX$ solids","n LaTeX, figures available by mail from JTG (gammel@peanuts.nosc.mil)",,"10.1088/0953-8984/4/50/012",,"cond-mat",,"  Resonance Raman experiments on doped and photoexcited single crystals of
+mixed-halide $MX$ complexes ($M$=Pt; $X$=Cl,Br) clearly indicate charge
+separation: electron polarons preferentially locate on PtBr segments while hole
+polarons are trapped within PtCl segments. This polaron selectivity,
+potentially very useful for device applications, is demonstrated theoretically
+using a discrete, 3/4-filled, two-band, tight-binding, extended Peierls-Hubbard
+model. Strong hybridization of the PtCl and PtBr electronic bands is the
+driving force for separation.
+","[{""version"":""v1"",""created"":""Sat, 19 Sep 1992 00:50:31 GMT""}]","2009-10-22"
+"hep-ph/9209254","Matt Austern","Matthew H. Austern","Can a strongly interacting Higgs boson rescue SU(5)?","8 pages (plus 4 postscript figures)","Phys.Rev. D47 (1993) 1268-1271","10.1103/PhysRevD.47.1268","LBL-32873","hep-ph",,"  Renormalization group analyses show that the three running gauge coupling
+constants of the Standard Model do not become equal at any energy scale. These
+analyses have not included any effects of the Higgs boson's self-interaction.
+In this paper, I examine whether these effects can modify this conclusion.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 21:42:48 GMT""}]","2009-10-22"
+"hep-ph/9209255",,"Markus A. Luty and Raman Sundrum","Technicolor Theories with Negative S","(LBL-32893, UCB-PTH 92/34, 10 pages; we added a discussion of
+  uncertainties, fine-tuning, and SU(2) asymptotic freedom; the conclusions are
+  unchanged.)","Phys.Rev.Lett.70:529,1993","10.1103/PhysRevLett.70.529",,"hep-ph",,"  We show that the pseudo Nambu--Goldstone boson contribution to the
+Peskin--Takeuchi electroweak parameter $S$ can be negative in a class of
+technicolor theories. This negative contribution can be large enough to cancel
+the positive techni-hadron contribution, showing that electroweak precision
+tests alone cannot be used to rule out technicolor as the mechanism of
+electroweak symmetry breaking.
+","[{""version"":""v1"",""created"":""Sat, 19 Sep 1992 00:18:12 GMT""},{""version"":""v2"",""created"":""Mon, 16 Nov 1992 22:03:47 GMT""}]","2009-09-15"
+"hep-ph/9209256",,"J. Schechter and A. Subbaraman","Role of Light Vector Mesons in the Heavy Particle Chiral Lagrangian","19 pages, LaTeX document","Phys.Rev.D48:332-338,1993","10.1103/PhysRevD.48.332","SU-4240-519","hep-ph",,"  We give the general framework for adding ""light"" vector particles to the
+heavy hadron effective chiral Lagrangian. This has strong motivations both from
+the phenomenological and aesthetic standpoints. An application to the already
+observed $D \rightarrow \overbar{K^*} $ weak transition amplitude is discussed.
+","[{""version"":""v1"",""created"":""Sat, 19 Sep 1992 01:15:00 GMT""}]","2010-11-01"
+"hep-th/9209066",,"Sumathi Rao","An Anyon Primer","Review article, 88 pages, 26 figures now included in text",,,"TIFR/TH/92-18","hep-th cond-mat",,"  In this set of lectures, we give a pedagogical introduction to the subject of
+anyons. We discuss 1) basic concepts in anyon physics, 2) quantum mechanics of
+two anyon systems, 3) statistical mechanics of many anyon systems, 4) mean
+field approach to many anyon systems and anyon superconductivity, 5) anyons in
+field theory and 6) anyons in the Fractional Quantum Hall Effect (FQHE). (Based
+on lectures delivered at the VII SERC school in High Energy Physics at the
+Physical Research Laboratory, Ahmedabad, January 1992 and at the I SERC school
+in Statistical Mechanics at Puri, February 1994.)
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 20:31:54 GMT""},{""version"":""v2"",""created"":""Mon, 21 Sep 1992 08:52:23 GMT""},{""version"":""v3"",""created"":""Mon, 4 Jun 2001 16:49:35 GMT""}]","2008-02-03"
+"hep-th/9209067",,"C.N. Pope and X.J. Wang","A Note on Representations of the $w_\infty$ Algebra","6 pages. CTP TAMU-62/92",,,,"hep-th",,"  We explicitly demonstrate that the unitary representations of the $w_\infty$
+algebra and its truncations are just the unitary representations of the
+Virasoro algebra.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 19:40:11 GMT""}]","2007-05-23"
+"hep-th/9209069","Boguslaw Broda","B. Broda","Quantum theory of non-abelian differential forms and link polynomials","18 pages, REVISED: minor improvements","Mod.Phys.Lett. A9 (1994) 609-622","10.1142/S0217732394003841",,"hep-th alg-geom gr-qc math.QA",,"  A topological quantum field theory of non-abelian differential forms is
+investigated from the point of view of its possible applications to description
+of polynomial invariants of higher-dimensional two-component links. A
+path-integral representation of the partition function of the theory, which is
+a highly on-shell reducible system, is obtained in the framework of the
+antibracket-antifield formalism of Batalin and Vilkovisky. The quasi-monodromy
+matrix, giving rise to corresponding skein relations, is formally derived in a
+manifestly covariant non-perturbative manner.
+","[{""version"":""v1"",""created"":""Sat, 19 Sep 1992 09:36:14 GMT""},{""version"":""v2"",""created"":""Wed, 31 Mar 1993 10:28:37 GMT""}]","2009-10-22"

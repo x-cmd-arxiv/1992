@@ -1,0 +1,131 @@
+"cond-mat/9208016",,"Michael Fowler and Joseph A. Minahan","Invariants of the Haldane-Shastry $SU(N)$ Chain","11 pages, UVA-92-07",,"10.1103/PhysRevLett.70.2325",,"cond-mat hep-th",,"  Using a formalism developed by Polychronakos, we explicitly construct a set
+of invariants of the motion for the Haldane-Shastry $SU(N)$ chain.
+","[{""version"":""v1"",""created"":""Tue, 25 Aug 1992 17:18:08 GMT""}]","2009-10-22"
+"cond-mat/9208017","Y.-h. Taguchi","Y-h. Taguchi and Hideki Takayasu","Non-Gaussian distribution in Random advection dynamics",,,,,"cond-mat",,"  Simulations of vortex tube dynamics reveal that the non-Gaussian nature of
+turbulent fluctuation originates in the effect of random advection. A similar
+non-Gaussian distribution is found numerically in a simplified statistical
+model of random advection. An analytical solution is obtained in the mean-field
+case.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 03:33:10 GMT""}]","2007-05-23"
+"cond-mat/9208018","Y.-h. Taguchi","Y-h. Taguchi and Hideki Takayasu","Homogeneous Isotropic Fluid Turbulence Simulated with the Lattice Vortex
+  Tube Model","13 pages + 14 figures (to be mailed on request) needs REVTEX",,,,"cond-mat",,"  Fully developed turbulence is analised with the lattice model employing
+vortex tube representation which is introduced recently by the authors. Several
+characteric features observed in experiments and direct numeric integrations
+are reproduced. Not only Kolmogorov's inertial range is observed, but also
+several local probability distribution functions are obtained as well. Those of
+the local velocities are close to the Gaussian and exponential-like
+distributions appear in local vorticity, relative velocities and local velocity
+consisting of only higher wave number components. Coherent structure of vortex
+tubes is seen, too. Moreover required cpu-time and memory-size are very little
+comparing with the conventional pseudo-spectral method. keywords : fluid
+turbulence, vortex tube, lattice model, numerical technic.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 04:57:53 GMT""}]","2007-05-23"
+"cond-mat/9208019","Kikuo Harigaya","Kikuo Harigaya (Fundamental Physics Section, Electrotechnical
+  Laboratory, Japan), Mitsutaka Fujita (Institute of Materials Science,
+  University of Tsukuba, Japan)","Dimerization and Energy-Level Structures in Fullerene Tubules
+  Investigated with an Electron-Phonon Model","(proceedings of the International Conference on Science and
+  Technology of Synthetic Metals 1992, to be published in ""Synthetic Metals"")","Synthetic Metals 55-57 (1993) 3196-3201","10.1016/0379-6779(93)90102-3",,"cond-mat",,"  Possible dimerization patterns and electronic structures in fullerene tubules
+as the \pi-conjugated systems are studied with the extended Su-Schrieffer-
+Heeger model. We assume various lattice geometries, including helical and
+nonhelical tubules, and tubules with end caps. The model is solved for the
+half-filling case of \pi-electrons. (1) When the undimerized systems do not
+have a gap, the Kekul\'{e} structures tend to occur. These structures are
+commensurate with the boundary condition in the direction perpendicular to the
+tubular axis. The energy gap is of the order of the room temperatures at most.
+Thus, the nearly metallic properties would be expected. (2) If the undimerized
+systems have a large gap (\sim 1eV), the most stable structures are the
+chain-like distortions where the direction of the arranged {\sl
+trans}-polyacetylene chains is along almost the tubular axis. When we try to
+obtain the Kekul\'{e} structures, the mismatch of the boundary condition occurs
+and they are energetically unfavorable. The electronic structures are of
+semiconductors due to the large gap.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 05:33:07 GMT""}]","2007-05-23"
+"cond-mat/9208020","Ted Hsu","Ted Hsu","Frequency dependent conductivity of vortex cores in type II
+  superconductors","35 pages plus six pages of figures: not included but postscript files
+  available upon request. Send requests and other comments to:
+  hsu@crtbt.polycnrs-gre.fr. Revtex",,"10.1016/0921-4534(93)90447-X",,"cond-mat",,"  This paper is relevant to the recent optical transmission experiments of
+Karrai et al. for vortices in high Tc superconductors. We begin with a
+substantial review and introduction. The microscopic response of vortices is
+calculated from the Bogoliubov-deGennes equation, including an equation of
+motion and conductivity. We find that the expected resonant dipole transtition
+is not present because of translation invariance. We consider the effect of
+pinning and show that in the presence of pinning one recovers the dipole
+resonance. Thus we conclude that pinning may play an important role in the
+experiment.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 15:37:11 GMT""}]","2009-10-22"
+"cond-mat/9208021",,"B.Sriram Shastry","Mott Transition in the Hubbard model","15 pages","Mod.Phys.Lett. B6 (1992) 1427-1438","10.1142/S0217984992001137",,"cond-mat",,"  In this article, I discuss W.Kohn's criterion for a metal insulator
+transition, within the framework of a one band Hubbard model. This and related
+ideas are applied to 1-dimensional Hubbard systems, and some intersting
+miscellaneous results discussed. The Jordan Wigner transformation converting
+the two species of fermions to two species of hardcore bosons is performed in
+detail, and the ``extra phases'' arising from odd-even effects are explicitly
+derived. Bosons are shown to prefer zero flux (i.e. diamagnetism), and the
+corresponding ``happy fluxes'' for the fermions identified. A curious result
+following from the interplay between orbital diamagnetism and spin polarization
+is highlighted.
+  A ``spin-statistics'' like theorem, showing that the anticommutation
+relations between fermions of opposite spin are crucial to obtain the SU(2)
+invariance is pointed out.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 14:40:13 GMT""}]","2015-06-25"
+"hep-ph/9208246",,"Zygmunt Lalak, Krzysztof Meissner, Jacek Pawe{\l}czyk","Gravitationally Induced Scalar Field Fluctuations in the Radiation
+  Dominated R-W Universe","13, IFT-15/92",,,,"hep-ph",,"  It is shown that quantum fluctuations due to a nontrivial gravitational
+background in the flat radiation dominated universe can play an important
+cosmological role generating nonvanishing cosmological global charge, e.g.
+baryon number, asymmetry. The explicit form of the fluctuations at vacuum and
+at finite temperature is given. Implications for particle physics are
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 25 Aug 1992 17:31:04 GMT""}]","2007-05-23"
+"hep-ph/9208247","Leandros Perivolaropoulos","Leandros Perivolaropoulos","COBE vs Cosmic Strings: An Analytical Model","12 pages, 5 figures (available upon request), use latex","Phys.Lett. B298 (1993) 305-311","10.1016/0370-2693(93)91825-8",,"hep-ph astro-ph",,"  We construct a simple analytical model to study the effects of cosmic strings
+on the microwave background radiation. Our model is based on counting random
+multiple impulses inflicted on photon trajectories by the string network
+between the time of recombination and today. We construct the temperature
+auto-correlation function and use it to obtain the effective power spectrum
+index n, the rms-quadrupole-normalized amplitude $Q_{rms-PS}$ and the rms
+temperature variation smoothed on small angular scales. For the values of the
+scaling solution parameters obtained in Refs.\cite{bb90},\cite{as90} we obtain
+$n=1.14 \pm 0.5$, $Q_{rms-PS}=(4.5\pm 1.5) G\mu$ and $({{\Delta T}\over
+T})_{rms}=5.5 G\mu$. Demanding consistency of these results with the COBE data
+leads to $G\mu=(1.7 \pm 0.7)\times 10^{-6}$ (where $\mu$ is the string mass per
+unit length), in good agreement with direct normalizations of $\mu$ from
+observations.
+","[{""version"":""v1"",""created"":""Tue, 25 Aug 1992 20:35:18 GMT""}]","2009-10-22"
+"hep-ph/9208248","Aneesh V. Manohar","Elizabeth Jenkins, Aneesh V. Manohar, and Mark B. Wise","The Baryon Isgur-Wise Function in the Large $N_c$ Limit","18 pages, 0 figures, uses harvmac","Nucl.Phys.B396:38-52,1993","10.1016/0550-3213(93)90257-P","UCSD/PTH 92-27, CALT-68-1809","hep-ph",,"  In the large $N_c$ limit, the $\Lambda_b$ and $\Lambda_c$ can be treated as
+bound states of chiral solitons and mesons containing a heavy quark. We show
+that the soliton and heavy meson are bound in an attractive harmonic oscillator
+potential. The Isgur-Wise function for $\Lambda_b\rightarrow\Lambda_c\,
+e^-\,\bar\nu_e$ decay is computed in the large $N_c$ limit. Corrections to the
+form factor which depend on $m_N/ m_Q$ can be summed exactly ($m_N$ and $m_Q$
+are the nucleon and heavy quark masses). We find that this symmetry breaking
+correction at zero recoil is only $1\%$.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 03:57:49 GMT""}]","2008-11-26"
+"hep-ph/9208249",,"Stephen D. Ellis, Zoltan Kunszt and Davison E. Soper","Large Jets at Hadron Colliders at Order $\alpha_s^3$: A Look Inside","7 pages, 1 table and 2 figures (appended as postscript files), Latex","Phys.Rev.Lett. 69 (1992) 3615-3618","10.1103/PhysRevLett.69.3615","UW/PT-92-01, DOE/ER/40614-16","hep-ph",,"  Results from the study of hadronic jets in hadron-hadron collisions at order
+$\alpha_s^3$ in perturbation theory are presented. The focus is on various
+features of the internal structure of jets. The numerical results of the
+calculation are compared with data where possible and exhibit reasonable
+agreement.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 15:02:00 GMT""}]","2009-10-22"
+"hep-ph/9208250",,"M. A. Doncheski, R. W. Robinett and L. Weinkauf","Spin-Spin Asymmetries in Large Transverse Momentum Higgs Boson
+  Production","10 pages, 4 figures (not included), LaTeX; PSU/TH/113, MAD/PH/709","Phys.Rev. D47 (1993) 1243-1246","10.1103/PhysRevD.47.1243",,"hep-ph",,"  We examine the spin-dependence of standard model Higgs boson production at
+large transverse momentum via the processes $gg \rightarrow gH^0$, $qg
+\rightarrow qH^0$, and $q\overline{q} \rightarrow gH^0$. The partonic level
+spin-spin asymmetries ($\hat{a}_{LL}$) for these processes are large at SSC/LHC
+energies.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 14:55:16 GMT""}]","2016-09-01"
+"hep-ph/9208251","Satoshi Mizuta","Satoshi Mizuta and Masahiro Yamaguchi","Coannihilation Effects and Relic Abundance of Higgsino-Dominant LSPs","11 pages, 8 figures (not included, but available on request), in
+  LaTeX, TU-409","Phys.Lett.B298:120-126,1993","10.1016/0370-2693(93)91717-2",,"hep-ph",,"  We calculate the relic abundance of Higgsino-dominant lightest
+superparticles, taking account of coannihilations with the superparticles which
+are almost degenerate with the lightest one. We show that their relic abundance
+is reduced drastically by the coannihilation processes and hence they are
+cosmologically of no interest.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 02:27:35 GMT""}]","2008-11-26"
+"hep-th/9308124","Elias Kiritsis","E. Kiritsis, C. Kounnas and D. Lust","A Large Class of New Gravitational and Axionic Backgrounds for
+  Four-Dimensional Superstrings","LateX file, 34pp., (v5) Some misprints corrected in sections 3.1, 3.2
+  as pointed out in the paper of Hori and Kapustin (hep-th/0203147). Some
+  comsetic changes also made in the same sections","Int.J.Mod.Phys.A9:1361-1394,1994","10.1142/S0217751X94000601","CERN-TH.6975/93, HUB-IEP-93/3, LPTENS-93/31","hep-th",,"  A large class of new 4-D superstring vacua with non-trivial/singular
+geometries, spacetime supersymmetry and other background fields (axion,
+dilaton) are found. Killing symmetries are generic and are associated with
+non-trivial dilaton and antisymmetric tensor fields. Duality symmetries
+preserving N=2 superconformal invariance are employed to generate a large class
+of explicit metrics for non-compact 4-D Calabi-Yau manifolds with Killing
+symmetries.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 15:37:07 GMT""},{""version"":""v2"",""created"":""Fri, 27 Aug 1993 13:43:07 GMT""},{""version"":""v3"",""created"":""Fri, 3 Sep 1993 16:37:37 GMT""},{""version"":""v4"",""created"":""Mon, 20 Dec 1993 11:01:15 GMT""},{""version"":""v5"",""created"":""Thu, 3 Mar 2005 11:07:48 GMT""}]","2009-10-07"

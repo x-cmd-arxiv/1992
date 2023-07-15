@@ -1,0 +1,20 @@
+"hep-th/9201022","Hiroki Fukutaka","Hiroki Fukutaka","Anomalous Jacobian Factor in the Polyakov Measure for Abelian Gauge
+  Field in Curved Spacetimes","10 pages",,,,"hep-th",,"  The Polyakov measure for the Abelian gauge field is considered in the
+Robertson-Walker spacetimes. The measure is concretely represented by adopting
+two kind of decompositions of the gauge field degrees of freedom which are most
+familiarly used in the covariant and canonical path integrals respectively. It
+is shown that the two representations are different by an anomalous Jacobian
+factor from each other and also that the factor has a direct relationship to an
+uncancellation factor of the contributions from the Faddeev-Popov ghost and the
+unphysical part of the gauge field to the covariant one-loop partition
+function.
+","[{""version"":""v1"",""created"":""Mon, 13 Jan 1992 03:32:09 GMT""}]","2007-05-23"
+"hep-th/9201023",,"C.N. Pope","$SL(\infty,R)$ Symmetry of $W_\infty$ Gravity","10 pages (Talk presented at the Trieste Summer School in High-Energy
+  Physics, August 1991)",,"10.1016/0550-3213(92)90067-L",,"hep-th",,"  Two-dimensional gravity in the light-cone gauge was shown by Polyakov to
+exhibit an underlying $SL(2,R)$ Kac-Moody symmetry, which may be used to
+express the energy-momentum tensor for the metric component $h_{++}$ in terms
+of the $SL(2,R)$ currents {\it via}\ the Sugawara construction. We review some
+recent results which show that in a similar manner, $W_\infty$ and
+$W_{1+\infty}$ gravities have underlying $SL(\infty,R)$ and $GL(\infty,R)$
+Kac-Moody symmetries respectively.
+","[{""version"":""v1"",""created"":""Mon, 13 Jan 1992 14:52:55 GMT""}]","2009-10-22"

@@ -1,0 +1,106 @@
+"cond-mat/9206009","David McAvity","D.M. McAvity and H. Osborn","Quantum Field Theories on Manifolds with Curved Boundaries: Scalar
+  Fields","50 pages, DAMTP/92-31","Nucl.Phys. B394 (1993) 728-790","10.1016/0550-3213(93)90229-I",,"cond-mat",,"  A framework allowing for perturbative calculations to be carried out for
+quantum field theories with arbitrary smoothly curved boundaries is described.
+It is based on an expansion of the heat kernel derived earlier for arbitrary
+mixed Dirichlet and Neumann boundary conditions.
+  The method is applied to a general renormalisable scalar field theory in four
+dimensions using dimensional regularisation to two loops and expanding about
+arbitrary background fields. Detailed results are also specialised to an $O(n)$
+symmetric model with a single coupling constant. Extra boundary terms are
+introduced into the action which give rise to either Dirichlet or generalised
+Neumann boundary conditions for the quantum fields. For plane boundaries the
+resulting renormalisation group functions are in accord with earlier results
+but here the additional terms depending on the extrinsic curvature of the
+boundary are found. Various consistency relations are also checked and the
+implications of conformal invariance at the critical point where the $\beta$
+function vanishes are also derived. The local Scr\""odinger equation for the
+wave functional defined by the functional integral under deformations of the
+boundary is also verified to two loops. Its consistency with the
+renormalisation group to all orders in perturbation theory is discussed.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 14:50:00 GMT""}]","2016-08-31"
+"hep-lat/9206022",,"B.A.Berg, U.Hansmann (SCRI,FSU) and T.Neuhaus (Uni Bielefeld)","Properties of Interfaces in the two and three dimensional Ising Model","25 pages; sorry no figures included","Z.Phys. B90 (1993) 229-239","10.1007/BF02198159",,"hep-lat",,"  To investigate order-order interfaces, we perform multimagnetical Monte Carlo
+simulations of the $2D$ and $3D$ Ising model. Following Binder we extract the
+interfacial free energy from the infinite volume limit of the magnetic
+probability density. Stringent tests of the numerical methods are performed by
+reproducing with high precision exact $2D$ results. In the physically more
+interesting $3D$ case we estimate the amplitude $F^s_0$ of the critical
+interfacial tension $F^s = F^s_0 t^\mu$ to be $F^s_0 = 1.52 \pm 0.05$. This
+result is in good agreement with a previous MC calculation by Mon, as well as
+with experimental results for related amplitude ratios. In addition, we study
+in some details the shape of the magnetic probability density for temperatures
+below the Curie point.
+","[{""version"":""v1"",""created"":""Thu, 25 Jun 1992 19:54:13 GMT""}]","2009-10-22"
+"hep-ph/9206248","Tom Steele","D. Asner, R.B. Mann, J.L. Murison and T.G. Steele","Mass of Pseudoscalar Gluonium: A Higher-Loop QCD Sum-Rule Estimate","9 pgs., 7 figs. (not included--available on request) WATPHYS
+  TH-92/05. Error in source file corrected","Phys.Lett.B296:171-178,1992","10.1016/0370-2693(92)90822-L",,"hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Higher-loop corrections to the pseudoscalar ($0^{-+}$) gluonium correlation
+function will be used to obtain the leading gluon condensate contributions to
+the subtraction-independent QCD sum-rules. The effect of these higher-loop
+corrections on the sum-rule estimates of the pseudoscalar gluonium mass will be
+investigated. The final results of this analysis compare favourably with
+$SU(3)$ lattice simulations.
+","[{""version"":""v1"",""created"":""Thu, 25 Jun 1992 19:17:55 GMT""},{""version"":""v2"",""created"":""Wed, 30 Jun 2021 04:59:58 GMT""}]","2021-07-01"
+"hep-ph/9206249","Stephen Naculich","S. G. Naculich and C.-P. Yuan","Inelastic Channels in the Electroweak Symmetry-Breaking Sector","10 pages, phyzzx, JHU-TIPAC-920012","Phys.Lett.B293:405-409,1992","10.1016/0370-2693(92)90904-I",,"hep-ph",,"  It has been argued that if light Higgs bosons do not exist then the
+self--interactions of $W$'s become strong in the TeV region and can be observed
+in longitudinal $WW$ scattering. We present a model with many inelastic
+channels in the $WW$ scattering process, corresponding to the creation of heavy
+fermion pairs. The presence of these heavy fermions affects the elastic
+scattering of $W$'s by propagating in loops, greatly reducing the amplitudes in
+some charge channels. Consequently, the symmetry--breaking sector cannot be
+fully explored by using, for example, the $W^+W^+$ mode alone; all $WW
+\rightarrow WW$ scattering modes must be measured.}
+","[{""version"":""v1"",""created"":""Thu, 25 Jun 1992 20:54:00 GMT""}]","2008-11-26"
+"hep-ph/9206250","Zheng Huang","Zheng Huang and K.S. Viswanathan","Dynamical Self-mass for Massive Quarks","12 pages in Latex, SFU-Preprint-92-6",,,,"hep-ph",,"  We examine dynamical mass generation in QCD with large current mass quarks. A
+renormalization group analysis is performed to separate fermion self-mass into
+a dynamical and a kinematical part. It is shown that the energy scale og the
+Schwinger-Dyson (SD) equation and the effective gauge coupling are fixed by the
+current mass. The dynamical self-mass satisfies a homogeneous SD equation which
+has a trivial solution when the current mass exceeds a critical value. We
+therefore suggest that the quark condensate, as the function of the current
+mass, observes a local minimum around 2.7\Lambda_(QCD).
+","[{""version"":""v1"",""created"":""Thu, 25 Jun 1992 16:22:53 GMT""}]","2007-05-23"
+"hep-ph/9206251","Zheng Huang","Zheng Huang, K.S. Viswanathan, and D.D. Wu","Comments on the Vacuum Orientations in QCD","11 pages","Mod.Phys.Lett. A7 (1992) 3147-3154","10.1142/S0217732392002524","SFU-Preprint-92-5","hep-ph",,"  We study the QCD vacuum orientation angles in correlation with the strong CP
+phases. A vacuum alignment equation of the dynamical chiral symmetry breaking
+is derived based on the anomalous Ward identity. It is emphasized that a chiral
+rotation of the quark field causes a change of the vacuum orientation and a
+change in the definition of the light pseudoscalar generators. As an
+illustration of the idea, $\h\rightarrow 2\p$ decays are carefully studied in
+different chiral frames. Contrary to the claim in Ref.[7], the $\theta$-term
+does not directly contribute to the CP-violating processes.
+","[{""version"":""v1"",""created"":""Thu, 25 Jun 1992 16:33:10 GMT""}]","2015-06-25"
+"hep-ph/9206252",,"Peter E. Haagensen and Jose I. Latorre","A Comprehensive Coordinate Space Renormalization of Quantum
+  Electrodynamics to 2-Loop Order","28 pages (figures not included)","Annals Phys. 221 (1993) 77-105","10.1006/aphy.1993.1005","UB-ECM-PF-92-14","hep-ph",,"  We develop a coordinate space renormalization of massless Quantum
+Electrodynamics using the powerful method of differential renormalization. Bare
+one-loop amplitudes are finite at non-coincident external points, but do not
+accept a Fourier transform into momentum space. The method provides a
+systematic procedure to obtain one-loop renormalized amplitudes with finite
+Fourier transforms in strictly four dimensions without the appearance of
+integrals or the use of a regulator. Higher loops are solved similarly by
+renormalizing from the inner singularities outwards to the global one. We
+compute all 1- and 2-loop 1PI diagrams, run renormalization group equations on
+them and check Ward identities. The method furthermore allows us to discern a
+particular pattern of renormalization under which certain amplitudes are seen
+not to contain higher-loop leading logarithms. We finally present the
+computation of the chiral triangle showing that differential renormalization
+emerges as a natural scheme to tackle $\gamma_5$ problems.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 12:13:47 GMT""}]","2009-10-22"
+"hep-ph/9206253",,"M.H. Friedman, Y.N. Srivastava, and A.Widom","Wightman Functions in QCD","4 pages, NUB 3053/92",,,,"hep-ph",,"  The constraint imposed by Gauss' law is used to show that the matrix elements
+of n-point Wightman Functions of gluon field and quark current operators at
+different space time points vanish when taken between physical states.
+","[{""version"":""v1"",""created"":""Thu, 25 Jun 1992 22:27:00 GMT""},{""version"":""v2"",""created"":""Tue, 1 Sep 1992 20:11:00 GMT""}]","2008-02-03"
+"hep-th/9206100","Robert Mann","R.B. Mann","Two Dimensional Quantum Gravity Coupled to Matter","11 pgs. WATPHYS TH-90/04","Phys.Lett. B294 (1992) 310-316","10.1016/0370-2693(92)91526-F",,"hep-th",,"  A classical two dimensional theory of gravity which has a number of
+interesting features (including a Newtonian limit, black holes and
+gravitational collapse) is quantized using conformal field theoretic
+techniques. The critical dimension depends upon Newton's constant, permitting
+models with $d=4$. The constraint algebra and scaling properties of the model
+are computed.
+","[{""version"":""v1"",""created"":""Thu, 25 Jun 1992 17:21:51 GMT""}]","2009-10-22"
+"hep-th/9206104",,"C.S.Aulakh and V.Soni","Topological Soliton Multiplets in 4+1 Dimensional YMCS Theory","(minor semantic changes), 21p","Int.J.Mod.Phys.A8:1653-1666,1993","10.1142/S0217751X93000680","IP/BBSR/92-36","hep-th",,"  We generalize our results${}^1$ on charged topological solitons (CTS) in
+$4+1$ dimensional $SU(3)$ Yang-Mills-Chern-Simons (YMCS) theory to $SU(N)$. The
+$SU(N)$ multiplet structure of two classes of solitons associated with the
+maximal embeddings $SU(2)\times U(1)^{N-2}\subset SU(N)$ and $SO(3)\times
+U(1)^{N-3}\subset SU(N)$ and the vital role of the $SU(N)$ multiplet of
+topological currents is clarified. In the case of the first embedding one
+obtains a $^{N}C_{2}-$plet of CTS. In the second, for $N = 3$, one obtains
+neutral solitons which, though (classically) spinless, have magnetic moments.
+For $N \geq 4$, after modding out the above mentioned non-particulate feature,
+one obtains $^{N}C_{3}$ plets of CTS.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 13:18:56 GMT""},{""version"":""v2"",""created"":""Thu, 16 Jul 1992 16:34:14 GMT""}]","2011-02-09"

@@ -1,0 +1,341 @@
+"cond-mat/9212015","Nick Bonesteel","N.E. Bonesteel","Theory of Anisotropic Superexchange in Insulating Cuprates","22 pages, RevTex, 6 PostScript figures available on request
+  (nick@theory.nhmfl.fsu.edu), ETH-TH/92-31",,"10.1103/PhysRevB.47.11302",,"cond-mat",,"  Spin-orbit corrections to superexchange are calculated using the method of
+Moriya [T.\ Moriya, {\it Phys.\ Rev.}~{\bf 120} 91, (1960)] for two of the
+insulating parent compounds of the cuprate superconductors: (1)
+La$_{2-x}$Nd$_x$CuO$_4$ where the CuO$_6$ octahedra forming each Cu-O layer are
+tilted in staggered fashion about an axis which depends on $x$ and temperature;
+and (2) YBa$_2$Cu$_3$O$_{6+x}$ ($x \alt 0.4$) where the Cu-O layers form
+CuO$_2$-Y-CuO$_2$ bilayers in which the in-plane O$^{2-}$ ions are displaced
+uniformly towards the Y$^{3+}$ layer. For (1) a simple formula is derived for
+the weak ferromagnetic moment in each Cu-O layer as a function of the tilting
+axis and magnitude. For (2) it is shown that the anisotropic corrections to
+superexchange are different from what has previously been assumed. For the
+correct spin Hamiltonian a classical N\'eel state in which the Cu spins are
+lying in the plane is unstable in a single Cu-O layer, but when a bilayer is
+considered there is a critical value of the interlayer exchange coupling which
+stabilizes this state. For both cases (1) and (2) spin-wave spectra are
+calculated and shown to compare favorably with experiment.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 20:14:47 GMT""}]","2009-10-22"
+"cond-mat/9212016","Lian Zheng","Lian Zheng and A.H. MacDonald","Tunneling Conductance Between Parallel Two Dimensional Electron Systems","14 pages, 5 Fig. not included, revtex, IUcm92-005",,"10.1103/PhysRevB.47.10619",,"cond-mat",,"  We derive and evaluate expressions for the low temperature {\it dc}
+equilibrium tunneling conductance between parallel two-dimensional electron
+systems. Our theory is based on a linear-response formalism and on
+impurity-averaged perturbation theory. The disorder broadening of features in
+the dependence of tunneling conductance on sheet densities and in-plane
+magnetic field strengths is influenced both by the finite lifetime of electrons
+within the wells and by non-momentum-conserving tunneling events. Disorder
+vertex corrections are important only for weak in-plane magnetic fields and
+strong interwell impurity-potential correlations. We comment on the basis of
+our results on the possibility of using tunneling measurements to determine the
+lifetime of electrons in the quantum wells.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 20:22:55 GMT""}]","2009-10-22"
+"cond-mat/9212017","Ki Ho Lee","K. H. Lee, D. Stroud, and S. M. Girvin","Flux Pinning and Phase Transitions in Model High-Temperature
+  Superconductors with Columnar Defects","10 pages, LaTeX(REVTeX v3.0, twocolumn), 11 figures (not included)",,"10.1103/PhysRevB.48.1233",,"cond-mat",,"  We calculate the degree of flux pinning by defects in model high-temperature
+superconductors (HTSC's). The HTSC is modeled as a three-dimensional network of
+resistively-shunted Josephson junctions in an external magnetic field,
+corresponding to a HTSC in the extreme Type-II limit. Disorder is introduced
+either by randomizing the coupling between grains (Model A disorder) or by
+removing grains (Model B disorder). Three types of defects are considered:
+point disorder, random line disorder, and periodic line disorder; but the
+emphasis is on random line disorder. Static and dynamic properties of the
+models are determined by Monte Carlo simulations and by solution of the
+analogous coupled overdamped Josephson equations in the presence of thermal
+noise. Random line defects considerably raise the superconducting transition
+temperature T$_c(B)$, and increase the apparent critical current density
+J$_c(B,T)$, in comparison to the defect-free crystal. They are more effective
+in these respects than a comparable volume density of point defects, in
+agreement with the experiments of Civale {\it et al}. Periodic line defects
+commensurate with the flux lattice are found to raise T$_c(B)$ even more than
+do random line defects. Random line defects are most effective when their
+density approximately equals the flux density. Near T$_c(B)$, our static and
+dynamic results appear consistent with the anisotropic Bose glass scaling
+hypotheses of Nelson and Vinokur, but with possibly different critical indices:
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 22:29:33 GMT""}]","2009-10-22"
+"cond-mat/9212018","Assa Auerbach","Assa Auerbach","Spin Tunneling, Berry phases and Doped Antiferromagnets","5 pages, LaTex",,"10.1103/PhysRevB.48.3287",,"cond-mat",,"  Interference effects between Berry phase factors in spin tunneling systems
+have been discussed in recent Letters by Loss, DiVincenzo and Grinstein and von
+Delft and Henley. This Comment points out that Berry phases in spin tunneling
+are important in another interesting case: the two dimensional doped
+antiferromagnet. I show that the dispersion of a single hole in the t-J model
+changes sign as $e^{2\pi s}$ where $s$ is the size of the spins. This provides
+an interpretation of the numerical results for the $s=\half$ model, and a
+prediction for other spin sizes.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 11:31:12 GMT""}]","2009-10-22"
+"gr-qc/9212006","Sean Hayward","Sean A. Hayward","On Cosmological Isotropy, Quantum Cosmology and the Weyl Curvature
+  Hypothesis","5 pages","Class.Quant.Grav.10:L7-L11,1993","10.1088/0264-9381/10/1/002",,"gr-qc",,"  The increasing entropy, large-scale isotropy and approximate flatness of the
+universe are considered in the context of signature change, which is a
+classical model of quantum tunnelling in quantum cosmology. The signature
+change hypothesis implies an initial inflationary epoch, the magnetic half of
+the Weyl curvature hypothesis, and a close analogue of the conformal
+singularity hypothesis. Adding the electric half of the Weyl curvature
+hypothesis yields, for a perfect fluid, only homogeneous and isotropic
+cosmologies. In the cosmological-constant case, the unique solution is the
+Vilenkin tunnelling solution, which gives a de Sitter cosmology.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 10:21:52 GMT""}]","2010-04-06"
+"gr-qc/9212007","Desmond Mc Manus","Des J. Mc Manus and Michel A. Vandyck","Weak-Field Gravity of Revolving Circular Cosmic Strings","13 pages, LaTeX","Phys.Rev. D47 (1993) 1491-1496","10.1103/PhysRevD.47.1491",,"gr-qc",,"  A weak-field solution of Einstein's equations is constructed. It is generated
+by a circular cosmic string revolving in its plane about the centre of the
+circle. (The revolution is introduced to prevent the string from collapsing.)
+This solution exhibits a conical singularity, and the corresponding deficit
+angle is the same as for a straight string of the same linear energy density,
+irrespective of the angular velocity of the string.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 15:33:40 GMT""}]","2009-10-22"
+"hep-lat/9212009","Shinji Hioki","K. Akemi, Ph. deForcrand, M. Fujisaki, T. Hashimoto, H.C. Hege, S.
+  Hioki, O. Miyamura, A. Nakamura, M. Okuda I.O. Stamatescu, Y. Tago and T.
+  Takaishi","Autocorrelation in Updating Pure SU(3) Lattice Gauge Theory by the use
+  of Overrelaxed Algorithms","4 pages of A4 format including 6-figures","Nucl.Phys.Proc.Suppl. 30 (1993) 253-256","10.1016/0920-5632(93)90202-H",,"hep-lat",,"  We measure the sweep-to-sweep autocorrelations of blocked loops below and
+above the deconfinement transition for SU(3) on a $16^4$ lattice using
+20000-140000 Monte-Carlo updating sweeps. A divergence of the autocorrelation
+time toward the critical $\beta$ is seen at high blocking levels. The peak is
+near $\beta$ = 6.33 where we observe 440 $\pm$ 210 for the autocorrelation time
+of $1\times 1$ Wilson loop on $2^4$ blocked lattice. The mixing of 7 Brown-Woch
+overrelaxation steps followed by one pseudo-heat-bath step appears optimal to
+reduce the autocorrelation time below the critical $\beta$. Above the critical
+$\beta$, however, no clear difference between these two algorithms can be seen
+and the system decorrelates rather fast.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 07:00:28 GMT""}]","2009-10-22"
+"hep-lat/9212010","Shamir Yigal","Yigal Shamir","The Euclidean Spectrum of Kaplan's Lattice Chiral Fermions","15 pages, LATEX, WIS-92/97/12-PH","Phys.Lett. B305 (1993) 357-365","10.1016/0370-2693(93)91068-X",,"hep-lat hep-ph",,"  We consider the (2n+1)-dimensional euclidean Dirac operator with a mass term
+that looks like a domain wall, recently proposed by Kaplan to describe chiral
+fermions in $2n$ dimensions. In the continuum case we show that the euclidean
+spectrum contains {\it no} bound states with non-zero momentum. On the lattice,
+a bound state spectrum without energy gap exists only if $m$ is fine tuned to
+some special values, and the dispersion relation does not describe a
+relativistic fermion. In spite of these peculiarities, the fermionic propagator
+{\it has} the expected (1/p-slash) pole on the domain wall. But there may be a
+problem with the phase of the fermionic determinant at the non-perturbative
+level.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 12:19:17 GMT""}]","2009-10-22"
+"hep-lat/9212011",,"V. Azcoiti and X.Q. Luo","Phase Structure of Compact $QED_3$ with Massless Fermions","10 pages and two figures; DFTUZ 92.25","Mod. Phys. Lett. A8 (1993) 3635-3642","10.1142/S0217732393002373",,"hep-lat",,"  In the framework of (2+1)-dimensional compact lattice QED with light
+fermions, we investigate the phase diagram in the $(\beta, N)$ plane. The
+approximations involved are related to an expansion of the effective fermionic
+action as a power series of the flavor number $N$. We also develop a new
+mechanism for understanding the $N-$critical phenomenon in the full theory. Our
+results for the specific heat indicate that only one phase does exist. We give
+strong evidences that this qualitative result should not be changed with the
+inclusion of higher order terms in the $N$ expansion.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 13:43:00 GMT""}]","2015-06-25"
+"hep-ph/9212243",,"Pankaj Jain, John P. Ralston and Bernard Pire","High Energy Hadronic Helicity Violation: What Helicity Flip Form Factors
+  Measure","To appear in Proceedings of DPF '92: Meeting of the American Physical
+  Society (Fermilab 1992) (World Scientific, in press), 3 pages",,,"KUHEP-23","hep-ph",,"  Orbital angular momentum is crucial for the description of several process at
+large momentum transfer in the impulse approximation in perturbative QCD. We
+review the mechanism of independent scattering which makes violation of the
+helicity conservation rule possible at leading order - and without any need to
+flip a quark helicity - in exclusive hadron-hadron reactions. We argue that
+helicity flip form factors, which violate the factorization assumptions of
+conventional approaches and are classified as ``higher-twist,"" are nevertheless
+calculable to leading order in perturbative QCD when information on non-zero
+orbital angular momentum is incorporated.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 00:57:00 GMT""}]","2007-05-23"
+"hep-ph/9212244",,"Pankaj Jain","Consistent Quantum Expansion Around Soliton Solutions","To appear in Proceedings of DPF92, Meeting of the American Physical
+  Society (Fermilab 1992), 4 pages, report # KUHEP-24",,,,"hep-ph",,"  I show that a standard application of the semiclassical techniques to 1+1
+dimensional field theories, as originally discussed by Dashen, Hasslacher and
+Neveu, explicitly violates the Poincare algebra. This problem is traced to the
+incorrect regularization of the ultraviolet divergences and can be resolved by
+using a different regularization. I further show that in the case of the
+doublet solutions in the sine-Gordon theory the semiclassical treatment given
+by Dashen, Hasslacher and Neveu leads to ambiguous results which depend on the
+choice of the renormalization counterterm. I discuss a consistent weak coupling
+expansion which does not suffer from this problem.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 01:01:52 GMT""}]","2007-05-23"
+"hep-ph/9212245",,"Z. G. Berezhiani and R. Rattazzi","Inverse Hierarchy Approach to Fermion Masses","19 pages (standard TeX) + 1 table (cut out and LaTeX separately) + 1
+  figure (cut out and postscript separately); 2 additional figures available by
+  fax upon request, LBL-32889, LMU-13/92","Nucl.Phys.B407:249-270,1993","10.1016/0550-3213(93)90057-V",,"hep-ph",,"  The first fermion family might play a special role in understanding the
+physics of flavour. This possibility is suggested by the observation that the
+up-down splitting within quark families increases with the family number: $
+m_u\sim m_d$, $m_c>m_s$, $m_t\gg m_b$. We construct a model that realizes this
+feature of the spectrum in a natural way. The inter-family hierarchy is first
+generated by radiative phenomena in a sector of heavy isosinglet fermions and
+then transferred to quarks by means of a universal seesaw. A crucial role is
+played by left-right parity and up-down isotopic symmetry. No family symmetry
+is introduced. The model implies $m_u/m_d>$ 0.5 and the Cabibbo angle is forced
+to be $\sim\sqrt{m_d/m_s}$. The top quark is naturally in the 100 GeV range,
+but not too heavy: $m_t<$ 150 GeV. Inspired by the mass matrices obtained in
+the model for quarks, we suggest an ansatz also including charged leptons. The
+differences between $u$-, $d$- and $e$-type fermions are simply parametrized by
+three complex coefficients $\eps{u}$, $\eps{d}$ and $\eps{e}$. Additional
+consistent predictions are obtained: $m_s$=100-150 MeV and $m_u/m_d<$ 0.75.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 01:33:52 GMT""}]","2008-11-26"
+"hep-ph/9212246",,"A. Ballestrero, E. Maina and S. Moretti","Heavy Quarks and Leptons at $e^+e^-$ Colliders","32 Pages (20 Figs available from the authors in Postscript or via Fax
+  ), Plain Tex, DFTT 53/92","Nucl.Phys. B415 (1994) 265-292","10.1016/0550-3213(94)90112-0",,"hep-ph",,"  The production of massive quarks and leptons in $e^+e^-$ collisions is
+studied using exact helicity amplitudes. Total cross sections as a function of
+$y_{\rm cut}$, in both the JADE and the $k_T$ algorithms, are presented and
+compared with massless results. Some invariant mass distributions are examined
+in relation to Higgs detection. Compact expressions for the helicity amplitudes
+are given.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 11:50:00 GMT""}]","2009-10-22"
+"hep-ph/9212247",,"S.M. Bilenky","Neutrino Mixing","DFTT 67/92, LaTeX file, no figures",,,,"hep-ph",,"  In the first part of these lectures the neutrino mixing hypothesis will be
+considered in detail. We will discuss the possible schemes of neutrino mixing
+and present the data of the recent experiments searching for effects due to
+nonvanishing neutrino masses and mixing angles.In the second part of these
+lectures the physics of solar neutrinos will be considered.We will discuss the
+MSW resonance solution of the equation of evolution of a neutrino in matter and
+present data of solar neutrino experiments.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 13:28:00 GMT""}]","2007-05-23"
+"hep-ph/9212248",,"J.R. Espinosa, M. Quiros and F. Zwirner","On the nature of the electroweak phase transition","13 pages, latex, 2 postscript figures appended at the end,
+  CERN-TH.6577/92, IEM-FT-58/92","Phys.Lett.B314:206-216,1993","10.1016/0370-2693(93)90450-V",,"hep-ph hep-th",,"  We discuss the finite-temperature effective potential of the Standard Model,
+$\veff$, with emphasis on the resummation of the most important infrared
+contributions. We compute the one-loop scalar and vector boson self-energies in
+the zero-momentum limit. By solving the corresponding set of gap equations,
+with the inclusion of subleading contributions, we find a non-vanishing
+magnetic mass for the $SU(2)$ gauge bosons. We comment on its possible
+implications for the nature of the electroweak phase transition. We also
+discuss the range of validity of our approximations and compare this with other
+approaches.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 14:27:57 GMT""},{""version"":""v2"",""created"":""Tue, 22 Dec 1992 10:01:05 GMT""},{""version"":""v3"",""created"":""Thu, 14 Jan 1993 10:01:19 GMT""},{""version"":""v4"",""created"":""Fri, 9 Jul 1993 15:44:20 GMT""}]","2010-11-01"
+"hep-ph/9212249",,"R.N. Mohapatra and T.G. Rizzo","Radiative $W$ and $Z$ Decays and Spontaneous R-Parity Violation","15 pages, 4 figures(available upon request), LaTex, UMD-PP-93-90",,,,"hep-ph",,"  We point out that in a class of supersymmetric models where R-parity
+violation is induced by the spontaneous breaking of local $B-L$ symmetry, the
+R-parity violating $W$ decay $W\rightarrow\slep\gamma$ and $Z$ decay
+$Z\rightarrow\snu\gamma$, forbidden in the minimal supersymmetric standard
+model (MSSM), occur at an enhanced rate compared to other models with R-parity
+breaking. We find that the branching fractions for these modes can be of order
+$10^{-5}$ .
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 13:07:09 GMT""}]","2007-05-23"
+"hep-th/9212050","Vladimir Bazhanov","V.V.Bazhanov and R.J.Baxter","Star-Triangle Relation for a Three Dimensional Model","20 pages, plain TeX, 3 figures, SMS-079-92/MRR-020-92. (corrupted
+  figures replaced)","J.Statist.Phys.71:839-864,1993","10.1007/BF01049952",,"hep-th",,"  The solvable $sl(n)$-chiral Potts model can be interpreted as a
+three-dimensional lattice model with local interactions. To within a minor
+modification of the boundary conditions it is an Ising type model on the body
+centered cubic lattice with two- and three-spin interactions. The corresponding
+local Boltzmann weights obey a number of simple relations, including a
+restricted star-triangle relation, which is a modified version of the
+well-known star-triangle relation appearing in two-dimensional models. We show
+that these relations lead to remarkable symmetry properties of the Boltzmann
+weight function of an elementary cube of the lattice, related to spatial
+symmetry group of the cubic lattice. These symmetry properties allow one to
+prove the commutativity of the row-to-row transfer matrices, bypassing the
+tetrahedron relation. The partition function per site for the infinite lattice
+is calculated exactly.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 03:17:04 GMT""}]","2011-02-11"
+"hep-th/9212055","Thomas Larsson","T. A. Larsson","$Z^N$-graded Lie algebras: Fock representations and reducibility
+  conditions","LaTeX, 21 pages",,,,"hep-th",,"  Manifestly consistent Fock representations of non-central (but
+``core-central'') extensions of the $Z^N$-graded algebras of functions and
+vector fields on the $N$-dimensional torus $T^N$ are constructed by a kind of
+renormalization procedure. These modules are of lowest-energy type, but the
+energy is not a linear function of the momentum. Modulo a technical assumption,
+reducibility conditions are proved for the extension of $vect(T^N)$, analogous
+to the discrete series of Virasoro representations.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 17:19:56 GMT""}]","2007-05-23"
+"hep-th/9212056",,"S.A.Frolov, A.A.Slavnov and C.Sochichiu","On the SO(N) symmetry of the chiral SU(N) Yang--Mills model","9 pages, preprint PAR-LPTHE 92-48 (DECEMBER 1992), Latex","Phys.Lett. B301 (1993) 59-66","10.1016/0370-2693(93)90721-S",,"hep-th",,"  The posibility of quantizing the anomalous $SU(N)$ Yang--Mills model
+preserving the symmetry under the orthogonal subgroup is indicated. The
+corresponding Wess--Zumino action (1-cocycle) possesses the additional $SO(N)$
+symmetry and can be expressed in terms of chiral fields taking values in the
+homogeneous space $SU(N)/SO(N)$. The modified anomaly and the constraints
+commutator (2-cocycle) are calculated.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 16:34:15 GMT""}]","2009-10-22"
+"hep-th/9212057",,"J. Ellis, N.E. Mavromatos, D.V. Nanopoulos","CPT Violation in String-Modified Quantum Mechanics and the Neutral Kaon
+  System","19 pages","Int.J.Mod.Phys.A11:1489-1508,1996","10.1142/S0217751X96000687","CERN.TH 6755/92","hep-th hep-ph",,"  We show that $CPT$ is in general violated in a non-quantum-mechanical way in
+the effective low-energy theory derived from string theory, as a result of
+apparent world-sheet charge non-conservation induced by stringy monopoles
+corresponding to target-space black hole configurations. This modification of
+quantum mechanics does not violate energy conservation. The magnitude of this
+effective spontaneous violation of $CPT$ may not be be far from the present
+experimental sensitivity in the neutral kaon system. We demonstrate that our
+previously proposed stringy modifications to the quantum-mechanical description
+of the neutral kaon system violate $CPT$, although in a different way from that
+assumed in phenomenological analyses within conventional quantum mechanics. We
+constrain the novel $CPT$-violating parameters using available data on $K_L
+\rightarrow 2\pi$, $K_S \rightarrow 3\pi ^0$ and semileptonic $K_{L,S}$ decay
+asymmetries. We demonstrate that these data and an approximate treatment of
+interference effects in $K \rightarrow 2\pi $ decays are consistent with a {\it
+non-vanishing} amount of $CPT$ violation at a level accessible to a new round
+of experiments, and further data and/or analysis are required to exclude the
+extreme possibility that they dominate over $CP$ violation. Could
+non-quantum-field theoretical and non-quantum-mechanical $CPT$ violation usher
+in the long-awaited era of string phenomenology?}
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 17:43:49 GMT""}]","2009-09-11"
+"hep-th/9212058",,"A. Toon","Particle Content in Topological Field Theories","9p, OUTP-92-30P","Mod.Phys.Lett. A9 (1994) 29-40","10.1142/S0217732394000058",,"hep-th",,"  By demanding that the path integral measure of topological field theories be
+metric independent, we can derive powerful constraints on the particle content
+of a topological field theory as well as on the dimensionality of space-time.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 18:45:42 GMT""}]","2015-06-26"
+"hep-th/9212059","Salman Habib","Francis J. Alexander and Salman Habib","Statistical Mechanics of Kinks in (1+1)-Dimensions","8 pages, Latex (4 figures available on request), LA-UR-92-3991","Phys.Rev.Lett. 71 (1993) 955-958","10.1103/PhysRevLett.71.955",,"hep-th",,"  We investigate the thermal equilibrium properties of kinks in a classical
+$\phi^4$ field theory in $1+1$ dimensions. The distribution function, kink
+density, and correlation function are determined from large scale simulations.
+A dilute gas description of kinks is shown to be valid below a characteristic
+temperature. A double Gaussian approximation to evaluate the eigenvalues of the
+transfer operator enables us to extend the theoretical analysis to higher
+temperatures where the dilute gas approximation fails. This approach accurately
+predicts the temperature at which the kink description breaks down.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 19:07:24 GMT""}]","2009-10-22"
+"hep-th/9212060","Terry Gannon","Terry Gannon","The Classification of Affine SU(3) Modular Invariant Partition Functions","30 pages, (plain tex)","Commun.Math.Phys. 161 (1994) 233-264","10.1007/BF02099776",,"hep-th",,"  A complete classification of the WZNW modular invariant partition functions
+is known for very few affine algebras and levels, the most significant being
+all levels of SU(2), and level 1 of all simple algebras. In this paper we solve
+the classification problem for SU(3) modular invariant partition functions. Our
+approach will also be applicable to other affine Lie algebras, and we include
+some preliminary work in that direction, including a sketch of a new proof for
+SU(2).
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 21:51:00 GMT""}]","2015-06-26"
+"hep-th/9212061","Miao Li","Miao Li","Some remarks on tachyon action in 2d string theory","10 pages (harvmac) BROWN-HET-887","Mod.Phys.Lett. A8 (1993) 2481-2490","10.1142/S0217732393002804",,"hep-th",,"  We discuss the effective action of tachyon in the two dimensional string
+theory at tree level. We show that already starting from the cubic terms the
+action is nonlocal and the usually assumed simplest cubic term does not give
+the correct amplitude. Four point 1PI terms are also discussed.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 23:21:44 GMT""}]","2015-06-26"
+"hep-th/9212062","Jacques Distler","J. Distler","Notes on N=2 $\sigma$-models$","23 pages, 2 figures (macros: harvmac.tex + epsf.tex)",,,"PUPT-1365","hep-th",,"  These lectures, given at the 1992 Trieste Spring School, are devoted to some
+selected topics in N=2 \sm s on Calabi-Yau manifolds and the associated N=2
+superconformal field theories. The first lecture is devoted to the ``special
+geometry"" of the moduli space of $c=9$ N=2 superconformal field theories. An
+important role is played by the extended chiral algebra which appears in
+theories with integer $U(1)$ charges. The second lecture is devoted to the \sm\
+approach. The main focus is an explication of a calculation of Aspinwall and
+Morrison.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 06:22:34 GMT""}]","2007-05-23"
+"hep-th/9212063",,"B. Broda","A path-integral approach to polynomial invariants of links","8 pages, Plaintex, NI 92015","J.Math.Phys. 35 (1994) 5314-5320","10.1063/1.530753",,"hep-th",,"  A brief review of a self-contained genuinely three-dimensional
+monodromy-matrix based non-perturbative covariant path-integral approach to
+{\it polynomial invariants} of knots and links in the framework of
+(topological) quantum Chern-Simons field theory is given. An idea of
+``physical'' observables represented by an auxiliary topological
+quantum-mechanics model in an external gauge field is introduced substituting
+rather a limited notion of the Wilson loop. Thus, the possibility of using
+various generalizations of the Chern-Simons action (also higher-dimensional
+ones) as well as a purely functional language becomes open. The theory is
+quantized in the framework of the best suited in this case {\it
+antibracket-antifield} formalism of Batalin and Vilkovisky. Using the Stokes
+theorem and formal translational invariance of the path-integral measure a {\it
+monodromy matrix} corresponding to an arbitrary pair of irreducible
+representations of an arbitrary semi-simple Lie group is derived.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 10:39:00 GMT""}]","2009-10-22"
+"hep-th/9212064","Anatol Kirillov","Nadejda A. Liskova, Anatol N. Kirillov","Clebch-Gordan and Racah-Wigner coefficients for $U_q(SU(1,1))$","11 pages","Int.J.Mod.Phys. A7S1B (1992) 611-621",,"RIMS-843","hep-th math.QA",,"  The Clebsch-Gordan and Racah-Wigner coefficients for the positive (or
+negative) discrete series of irreducible representations for the noncompact
+form $U_q(SU(1,1))$ of the algebra $U_q(sl(2))$ are computed.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 11:27:00 GMT""}]","2008-02-03"
+"hep-th/9212065","Marco Tarlini","Anatol Nowicki, Emanuele Sorace and Marco Tarlini","The Quantum Deformed Dirac Equation from the k-Poincare` Algebra","6 pages, Latex","Phys.Lett. B302 (1993) 419-422","10.1016/0370-2693(93)90419-I",,"hep-th",,"  In this letter we derive a deformed Dirac equation invariant under the
+k-Poincare` quantum algebra. A peculiar feature is that the square of the
+k-Dirac operator is related to the second Casimir (the k-deformed squared
+Pauli-Lubanski vector). The ``spinorial'' realization of the k-Poincare` is
+obtained by a contraction of the coproduct of the real form of SO_q(3,2) using
+the 4-dimensional representation which results to be, up some scalar factors,
+the same of the undeformed algebra in terms of the usual gamma matrices.
+","[{""version"":""v1"",""created"":""Thu, 10 Dec 1992 14:01:00 GMT""}]","2009-10-22"
+"math/9212207","Gilles Pisier","Gilles Pisier","Multipliers and lacunary sets in non-amenable groups",,,,"Banach Archive 12/9/92","math.FA",,"  Let $G$ be a discrete group.
+  Let $\lambda : G \to B(\ell_2(G),\ell_2(G))$ be the left regular
+representation. A function $\ph : G \to \comp$ is called a completely bounded
+multiplier (= Herz-Schur multiplier) if the transformation defined on the
+linear span $K(G)$ of $\{\lambda(x),x \in G\}$ by $$\sum_{x \in G} f(x)
+\lambda(x) \to \sum_{x \in G} f(x) \ph(x) \lambda(x)$$ is completely bounded
+(in short c.b.) on the $C^*$-algebra $C_\lambda^*(G)$ which is generated by
+$\lambda$ ($C_\lambda^*(G)$ is the closure of $K(G)$ in
+$B(\ell_2(G),\ell_2(G))$.) One of our main results gives a simple
+characterization of the functions $\ph$ such that $\eps \ph$ is a c.b.
+multiplier on $C_\lambda^*(G)$ for any bounded function $\eps$, or equivalently
+for any choice of signs $\eps(x) = \pm 1$. We also consider the case when this
+holds for ``almost all"" choices of signs.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 16:06:43 GMT""}]","2016-09-06"
+"math/9212208","Gilles Pisier","Gilles Pisier","Espace de Hilbert d'op\'erateurs et Interpolation complexe",,,,"Banach Archive 12/9/92","math.FA",,"  Let $H$ be an infinite dimensional Hilbert space. We show that there exists a
+subspace of $B(H)$ which is isometric to $\ell_2$ and completely isometric to
+its antidual in the sense of the theory of operator spaces recently developed
+by Blecher-Paulsen and Effros-Ruan. Moreover this space is unique up to a
+complete isometry. We denote it by $OH$. This space has several remarkable
+properties in particular with respect to the complex interpolation method.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 16:06:43 GMT""}]","2016-09-06"
+"nucl-th/9212003","Mcneil James A.","J. A. McNeil, C. E. Price, and J. R. Shepard","Relativistic Nuclear Matter with Self-Consistent Correlation Energy","14 pages, LaTeX with RevTeX, 3 post-script figures (not included)
+  available on request","Phys.Rev.C47:1534-1538,1993","10.1103/PhysRevC.47.1534",,"nucl-th",,"  We study relativistic nuclear matter in the $\sigma - \omega$ model including
+the ring-sum correlation energy. The model parameters are adjusted
+self-consistently to give the canonical saturation density and binding energy
+per nucleon with the ring energy included. Two models are considered,
+mean-field-theory where we neglect vacuum effects, and the relativistic Hartree
+approximation where such effects are included but in an approximate way. In
+both cases we find self-consistent solutions and present equations of state. In
+the mean-field case the ring energy completely dominates the attractive part of
+the energy density and the elegant saturation mechanism of the standard
+approach is lost, namely relativistic quenching of the scalar attraction. In
+the relativistic Hartree approach the vacuum effects are included in an
+approximate manner using vertex form factors with a cutoff of 1 - 2 GeV, the
+range expected from QCD. Due to the cutoff, the ring energy for this case is
+significantlysmaller, and we obtain self-consistent solutions which preserve
+the basic saturation mechanism of the standard relativistic approach.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 20:20:06 GMT""}]","2008-11-26"

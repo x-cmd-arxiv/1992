@@ -1,0 +1,71 @@
+"cond-mat/9208004",,"J. Gonz\'alez, F. Guinea and M.A.H. Vozmediano","The Electronic Spectrum of Fullerenes from the Dirac Equation","29 pages, 7 figures. IASSNS-HEP-92/50","Nucl.Phys. B406 (1993) 771-794","10.1016/0550-3213(93)90009-E",,"cond-mat hep-th",,"  The electronic spectrum of sheets of graphite (plane honeycomb lattice)
+folded into regular polihedra is studied. A continuum limit valid for
+sufficiently large molecules and based on a tight binding approximation is
+derived. It is found that a Dirac equation describes the flat graphite lattice.
+Curving the lattice by insertion of odd numbered rings can be mimicked by
+coupling effective gauge fields. In particular the $C_{60}$ and related
+molecules are well described by the Dirac equation on the surface of a sphere
+coupled to a color monopole sitting at its center.
+","[{""version"":""v1"",""created"":""Fri, 7 Aug 1992 19:36:00 GMT""}]","2009-10-22"
+"cond-mat/9208005",,"John Baez, Micheal Ody and William Richter","Topological Aspects of Spin and Statistics in Nonlinear Sigma Models","14 pages","J.Math.Phys.36:247-257,1995","10.1063/1.531304",,"cond-mat",,"  We study the purely topological restrictions on allowed spin and statistics
+of topological solitons in nonlinear sigma models. Taking as space the
+connected $d$-manifold $X$, and considering nonlinear sigma models with the
+connected manifold $M$ as target space, topological solitons are given by
+elements of $pi_d(M)$. Any topological soliton $\alpha \in \pi_d(M)$ determines
+a quotient $\Stat_n(X,\alpha)$ of the group of framed braids on $X$, such that
+choices of allowed statistics for solitons of type $\alpha$ are given by
+unitary representations of $\Stat_n(X,\alpha)$ when $n$ solitons are present.
+In particular, when $M = S^2$, as in the $O(3)$ nonlinear sigma model with Hopf
+term, and $\alpha \in \pi_2(S^2)$ is a generator, we compute that
+$\Stat_n(\R^2,\alpha) = \Z$, while $\Stat_n(S^2,\alpha) = \Z_{2n}$. It follows
+that phase $\exp(i\theta)$ for interchanging two solitons of type $\alpha$ on
+$S^2$ must satisfy the constraint $\theta = k\pi/n$, $k \in \Z$, when $n$ such
+solitons are present.
+","[{""version"":""v1"",""created"":""Fri, 7 Aug 1992 21:52:12 GMT""}]","2008-11-26"
+"hep-lat/9208005","Thomas A. DeGrand","M. Hecht, et al. (High Energy Monte Carlo Grand Challenge)","Comparison of Lattice Coulomb Gauge Wave Functions in Quenched
+  Approximation and with Dynamical Fermions","26 pages plus 11 postscript figs","Phys.Rev. D47 (1993) 285-294","10.1103/PhysRevD.47.285",,"hep-lat",,"  We present a comparison of Coulomb gauge wave functions from $6/{g^2}=6.0$
+quenched simulations with two simulations which include the effects of
+dynamical fermions: simulations with two flavors of dynamical staggered quarks
+and valence Wilson quarks at $6/{g^2}=5.6$ and simulations with two flavors of
+dynamical Wilson quarks and Wilson valence quarks, at $6/{g^2}=5.3$. The
+spectroscopy of these systems is essentially identical. Parameterizations of
+the wave functions are presented which can be used as interpolating fields for
+spectroscopy calculations. The sizes of particles are calculated using these
+parameterized wave functions. The resulting sizes are small, approximately half
+the sizes of the physical states. The charge radius of the neutron, which
+provides an indication of the asymmetries between the wave functions of up and
+down quarks, is calculated. Although the size of the nucleon in these
+simulations is small, the ratio of the charge radius of the neutron to that of
+the proton is consistent with the physical value. We find no significant
+differences between the quenched and dynamical simulations.
+","[{""version"":""v1"",""created"":""Fri, 7 Aug 1992 22:06:45 GMT""}]","2009-10-22"
+"hep-ph/9208215",,"John March-Russell","On the Possibility of Second-Order Phase Transitions in Spontaneously
+  Broken Gauge Theories","14 pages, 1 figure (not included), PUPT-92-1328, LBL-32540","Phys.Lett. B296 (1992) 364-370","10.1016/0370-2693(92)91333-5",,"hep-ph hep-lat hep-th",,"  In the ``Type-II'' regime, $m_{\rm Higgs}\gap m_{\rm gauge}$, the
+finite-temperature phase transition in spontaneously-broken gauge theories
+(including the standard model) must be be studied using a renormalization group
+treatment. Previous studies within the $(4-\ep)$-expansion suggest a 1st-order
+transition in this regime. We use analogies with experimentally accessible
+phase transitions in liquid crystals, and theoretical investigations of
+superconductor phase transitions to argue that, in this range, the critical
+behavior of a large class of gauge-Higgs-fermion systems changes from 1st to
+2nd-order as a function of Higgs mass. We identify a set of models which,
+within the $(2+\ep)$-expansion, possess fixed points that can describe this
+2nd-order behavior. As usual, a definitive demonstration that the claimed
+critical behavior occurs (and a reliable estimate of $m_{\rm Higgs}$ at the
+tricritical point) will probably require numerical simulations. This paper uses
+the ``phyzzx'' macro package. To obtain figure contact the author.
+","[{""version"":""v1"",""created"":""Sat, 8 Aug 1992 01:21:00 GMT""}]","2009-10-22"
+"hep-th/9208021",,"Luca Mezincescu and Rafael I. Nepomechie","Models with Quantum Symmetry and their Spectra","12 pages, UMTG-168",,,,"hep-th",,"  We review how to construct a large class of integrable quantum spin chains
+with quantum-algebra symmetry, and how to determine their spectra. (To appear
+in Louis Witten Festschrift)
+","[{""version"":""v1"",""created"":""Fri, 7 Aug 1992 22:43:06 GMT""}]","2007-05-23"
+"hep-th/9208022","Stanislav Pakuliak","A. Marshakov","On string field theory for $C \leq 1$","15 pages, report FIAN/TD-8/92, revised and improved version",,,,"hep-th",,"  I present a short review of our results with S.Kharchev, A.Mironov, A.Morozov
+and A.Zabrodin on Generalized Kontsevich model which in a sense can be
+interpreted as unifying ``string field theory'' for $c < 1$ minimal series
+coupled to 2d gravity. The problem of interpolation between different models is
+discussed. It is found that this problem is closely connected with
+``deformations'' within the set of solutions to KP hierarchy, described by a
+sort of reparameterization of a spectral curve and change of asymptotics of the
+basis in the Grassmannian. The $c \rightarrow 1$ limit is considered along this
+line.
+","[{""version"":""v1"",""created"":""Sat, 8 Aug 1992 07:49:48 GMT""},{""version"":""v2"",""created"":""Tue, 13 Oct 1992 07:33:43 GMT""}]","2008-02-03"

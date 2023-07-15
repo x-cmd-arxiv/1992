@@ -1,0 +1,43 @@
+"hep-th/9204013",,"Joseph A. Minahan","Matrix Models and One Dimensional Open String Theory (Revised)","17 pages","Int. J. Mod. Phys. A8 (1993) 3599-3614","10.1142/S0217751X93001466",,"hep-th",,"  We propose a random matrix model as a representation for $D=1$ open strings.
+We show that the model is equivalent to $N$ fermions with spin in a central
+potential that also includes a long-range ferromagnetic interaction between the
+fermions that falls off as $1/(r_{ij})^2$. We find two interesting scaling
+limits and calculate the free energy for both situations. One limit corresponds
+to Dirichlet boundary conditions for the dual graphs and the other corresponds
+to Neumann conditions. We compute the boundary cosmological constant and show
+that it is of order $1/\log(\beta)$. We also briefly discuss a possible analog
+of the Das-Jevicki field for the open string tachyon. (n.b. This is a revised
+version of paper previously submitted to xxx@lanl.gov. The original version
+misidentified the Dirichlet and Neumann cases. This version also includes
+references to work by Yang that was missing in the original.)
+","[{""version"":""v1"",""created"":""Mon, 6 Apr 1992 18:11:49 GMT""},{""version"":""v2"",""created"":""Fri, 10 Apr 1992 02:54:05 GMT""}]","2009-10-22"
+"hep-th/9204014","Charles Torre","C. G. Torre","Is General Relativity an 'Already Parametrized' Field Theory?","9 pages","Phys.Rev.D46:3231-3234,1992","10.1103/PhysRevD.46.R3231",,"hep-th",,"  Beginning with the work of Dirac and Arnowitt, Deser, Misner in the late
+fifties and early sixties, and then after subsequent development by Kucha\v r,
+the canonical dynamical structure of general relativity has often been viewed
+as that of a parametrized field theory in which the many-fingered spacetime
+variables are hidden amongst the geometrodynamical field variables. This
+paradigm of general relativity as an ``already parametrized theory'' forms the
+basis for one of the most satisfactory resolutions of the problems of time and
+observables in classical and quantum gravity. However, despite decades of
+effort, no identification of many-fingered spacetime variables has ever been
+satisfactorily obtained for vacuum general relativity. We point out that there
+is an obstruction to identifying the constraint surface of general relativity
+(for the case of a closed universe) with that of any parametrized theory.
+Therefore, strictly speaking, general relativity cannot be viewed as a
+parametrized field theory. We discuss implications for the canonical
+quantization program.
+","[{""version"":""v1"",""created"":""Mon, 6 Apr 1992 20:44:00 GMT""}]","2009-12-30"
+"hep-th/9204015",,"T.T. Burwick, A.H. Chamseddine and K.Meissner","Matter Coupling and Spontaneous Symmetry Breaking in Topological Gravity","12 pages","Phys.Lett. B284 (1992) 11-16","10.1016/0370-2693(92)91917-X",,"hep-th",,"  Matter is coupled to three-dimensional gravity such that the topological
+phase is allowed and the (anti-) de Sitter or Poincar\'e symmetry remains
+intact. Spontaneous symmetry breaking to the Lorentz group occurs if a scalar
+field is included. This Higgs field can then be used to couple matter so that
+the familiar form of the matter coupling is established in the broken phase. We
+also give the supersymmetrization of this construction.
+","[{""version"":""v1"",""created"":""Tue, 7 Apr 1992 15:48:00 GMT""}]","2009-10-22"
+"hep-th/9204016","Sergey Krivonos","E.Ivanov, S.Krivonos and A.Pichugin","Nonlinear realizations of $W_3$ symmetry","8 pages","Phys.Lett.B284:260-267,1992","10.1016/0370-2693(92)90430-C",,"hep-th",,"  We deduce the $sl_{3}$ Toda realization of classical $W_3$ symmetry on two
+scalar fields in a geometric way, proceeding from a nonlinear realization of
+some associate higher-spin symmetry $W_{3}^{\infty}$. The Toda equations are
+recognized as the constraints singling out a two-dimensional fully geodesic
+subspace in the initial coset space of $W_{3}^{\infty}$. The proposed geometric
+approach can be extended to other nonlinear algebras and integrable systems.
+","[{""version"":""v1"",""created"":""Tue, 7 Apr 1992 09:46:32 GMT""}]","2008-11-26"

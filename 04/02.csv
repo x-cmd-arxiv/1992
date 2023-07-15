@@ -1,0 +1,53 @@
+"hep-ph/9204202",,"V. Barger, Kingman Cheung, B. A. Kniehl and R. J. N. Phillips","Intermediate and Heavy Higgs Boson Physics at a 0.5 TeV e^+ e^- Collider","49 pages, 15 figures (not included)","Phys.Rev.D46:3725-3747,1992","10.1103/PhysRevD.46.3725",,"hep-ph",,"  We explore the potential of a future e^+ e^- collider in the 0.5 TeV
+center-of-mass energy range to detect intermediate or heavy Higgs bosons in the
+Standard Model. We first briefly assess the production cross sections and
+update the decay branching fractions for a Higgs boson of intermediate mass,
+with M_Z < m_H < 2M_W. We then study in detail the possibility of detecting a
+heavy Higgs boson, with m_H > 2M_W, through the production of pairs of weak
+bosons. We quantitatively analyze the sensitivity of the process e^+ e^- --> nu
+nubar W^+ W^- (ZZ) to the presence of a heavy Higgs-boson resonance in the
+Standard Model. We compare this signal to various backgrounds and to the
+smaller signal from e^+ e^- --> ZH --> mu^+ mu^- W^+ W^- (ZZ), assuming the
+weak-boson pairs to be detected and measured in their dominant hadronic decay
+modes W^+ W^- (ZZ) --> 4jets. A related Higgs-boson signal in 6-jet final
+states is also estimated. We show how the main backgrounds from e^+ e^- W^+ W^-
+(ZZ), e nu WZ, and t tbar production can be reduced by suitable acceptance
+cuts. Bremsstrahlung and typical beamstrahlung corrections are calculated.
+These corrections reduce Higgs-boson production by scattering mechanisms but
+increase production by annihilation mechanisms; they also smear out some
+dynamical features such as Jacobian peaks in p_T(H). With all these corrections
+included, we conclude that it should be possible to detect a heavy Higgs-boson
+signal in the nu nubar W^+ W^-(ZZ) channels up to mass m_H=350 GeV.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 16:34:00 GMT""}]","2009-09-15"
+"hep-ph/9204203",,"U. Baur and M. A. Doncheski","Probing the $WW\gamma$ Vertex in $e^\pm p\to\nu\gammaX$","13 pages, 4 figures (not included)","Phys.Rev. D46 (1992) 1959-1964","10.1103/PhysRevD.46.1959",,"hep-ph",,"  We study the prospects of testing the $WW\gamma$ vertex in $e^- p\to\nu\gamma
+X$ and $e^+ p\to\nu\gamma X$ at HERA and LEP/LHC. Destructive interference
+effects between the Standard Model and the anomalous contributions to the
+amplitude severely limit the sensitivity of both processes to non-standard
+$WW\gamma$ couplings. Sensitivity limits for the anomalous $WW\gamma$ couplings
+$\kappa$ and $\lambda$ at HERA and LEP/LHC are derived, taking into account
+experimental cuts and uncertainties, and the form factor behaviour of
+nonstandard couplings. These limits are found to be significantly weaker than
+those which can be expected from other collider processes within the next few
+years. At HERA, they are comparable to bounds obtained from $S$-matrix
+unitarity.
+","[{""version"":""v1"",""created"":""Wed, 1 Apr 1992 18:53:35 GMT""}]","2009-10-22"
+"hep-ph/9204204",,"Stephen P. Martin","A Tumbling Top-Quark Condensate Model","16 pages. v2: TeX formatting fixed, no other changes","Phys.Rev. D46 (1992) 2197-2202","10.1103/PhysRevD.46.2197",,"hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We propose a renormalizable model with no fundamental scalars which breaks
+itself in the manner of a ""tumbling"" gauge theory down to the standard model
+with a top-quark condensate. Because of anomaly cancellation requirements, this
+model contains two color sextet fermions (quixes), which are vector-like with
+respect to the standard model gauge group. The model also has a large number of
+pseudo-Nambu-Goldstone bosons, some of which can be light. The top-quark
+condensate is responsible for breaking the electroweak gauge symmetry and gives
+the top quark a large mass. We discuss the qualitative features and instructive
+shortcomings of the model in its present form. We also show that this model can
+be naturally embedded into an aesthetically pleasing model in which the
+standard model fermion families appear symmetrically.
+","[{""version"":""v1"",""created"":""Thu, 2 Apr 1992 14:56:52 GMT""},{""version"":""v2"",""created"":""Thu, 24 Jul 2008 16:24:11 GMT""}]","2009-10-22"
+"hep-th/9204002",,"T. T. Burwick and A. H. Chamseddine","Classical and Quantum Considerations of Two-dimensional Gravity","18 pages","Nucl.Phys. B384 (1992) 411-430","10.1016/0550-3213(92)90473-O",,"hep-th",,"  The two-dimensional theory of gravity describing a graviton-dilaton system is
+considered. The graviton-dilaton coupling can be fixed such that the quantum
+theory remains free of the conformal anomaly for any conformal dimension of the
+coupled matter system, even if the dilaton does not appear as Lagrange
+multiplier. Interaction terms are introduced and the system is analyzed and
+solutions are given at the classical level and at the quantum level by using
+canonical quantization.
+","[{""version"":""v1"",""created"":""Thu, 2 Apr 1992 15:02:00 GMT""}]","2009-10-22"

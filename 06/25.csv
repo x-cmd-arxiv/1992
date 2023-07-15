@@ -1,0 +1,112 @@
+"alg-geom/9206009","Temporary","G.Mikhalkin","The complex separation and extensions of Rokhlin congruence for curves
+  on surfaces","17 pages, LaTeX",,,,"alg-geom math.AG",,"  The subject of this paper is the problem of arrangement of real algebraic
+curves on real algebraic surfaces. In this paper we extend Rokhlin,
+Kharlamov-Gudkov-Krakhnov and Kharlamov-Marin congruences for curves on
+surfaces and give some applications of this extension.
+  For some pairs consisting of a surface and a curve on this surface (in
+particular for M-pairs) we introduce a new structure --- the complex separation
+that is separation of the complement of curve into two surfaces. In accordance
+with Rokhlin terminology the complex separation is a complex topological
+characteristic of real algebraic varieties. The complex separation is similar
+to complex orientations introduced by O.Ya.Viro (to the absolute complex
+orientation in the case when a curve is empty and to the relative complex
+orientation otherwise). In some cases we calculate the complex separation of a
+surface (for example in the case when surface is the double branched covering
+of another surface along a curve). With the help of these calculations
+applications of the extension of Rokhlin congruence gives some new restrictions
+for complex orientations of curves on a hyperboloid.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 22:09:25 GMT""}]","2008-02-03"
+"cond-mat/9206008","Terry Hwa","Terence Hwa","The Nonequilibrium Dynamics of Driven Line Liquids","12 pages plus 2 figures (included)",,"10.1103/PhysRevLett.69.1552",,"cond-mat",,"  We study the nonequilibrium dynamics of line liquids as realized in the
+nonlinear motion of flux lines of a superconductor driven by an applied
+electric current. Our analysis suggests a transition in the dynamics of the
+lines from a smooth, laminar phase at small driving forces, to a rough,
+turbulent phase when the drive is increased. We explore the nature of these
+phases and describe interesting analogies to driven diffusion and growing
+interfaces.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 18:21:56 GMT""}]","2009-10-22"
+"hep-lat/9206021","Ray Renken","Simon M. Catterall, John B. Kogut, and Ray L. Renken","Numerical Study of c>1 Matter Coupled to Quantum Gravity","12 pages","Phys.Lett. B292 (1992) 277-282","10.1016/0370-2693(92)91175-9","ILL-TH-92-8","hep-lat hep-th",,"  We present the results of a numerical simulation aimed at understanding the
+nature of the `c = 1 barrier' in two dimensional quantum gravity. We study
+multiple Ising models living on dynamical $\phi^3$ graphs and analyse the
+behaviour of moments of the graph loop distribution. We notice a universality
+at work as the average properties of typical graphs from the ensemble are
+determined only by the central charge. We further argue that the qualitative
+nature of these results can be understood from considering the effect of
+fluctuations about a mean field solution in the Ising sector.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 21:09:44 GMT""}]","2009-10-22"
+"hep-th/9206092","Heather Grove","Roman Jackiw and So-Young Pi","Finite and Infinite Symmetries in (2+1)-Dimensional Field Theory","23 double-spaced pages",,"10.1016/0920-5632(93)90375-G",,"hep-th",,"  These days, Franco Iachello is {\it the\/} eminent practitioner applying
+classical and finite groups to physics. In this he is following a tradition at
+Yale, established by the late Feza Gursey, and succeeding Gursey in the Gibbs
+chair; Gursey in turn, had Pauli as a mentor. Iachello's striking achievement
+has been to find an actual realization of arcane supersymmetry within mundane
+adjacent even-odd nuclei. Thus far this is the only {\it physical\/} use of
+supersymmetry, and its fans surely must be surprised at the venue. Here we
+describe the role of $SO(2,1)$ conformal symmetry in non-relativistic
+Chern--Simons theory: how it acts, how it controls the nature of solutions, how
+it expands to an infinite group on the manifold of static solutions thereby
+rendering the static problem completely integrable. Since Iachello has also
+used the $SO(2,1)$ group in various contexts, this essay is presented to him on
+the occasion of his fiftieth birthday.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 17:12:34 GMT""}]","2009-10-22"
+"hep-th/9206093","Heather Grove","Roman Jackiw","Gauge Theories for Gravity on a Line","17 double-spaced pages","Theor.Math.Phys. 92 (1992) 979-987; Teor.Mat.Fiz. 92 (1992)
+  404-414","10.1007/BF01017075",,"hep-th",,"  Professor M. C. Polivanov and I met only a few times, during my infrequent
+visits to the-then Soviet Union in the 1970's and 1980's. His hospitality at
+the Moscow Steclov Institute made the trips a pleasure, while the scientific
+environment that he provided made them professionally valuable. But it is the
+human contact that I remember most vividly and shall now miss after his death.
+At a time when issues of conscience were both pressing for attention and
+difficult/dangerous to confront, Professor Polivanov made a deep impression
+with his quiet but adamant commitment to justice. I can only guess at the
+satisfaction he must have felt when his goal of gaining freedom for Yuri Orlov
+was attained, and even more so these days when human rights became defensible
+in his country; it is regrettable that he cannot now enjoy the future that he
+strived to attain.
+  One of our joint interests was the Liouville theory,$^{1,\,2}$ which in turn
+can be viewed as a model for gravity in two-dimensional space-time. Some recent
+developments in this field are here summarized and dedicated to Polivanov's
+memory, with the hope that he would have enjoyed knowing about them.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 17:15:35 GMT""}]","2009-10-22"
+"hep-th/9206094","Heather Grove","Stanley Deser and Roman Jackiw","Time Travel?","19 double-spaced pages","Comments Nucl.Part.Phys.20:337-354,1992",,,"hep-th",,"  To travel into the past, to observe it, perhaps to influence it and correct
+mistakes of one's youth, has been an abiding fantasy of mankind for as long as
+we have been aware of a past. Here are described some recent scientific
+investigations on this topic.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 17:23:25 GMT""}]","2010-11-01"
+"hep-th/9206095",,"Ian I Kogan, Gordon W Semenoff, Nathan Weiss","Induced QCD and Hidden Local ZN Symmetry",,"Phys.Rev.Lett. 69 (1992) 3435-3438","10.1103/PhysRevLett.69.3435","ubctp92-022","hep-th hep-lat",,"  We show that a lattice model for induced lattice QCD which was recently
+proposed by Kazakov and Migdal has a $Z_N$ gauge symmetry which, in the strong
+coupling phase, results in a local confinement where only color singlets are
+allowed to propagate along links and all Wilson loops for non-singlets average
+to zero. We argue that, if this model is to give QCD in its continuum limit, it
+must have a phase transition. We give arguments to support presence of such a
+phase transition.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 18:55:00 GMT""}]","2009-10-22"
+"hep-th/9206096",,"H.Aratyn, L.A. Ferreira, J.F. Gomes, A.H. Zimerman","On Two-Current Realization of KP Hierarchy","28 pages, IFT-P/020/92-SAO-PAULO, Latex","Nucl.Phys. B402 (1993) 85-117","10.1016/0550-3213(93)90637-5",,"hep-th",,"  A simple description of the KP hierarchy and its multi-hamiltonian structure
+is given in terms of two Bose currents. A deformation scheme connecting various
+W-infinity algebras and relation between two fundamental nonlinear structures
+are discussed. Properties of Fa\'a di Bruno polynomials are extensively
+explored in this construction. Applications of our method are given for the
+Conformal Affine Toda model, WZNW models and discrete KP approach to Toda
+lattice chain.
+","[{""version"":""v1"",""created"":""Wed, 24 Jun 1992 20:46:06 GMT""}]","2009-10-22"
+"hep-th/9206097","De Jonghe Frank","F. De Jonghe, R. Siebelink, W. Troost, S. Vandoren, P. van
+  Nieuwenhuizen and A. Van Proeyen","The regularized BRST Jacobian of pure Yang-Mills theory","12 pages, latex, CERN-TH.6541/92, KUL-TF-92/24","Phys.Lett. B289 (1992) 354-360","10.1016/0370-2693(92)91231-W",,"hep-th",,"  The Jacobian for infinitesimal BRST transformations of path integrals for
+pure Yang-Mills theory, viewed as a matrix $\unity +\Delta J$ in the space of
+Yang-Mills fields and (anti)ghosts, contains off-diagonal terms. Naively, the
+trace of $\Delta J$ vanishes, being proportional to the trace of the structure
+constants. However, the consistent regulator $\cR$, constructed from a general
+method, also contains off-diagonal terms. An explicit computation demonstrates
+that the regularized Jacobian $Tr\ \Delta J\exp -\cR /M^2$ for $M^2\rightarrow
+\infty $ is the variation of a local counterterm, which we give. This is a
+direct proof at the level of path integrals that there is no BRST anomaly.
+","[{""version"":""v1"",""created"":""Thu, 25 Jun 1992 07:50:44 GMT""}]","2009-10-22"
+"hep-th/9206098","J. Goeree","Jan de Boer and Jacob Goeree","Covariant $W$ Gravity \& its Moduli Space from Gauge Theory","52 pages, THU-92/14","Nucl.Phys. B401 (1993) 369-412","10.1016/0550-3213(93)90308-C",,"hep-th",,"  In this paper we study arbitrary $W$ algebras related to embeddings of $sl_2$
+in a Lie algebra $g$. We give a simple formula for all $W$ transformations,
+which will enable us to construct the covariant action for general $W$ gravity.
+It turns out that this covariant action is nothing but a Fourier transform of
+the WZW action. The same general formula provides a geometrical interpretation
+of $W$ transformations: they are just homotopy contractions of ordinary gauge
+transformations. This is used to argue that the moduli space relevant to $W$
+gravity is part of the moduli space of $G$-bundles over a Riemann surface.
+","[{""version"":""v1"",""created"":""Thu, 25 Jun 1992 13:35:03 GMT""}]","2009-10-22"
+"hep-th/9206099",,"J. Alfaro and P.H. Damgaard","The D=1 Matrix Model and the Renormalization Group","8 pages, Latex, CERN-TH-6546/92","Phys.Lett. B289 (1992) 342-346","10.1016/0370-2693(92)91229-3",,"hep-th",,"  We compute the critical exponents of $d = 1$ string theory to leading order,
+using the renormalization group approach recently suggested by Br\'{e}zin and
+Zinn-Justin.
+","[{""version"":""v1"",""created"":""Thu, 25 Jun 1992 15:10:06 GMT""}]","2009-10-22"

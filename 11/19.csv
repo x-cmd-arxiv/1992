@@ -1,0 +1,179 @@
+"gr-qc/9211023","Neil Cornish","N. J. Cornish, J. W. Moffat and D. C. Tatarski","Gravitational Waves in the Nonsymmetric Gravitational Theory","10 Pages","Phys.Lett.A173:109-115,1993","10.1016/0375-9601(93)90172-V","UTPT-92-18","gr-qc",,"  We prove that the flux of gravitational radiation from an isolated source in
+the Nonsymmetric Gravitational Theory is identical to that found in Einstein's
+General Theory of Relativity.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 04:06:47 GMT""},{""version"":""v2"",""created"":""Fri, 27 Nov 1992 17:02:23 GMT""}]","2010-11-01"
+"gr-qc/9211024",,"R. Mansouri and M.Mohazzab (BROWN)","Tunneling in Anisotropic Cosmological Models","13 pages, phyzzx","Class.Quant.Grav.10:1353-1359,1993","10.1088/0264-9381/10/7/011","BROWN-HET-884","gr-qc",,"  Tunneling rate is investigated in homogenous and anisotropic cosmologies. The
+calculations is done by two methods: Euclidean and Hamiltonian approaches. It
+is found that the probability decreases exponentialy as anisotropy is
+increased.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 15:26:46 GMT""}]","2010-04-06"
+"hep-lat/9211051","Don Weingarten","F. Butler, H. Chen, A. Vaccarino, J. Sexton, and D. Weingarten","Infinite Volume, Continuum Limit of Valence Approximation Hadron Masses","10 pages of Latex + 2 PostScript files attached","Nucl. Phys. Proc. Suppl. 30 (1993) 377","10.1016/0920-5632(93)90231-T",,"hep-lat hep-ph",,"  We obtain estimates of several hadron mass ratios, for Wilson quarks in the
+valence (quenched) approximation, extrapolated to physical quark mass, infinite
+volume and zero lattice spacing.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 04:22:18 GMT""}]","2009-10-22"
+"hep-lat/9211052","Claus Vohwinkel","C. Vohwinkel","Yet another way to obtain low temperature expansions for discrete spin
+  systems","7 pages, DESY 92-161","Phys.Lett. B301 (1993) 208-212","10.1016/0370-2693(93)90690-J",,"hep-lat",,"  I present a modification of the shadow-lattice technique, which allows one to
+derive low temperature series for discrete spin models to high orders. Results
+are given for the 3-d Ising model up to 64 excited bonds, for the 4-d Ising
+model up to 96 excited bonds and the 3-d Potts model up to 56 excited bonds.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 13:04:00 GMT""}]","2009-10-22"
+"hep-ph/9211267","Lisa Randall","Lisa Randall and Eric Sather","Heavy Meson Hyperfine Splittings: A Puzzle for Heavy Quark Chiral
+  Perturbation Theory","11 pages (LaTeX, 2 PS figures available upon request), MIT-CTP#2166","Phys.Lett.B303:345-349,1993","10.1016/0370-2693(93)91443-Q",,"hep-ph",,"  We show that there is a large discrepancy between the expected light flavor
+dependence of the heavy pseudoscalar--vector mass splittings and the measured
+values. We demonstrate that the one--loop calculation is unreliable. Moreover,
+agreement with experiment requires the leading dependence on SU(3) symmetry
+breaking to be nearly cancelled, so that the heavy quark mass dependence is
+unknown and the expected dependence on the light quark mass is not realized.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 16:01:25 GMT""}]","2009-09-15"
+"hep-ph/9211268","Lisa Randall","Lisa Randall and Eric Sather","The QCD Scale in the Heavy Quark Expansion","10 pages (LaTeX), MIT-CTP#2167","Phys.Rev.D49:6236-6239,1994","10.1103/PhysRevD.49.6236",,"hep-ph",,"  We argue that consistency of the combined heavy quark and chiral effective
+lagrangian requires the QCD scale which multiplies $1/M$ in the heavy quark
+expansion to be the chiral symmetry breaking scale, $\Lambda_{CSB}$, rather
+than the QCD scale, $\Lambda_{QCD}$. This means that either there is large
+uncertainty in the accuracy with which the heavy quark effective theory can be
+applied to $c$ quarks or the cutoff scale of the heavy quark chiral effective
+theory is lower than has been assumed.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 16:05:40 GMT""}]","2009-09-15"
+"hep-ph/9211269",,"S.M. Bilenky and C. Giunti","See-Saw Type Mixing and $ \nu_{\mu} \to \nu_{\tau} $ Oscillations","DFTT 66/92. LaTeX file, 7 pages, no figures","Phys.Lett. B300 (1993) 137-140","10.1016/0370-2693(93)90760-F",,"hep-ph",,"  We consider $ \nu_{\mu} \to \nu_{\tau} $ oscillations under the assumption
+that there is a see-saw type mixing of the light neutrinos with heavy Majorana
+particles. It is shown that the existing data, including the recent LEP data,
+do not exclude the possibility that the additional terms in the transition
+probability due to this mixing could be of the same order of magnitude as the
+usual oscillating term. Detail investigations of $ \nu_{\mu} \to \nu_{\tau} $
+transitions in future CERN and Fermilab experiments could allow to get
+informations not only about the neutrino masses and mixing but also about the
+mixing of neutrinos with heavy Majorana particles.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 18:03:00 GMT""}]","2009-10-22"
+"hep-ph/9211270",,"Vidyut Jain","Leading Higgs Mass Dependent Corrections to the Standard Model
+  Lagrangian and its Two Higgs Doublet Extension","23 Pages, 1 Figure (not included), Latex File",,,,"hep-ph",,"  We present an alternative calculation for the leading Higgs mass dependent
+one--loop corrections to the standard model Lagrangian, using a background
+field technique. Cross--sections computed from our one--loop Lagrangian provide
+a check of and reproduce results already obtained in the existing literature
+using diagrammatic methods, as well as allowing an analysis of other processes
+involving longitudinally polarized $W^\pm$s and $Z^0$s. We concentrate on the
+processes $WW\rightarrow f\bar{f}$ and $f\bar{f}\rightarrow WW$. We extend our
+result to the case of a two Higgs doublet model, when one of the physical Higgs
+is much heavier than the other particles and analyze the tree+one--loop
+unitarity bounds on the scale at which signs of a strongly interacting sector
+(or the heaviest Higgs) must turn up.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 20:27:03 GMT""}]","2007-05-23"
+"hep-ph/9211271","Francesca Borzumati","F. Borzumati","Resolved Virtual Photon Contributions to inelastic $e-p$ Scattering","4 pages, LaTeX, 2 uuencoded PS figures included; contribution to XV
+  Meeting on Elementary Particle Physics, Kazimierz, Poland, May 1992",,"10.1007/BF01554087",,"hep-ph",,"  The problem of dealing with the resolved photon contribution to
+$P^2$-integrated $ep$ cross sections is discussed. Suitable approximations have
+to be found, since no parametrization of the photon structure function in the
+full range of virtuality of the exchanged photon exists.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 23:21:54 GMT""}]","2009-10-22"
+"hep-ph/9211272",,"G.A. Ladinsky and C.-P. Yuan","A Probe of New Physics in Top Quark Pair Production at $e^-e^+$
+  Colliders","24 pages in TeXsis (figures available upon request) (revised July
+  1993)","Phys.Rev.D49:4415-4426,1994","10.1103/PhysRevD.49.4415","MSUTH-92/07","hep-ph",,"  We describe how to probe new physics through examination of the form factors
+describing the Ztt couplings via the scattering process e^-e^+->t+tbar. We
+focus on experimental methods on how the top quark momentum can be determined
+and show how this can be applied to select polarized samples of $t\bar{t}$
+pairs through the angular correlations in the final state leptons. We also
+study the dependence on the energy and luminosity of an \ee\ collider to probe
+a CP violating asymmetry at the $10^{-2}$ level.}
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 23:52:36 GMT""},{""version"":""v2"",""created"":""Fri, 3 Dec 1993 16:18:20 GMT""}]","2010-11-01"
+"hep-ph/9211273","Francesca Borzumati","F. Borzumati","$b \to s \gamma$ and Minimal Supersymmetry","5 pages, [two figures not included] contribution to XV Meeting on
+  Elementary Particle Physics, Kazimierz, Poland, May 1992",,,,"hep-ph",,"  The contribution to the decay $b\to s \gamma$ in the Minimal Supersymmetric
+Standard Model with radiative electroweak breaking is presented. The impact of
+a detection of this inclusive decay at the SM level is discussed. Results for
+other inclusive $b-s$ transitions are also mentioned.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 23:39:36 GMT""},{""version"":""v2"",""created"":""Thu, 26 Nov 1992 17:33:20 GMT""}]","2008-02-03"
+"hep-ph/9211275",,"C.-P. Yuan","Proposals for Studying TeV $W_L W_L \rightarrow W_L W_L$ Interactions
+  Experimentally","PHYZZX, 14 pages, MSUTH 92/06",,"10.1142/9789814440783_0014",,"hep-ph",,"  We discuss how to experimentally study the symmetry breaking sector by
+observing $W_L W_L \rightarrow W_L W_L$ interactions in the TeV region. We
+discuss some general features of the event structure in the signal and
+background events. Various tricks to enhance the signal--to--background ratio
+are also presented. We show how to detect longitudinal $W$--bosons either in
+the central rapidity region of the detector or in the beam pipe direction.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 05:23:28 GMT""}]","2016-11-03"
+"hep-ph/9211276",,"Xiao-Gang He, J.P. Ma and B. McKellar","CP violation in $J/\psi \rightarrow \Lambda \bar \Lambda$","8 pages, RevTex, UM-P-92/113, OZ-92/36","Phys.Rev.D47:1744-1746,1993","10.1103/PhysRevD.47.R1744",,"hep-ph",,"  We study CP violation in $J/\psi \rightarrow \Lambda \bar{\Lambda}$ decay.
+This decay provides a good place to look for CP violation. Some observables are
+very sensitive to the $\Lambda$ electric dipole moment $d_\Lambda$ and
+therefore can be used to improve the experimental upper bound on $d_\Lambda$.
+CP violations in the lepton pair decays of $J/\psi$ and $\Upsilon$ are also
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 05:45:01 GMT""}]","2009-12-30"
+"hep-ph/9211278","Michal Praszalowicz","M. Praszalowicz","Strangeness in the Skyrme and in Nambu-Jona Lasinio Models","(Talk at Siegen Workshop on Skyrmions, October 1992, to be published
+  in the proceedings) 13 pages, LaTeX, psfig",,,,"hep-ph",,"  We discuss the phenomenology of SU(3) Skyrme and Nambu--Jona-Lasinio models.
+We show that while the Skyrme model, in its simplest version, is unable do
+reproduce the hyperon spectrum, the NJL model describes both hyperon and
+isospin splittings with satisfactory accuracy. The difference between the two
+models lies in new {\em anomalous} moments of inertia, which vanish in the
+Skyrme model and get non-zero contribution from the {\em valence} quarks in the
+NJL model
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 13:04:58 GMT""},{""version"":""v2"",""created"":""Fri, 20 Nov 1992 10:09:34 GMT""}]","2008-02-03"
+"hep-th/9211084","A. Sagnotti","Gianfranco Pradisi and Augusto Sagnotti","New Developments in Open - String Theories","17 pages, phyzzx",,,"ROM2F-92-53","hep-th",,"  The study of string models including both unoriented closed strings and open
+strings presents a number of new features when compared to the standard case of
+models of oriented closed strings only. We review some basic features of the
+construction of these models, describing in particular how gauge symmetry
+breaking can be achieved in this case. We also review some peculiar properties
+of the Green-Schwarz anomaly cancellation mechanism that present themselves in
+lower-dimensional open-string models.(Figures not included) (Talk presented at
+the Tenth National General Relativity Conference, Bardonecchia, September 1992)
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 16:21:07 GMT""}]","2007-05-23"
+"hep-th/9211085",,"Sumit R. Das","The One Dimensional Matrix Model and String Theory","(Based on lectures delivered at the Spring School on Superstrings at
+  ICTP, Trieste, April, 1992.) 40 pages. Preprint TIFR-TH-92/67",,,,"hep-th",,"  We discuss the basic features of the double scaling limit of the one
+dimensional matrix model and its interpretation as a two dimensional string
+theory. Using the collective field theory formulation of the model we show how
+the fluctuations of the collective field can be interpreted as the massless
+""tachyon"" of the two dimensional string in a linear dilaton background. We
+outline the basic physical properties of the theory and discuss the nature of
+the S-matrix. Finally we show that the theory admits of another interpretation
+in which a certain integral transform of the collective field behaves as the
+massless ""tachyon"" in the two dimensional string with a blackhole background.
+We show that both the classical background and the fluctuations are
+non-singular at the black hole singularity.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 12:29:19 GMT""}]","2007-05-23"
+"hep-th/9211086",,"S. Randjbar-Daemi and J. Strathdee","The Renormalization Group for Flag Manifolds","22 pages","Int.J.Mod.Phys. A8 (1993) 3509-3528","10.1142/S0217751X93001417","IC/92/354","hep-th",,"  The renormalization group equations for a class of non--relativistic quantum
+$\sigma$--models targeted on flag manifolds are given. These models emerge in a
+continuum limit of generalized Heisenberg antiferromagnets. The case of the
+${SU(3)\over U(1)\times U(1)}$ manifold is studied in greater detail. We show
+that at zero temperature there is a fixed point of the RG transformations in
+$(2+\varepsilon )$--dimensions where the theory becomes relativistic. We study
+the linearized RG transformations in the vicinity of this fixed point and show
+that half of the couplings are irrelevant. We also show that at this fixed
+point there is an enlargement of the global isometries of the target manifold.
+We construct a discrete non--abelian enlargement of this kind.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 11:27:00 GMT""}]","2015-06-26"
+"hep-th/9211087","Hidetosi Awata","Hidetoshi Awata","Exchange Relations for the q-Vertex Operators of $U_q(\widehat{sl2})$","20pp","Prog.Theor.Phys. 89 (1993) 771-786","10.1143/ptp/89.4.771","EPHOU-92-013","hep-th",,"  We consider the q-deformed Knizhnik-Zamolodchikov equation for the two point
+function of q-deformed vertex operators of $U_q(sl_2^)$. We give explicitly the
+fundamental solutions, the connection matrices and the exchange relations for
+the q-vertex operators of spin 1/2 and $j \in {1\over 2}{\bf Z}_{\geq 0}$.
+Consequently, we confirm that the connection matrices are equivalent to the
+elliptic Boltzman weights of IRF type obtained by the fusion procedure from ABF
+models.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 13:41:47 GMT""}]","2017-02-01"
+"hep-th/9211088","Jean-Loup Gervais","Jean-Loup Gervais, Lochlainn O'Raifeartaigh, Alexander V. Razumov,
+  Mikhail V. Saveliev","Gauge Conditions for the Constrained-WZNW--Toda Reductions","12 pages, no figures","Phys.Lett. B301 (1993) 41-48","10.1016/0370-2693(93)90718-W","DIAS--92/27, IHEP 92-155, LPTENS--92/40, NI92008","hep-th",,"  There is a constrained-WZNW--Toda theory for any simple Lie algebra equipped
+with an integral gradation. It is explained how the different approaches to
+these dynamical systems are related by gauge transformations. Combining Gauss
+decompositions in relevent gauges, we unify formulae already derived, and
+explictly determine the holomorphic expansion of the conformally reduced WZNW
+solutions - whose restriction gives the solutions of the Toda equations. The
+same takes place also for semi-integral gradations. Most of our conclusions are
+also applicable to the affine Toda theories.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 14:16:52 GMT""}]","2009-10-22"
+"hep-th/9211089","Netah","Rolf Schimmrigk","Novel Flows beteen N=2 Landau-Ginzburg Theories: New Directions in
+  Moduli Space via c=0 Theories","10 pages, HD-THEP-92-37","Theor. Math. Phys. 95 (1993) 595-603",,,"hep-th",,"  A new method for constructing flows between distinct Landau-Ginzburg theories
+at fixed central charge is presented. The essential ingredient of the
+construction is an enlarged moduli space obtained by adding theories with zero
+central charge. The flows involve only marginal directions hence they can be
+applied to transitions between string vacua, in particular to the construction
+of mirror pairs of string ground states described by RG fixed points of N=2
+supersymmetric Landau--Ginzburg theories. In contrast to previous methods this
+new construction of mirror theories does not depend on particular symmetries of
+the original theory.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 12:52:17 GMT""}]","2007-05-23"
+"hep-th/9211093",,"A.P.Isaev and P.N.Pyatov","GLq(N)-Covariant Quantum Algebras and Covariant Differential Calculus","13 pages, Dubna Preprint JINR E2-92-477","Phys.Lett.A179:81-90,1993","10.1016/0375-9601(93)90654-I",,"hep-th",,"  We consider GLq(N)-covariant quantum algebras with generators satisfying
+quadratic polynomial relations. We show that, up to some inessential
+arbitrariness, there are only two kinds of such quantum algebras, namely, the
+algebras with q-deformed commutation and q-deformed anticommutation relations.
+The connection with the bicovariant differential calculus on the linear quantum
+groups is disscussed.
+","[{""version"":""v1"",""created"":""Thu, 19 Nov 1992 14:09:12 GMT""}]","2010-11-01"
+"math/9211212",,"Jerzy Szulga","Infinite order decoupling of random chaoses in Banach space",,,,"Banach Archive 11/18/92","math.FA",,"  We prove a number of decoupling inequalities for nonhomogeneous random
+polynomials with coefficients in Banach space. Degrees of homogeneous
+components enter into comparison as exponents of multipliers of terms of
+certain Poincar\'e-type polynomials. It turns out that the fulfillment of most
+of types of decoupling inequalities may depend on the geometry of Banach space.
+","[{""version"":""v1"",""created"":""Wed, 18 Nov 1992 20:47:04 GMT""}]","2016-09-06"

@@ -1,0 +1,33 @@
+"hep-th/9205053","Novreddine Mohammedi","Noureddine Mohammedi","A Non Degenerate Semi-Classical Lagrangian for Dilaton-Gravity in Two
+  Dimensions","12 pages","Mod.Phys.Lett.A7:3071-3080,1992","10.1142/S0217732392002469","ICTP prepint IC/92/73","hep-th",,"  An action for two dimensional gravity conformally coupled to two dilaton-type
+fields is analysed. Classically, the theory has some exact solutions. These
+include configurations representing black holes. A semi-classical theory is
+obtained by assuming that these singular solutions are caused by the collapse
+of some matter fields. The semi-classical equations of motion reveal then that
+any generic solution must have a flat geometry.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 16:29:02 GMT""}]","2010-11-01"
+"hep-th/9205054",,"H.Lu, C.N. Pope, X.J. Wang and K.W. Xu","Aspects of N=2 Super-W_n Strings","18 pages","Int.J.Mod.Phys.A8:351-373,1993","10.1142/S0217751X9300014X","CTP TAMU-29/92","hep-th",,"  We construct $N=2$ super-$W_{n+1}$ strings and obtain the complete physical
+spectrum, for arbitrary $n \ge 2$. We also derive more general realisations of
+the super-$W_{n+1}$ algebras in terms of $k$ commuting $N=2$ super
+energy-momentum tensors and $n-k$ pairs of complex superfields, with $0\le k
+\le [\ft{n+1}{2}]$.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 18:17:59 GMT""}]","2009-10-07"
+"hep-th/9205055","Tetsuji Miwa","Michio Jimbo, Kei Miki, Tetsuji Miwa, Atsushi Nakayashiki","Correlation Functions of the XXZ model for $\Delta<-1$","10 pages","Phys.Lett.A168:256-263,1992","10.1016/0375-9601(92)91128-E",,"hep-th nlin.SI solv-int",,"  A new approach to the correlation functions is presented for the XXZ model in
+the anti-ferroelectric regime. The method is based on the recent realization of
+the quantum affine symmetry using vertex operators. With the aid of a boson
+representation for the latter, an integral formula is found for correlation
+functions of arbitrary local operators. As a special case it reproduces the
+spontaneous staggered polarization obtained earlier by Baxter.
+","[{""version"":""v1"",""created"":""Sat, 16 May 1992 06:57:53 GMT""},{""version"":""v2"",""created"":""Tue, 19 May 1992 10:57:04 GMT""}]","2016-09-06"
+"hep-th/9205056","C. V. Johnson","Clifford V.Johnson, Tim R. Morris and Anders W\""atterstam","Global KdV Flows and Stable 2D Quantum Gravity","11pp, 6 figs (not included, available by mail from authors), plain
+  TEX","Phys.Lett.B291:11-18,1992","10.1016/0370-2693(92)90112-H","SHEP 91/92--25 and G\""oteborg ITP 92--21","hep-th",,"  The string equation for the $[{\tilde P},Q]=Q$ formulation of
+non--perturbatively stable 2D quantum gravity coupled to the $(2m-1,2)$ models
+is studied. Global KdV flows between the appropriate solutions are considered
+as deformations of two compatible linear problems. It is demonstrated that the
+necessary conditions for such flows to exist are satisfied. A numerical study
+reveals such flows between the pole--free solutions of pure gravity ($m=2$),
+the Lee--Yang edge model ($m=3$) and topological gravity ($m=1$). We conjecture
+that this is the case for all of the $m$--critical models. As the $m=1$
+solution is unique these global flows define a {\sl unique} solution for each
+$m$--critical model.
+","[{""version"":""v1"",""created"":""Sat, 16 May 1992 15:11:47 GMT""}]","2011-07-19"

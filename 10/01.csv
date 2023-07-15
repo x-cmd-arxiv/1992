@@ -1,0 +1,270 @@
+"cond-mat/9210001",,"Jukka A. Ketoja","Universal criterion for the breakup of invariant tori in dissipative
+  systems","13 pages",,"10.1103/PhysRevLett.69.2180","HU-TFT-92-19","cond-mat",,"  The transition from quasiperiodicity to chaos is studied in a two-dimensional
+dissipative map with the inverse golden mean rotation number. On the basis of a
+decimation scheme, it is argued that the (minimal) slope of the critical
+iterated circle map is proportional to the effective Jacobian determinant.
+Approaching the zero-Jacobian-determinant limit, the factor of proportion
+becomes a universal constant. Numerical investigation on the dissipative
+standard map suggests that this universal number could become observable in
+experiments. The decimation technique introduced in this paper is readily
+applicable also to the discrete quasiperiodic Schrodinger equation.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 06:03:00 GMT""}]","2009-10-22"
+"gr-qc/9209014","J. David Brown","J. David Brown and James W. York","The Microcanonical Functional Integral. I. The Gravitational Field","29 pages, plain TeX","Phys.Rev. D47 (1993) 1420-1431","10.1103/PhysRevD.47.1420",,"gr-qc hep-th",,"  The gravitational field in a spatially finite region is described as a
+microcanonical system. The density of states $\nu$ is expressed formally as a
+functional integral over Lorentzian metrics and is a functional of the
+geometrical boundary data that are fixed in the corresponding action. These
+boundary data are the thermodynamical extensive variables, including the energy
+and angular momentum of the system. When the boundary data are chosen such that
+the system is described semiclassically by {\it any} real stationary
+axisymmetric black hole, then in this same approximation $\ln\nu$ is shown to
+equal 1/4 the area of the black hole event horizon. The canonical and grand
+canonical partition functions are obtained by integral transforms of $\nu$ that
+lead to ""imaginary time"" functional integrals. A general form of the first law
+of thermodynamics for stationary black holes is derived. For the simpler case
+of nonrelativistic mechanics, the density of states is expressed as a real-time
+functional integral and then used to deduce Feynman's imaginary-time functional
+integral for the canonical partition function.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 16:56:21 GMT""}]","2009-10-22"
+"gr-qc/9209015","Juan Garcia-Bellido","Luis J. Garay and Juan Garcia-Bellido","Jordan-Brans-Dicke Quantum Wormholes and Coleman's Mechanism","22 pp, 1 figure available upon request, LaTeX. Conclusions have been
+  changed","Nucl.Phys. B400 (1993) 416-434","10.1016/0550-3213(93)90411-H","IEM-FT-59/92","gr-qc hep-th",,"  We consider the quantum gravity and cosmology of a Jordan-Brans-Dicke theory,
+predicted by string effective actions. We study its canonical formalism and
+find that the constraint algebra is that of general relativity, as a
+consequence of the general covariance of scalar-tensor theories. We also
+analyze the problem of boundary conditions and propose that they must be
+imposed in the Jordan frame, in which particles satisfy the strong equivalence
+principle. Specifically, we discuss both Hartle-Hawking and wormhole boundary
+conditions in the context of quantum cosmology. We find quantum wormhole
+solutions for Jordan-Brans-Dicke gravity even in the absence of matter.
+Wormholes may affect the constants of nature and, in particular, the
+Brans-Dicke parameter. Following Coleman's mechanism, we find a probability
+distribution which is strongly peaked at zero cosmological constant and
+infinite Brans-Dicke parameter. That is, we recover general relativity as the
+effective low energy theory of gravity.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 16:58:14 GMT""},{""version"":""v2"",""created"":""Mon, 5 Oct 1992 18:58:22 GMT""}]","2009-10-22"
+"hep-lat/9210001",,"Bernd Bruegmann","Non-uniform measure in 4d simplicial quantum gravity","SU-GP-92/9-1 12 pages text, 12 figures on 3 pages included as
+  postscript file","Phys.Rev.D47:3330-3338,1993","10.1103/PhysRevD.47.3330",,"hep-lat",,"  Four-dimensional euclidean quantum gravity has been studied as a discrete
+model based on dynamical triangulations by Ambjorn and Jurkiewicz and by
+Agishtein and Migdal. We discuss a particular implementation of a Monte Carlo
+simulation of simplicial quantum gravity. As an application we introduce a
+non-uniform measure and examine its effect on simple aspects of the
+mathematical geometry. We find that the transition region from the hot to the
+cold phase is shifted and that the criticality of the transition changes.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 15:13:00 GMT""}]","2008-11-26"
+"hep-lat/9210003","Gunnar Bali","G.S. Bali and K. Schilling","The Running Coupling from SU(3) Gauge Theory","(Talk G. Bali at Lattice 92, Amsterdam), 4 Pages, 4 Postscript
+  figures, LaTeX with espcrc2, and epsf style files","Nucl. Phys. Proc. Suppl. 30 (1993) 513","10.1016/0920-5632(93)90262-5",,"hep-lat",,"  We present high precision results on the static quark-antiquark-potential on
+32^4 and smaller lattices, using the standard Wilson action at BETA = 6.0, 6.2,
+6.4, and 6.8 on the Connection Machine CM-2. Within our statistical errors (1%)
+we did not observe any finite size effects affecting the potential values, on
+varying the spatial lattice extent from 0.9 fm up to 3.3 fm. We find violations
+of asymptotic scaling in the bare coupling up to BETA = 6.8. We demonstrate
+that scaling violations on the string tension can be considerably reduced by
+introducing effective coupling schemes, which allow for a safer extrapolation
+of LAMBDA_Lattice to its continuum value. We are also able to see and to
+quantify the running of the coupling from the interquark force. From this we
+extract the ratio \sqrt{SIGMA}/LAMBDA_L. Both methods yield consistent values
+for the LAMBDA-parameter: LAMBDA_MSbar = 0.558(-0.007+0.017)\sqrt{SIGMA}
+  = 246(-3+7) MeV.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 11:25:59 GMT""}]","2009-10-22"
+"hep-ph/9209298","Andrew Jaffe","Andrew H. Jaffe, Ed Fenimore, Michael S. Turner","Limits on Neutrino Radiative Decay from Sn1987a","5 Pages, 2 Figures (avalable on request). LaTeX, WorldSci.sty",,,,"hep-ph astro-ph",,"  We calculate limits on the properties of neutrinos using data from gamma-ray
+detectors on the Pioneer Venus Orbiter and Solar Max Mission satellites. A
+massive neutrino decaying in flight from the supernova would produce gamma rays
+detectable by these instruments. The lack of such a signal allows us to
+constrain the mass, radiative lifetime, and branching ratio to photons of a
+massive neutrino species produced in the supernova. Presented at Beyond The
+Standard Model III, June, 1992.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 19:39:20 GMT""}]","2007-05-23"
+"hep-ph/9209299","Cliff Burgess","C.P. Burgess and J.M. Cline","Majorons Without Majorana Masses and Neutrinoless Double Beta Decay","13 pages, 1 figure (not included), McGill/92-22","Phys.Lett. B298 (1993) 141-148","10.1016/0370-2693(93)91720-8",,"hep-ph",,"  We explain excess events near the endpoints of the double beta decay spectra
+of several elements, using the neutrinoless emission of massless Goldstone
+bosons. Models with scalars carrying lepton number $-2$ are proposed for this
+purpose so that ordinary neutrinoless double beta decay is forbidden, and we
+can raise the scale of global symmetry breaking above the 10 keV scale needed
+for observable emission of conventional Majorons in double beta decay. The
+electron spectrum has a different shape, and the rate depends on different
+nuclear matrix elements, than for the emission of ordinary Majorons.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 21:51:30 GMT""}]","2009-10-22"
+"hep-th/9209129",,"G. Ferretti, S.G. Rajeev and Z. Yang","Three Dimensional Quantum Chromodynamics","7 pages, Plain TEX, talk presented by S.G. Rajeev at the XXVI
+  INTERNATIONAL CONFERENCE ON HIGH ENERGY PHYSICS, DALLAS TX AUG. 1992",,"10.1063/1.43442","UR-1278, ER-40685-730","hep-th",,"  The subject of this talk was the review of our study of three ($2+1$)
+dimensional Quantum Chromodynamics. In our previous works, we showed the
+existence of a phase where parity is unbroken and the flavor group $U(2n)$ is
+broken to a subgroup $U(n)\times U(n)$. We derived the low energy effective
+action for the theory and showed that it has solitonic excitations with Fermi
+statistic, to be identified with the three dimensional ``baryon''. Finally, we
+studied the current algebra for this effective action and we found a
+co-homologically non trivial generalization of Kac-Moody algebras to three
+dimensions.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 20:14:00 GMT""}]","2009-10-22"
+"hep-th/9209130","Samson Shatashvili","Sergei Lukyanov and Samson L. Shatashvili","Free Field Representation for the Classical Limit of Quantum Affine
+  Algebra","7p, IASSNS-HEP-92/62, RU-92/37","Phys.Lett. B298 (1993) 111-115","10.1016/0370-2693(93)91715-Y",,"hep-th",,"  Free field representation for the classical limit of quantum affine algebra
+is constructed by simple deformation of the known expressions from WZW theory.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 20:55:39 GMT""}]","2009-10-22"
+"hep-th/9209131","Judy Mack","C. R. Hagen","Comment on Disassembling Anyons","3 pages",,,"UR-1276","hep-th",,"  It is pointed out that Chern-Simons theories do not allow an anyon
+interpretation when spin is included.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 16:33:00 GMT""}]","2007-05-23"
+"hep-th/9209132","Judy Mack","C. R. Hagen","Comment on Internal Frame Dragging and a Global Analog of the
+  Aharonov-Bohm Effect","3 pages",,,"UR1268","hep-th",,"  It is shown that AB-like cross sections can be obtained from symmetry
+breaking which does not require infinite energy, angular dependence in the
+symmetry breaking term, or a nontrivial $Z_2$ charge.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 17:03:00 GMT""}]","2007-05-23"
+"hep-th/9210001","Paul F. Mende","Paul F. Mende","String Theory at Short Distance and the Principle of Equivalence","15 pages, phyzzx, Brown-HET-875",,,,"hep-th astro-ph gr-qc",,"  Point particles fall freely along geodesics; strings do not. In string theory
+all probes of spacetime structure, including photons, are extended objects and
+therefore always subject to tidal forces. We illustrate how string theory
+modifies the behavior of light in weak gravitational fields and limits the
+applicability of the principle of equivalence. This gives in principle a window
+on the short-distance structure of geometry in quantum gravity where one can
+see in a model-independent way how some of its predictions differ from those of
+classical gravity. We compare this with the lessons of high-energy string
+scattering.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 06:12:48 GMT""}]","2007-05-23"
+"hep-th/9210002","J. L. Cardy","John L. Cardy","Critical Exponents of the Chiral Potts Model from Conformal Field Theory","15 pages","Nucl.Phys. B389 (1993) 577-586","10.1016/0550-3213(93)90353-Q","IN92003, UCSBTH-92-37","hep-th cond-mat",,"  The $Z_N$-invariant chiral Potts model is considered as a perturbation of a
+$Z_N$ conformal field theory. In the self-dual case the renormalization group
+equations become simple, and yield critical exponents and anisotropic scaling
+which agree with exact results for the super-integrable lattice models.
+Although the continuum theory is not Lorentz invariant, it respects a novel
+type of space-time symmetry which allows for the observed spontaneous breaking
+of translational symmetry in the ground state. The continuum theory is shown to
+possess an infinite number of conserved charges on the self-dual line, which
+remain conserved when the theory is perturbed by the energy operator.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 10:10:00 GMT""}]","2009-10-22"
+"hep-th/9210003","Guido Cognola","Guido Cognola and Luciano Vanzo","Bose-Einstein condensation of scalar fields on hyperbolic manifolds","LaTex","Phys.Rev. D47 (1993) 4575-4580","10.1103/PhysRevD.47.4575","UTF 269","hep-th",,"  The problem of Bose-Einstein condensation for a relativistic ideal gas on a
+3+1 dimensional manifold with a hyperbolic spatial part is analyzed in some
+detail. The critical temperature is evaluated and its dependence of curvature
+is pointed out.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 13:05:29 GMT""}]","2009-10-22"
+"hep-th/9210004","J. Goeree","F. A. Bais, T. Tjin, P. van Driel, J. de Boer and J. Goeree","W Algebras, W Gravities and their Moduli Spaces","8 pages, THU-92/26, ITFA-92/24",,,,"hep-th",,"  By generalizing the Drinfel'd--Sokolov reduction we construct a large class
+of W algebras as reductions of Kac--Moody algebras. Furthermore we construct
+actions, invariant under local left and right W transformations, which are the
+classical covariant induced actions for W gravity. Talk presented by T. Tjin at
+the Trieste Summerschool on strings and related topics.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 14:40:25 GMT""}]","2007-05-23"
+"hep-th/9210005","Charles Nash","Charles Nash and Denjoe O' Connor","Ray-Singer Torsion, Topological field theories and the Riemann zeta
+  function at s=3","10 pages",,,,"hep-th math.DG",,"  Starting with topological field theories we investigate the Ray-Singer
+analytic torsion in three dimensions. For the lens Spaces L(p;q) an explicit
+analytic continuation of the appropriate zeta functions is contructed and
+implemented. Among the results obtained are closed formulae for the individual
+determinants involved, the large $p$ behaviour of the determinants and the
+torsion, as well as an infinite set of distinct formulae for zeta(3): the
+ordinary Riemann zeta function evaluated at s=3.
+  The torsion turns out to be trivial for the cases L(6,1), L((10,3) and
+L(12,5) and is, in general, greater than unity for large p and less than unity
+for a finite number of p and q.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 14:36:24 GMT""}]","2008-02-03"
+"math/9210212","Peter W. Michor","Peter W. Michor","Radon transform and curvature",,"Proceedings of the conference `75 years of Radon transform',
+  Vienna 1992, International Press, Cambridge, MA, (1994), 249--251",,"ESI Preprint 4; Michor 99-08","math.DG math.FA",,"  We interpret the setting for a Radon transform as a submanifold of the space
+of generalized functions, and compute its extrinsic curvature: it is the
+Hessian composed with the Radon transform.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2012-05-30"
+"math/9210213",,"Noga Alon, Daniel J. Kleitman","Piercing convex sets","5 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 252-256",,"Bulletin migration 11/99","math.MG",,"  A family of sets has the $(p,q)$ property if among any $p$ members of the
+family some $q$ have a nonempty intersection. It is shown that for every $p\ge
+q\ge d+1$ there is a $c=c(p,q,d)<\infty$ such that for every family $\scr F$ of
+compact, convex sets in $R^d$ that has the $(p,q)$ property there is a set of
+at most $c$ points in $R^d$ that intersects each member of $\scr F$. This
+extends Helly's Theorem and settles an old problem of Hadwiger and Debrunner.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9210214",,"P. D. T. A. Elliott","Additive functions on shifted primes","6 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 273-278",,"Bulletin migration 11/99","math.NT",,"  Best possible bounds are obtained for the concentration function of an
+additive arithmetic function on sequences of shifted primes.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9210215","Fritz Gesztesy","Fritz Gesztesy, Witold Karwowski, Zhong Xin Zhao","New types of soliton solutions","7 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 266-272",,"Bulletin migration 11/99","math.AP math.SP",,"  We announce a detailed investigation of limits of N-soliton solutions of the
+Korteweg-deVries (KdV) equation as $N$ tends to infinity. Our main results
+provide new classes of KdV-solutions including in particular new types of
+soliton-like (reflectionless) solutions. As a byproduct we solve an inverse
+spectral problem for one-dimensional Schr\""odinger operators and explicitly
+construct smooth and real-valued potentials that yield a purely absolutely
+continuous spectrum on the nonnegative real axis and give rise to an eigenvalue
+spectrum that includes any prescribed countable and bounded subset of the
+negative real axis.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9210216","Steen Markvorsen","Karsten Grove, Steen Markvorsen","Curvature, triameter, and beyond","5 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 261-265",,"Bulletin migration 11/99","math.DG math.MG",,"  In its most general form, the recognition problem in Riemannian geometry asks
+for the identification of an unknown Riemannian manifold via measurements of
+metric invariants on the manifold. We introduce a new infinite sequence of
+invariants, the first term of which is the usual diameter, and illustrate the
+role of these global shape invariants in a number of recognition problems.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9210217",,"Stuart P. Hastings, William C. Troy","A shooting approach to the Lorenz equations","6 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 298-303",,"Bulletin migration 11/99","math.DS",,"  We announce and outline a proof of the existence of a homoclinic orbit of the
+Lorenz equations. In addition, we develop a shooting technique and two key
+conditions, which lead to the existence of a one-to-one correspondence between
+a set of solutions and the set of all infinite sequences of 1's and 3's.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9210218","Igor Rivin","Craig D. Hodgson, Igor Rivin, Warren D. Smith","A characterization of convex hyperbolic polyhedra and of convex
+  polyhedra inscribed in the sphere","6 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 246-251",,"Bulletin migration 11/99","math.MG",,"  We describe a characterization of convex polyhedra in $\h^3$ in terms of
+their dihedral angles, developed by Rivin. We also describe some geometric and
+combinatorial consequences of that theory. One of these consequences is a
+combinatorial characterization of convex polyhedra in $\E^3$ all of whose
+vertices lie on the unit sphere. That resolves a problem posed by Jakob Steiner
+in 1832.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9210219",,"Hans-J\""urgen Hoehnke, Kenneth W. Johnson","The 1-, 2-, and 3-characters determine a group","3 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 243-245",,"Bulletin migration 11/99","math.GR",,"  A set of invariants for a finite group is described. These arise naturally
+from Frobenius' early work on the group determinant and provide an answer to a
+question of Brauer. Whereas it is well known that the ordinary character table
+of a group does not determine the group uniquely, it is a consequence of the
+results presented here that a group is determined uniquely by its
+``3-character'' table.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9210220",,"Brian R. Hunt","Prevalence: a translation-invariant ``almost every'' on
+  infinite-dimensional spaces","22 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 217-238",,"Bulletin migration 11/99","math.FA math.DS",,"  We present a measure-theoretic condition for a property to hold ``almost
+everywhere'' on an infinite-dimensional vector space, with particular emphasis
+on function spaces such as $C^k$ and $L^p$. Like the concept of ``Lebesgue
+almost every'' on finite-dimensional spaces, our notion of ``prevalence'' is
+translation invariant. Instead of using a specific measure on the entire space,
+we define prevalence in terms of the class of all probability measures with
+compact support. Prevalence is a more appropriate condition than the
+topological concepts of ``open and dense'' or ``generic'' when one desires a
+probabilistic result on the likelihood of a given property on a function space.
+We give several examples of properties which hold ``almost everywhere'' in the
+sense of prevalence. For instance, we prove that almost every $C^1$ map on
+$\reals^n$ has the property that all of its periodic orbits are hyperbolic.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9210221",,"Sergei V. Ivanov","On the Burnside problem on periodic groups","4 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 257-260",,"Bulletin migration 11/99","math.GR",,"  It is proved that the free $m$-generated Burnside groups $\Bbb{B}(m,n)$ of
+exponent $n$ are infinite provided that $m>1$, $n\ge2^{48}$.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9210222","Jeffrey C. Lagarias","Jeffrey C. Lagarias, Peter W. Shor","Keller's cube-tiling conjecture is false in high dimensions","5 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 279-283",,"Bulletin migration 11/99","math.MG math.CO",,"  O. H. Keller conjectured in 1930 that in any tiling of $\Bbb R^n$ by unit
+$n$-cubes there exist two of them having a complete facet in common. O. Perron
+proved this conjecture for $n\le 6$. We show that for all $n\ge 10$ there
+exists a tiling of $\Bbb R^n$ by unit $n$-cubes such that no two $n$-cubes have
+a complete facet in common.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9210223",,"Joachim Lohkamp","Negatively Ricci curved manifolds","4 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 288-291",,"Bulletin migration 11/99","math.DG math.GT",,"  In this paper we announce the following result: ``Every manifold of dimension
+$\ge3$ admits a complete negatively Ricci curved metric.'' Furthermore we
+describe some sharper results and sketch proofs.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9210224",,"Curt McMullen","Riemann surfaces and the geometrization of 3-manifolds","10 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 207-216",,"Bulletin migration 11/99","math.GT math.CV",,"  About a decade ago Thurston proved that a vast collection of 3-manifolds
+carry metrics of constant negative curvature. These manifolds are thus elements
+of {\em hyperbolic geometry}, as natural as Euclid's regular polyhedra. For a
+closed manifold, Mostow rigidity assures that a hyperbolic structure is unique
+when it exists, so topology and geometry mesh harmoniously in dimension 3.
+  This remarkable theorem applies to all 3-manifolds, which can be built up in
+an inductive way from 3-balls, i.e., {\em Haken} manifolds. Thurston's
+construction of a hyperbolic structure is also inductive. At the inductive step
+one must find the right geometry on an open 3-manifold so that its ends may be
+glued together. Using quasiconformal deformations, the gluing problem can be
+formulated as a fixed-point problem for a map of Teichm\""uller space to itself.
+Thurston proposes to find the fixed point by {\em iterating} this map.
+  Here we outline Thurston's construction and sketch a new proof that the
+iteration converges. Our argument rests on a result entirely in the theory of
+Riemann surfaces: an extremal quasiconformal mapping can be relaxed (isotoped
+to a map of lesser dilatation) when lifted to a sufficiently large covering
+space (e.g., the universal cover). This contraction gives an immediate estimate
+for the contraction of Thurston's iteration.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9210225",,"James T. Rogers Jr.","Is the boundary of a Siegel disk a Jordan curve?","4 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 284-287",,"Bulletin migration 11/99","math.CV math.GN",,"  Bounded irreducible local Siegel disks include classical Siegel disks of
+polynomials, bounded irreducible Siegel disks of rational and entire functions,
+and the examples of Herman and Moeckel. We show that there are only two
+possibilities for the structure of the boundary of such a disk: either the
+boundary admits a nice decomposition onto a circle, or it is an indecomposable
+continuum.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9210226",,"Joel Smoller, Arthur G. Wasserman, Shing-Tung Yau, J. Bryce McLeod","Smooth static solutions of the Einstein-Yang/Mills equation","4 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 239-242","10.1007/BF02097002","Bulletin migration 11/99","math.AP",,"  We consider the Einstein/Yang-Mills equations in $3+1$ space time dimensions
+with $\SU(2)$ gauge group and prove rigorously the existence of a globally
+defined smooth static solution. We show that the associated Einstein metric is
+asymptotically flat and the total mass is finite. Thus, for non-abelian gauge
+fields the Yang/Mills repulsive force can balance the gravitational attractive
+force and prevent the formation of singularities in spacetime.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2015-06-26"
+"math/9210227",,"Xiaolu Wang","Voiculescu theorem, Sobolev lemma, and extensions of smooth algebras","6 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 292-297",,"Bulletin migration 11/99","math.OA",,"  We present the analytic foundation of a unified B-D-F extension functor
+$\operatorname{Ext}_\tau$ on the category of noncommutative smooth algebras,
+for any Fr\'echet operator ideal $\Cal K_\tau$. Combining the techniques
+devised by Arveson and Voiculescu, we generalize Voiculescu's theorem to smooth
+algebras and Fr\'echet operator ideals. A key notion involved is
+$\tau$-smoothness, which is verified for the algebras of smooth functions, via
+a noncommutative Sobolev lemma. The groups $\operatorname{Ext}_\tau$ are
+computed for many examples.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 00:00:00 GMT""}]","2016-09-06"

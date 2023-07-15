@@ -1,0 +1,70 @@
+"alg-geom/9202016","Temporary","G.Mikhalkin","Congruences for real algebraic curves on an ellipsoid","LaTeX, 10 pages",,,,"alg-geom math.AG",,"  The problem of arrangement of a real algebraic curve on a real algebraic
+surface is related to the 16th Hilbert problem. We prove in this paper new
+restrictions on arrangement of nonsingular real algebraic curves on an
+ellipsoid. These restrictions are analogues of Gudkov-Rokhlin,
+Gudkov-Krakhnov-Kharlamov, Kharlamov-Marin congruences for plane curves (see
+e.g. \cite{V} or \cite{V1}). To prove our results we follow Marin approach
+\cite{Marin} that is a study of the quotient space of a surface under the
+complex conjugation. Note that the Rokhlin approach \cite{R} that is a study of
+the 2-sheeted covering of the surface branched along the curve can not be
+directly applied for a proof of Theorem \ref{Rokhlin} since the homology class
+of a curve of Theorem \ref{Rokhlin} can not be divided by 2 hence such a
+covering space does not exist.
+","[{""version"":""v1"",""created"":""Tue, 18 Feb 1992 03:06:11 GMT""}]","2008-02-03"
+"alg-geom/9202017","Temporary","G.Mikhalkin","Extensions of Rokhlin congruence for curves on surfaces","LaTeX, 6 pages",,,,"alg-geom math.AG",,"  The subject of this paper is the problem of arrangement of a real nonsingular
+algebraic curve on a real non-singular algebraic surface. This paper contains
+new restrictions on this arrangement extending Rokhlin and
+Kharlamov-Gudkov-Krakhnov congruences for curves on surfaces.
+","[{""version"":""v1"",""created"":""Tue, 18 Feb 1992 14:56:04 GMT""}]","2008-02-03"
+"hep-th/9202055",,"A. Mikovic","Canonical Quantization of 2d Gravity Coupled to c<1 Matter","17",,,,"hep-th",,"  We study 2d gravity coupled to $c,1$ matter through canonical quantization of
+a free scalar field, with background charge, coupled to gravity. Various
+features of the theory can be more easily understood in the canonical approach,
+like gauge indipendence of the path-integral results and the absence of the
+local physical degrees of freedom. By performing a non-canonical transformation
+of the phase space variables, we show that the theory takes a free-field form,
+i.e. the constraints become the free-field Virasoro constraints. This implies
+that the David-Distler-Kawai results can be derived in the gauge indipendent
+way, and also proves the free-field assumption which was used for obtaining the
+spectrum of the theory in the conformal gauge. A discussion of the physical
+spectrum of the theory is presented, with an analysis of the unitarity of the
+discrete momentum states.
+","[{""version"":""v1"",""created"":""Mon, 17 Feb 1992 17:10:35 GMT""},{""version"":""v2"",""created"":""Wed, 26 Feb 1992 17:43:42 GMT""}]","2008-02-03"
+"hep-th/9202056","David Fairlie","D.B. Fairlie and J. Govaerts","Universal Field Equations with Reparametrisation Invariance","9pages","Phys.Lett. B281 (1992) 49-53","10.1016/0370-2693(92)90273-7",,"hep-th",,"  New reparametrisation invariant field equations are constructed which
+describe $d$-brane models in a space of $d+1$ dimensions. These equations, like
+the recently discovered scalar field equations in $d+1$ dimensions, are
+universal, in the sense that they can be derived from an infinity of
+inequivalent Lagrangians, but are nonetheless Lorentz (Euclidean) invariant.
+Moreover, they admit a hierarchical structure, in which they can be derived by
+a sequence of iterations from an arbitrary reparametrisation covariant
+Lagrangian, homogeneous of weight one. None of the equations of motion which
+appear in the hierarchy of iterations have derivatives of the fields higher
+than the second. The new sequence of Universal equations is related to the
+previous one by an inverse function transformation. The particular case of
+$d=2$, giving a new reparametrisation invariant string equation in 3 dimensions
+is solved.
+","[{""version"":""v1"",""created"":""Mon, 17 Feb 1992 17:09:27 GMT""}]","2009-10-22"
+"hep-th/9202057","Alexios Polychronakos","Alexios P. Polychronakos","Exchange Operator Formalism for Integrable Systems of Particles","8 pages","Phys.Rev.Lett. 69 (1992) 703-705","10.1103/PhysRevLett.69.703",,"hep-th",,"  We formulate one dimensional many-body integrable systems in terms of a new
+set of phase space variables involving exchange operators. The hamiltonian in
+these variables assumes a decoupled form. This greatly simplifies the
+derivation of the conserved charges and the proof of their commutativity at the
+quantum level.
+","[{""version"":""v1"",""created"":""Mon, 17 Feb 1992 21:20:35 GMT""}]","2009-10-22"
+"hep-th/9202058",,"Katsushi Ito and Jens Ole Madsen","Hamiltonian Reduction and Classical Extended Superconformal Algebras","13 pages","Phys.Lett. B283 (1992) 223-230","10.1016/0370-2693(92)90012-S",,"hep-th",,"  We present a systematic construction of classical extended superconformal
+algebras from the hamiltonian reduction of a class of affine Lie superalgebras,
+which include an even subalgebra $sl(2)$. In particular, we obtain the doubly
+extended $N=4$ superconformal algebra $\tilde{A}_{\gamma}$ from the hamiltonian
+reduction of the exceptional Lie superalgebra $D(2|1;\gamma/(1-\gamma))$. We
+also find the Miura transformation for these algebras and give the free field
+representation. A $W$-algebraic generalization is discussed.
+","[{""version"":""v1"",""created"":""Tue, 18 Feb 1992 12:02:00 GMT""}]","2009-10-22"
+"hep-th/9202059","Tomasz Taylor","Mary K. Gaillard and T.R. Taylor","Axion Couplings and Effective Cut-Offs in Superstring Compactifications","25 pages","Nucl.Phys.B381:577-596,1992","10.1016/0550-3213(92)90491-S",,"hep-th",,"  We use the linear supermultiplet formalism of supergravity to study axion
+couplings and chiral anomalies in the context of field-theoretical Lagrangians
+describing orbifold compactifications beyond the classical approximation. By
+matching amplitudes computed in the effective low energy theory with the
+results of string loop calculations we determine the appropriate counterterm in
+this effective theory that assures modular invariance to all loop order. We use
+supersymmetry consistency constraints to identify the correct ultra-violet
+cut-offs for the effective low energy theory. Our results have a simple
+interpretation in terms of two-loop unification of gauge coupling constants at
+the string scale.
+","[{""version"":""v1"",""created"":""Tue, 18 Feb 1992 14:31:00 GMT""}]","2010-11-01"

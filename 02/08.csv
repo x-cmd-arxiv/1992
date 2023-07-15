@@ -1,0 +1,58 @@
+"alg-geom/9202003","Yun-Gang Ye","Yun-Gang Ye","Complex Contact Threefolds and Their Contact Curves","18 pages, AMS-Tex 2.1",,,,"alg-geom math.AG",,"  A complex contact threefold is a threefold with a two-dimensional
+non-integrable holomorphic distribution. A contact curve on a contact threefold
+is an integrable curve of the distribution. This work was inspired by two
+papers of Bryant, in which he used complex contact geometry to study
+superminimal surfaces in four-sphere and to investigate exotic holonomies. The
+present paper is devoted to systematical studies of contact threefold and
+contact curves on them. We generalize a result of Bryant and answer a question
+of his.
+","[{""version"":""v1"",""created"":""Fri, 7 Feb 1992 20:56:57 GMT""}]","2008-02-03"
+"hep-th/9202026","Gabriele Ferretti","G. Ferretti and S.G. Rajeev","$CP^N$ Model With a Chern-Simons Term","10 pages 2 figures (not included)","Mod.Phys.Lett. A7 (1992) 2087-2094","10.1142/S0217732392001828",,"hep-th",,"  The $CP^N$ model in three euclidean dimensions is studied in the presence of
+a Chern-Simons term using the $1/N$ expansion. The $\beta$-function for the CS
+coefficient $\theta$ is found to be zero to order $1/N$ in the unbroken phase
+by an explicit calculation. It is argued to be zero to all orders. Some remarks
+on the $\theta$ dependence of the critical exponents are also made.
+","[{""version"":""v1"",""created"":""Fri, 7 Feb 1992 17:43:00 GMT""}]","2015-06-26"
+"hep-th/9202027",,"G. Nagao","A Conformal Field Theory for the Quantum Hall Effect","15 pgs",,,,"hep-th",,"  The QHE is studied in the context of a CFT. An effective field of $N$
+``spins"" associated with the cyclotron motion of particles is taken as an order
+parameter from which an effective Hamiltonian may be defined. This effective
+Hamiltonian describes the COM motion of the $N$ particles (with coupling
+$\kappa_0$) together with a current-current interaction (of strength
+$\kappa_1$). Such a system gives rise to a CFT in the large $N$ limit when
+$\kappa_0 = \kappa_1$. The Laughlin wavefunction is derived from this CFT as an
+$N'$-point correlation function of winding state vertex operators.
+","[{""version"":""v1"",""created"":""Fri, 7 Feb 1992 20:17:29 GMT""}]","2007-05-23"
+"hep-th/9202028","Changrim Ahn","Changrim Ahn","RG Flows of Non-Unitary Minimal CFTs","10 pages","Phys.Lett.B294:204-208,1992","10.1016/0370-2693(92)90683-U",,"hep-th",,"  In this paper we study the renormalization group flow of the $(p,q)$ minimal
+(non-unitary) CFT perturbed by the $\Phi_{1,3}$ operator with a positive
+coupling. In the perturbative region $q>>(q-p)$, we find a new IR fixed point
+which corresponds to the $(2p-q,p)$ minimal CFT. The perturbing field near the
+new IR fixed point is identified with the irrelevent $\Phi_{3,1}$ operator. We
+extend this result to show that the non-diagonal ($(A,D)$-type) modular
+invariant partition function of the $(p,q)$ minimal CFT flows into the
+$(A,D)$-type partition function of the $(2p-q,p)$ minimal CFT and the diagonal
+partition function into the diagonal.
+","[{""version"":""v1"",""created"":""Fri, 7 Feb 1992 22:01:49 GMT""}]","2011-07-19"
+"hep-th/9202029","Alexander V. Balatsky","Alexander Balatsky (Los Alamos National Laboratory,Theoretical
+  Division and Landau Institute for Theoretical Physics, Moscow, USSR)","Spin Singlet Quantum Hall Effect and Nonabelian Landau-Ginzburg Theory",,,,,"hep-th",,"  In this paper we present a theory of Singlet Quantum Hall Effect (SQHE). We
+show that the Halperin-Haldane SQHE wave function can be written in the form of
+a product of a wave function for charged semions in a magnetic field and a wave
+function for the Chiral Spin Liquid of neutral spin-$\12$ semions. We introduce
+field-theoretic model in which the electron operators are factorized in terms
+of charged spinless semions (holons) and neutral spin-$\12$ semions (spinons).
+Broken time reversal symmetry and short ranged spin correlations lead to
+$SU(2)_{k=1}$ Chern-Simons term in Landau-Ginzburg action for SQHE phase. We
+construct appropriate coherent states for SQHE phase and show the existence of
+$SU(2)$ valued gauge potential. This potential appears as a result of ``spin
+rigidity"" of the ground state against any displacements of nodes of wave
+function from positions of the particles and reflects the nontrivial monodromy
+in the presence of these displacements.
+","[{""version"":""v1"",""created"":""Sat, 8 Feb 1992 00:17:50 GMT""}]","2007-05-23"
+"hep-th/9202030",,"L.F. Cugliandolo, G.L. Rossini and F.A. Schaposnik","Stochastic Quantization of the Chern-Simons Theory","30 pages","Annals Phys. 220 (1992) 40-54","10.1016/0003-4916(92)90325-G",,"hep-th",,"  We discuss Stochastic Quantization of $d$=3 dimensional non-Abelian
+Chern-Simons theory. We demonstrate that the introduction of an appropriate
+regulator in the Langevin equation yields a well-defined equilibrium limit,
+thus leading to the correct propagator. We also analyze the connection between
+$d$=3 Chern-Simons and $d$=4 Topological Yang-Mills theories showing the
+equivalence between the corresponding regularized partition functions. We study
+the construction of topological invariants and the introduction of a
+non-trivial kernel as an alternative regularization.
+","[{""version"":""v1"",""created"":""Fri, 7 Feb 1992 22:44:46 GMT""}]","2015-06-26"

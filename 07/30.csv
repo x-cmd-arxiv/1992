@@ -1,0 +1,142 @@
+"hep-lat/9207031","Stuart Staniford-Chen","Stuart Staniford-Chen","Finite Size Scaling of Probability Distributions in SU(2) Lattice Gauge
+  Theory and Phi^4 Field Theory","26 pages, UCD-92-17",,,,"hep-lat",,"  For a system near a second order phase transition, the probability
+distribution for the order parameter can be given a finite size scaling form.
+This fact is used to compare the finite temperature phase transition for the
+Wilson lines in d=3+1 SU(2) lattice gauge theory with the phase transition in
+d=3 phi^4 field theory. I exhibit the finite size scaled probability
+distributions in the form of a function of two variables (the reduced
+`temperature' and the magnetization) for both models. The two surfaces look
+identical, and an analysis of the errors also suggests that they are the same.
+This strengthens the idea that the SU(2) effective line theory is in the Ising
+universality class. I argue for the wider application of the method used here.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 19:43:53 GMT""}]","2007-05-23"
+"hep-ph/9207268",,"John Ellis, N.E. Mavromatos and D.V. Nanopoulos","Testing Quantum Mechanics in the Neutral Kaon System","10 pages","Phys.Lett.B293:142-148,1992","10.1016/0370-2693(92)91493-S","CERN-TH.6596/92","hep-ph hep-th",,"  The neutral kaon system is a sensitive probe of quantum mechanics. We revive
+a parametrization of non-quantum-mechanical effects that is motivated by
+considerations of the nature of space-time foam, and show how it can be
+constrained by new measurements of $K_L \rightarrow 2\pi$ and $K_{L,S}$
+semileptonic decays at LEAR or a $\phi$ factory.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 20:15:23 GMT""}]","2009-07-09"
+"hep-ph/9207269",,"J Romao, F de Campos and J W F Valle","New Higgs Signatures in Supersymmetry with Spontraneously Broken R
+  Parity""","14 pages, 2 Figures, latex, uses macro matex, CERN TH.6586/92","Phys.Lett.B292:329-336,1992","10.1016/0370-2693(92)91183-A",,"hep-ph",,"  Higgs production from $Z$ decay in supersymmetry with spontaneous broken R
+parity proceeds mostly by the Bjorken process as in the standard model.
+However, the corresponding production rates can be weaker than in the standard
+model (SM), especially in the low mass region. This will substantially weaken
+the Higgs boson mass limits derived from LEP1. More strikingly, the main Higgs
+decay channel is ""invisible"", over most of the mass range accessible to LEP1,
+leading to events with large missing energy carried by majorons. This
+possibility should be taken into account in the planning of Higgs boson search
+strategies not only at LEP but also at high energy supercolliders.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 23:03:09 GMT""}]","2009-09-17"
+"hep-ph/9207270",,"Matthias Neubert","Recent Developments in the Theory of Heavy-Quark Decays","6 pages, SLAC-PUB-5842 (1992)",,,,"hep-ph",,"  I report on recent developments in the heavy-quark effective theory and its
+application to $B$ meson decays. The parameters of the effective theory, the
+spin-flavor symmetry limit, and the leading symmetry-breaking corrections to it
+are discussed. The results of a QCD sum rule analysis of the universal
+Isgur-Wise functions that appear at leading and subleading order in the $1/m_Q$
+expansion are presented. I illustrate the phenomenological applications of this
+formalism by focusing on two specific examples: the determination of $V_{cb}$
+from the endpoint spectrum in semileptonic decays, and the study of
+spin-symmetry violating effects in ratios of form factors. I also briefly
+comment on nonleptonic decays.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 22:55:00 GMT""}]","2007-05-23"
+"hep-ph/9207271","Jiang Liu","Jiang Liu (University of Pennsylvania)","Final-State-Interaction Simulation of T-Violation in the Top-Quark
+  Semileptonic Decay","14 pages, 1 diagram (not included)","Phys.Rev. D48 (1993) 212-216","10.1103/PhysRevD.48.212","UPR-0517T","hep-ph",,"  The standard electroweak final-state interaction induces a false T-odd
+correlation in the top-quark semileptonic decay. The correlation parameter is
+calculated in the standard model and found to be considerably larger than those
+that could be produced by genuine T-violation effects in a large class of
+theoretical models.
+","[{""version"":""v1"",""created"":""Thu, 30 Jul 1992 14:01:48 GMT""}]","2009-10-22"
+"hep-th/9207096","Wolfgang Lerche","Luis Alvarez-Gaume, K. Becker, M. Becker, R. Emparan and J. Manes","Double Scaling Limit of the Supervirasoro Constraints","40pages","Int.J.Mod.Phys. A8 (1993) 2297-2332","10.1142/S0217751X93000916",,"hep-th",,"  This paper supersedes the preprint Superloop Equations in the Double Scaling
+Limit, CERN-TH-6575. It is an improved version with corrections in the
+derivation of the continuum limit, a clarification of the doubling of degrees
+of freedom for even potentials, and with a heuristic argument showing that the
+part of the free energy independent of fermion couplings in our model satisfies
+the KdV Hierarchy.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 21:09:36 GMT""},{""version"":""v2"",""created"":""Mon, 26 Oct 1992 11:04:41 GMT""}]","2019-08-17"
+"hep-th/9207098",,"Fabrizio Illuminati","Semi-Classical Quantization of the Many-Anyon System","11 pages, Plain LaTeX (plus 3 figures available on request), DFPD
+  92/TH/26","Mod.Phys.Lett. A8 (1993) 513","10.1142/S0217732393000532",,"hep-th cond-mat",,"  We discuss the problem of N anyons in harmonic well, and derive the
+semi-classical spectrum as an exactly solvable limit of the many-anyon
+Hamiltonian. The relevance of our result to the solution of the anyon-gas model
+is discussed.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 16:33:00 GMT""}]","2009-10-22"
+"hep-th/9207099",,"Fabrizio Illuminati","Energy Spectrum of Anyons in a Magnetic Field","11 pages in Plain LaTeX (plus 4 figures available on request), DFPD
+  92/TH/42","Phys.Rev. A47 (1993) 3437","10.1103/PhysRevA.47.3437",,"hep-th cond-mat",,"  For the many-anyon system in external magnetic field, we derive the energy
+spectrum as an exact solution of the quantum eigenvalue problem with particular
+topological constraints. Our results agree with the numerical spectra recently
+obtained for the 3- and the 4-anyon systems.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 16:35:00 GMT""}]","2009-10-22"
+"hep-th/9207100",,"Fabrizio Illuminati & Marco Patriarca","Thermal Reservoir coupled to External Field and Quantum Dissipation","8 pages in Plain LaTeX, DFPD 92/TH/27",,,,"hep-th cond-mat",,"  In the framework of the Caldeira-Leggett model of dissipative quantum
+mechanics, we investigate the effects of the interaction of the thermal
+reservoir with an external field. In particular, we discuss how the interaction
+modifies the conservative dynamics of the central particle, and the mechanism
+of dissipation. We briefly comment on possible observable consequencies.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 16:38:00 GMT""}]","2007-05-23"
+"hep-th/9207101",,"L.Bonora and V.Bonservizi","Quantum sl_n Toda field theories","19 pages, SISSA-ISAS 110/92/EP","Nucl.Phys. B390 (1993) 205-224; Erratum-ibid. B419 (1994) 407","10.1016/0550-3213(93)90392-3",,"hep-th",,"  We quantize $sl_n$ Toda field theories in a periodic lattice. We find the
+quantum exchange algebra in the diagonal monodromy (Bloch wave) basis in the
+case of the defining representation. In the $sl_3$ case we extend the analysis
+also to the second fundamental representation. We clarify, in particular, the
+relation of Jimbo and Rosso's quantum $R$ matrix with the quantum $R$ matrix in
+the Bloch wave basis.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 17:39:36 GMT""}]","2009-10-22"
+"hep-th/9207102",,"L. Frappat, E. Ragoucy and P. Sorba","W Algebras and Superalgebras from Constrained WZW Models: A Group
+  Theoretical Classification","66 pages (Latex), ENSLAPPP-A-391/92 Replaces previous unLatexable
+  version, corrupted by mailer","Commun.Math.Phys. 157 (1993) 499-548","10.1007/BF02096881",,"hep-th",,"  We present a classification of $W$ algebras and superalgebras arising in
+Abelian as well as non Abelian Toda theories. Each model, obtained from a
+constrained WZW action, is related with an $Sl(2)$ subalgebra (resp. $OSp(1|2)$
+superalgebra) of a simple Lie algebra (resp. superalgebra) $\cg$. However, the
+determination of an $U(1)_Y$ factor, commuting with $Sl(2)$ (resp. $OSp(1|2)$),
+appears, when it exists, particularly useful to characterize the corresponding
+$W$ algebra. The (super) conformal spin contents of each $W$ (super)algebra is
+performed. The class of all the superconformal algebras (i.e. with conformal
+spins $s\leq2$) is easily obtained as a byproduct of our general results.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 19:13:15 GMT""},{""version"":""v2"",""created"":""Tue, 1 Sep 1992 12:14:44 GMT""}]","2009-10-22"
+"hep-th/9207103",,"John Ellis, N.E. Mavromatos and D.V. Nanopoulos","String Theory Modifies Quantum Mechanics","18 pages, CERN-6595/92","Phys.Lett.B293:37-48,1992","10.1016/0370-2693(92)91478-R",,"hep-th gr-qc hep-ph",,"  We argue that the light particles in string theory obey an effective quantum
+mechanics modified by the inclusion of a quantum-gravitational friction term,
+induced by unavoidable couplings to unobserved massive string states in the
+space-time foam. This term is related to the $W$-symmetries that couple light
+particles to massive solitonic string states in black hole backgrounds, and has
+a formal similarity to simple models of environmental quantum friction. It
+increases apparent entropy, and may induce the wave functions of macroscopic
+systems to collapse.
+","[{""version"":""v1"",""created"":""Wed, 29 Jul 1992 20:14:47 GMT""},{""version"":""v2"",""created"":""Wed, 29 Jul 1992 23:55:39 GMT""}]","2009-09-11"
+"hep-th/9207104","Martin Schlichenmaier","Martin Schlichenmaier","Degenerations of Generalized Krichever Novikov algebras on Tori","21 pages, amstex 2.1","J.Math.Phys.34:3809-3824,1993","10.1063/1.530008",,"hep-th",,"  Degenerations of Lie algebras of meromorphic vector fields on elliptic curves
+(i.e. complex tori) which are holomorphic outside a certain set of points
+(markings) are studied. By an algebraic geometric degeneration process certain
+subalgebras of Lie algebras of meromorphic vector fields on P^1 the Riemann
+sphere are obtained. In case of some natural choices of the markings these
+subalgebras are explicitly determined. It is shown that the number of markings
+can change. AMS subject classification (1991): 17B66, 17B90, 14F10, 14H52,
+30F30, 81T40
+","[{""version"":""v1"",""created"":""Thu, 30 Jul 1992 11:07:31 GMT""}]","2014-11-18"
+"hep-th/9207105",,"S.W.Hawking and J.M.Stewart","Naked and Thunderbolt Singularities in Black Hole Evaporation","21 pages (10 diagrams available on request)","Nucl.Phys.B400:393-415,1993","10.1016/0550-3213(93)90410-Q",,"hep-th",,"  If an evaporating black hole does not settle down to a non radiating remnant,
+a description by a semi classical Lorentz metric must contain either a naked
+singularity or what we call a thunderbolt, a singularity that spreads out to
+infinity on a spacelike or null path. We investigate this question in the
+context of various two dimensional models that have been proposed. We find that
+if the semi classical equations have an extra symmetry that make them solvable
+in closed form, they seem to predict naked singularities but numerical
+calculations indicate that more general semi classical equations, such as the
+original CGHS ones give rise to thunderbolts. We therefore expect that the semi
+classical approximation in four dimensions will lead to thunderbolts. We
+interpret the prediction of thunderbolts as indicating that the semi classical
+approximation breaks down at the end point of black hole evaporation, and we
+would expect that a full quantum treatment would replace the thunderbolt with a
+burst of high energy particles. The energy in such a burst would be too small
+to account for the observed gamma ray bursts.
+","[{""version"":""v1"",""created"":""Thu, 30 Jul 1992 15:36:54 GMT""}]","2010-11-01"
+"hep-th/9207109","T. Jayaraman","S. Govindarajan, T. Jayaraman and V. John","Chiral Rings and Physical States in c<1 String Theory","20 pages, harvmac, 4 figures (drawn using LaTeX appended to the end
+  of the file), IMSc--92/30","Nucl.Phys. B402 (1993) 118-138","10.1016/0550-3213(93)90638-6",,"hep-th",,"  We show how the double cohomology of the String and Felder BRST charges
+naturally leads to the ring structure of $c<1$ strings. The chiral ring is a
+ring of polynomials in two variables modulo an equivalence relation of the form
+$x^p \simeq y^{p+1}$ for the (p+1,p) model. We also study the states
+corresponding to the edges of the conformal grid whose inclusion is crucial for
+the closure of the ring. We introduce candidate operators that correspond to
+the observables of the matrix models. Their existence is motivated by the
+relation of one of the screening operators of the minimal model to the zero
+momentum dilaton.
+","[{""version"":""v1"",""created"":""Thu, 30 Jul 1992 15:26:28 GMT""}]","2009-10-22"
+"math/9207204",,"Ulrich Fuchs","Donder's Version of Revised Countable Support",,,,"Logic E-prints July 30, 1992","math.LO",,"  Shelah introduced the revised countable support (RCS) iteration to iterate
+semiproperness. This was an endpoint in the search for an iteration of a weak
+condition, still implying that aleph1 is preserved.
+  Dieter Donder found a better manageable approach to this iteration, which is
+presented here.
+","[{""version"":""v1"",""created"":""Thu, 30 Jul 1992 00:00:00 GMT""}]","2009-09-25"

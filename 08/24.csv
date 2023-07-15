@@ -1,0 +1,31 @@
+"hep-th/9208057","Niall Mackay","Niall MacKay and William McGhee","Affine Toda Solitons and Automorphisms of Dynkin Diagrams","21 pages",,"10.1142/S0217751X93001119","DTP-92-45; RIMS-890","hep-th nlin.SI solv-int",,"  Using Hirota's method, solitons are constructed for affine Toda field
+theories based on the simply-laced affine algebras. By considering
+automorphisms of the simply-laced Dynkin diagrams, solutions to the remaining
+algebras, twisted as well as untwisted, are deduced.
+","[{""version"":""v1"",""created"":""Mon, 24 Aug 1992 03:55:14 GMT""}]","2009-10-22"
+"hep-th/9208058",,"Timothy Hollowood and J. Luis Miramontes","Tau-Functions and Generalized Integrable Hierarchies","23 pages","Commun.Math.Phys. 157 (1993) 99-118","10.1007/BF02098021",,"hep-th nlin.SI solv-int",,"  The tau-function formalism for a class of generalized ``zero-curvature''
+integrable hierarchies of partial differential equations, is constructed. The
+class includes the Drinfel'd-Sokolov hierarchies. A direct relation between the
+variables of the zero-curvature formalism and the tau-functions is established.
+The formalism also clarifies the connection between the zero-curvature
+hierarchies and the Hirota-type hierarchies of Kac and Wakimoto.
+","[{""version"":""v1"",""created"":""Mon, 24 Aug 1992 11:33:50 GMT""}]","2009-10-22"
+"hep-th/9208059","Fiorenzo Bastianelli","Fiorenzo Bastianelli and Peter van Nieuwenhuizen","Trace Anomalies from Quantum Mechanics","29 pages, harvmac macro, CERN-TH.6512/92, USITP-92-02","Nucl.Phys. B389 (1993) 53-80","10.1016/0550-3213(93)90285-W",,"hep-th",,"  The 1-loop anomalies of a d-dimensional quantum field theory can be computed
+by evaluating the trace of the regulated path integral jacobian matrix, as
+shown by Fujikawa. In 1983, Alvarez-Gaum\'e and Witten observed that one can
+simplify this evaluation by replacing the operators which appear in the
+regulator and in the jacobian by quantum mechanical operators with the same
+(anti)commutation relations. By rewriting this quantum mechanical trace as a
+path integral with periodic boundary conditions for a one-dimensional
+supersymmetric nonlinear sigma model, they obtained the chiral anomalies for
+spin 1/2 and 3/2 fields and selfdual antisymmetric tensors in d dimensions. In
+this article, we treat the case of trace anomalies for spin 0, 1/2 and 1 fields
+in a gravitational and Yang-Mills background. We do not introduce a
+supersymmetric sigma model, but keep the original Dirac matrices $\g^\m$ and
+internal symmetry generators $T^a$ in the path integral. As a result, we get a
+matrix-valued action. Gauge covariance of the path integral then requires a
+definition of the exponential of the action by time-ordering. We exponentiate
+the factors $\sqrt g$ in the path integral measure by using vector ghosts in
+order to exhibit the cancellation of the sigma model divergences more clearly.
+We compute the trace anomalies in d=2 and d=4.
+","[{""version"":""v1"",""created"":""Mon, 24 Aug 1992 13:50:00 GMT""}]","2009-10-22"

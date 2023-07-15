@@ -1,0 +1,89 @@
+"cond-mat/9204014",,"U.-J. Wiese and H.-P. Ying","Blockspin Cluster Algorithms for Quantum Spin Systems","11 pages",,"10.1016/0375-9601(92)90077-Y",,"cond-mat",,"  Cluster algorithms are developed for simulating quantum spin systems like the
+one- and two-dimensional Heisenberg ferro- and anti-ferromagnets. The
+corresponding two- and three-dimensional classical spin models with four-spin
+couplings are maped to blockspin models with two-blockspin interactions.
+Clusters of blockspins are updated collectively. The efficiency of the method
+is investigated in detail for one-dimensional spin chains. Then in most cases
+the new algorithms solve the problems of slowing down from which standard
+algorithms are suffering.
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 14:06:35 GMT""}]","2009-10-22"
+"hep-lat/9204015",,"U.-J. Wiese and H.-P. Ying","Blockspin Cluster Algorithms for Quantum Spin Systems","11 pages",,"10.1016/0375-9601(92)90077-Y",,"hep-lat",,"  Cluster algorithms are developed for simulating quantum spin systems like the
+one- and two-dimensional Heisenberg ferro- and anti-ferromagnets. The
+corresponding two- and three-dimensional classical spin models with four-spin
+couplings are maped to blockspin models with two-blockspin interactions.
+Clusters of blockspins are updated collectively. The efficiency of the method
+is investigated in detail for one-dimensional spin chains. Then in most cases
+the new algorithms solve the problems of slowing down from which standard
+algorithms are suffering.
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 14:09:24 GMT""}]","2019-06-05"
+"hep-ph/9204234",,"R.N.Mohapatra and M.K.Parida (Univ. of Maryland)","Threshold Effects in SO(10) Grandunified Models and Solar Neutrino
+  Puzzle","24 pages","Phys.Rev. D47 (1993) 264-272","10.1103/PhysRevD.47.264",,"hep-ph",,"  We compute the threshold uncertainties due to unknown masses of the Higgs
+bosons on the predictions for the intermediate and unification scales, $M_I$
+and $M_U$ respectively in SO(10) models.We focus on models with separate
+breaking scales for Parity and $SU(2)_R$ symmetries since they provide a
+natural realization of the see-saw mechanism for neutrino masses. For the two
+step symmetry breaking chains ,where left-right symmetric gauge groups appear
+at the intermediate scale, we find that parity invariance of the theory at the
+unification scale drastically reduces the GUT threshold effects in some cases.
+Including the effects of the intermediate scale thresholds ,we compute the
+uncertainty in the above mass scales and study their implications for proton
+lifetime and neutrino masses. An important outcome of our analysis is that if
+the currently favored nonadiabatic MSW solution to the solar neutrino puzzle is
+accepted , it will rule out the $SU(2)_LXSU(2)_RXU(1)_{B-L}X SU(3)_c$ as an
+intermediate symmetry for SO(10) breaking whereas the intermediate symmetry
+$SU(2)_LXSU(2)_RXSU(4)_c$, is quite consistent with it.
+","[{""version"":""v1"",""created"":""Mon, 27 Apr 1992 20:50:00 GMT""}]","2016-09-01"
+"hep-ph/9204235","Charles Sommerfield","Ola Tornkvist","Ginzburg-Landau Theory of the Electroweak Phase Transition and
+  Analytical Results","19 pages (double-spaced)",,,,"hep-ph",,"  The phase transition of the electroweak vacuum induced by a strong magnetic
+field is examined, and a connection is made with the Ginzburg-Landau theory of
+type-II superconductivity. For solutions of the exact nonlinear field equations
+of the electroweak theory with lattice periodicity in directions perpendicular
+to the magnetic field, it is proven that, likewise, each lattice cell must
+enclose an integer number of quanta of magnetic flux. Close to the lower
+critical magnetic field, a perturbative method developed by MacDowell and the
+author is used to study properties of the lattice solutions. Analytical
+expressions for observables are obtained in terms of a complex parameter $\tau$
+specifying the lattice and it is shown that the triangular Abrikosov solution
+constitutes a local minimum of the energy provided $M_H > M_Z$.
+  PACS numbers: 11.15.Kc, 11.15.Ex, 74.60.-w, 05.70.Fh
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 14:01:00 GMT""}]","2007-05-23"
+"hep-th/9204088","H. J. Otto","H. Dorn and H.-J. Otto","Analysis of All Dimensionful Parameters Relevant in Gravitational
+  Dressing of Conformal Theories","11 pages","Phys.Lett. B280 (1992) 204-212","10.1016/0370-2693(92)90056-A",,"hep-th",,"  Starting from a covariant and background independent definition of normal
+ordered vertex operators we give an alternative derivation of the KPZ relation
+between conformal dimensions and their gravitational dressed partners. With our
+method we are able to study for arbitrary genus the dependence of N-point
+functions on all dimensionful parameters. Implications for the interpretation
+of gravitational dressed dimensions are discussed.
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 08:40:18 GMT""}]","2009-10-22"
+"hep-th/9204089","Alexandre T. Filippov, Dubna","A.T.Filippov, A.P.Isaev and A.B.Kurdikov","Paragrassmann Analysis and Quantum Groups","14 pages","Mod.Phys.Lett.A7:2129-2142,1992","10.1142/S0217732392001877",,"hep-th",,"  Paragrassmann algebras with one and many paragrassmann variables are
+considered from the algebraic point of view without using the Green ansatz.
+Operators of differentiation with respect to paragrassmann variables and a
+covariant para-super-derivative are introduced giving a natural generalization
+of the Grassmann calculus to a paragrassmann one. Deep relations between
+paragrassmann algebras and quantum groups with deformation parameters being
+roots of unity are established.
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 14:30:19 GMT""}]","2008-11-26"
+"hep-th/9204090","Malcolm Perry","Gary W. Gibbons and Malcolm J. Perry","The Physics of 2-d Stringy Spacetimes",,"Int.J.Mod.Phys.D1:335-354,1992","10.1142/S0218271892000161",,"hep-th",,"  We examine the two-dimensional spacetimes that emerge from string theory. We
+find all the solutions with no tachyons, and show that the only non-trivial
+solution is the black hole spacetime. We examine the role of duality in this
+picture. We then explore the thermodynamics of these solutions which is
+complicated by the fact that only in two spacetime dimensions is it impossible
+to redefine the dilaton field in terms of a canonical scalar field. Finally, we
+extend our analysis to the heterotic string, and briefly comment on exact, as
+opposed to perturbative, solutions.
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 15:41:45 GMT""}]","2009-10-07"
+"math/9204215","Dale E. Alspach","Dale E. Alspach","A l_1-predual which is not isometric to a quotient of C(alpha)",,,,"Banach Archive 4/27/92","math.FA",,"  About twenty years ago Johnson and Zippin showed that every separable
+L_1(mu)-predual was isometric to a quotient of C(Delta ), where Delta is the
+Cantor set. In this note we will show that the natural analogue of the theorem
+for l_1-preduals does not hold. We will show that there are many l_1-preduals
+which are not isometric to a quotient of any C(K)-space with K a countable
+compact metric space. We also prove some general results about the relationship
+between l_1-preduals and quotients of C(K)-spaces with K a countable compact
+metric space.
+  The results in this paper were presented at the Workshop on Banach Space
+Theory in Merida, Venezuela, January 1992.
+","[{""version"":""v1"",""created"":""Mon, 27 Apr 1992 19:16:02 GMT""}]","2016-09-06"
+"math/9204216",,"Paul F. X. M\""uller","Jean Bourgain's analytic partition of unity via holomorphic martingales",,,,"Banach Archive 4/27/92","math.FA",,"  Using stopping time arguments on holomorphic martingales we present a soft
+way of constructing J. Bourgain's analytic partitions of unity. Applications to
+Marcinkiewicz interploation in weighted Hardy spaces are discussed.
+","[{""version"":""v1"",""created"":""Mon, 27 Apr 1992 19:16:02 GMT""}]","2016-09-06"

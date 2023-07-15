@@ -1,0 +1,179 @@
+"hep-th/9112076",,"C.N. Pope","Lectures on W algebras and W gravity","41 pages. This paper is based on a set of lectures given at the
+  Trieste Summer School in High-Energy Physics, August 1991",,,,"hep-th",,"  We give a review of the extended conformal algebras, known as $W$ algebras,
+which contain currents of spins higher than 2 in addition to the
+energy-momentum tensor. These include the non-linear $W_N$ algebras; the linear
+$W_\infty$ and $W_{1+\infty}$ algebras; and their super-extensions. We discuss
+their applications to the construction of $W$-gravity and $W$-string theories.
+","[{""version"":""v1"",""created"":""Tue, 31 Dec 1991 18:22:14 GMT""}]","2007-05-23"
+"hep-th/9201001","C. Itzykson","C. Itzykson and J.-B. Zuber","Combinatorics of the Modular Group II: the Kontsevich integrals","46 pages","Int.J.Mod.Phys. A7 (1992) 5661-5705","10.1142/S0217751X92002581",,"hep-th math.QA",,"  We study algebraic aspects of Kontsevich integrals as generating functions
+for intersection theory over moduli space and review the derivation of Virasoro
+and KdV constraints.
+  1. Intersection numbers
+  2. The Kontsevich integral
+  2.1. The main theorem
+  2.2 Expansion of Z on characters and Schur functions
+  2.3 Proof of the first part of the Theorem
+  3. From Grassmannians to KdV
+  4. Matrix Airy equation and Virasoro highest weight conditions
+  5. Genus expansion
+  6. Singular behaviour and Painlev'e equation.
+  7. Generalization to higher degree potentials
+","[{""version"":""v1"",""created"":""Tue, 31 Dec 1991 22:54:17 GMT""}]","2016-09-06"
+"hep-th/9212156","Irina Ya. Aref'eva","I.Ya.Aref'eva, P.B.Medvedev and A.P.Zubarev","Interaction of d=2 c=1 Discrete States from String Field Theory","LaTex, 9 pages","Mod.Phys.Lett. A8 (1993) 2167-2176","10.1142/S0217732393001896",,"hep-th",,"  Starting from string field theory for 2d gravity coupled to c=1 matter we
+analyze the off-shell tree amplitudes of discrete states. The amplitudes
+exhibit the pole structure and we use the off-shell calculus to extract the
+residues and prove that just the residues are constrained by the Ward
+Identities. The residues generate a simple effective action.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 01:12:07 GMT""}]","2015-06-26"
+"math/9201254","Peter W. Michor","Andreas Kriegl, Peter W. Michor","A convenient setting for real analytic mappings",,"Acta Math. 165 (1990), 105-159",,"Michor 99-08","math.FA math.CA math.DG",,"  We present here ""the"" cartesian closed theory for real analytic mappings. It
+is based on the concept of real analytic curves in locally convex vector
+spaces. A mapping is real analytic, if it maps smooth curves to smooth curves
+and real analytic curves to real analytic curves. Under mild completeness
+conditions the second requirement can be replaced by: real analytic along
+affine lines. Enclosed and necessary is a careful study of locally convex
+topologies on spaces of real analytic mappings. As an application we also
+present the theory of manifolds of real analytic mappings: the group of real
+analytic diffeomorphisms of a compact real analytic manifold is a real analytic
+Lie group.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201255","Peter W. Michor","Peter W. Michor, Hubert Schicketanz","A cohomology for vector valued differential forms",,"Ann. Global Anal. Geom. 7 (1989), 163-169",,"Michor 99-08","math.DG",,"  A rather simple natural outer derivation of the graded Lie algebra of all
+vector valued differential forms with the Fr\""olicher-Nijenhuis bracket turns
+out to be a differential and gives rise to a cohomology of the manifold, which
+is functorial under local diffeomorphisms. This cohomology is determined as the
+direct product of the de Rham cohomology space and the graded Lie algebra of
+""traceless"" vector valued differential forms, equipped with a new natural
+differential concomitant as graded Lie bracket. We find two graded Lie algebra
+structures on the space of differential forms. Some consequences and related
+results are also discussed.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201256","Peter W. Michor","Peter W. Michor","The moment mapping for a unitary representation",,"Ann. Global Anal. Geom. 8 (1990), 299-313",,"Michor 99-08","math.RT",,"  For any unitary representation of an arbitrary Lie group I construct a moment
+mapping from the space of smooth vectors of the representation into the dual of
+the Lie algebra. This moment mapping is equivariant and smooth. For the space
+of analytic vectors the same construction is possible and leads to a real
+analytic moment mapping.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201257","Peter W. Michor","Pierre Lecomte, Peter W. Michor, Hubert Schicketanz","The multigraded Nijenhuis-Richardson Algebra, its universal property and
+  application",,"J. Pure Applied Algebra 77 (1992), 87-102",,"Michor 99-08","math.QA",,"  We define two $(n+1)$ graded Lie brackets on spaces of multilinear mappings.
+The first one is able to recognize $n$-graded associative algebras and their
+modules and gives immediately the correct differential for Hochschild
+cohomology. The second one recognizes $n$-graded Lie algebra structures and
+their modules and gives rise to the notion of Chevalley cohomology.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9201258","Peter W. Michor","Olga Gil-Medrano, Peter W. Michor, Martin Neuwirther","Pseudoriemannian metrics on spaces of bilinear structures",,"Quart. J. Math. Oxford Ser. (2) 43 (1992), 201-221",,"Michor 99-08","math.DG math.FA",,"  The space of all non degenerate bilinear structures on a manifold $M$ carries
+a one parameter family of pseudo Riemannian metrics. We determine the geodesic
+equation, covariant derivative, curvature, and we solve the geodesic equation
+explicitly. Each space of pseudo Riemannian metrics with fixed signature is a
+geodesically closed submanifold. The space of non degenerate 2-forms is also a
+geodesically closed submanifold. Then we show that, if we fix a distribution on
+$M$, the space of all Riemannia metrics splits as the product of three spaces
+which are everywhere mutually orthogonal, for the usual metric. We investigate
+this situation in detail.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201259","Peter W. Michor","Olga Gil-Medrano, Peter W. Michor","The Riemannian manifold of all Riemannian metrics",,"Quart. J. Math. Oxford Ser. (2) 42 (1991), 183-202",,"Michor 99-08","math.DG math.FA",,"  The space of all Riemannian metrics on a smooth second countable finite
+dimensional manifold is itself a smooth manifold modeled on the space of
+symmetric (0,2)-tensor fields with compact support. It carries a canonical
+Riemannian metric which is invariant under the action of the diffeomorphism
+group. We determine its geodesics, exponential mapping, curvature, and Jacobi
+fields in a very explicit manner.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9201260","Michael Christ","Michael Christ","Some non-analytic-hypoelliptic sums of squares of vector fields","4 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 137-140",,"Bulletin migration 11/99","math.AP",,"  Certain second-order partial differential operators, which are expressed as
+sums of squares of real-analytic vector fields in $\Bbb R^3$ and which are well
+known to be $C^\infty$ hypoelliptic, fail to be analytic hypoelliptic.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201261","Percy Deift","Percy Deift, Xin Zhou","A steepest descent method for oscillatory Riemann-Hilbert problems","6 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 119-124",,"Bulletin migration 11/99","math.AP",,"  In this announcement we present a general and new approach to analyzing the
+asymptotics of oscillatory Riemann-Hilbert problems. Such problems arise, in
+particular, in evaluating the long-time behavior of nonlinear wave equations
+solvable by the inverse scattering method. We will restrict ourselves here
+exclusively to the modified Korteweg de Vries (MKdV) equation,
+  $$y_t-6y^2y_x+y_{xxx}=0,\qquad -\infty<x<\infty,\ t\ge0, y(x,t=0)=y_0(x),$$
+  but it will be clear immediately to the reader with some experience in the
+field, that the method extends naturally and easily to the general class of
+wave equations solvable by the inverse scattering method, such as the KdV,
+nonlinear Schr\""odinger (NLS), and Boussinesq equations, etc., and also to
+``integrable'' ordinary differential equations such as the Painlev\'e
+transcendents.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201262",,"Morris W. Hirsch, Richard S. Palais","Editors' remarks (on two complexity theory surveys in the Bulletin)","2 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 1-2",,"Bulletin migration 11/99","math.HO",,"  The authors discuss the role of controversy in mathematics as a preface to
+two opposing articles on computational complexity theory: ""Some basic
+information on information-based complexity theory"" by Beresford Parlett
+[math.NA/9201266] and ""Perspectives on information-based complexity"" by J. F.
+Traub and Henryk Wo\'zniakowski [math.NA/9201269].
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9201263","Linda Keen","Linda Keen, Caroline Series","Pleating coordinates for the Teichm\""{u}ller space of a punctured torus","6 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 141-146",,"Bulletin migration 11/99","math.GT math.CV",,"  We construct new coordinates for the Teichm\""uller space Teich of a punctured
+torus into $\bold{R} \times\bold{R}^+$. The coordinates depend on the
+representation of Teich as a space of marked Kleinian groups $G_\mu$ that
+depend holomorphically on a parameter $\mu$ varying in a simply connected
+domain in $\bold{C}$. They describe the geometry of the hyperbolic manifold
+$\bold{H}^3/G_\mu$; they reflect exactly the visual patterns one sees in the
+limit sets of the groups $G_\mu$; and they are directly computable from the
+generators of $G_\mu$.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201264","Michael Mihalik","Michael L. Mihalik, Steven T. Tschantz","Semistability of amalgamated products, HNN-extensions, and all
+  one-relator groups","6 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 131-136",,"Bulletin migration 11/99","math.GR math.GT",,"  The authors announce the following theorem.
+  Theorem 1. If $G=A*_H B$ is an amalgamated product where $A$ and $B$ are
+finitely presented and semistable at infinity, and $H$ is finitely generated,
+then $G$ is semistable at infinity. If $G=A*_H$ is an HNN-extension where $A$
+is finitely presented and semistable at infinity, and $H$ is finitely
+generated, then $G$ is semistable at infinity.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9201265","John Morgan","John W. Morgan","$\Lambda$\<-Trees and Their Applications","26 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 87-112",,"Bulletin migration 11/99","math.GR math.DS math.GT",,"  To most mathematicians and computer scientists the word ``tree'' conjures up,
+in addition to the usual image, the image of a connected graph with no
+circuits. In the last few years various types of trees have been the subject of
+much investigation, but this activity has not been exposed much to the wider
+mathematical community. This article attempts to fill this gap and explain
+various aspects of the recent work on generalized trees.
+  The subject is very appealing for it mixes very na\""{\i}ve geometric
+considerations with the very sophisticated geometric and algebraic structures.
+In fact, part of the drama of the subject is guessing what type of techniques
+will be appropriate for a given investigation: Will it be direct and simple
+notions related to schematic drawings of trees or will it be notions from the
+deepest parts of algebraic group theory, ergodic theory, or commutative algebra
+which must be brought to bear? Part of the beauty of the subject is that the
+na\""{\i}ve tree considerations have an impact on these more sophisticated
+topics and that in addition, trees form a bridge between these disparate
+subjects.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201266",,"Beresford N. Parlett","Some basic information on information-based complexity theory","26 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 3-28",,"Bulletin migration 11/99","math.NA",,"  Numerical analysts might be expected to pay close attention to a branch of
+complexity theory called information-based complexity theory (IBCT), which
+produces an abundance of impressive results about the quest for approximate
+solutions to mathematical problems. Why then do most numerical analysts turn a
+cold shoulder to IBCT? Close analysis of two representative papers reveals a
+mixture of nice new observations, error bounds repackaged in new language,
+misdirected examples, and misleading theorems.
+  Some elements in the framework of IBCT, erected to support a rigorous yet
+flexible theory, make it difficult to judge whether a model is off-target or
+reasonably realistic. For instance, a sharp distinction is made between
+information and algorithms restricted to this information. Yet the information
+itself usually comes from an algorithm, so the distinction clouds the issues
+and can lead to true but misleading inferences. Another troublesome aspect of
+IBCT is a free parameter $F$, the class of admissible problem instances. By
+overlooking $F$'s membership fee, the theory sometimes distorts the economics
+of problem solving in a way reminiscent of agricultural subsidies.
+  The current theory's surprising results pertain only to unnatural situations,
+and its genuinely new insights might serve us better if expressed in the
+conventional modes of error analysis and approximation theory.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201267","Ziv Ran","Ziv Ran","Lifting of cohomology and unobstructedness of certain holomorphic maps","6 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 113-118",,"Bulletin migration 11/99","math.CV math.AG",,"  Let $f$ be a holomorphic mapping between compact complex manifolds. We give a
+criterion for $f$ to have {\it unobstructed deformations}, i.e. for the local
+moduli space of $f$ to be smooth: this says, roughly speaking, that the group
+of infinitesimal deformations of $f$, when viewed as a functor, itself
+satisfies a natural lifting property with respect to infinitesimal
+deformations. This lifting property is satisfied e.g. whenever the group in
+question admits a `topological' or Hodge-theoretic interpretation, and we give
+a number of examples, mainly involving Calabi-Yau manifolds, where that is the
+case.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201268",,"Michael Struwe","Semilinear wave equations","34 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 53-86",,"Bulletin migration 11/99","math.AP",,"  We survey existence and regularity results for semi-linear wave equations. In
+particular, we review the recent regularity results for the $u^5$-Klein Gordon
+equation by Grillakis and this author and give a self-contained, slightly
+simplified proof.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9201269",,"J. F. Traub, Henryk Wo\'zniakowski","Perspectives on information-based complexity","24 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 29-52",,"Bulletin migration 11/99","math.NA",,"  The authors discuss information-based complexity theory, which is a model of
+finite-precision computations with real numbers, and its applications to
+numerical analysis.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9201270","Brian White","Brian White","Nonunique tangent maps at isolated singularities of harmonic maps","6 pages","Bull. Amer. Math. Soc. (N.S.) 26 (1992) 125-130",,"Bulletin migration 11/99","math.DG",,"  Shoen and Uhlenbeck showed that ``tangent maps'' can be defined at singular
+points of energy minimizing maps. Unfortunately these are not unique, even for
+generic boundary conditions. Examples are discussed which have isolated
+singularities with a continuum of distinct tangent maps.
+","[{""version"":""v1"",""created"":""Wed, 1 Jan 1992 00:00:00 GMT""}]","2009-09-25"

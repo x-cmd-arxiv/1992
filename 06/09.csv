@@ -1,0 +1,60 @@
+"hep-ph/9206213",,"Haim Goldberg","Exact Nonperturbative Unitary Amplitudes for 1->N Transitions","11 pages, 3 figures (not included)","Phys.Rev.Lett. 69 (1992) 3017-3020","10.1103/PhysRevLett.69.3017","NUB-3044/92-Th","hep-ph",,"  I present an extension to arbitrary N of a previously proposed field
+theoretic model, in which unitary amplitudes for $1->8$ processes were
+obtained. The Born amplitude in this extension has the behavior
+$A(1->N)^{tree}\ =\ g^{N-1}\ N!$ expected in a bosonic field theory. Unitarity
+is violated when $|A(1->N)|>1$, or when $N>\N_crit\simeq e/g.$ Numerical
+solutions of the coupled Schr\""odinger equations shows that for weak coupling
+and a large range of $N>\ncrit,$ the exact unitary amplitude is reasonably fit
+by a factorized expression $|A(1->N)| \sim (0.73 /N) \cdot \exp{(-0.025/\g2)}$.
+The very small size of the coefficient $1/\g2$ , indicative of a very weak
+exponential suppression, is not in accord with standard discussions based on
+saddle point analysis, which give a coefficient $\sim 1.\ $ The weak dependence
+on $N$ could have experimental implications in theories where the exponential
+suppression is weak (as in this model). Non-perturbative contributions to
+few-point correlation functions in this theory would arise at order $K\ \simeq\
+\left((0.05/\g2)+ 2\ ln{N}\right)/ \ ln{(1/\g2)}$ in an expansion in powers of
+$\g2.$
+","[{""version"":""v1"",""created"":""Mon, 8 Jun 1992 22:05:00 GMT""}]","2009-10-22"
+"hep-th/9206031",,"C. M. Hull and L. Palacios","Singular Contractions of W-algebras","10 pages, phyzzx.tex, QMW-92-7.(minor spelling and acknowledgement
+  corrections)","Mod.Phys.Lett. A7 (1992) 2619-2626","10.1142/S0217732392004092",,"hep-th",,"  Many $W$-algebras (e.g. the $W_N$ algebras) are consistent for all values of
+the central charge except for a discrete set of exceptional values. We show
+that such algebras can be contracted to new consistent degenerate algebras at
+these exceptional values of the central charge.
+","[{""version"":""v1"",""created"":""Mon, 8 Jun 1992 16:26:26 GMT""}]","2015-06-26"
+"hep-th/9206033","Antti Niemi","Antti J. Niemi and O. Tirkkonen","Cohomological Partition Functions for a Class of Bosonic Theories","9 pages; standard LATEX file","Phys.Lett. B293 (1992) 339-343","10.1016/0370-2693(92)90893-9",,"hep-th",,"  We argue, that for a general class of nontrivial bosonic theories the path
+integral can be related to an equivariant generalization of conventional
+characteristic classes.
+","[{""version"":""v1"",""created"":""Mon, 8 Jun 1992 20:54:00 GMT""}]","2009-10-22"
+"hep-th/9206034","Tomoki Nakanishi","Atsuo Kuniba and Tomoki Nakanishi","Spectra in Conformal Field Theories from the Rogers Dilogarithm","10 pages, MRR-009-92, SMS-042-92","Mod.Phys.Lett. A7 (1992) 3487-3494","10.1142/S0217732392002895",,"hep-th",,"  We propose a system of functional relations having a universal form connected
+to the $U_q(X^{(1)}_r)$ Bethe ansatz equation. Based on the analysis of it, we
+conjecture a new sum formula for the Rogers dilogarithm function in terms of
+the scaling dimensions of the $X^{(1)}_r$ parafermion conformal field theory.
+","[{""version"":""v1"",""created"":""Tue, 9 Jun 1992 08:22:15 GMT""}]","2015-06-26"
+"hep-th/9206035","Jean Zinn-Justin","Edouard Br\'ezin and Jean Zinn-Justin","Renormalization Group Approach to Matrix Models",,"Phys.Lett. B288 (1992) 54-58","10.1016/0370-2693(92)91953-7","LPTENS 92/19, SPhT/92-064","hep-th",,"  Matrix models of 2D quantum gravity are either exactly solvable for matter of
+central charge $ c\leq 1, $ or not understood. It would be useful to devise an
+approximate scheme which would be reasonable for the known cases and could be
+carried to the unsolved cases in order to achieve at least a qualitative
+understanding of the properties of the models. The double scaling limit is an
+indication that a change of the length scale induces a flow in the parameters
+of the theory, the size of the matrix and the coupling constants for matrix
+models, at constant long distances physics. We construct here these
+renormalization group equations at lowest orders in various cases to check that
+we reproduce qualitatively the properties of $ c\leq 1 $ models.
+","[{""version"":""v1"",""created"":""Tue, 9 Jun 1992 08:40:31 GMT""}]","2009-10-22"
+"hep-th/9206036",,"J.S.Dowker and Peter Chang","Polyhedral Cosmic Strings","15 pages, 4 text figures not included","Phys.Rev. D46 (1992) 3458-3464","10.1103/PhysRevD.46.3458","MUTP 91/30","hep-th",,"  Quantum field theory is discussed in M\""obius corner kaleidoscopes using the
+method of images. The vacuum average of the stress-energy tensor of a free
+field is derived and is shown to be a simple sum of straight cosmic string
+expressions, the strings running along the edges of the corners. It does not
+seem possible to set up a spin-half theory easily.
+","[{""version"":""v1"",""created"":""Tue, 9 Jun 1992 10:20:00 GMT""}]","2009-10-22"
+"hep-th/9206037",,"Boris Dubrovin","Geometry and Integrability of Topological-Antitopological Fusion","30 pages, plain TEX, INFN-8/92-DSF","Commun.Math.Phys. 152 (1993) 539-564","10.1007/BF02096618",,"hep-th",,"  Integrability of equations of topological-antitopological fusion (being
+proposed by Cecotti and Vafa) describing ground state metric on given 2D
+topological field theory (TFT) model, is proved. For massive TFT models these
+equations are reduced to a universal form (being independent on the given TFT
+model) by gauge transformations. For massive perturbations of topological
+conformal field theory models the separatrix solutions of the equations bounded
+at infinity are found by the isomonodromy deformations method. Also it is shown
+that ground state metric together with some part of the underlined TFT
+structure can be parametrized by pluriharmonic maps of the coupling space to
+the symmetric space of real positive definite quadratic forms.
+","[{""version"":""v1"",""created"":""Tue, 9 Jun 1992 12:17:00 GMT""}]","2009-10-22"

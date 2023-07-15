@@ -1,0 +1,39 @@
+"alg-geom/9202004","David R. Morrison","David R. Morrison","Mirror symmetry and rational curves on quintic threefolds: a guide for
+  mathematicians","26 pp., AmS-LaTeX (v1.0 or 1.1)","J. Amer. Math. Soc. 6 (1993) 223--247",,,"alg-geom math.AG",,"  We give a mathematical account of a recent string theory calculation which
+predicts the number of rational curves on the generic quintic threefold. Our
+account involves the interpretation of Yukawa couplings in terms of variations
+of Hodge structure, a new $q$-expansion principle for functions on the moduli
+space of Calabi-Yau manifolds, and the ``mirror symmetry'' phenomenon recently
+observed by string theorists.
+","[{""version"":""v1"",""created"":""Mon, 10 Feb 1992 23:25:23 GMT""}]","2008-02-03"
+"alg-geom/9202005","Guenter Ziegler","G\""unter M. Ziegler","On the difference between real and complex arrangements","13 pages, plain-TeX, C-Version 3.14",,,,"alg-geom math.AG",,"  Let $B$ be an arrangement of linear complex hyperplanes in $C^d$. Then a
+classical result by Orlik \& Solomon asserts that the cohomology algebra of the
+complement can be constructed from the combinatorial data that are given by the
+intersection lattice.
+  If $B'$ is, more generally, a $2$-arrangement in $R^{2d}$ (an arrangement of
+real subspaces of codimension $2$ with even-dimensional intersections), then
+the intersection lattice still determines the cohomology {\it groups} of the
+complement, as was shown by Goresky \& MacPherson. We prove, however, that for
+$2$-arrangements the cohomology {\it algebra} is not determined by the
+intersection lattice. It encodes extra information on sign patterns, which can
+be computed from determinants of linear relations or, equivalently, from
+linking coefficients in the sense of knot theory. This also allows us (in the
+case $d=2$) to identify arrangements with the same lattice but different
+fundamental groups.
+","[{""version"":""v1"",""created"":""Tue, 11 Feb 1992 07:35:04 GMT""}]","2008-02-03"
+"hep-th/9202034","Tim Klassen","Timothy R. Klassen and Ezer Melzer","Kinks in Finite Volume","48/28 pages + 10 figs, 4 in pictex, the rest in postscript files
+  attached at the end","Nucl.Phys. B382 (1992) 441-485","10.1016/0550-3213(92)90656-V",,"hep-th",,"  A (1+1)-dimensional quantum field theory with a degenerate vacuum (in
+infinite volume) can contain particles, known as kinks, which interpolate
+between different vacua and have nontrivial restrictions on their
+multi-particle Hilbert space. Assuming such a theory to be integrable, we show
+how to calculate the multi-kink energy levels in finite volume given its
+factorizable $S$-matrix. In massive theories this can be done exactly up to
+contributions due to off-shell and tunneling effects that fall off
+exponentially with volume. As a first application we compare our analytical
+predictions for the kink scattering theories conjectured to describe the
+subleading thermal and magnetic perturbations of the tricritical Ising model
+with numerical results from the truncated conformal space approach. In
+particular, for the subleading magnetic perturbation our results allow us to
+decide between the two different $S$-matrices proposed by Smirnov and
+Zamolodchikov.
+","[{""version"":""v1"",""created"":""Tue, 11 Feb 1992 04:12:22 GMT""}]","2009-10-22"

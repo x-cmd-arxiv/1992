@@ -1,0 +1,58 @@
+"hep-th/9203031","Petr Horava","Petr Horava","Two Dimensional Stringy Black Holes with One Asymptotically Flat Domain","-- 15 pages, no figures","Phys.Lett. B289 (1992) 293-301","10.1016/0370-2693(92)91222-U",,"hep-th",,"  The exact black hole solution of 2D closed string theory has, as any other
+maximally extended Schwarzschild-like geometry, two asymptotically flat
+spacetime domains. One can get rid of the second domain by gauging the discrete
+symmetry on the SL(2,R)/U(1) coset that interchanges the two asymptotic domains
+and preserves the Kruskal time orientation everywhere in the Kruskal plane.
+Here it is shown that upon performing this orbifold procedure, we obtain a
+theory of unoriented open and closed strings in a black hole background, with
+just one asymptotically flat domain and a time-like orbifold singularity at the
+origin. All of the open string states of the model are confined to the orbifold
+singularity. We also discuss various physical aspects of the truncated black
+hole, in particular its target duality -- the model is dual to a conventional
+open string theory in the black hole geometry.
+","[{""version"":""v1"",""created"":""Wed, 11 Mar 1992 20:18:39 GMT""}]","2009-10-22"
+"hep-th/9203032","Roger Brooks","Roger Brooks","Relating Scattering Amplitudes in Bosonic and Topological String
+  Theories","9 pages","Phys.Lett. B289 (1992) 317-320","10.1016/0370-2693(92)91225-X",,"hep-th",,"  A formal relationship between scattering amplitudes in critical bosonic
+string theory and correlation functions of operators in topological string
+theory is found.
+","[{""version"":""v1"",""created"":""Wed, 11 Mar 1992 22:46:00 GMT""}]","2016-09-06"
+"hep-th/9203033","A. A. Tseytlin","A.A. Tseytlin","Cosmological solutions with dilaton and maximally symmetric space in
+  string theory","34 pages --------TEX errors finally corrected-------------------","Int.J.Mod.Phys.D1:223-245,1992","10.1142/S0218271892000112","DAMTP-92-15","hep-th",,"  We discuss time - dependent solutions of the leading order string effective
+equations for a non-zero central charge deficit and curved maximally symmetric
+space. Some regular solutions are found for the case of non-trivial
+antisymmetric tensor and vector backgrounds (in various dimensions) and
+negative spatial curvature. It remains an open question which conformal
+theories are exact generalisations of these solutions.
+","[{""version"":""v1"",""created"":""Thu, 12 Mar 1992 00:00:30 GMT""},{""version"":""v2"",""created"":""Thu, 21 May 1992 15:59:57 GMT""}]","2009-09-17"
+"hep-th/9203034","Kanehisa Takasaki","Kanehisa Takasaki","Volume-preserving diffeomorphisms in integrable deformations of selfdual
+  gravity","9 pages","Phys.Lett. B285 (1992) 187-190","10.1016/0370-2693(92)91450-N",,"hep-th",,"  A group of volume-preserving diffeomorphisms in 3D turns out to play a key
+role in an Einstein-Maxwell theory whose Weyl tensor is selfdual and whose
+Maxwell tensor has algebraically general anti-selfdual part. This model was
+first introduced by Flaherty and recently studied by Park as an integrable
+deformation of selfdual gravity. A twisted volume form on the corresponding
+twistor space is shown to be the origin of volume-preserving diffeomorphisms.
+An immediate consequence is the existence of an infinite number of symmetries
+as a generalization of $w_{1+\infty}$ symmetries in selfdual gravity. A
+possible relation to Witten's 2D string theory is pointed out.
+","[{""version"":""v1"",""created"":""Thu, 12 Mar 1992 08:05:10 GMT""}]","2009-10-22"
+"math/9203203","Elise E. Cawley","Elise E. Cawley","The Teichm\""uller space of the standard action of $SL(2,Z)$ on $T^2$ is
+  trivial",,,,"Stony Brook IMS 1992/4","math.DS",,"  The group $SL(n,{\bf Z})$ acts linearly on $\R^n$, preserving the integer
+lattice $\Z^{n} \subset \R^{n}$. The induced (left) action on the n-torus
+$\T^{n} = \R^{n}/\Z^{n}$ will be referred to as the ``standard action''.
+  It has recently been shown that the standard action of $SL(n,\Z)$ on $\T^n$,
+for $n \geq 3$, is both topologically and smoothly rigid. That is, nearby
+actions in the space of representations of $SL(n,\Z)$ into ${\rm
+Diff}^{+}(\T^{n})$ are smoothly conjugate to the standard action. In fact, this
+rigidity persists for the standard action of a subgroup of finite index. On the
+other hand, while the $\Z$ action on $\T^{n}$ defined by a single hyperbolic
+element of $SL(n,\Z)$ is topologically rigid, an infinite dimensional space of
+smooth conjugacy classes occur in a neighborhood of the linear action.
+  The standard action of $SL(2, \Z)$ on $\T^2$ forms an intermediate case, with
+different rigidity properties from either extreme. One can construct continuous
+deformations of the standard action to obtain an (arbritrarily near) action to
+which it is not topologically conjugate. The purpose of the present paper is to
+show that if a nearby action, or more generally, an action with some mild
+Anosov properties, is conjugate to the standard action of $SL(2, \Z)$ on $\T^2$
+by a homeomorphism $h$, then $h$ is smooth. In fact, it will be shown that this
+rigidity holds for any non-cyclic subgroup of $SL(2, \Z)$.
+","[{""version"":""v1"",""created"":""Thu, 12 Mar 1992 00:00:00 GMT""}]","2016-09-06"

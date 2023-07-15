@@ -1,0 +1,66 @@
+"hep-ph/9205242",,"V. Bhansali and H. Georgi","Running Nonlocal Lagrangians","25pgs, #HUTP-92/A060",,,,"hep-ph",,"  We investigate the renormalization of ``nonlocal'' interactions in an
+effective field theory using dimensional regularization with minimal
+subtraction. In a scalar field theory, we write an integro-differential
+renormalization group equation for every possible class of graph at one loop
+order.
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 16:56:56 GMT""}]","2007-05-23"
+"hep-ph/9205243","Aneesh V. Manohar","Elizabeth Jenkins, Aneesh V. Manohar, and Mark B. Wise","Baryons Containing a Heavy Quark as Solitons","15 pages, uses phyzzx.tex and tables.tex, REVISED VERSION: Some of
+  the results have changed because of a crucial minus sign, CALT-68-1783 and
+  UCSD/PTH 92-17","Nucl.Phys.B396:27-37,1993","10.1016/0550-3213(93)90256-O",,"hep-ph",,"  The possibility of interpreting baryons containing a single heavy quark as
+bound states of solitons (that arise in the nonlinear sigma model) and heavy
+mesons is explored. Particular attention is paid to the parity of the bound
+states and to the role of heavy quark symmetry.
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 17:43:25 GMT""},{""version"":""v2"",""created"":""Tue, 23 Jun 1992 18:43:47 GMT""},{""version"":""v3"",""created"":""Thu, 20 Aug 1992 23:46:52 GMT""}]","2008-11-26"
+"hep-ph/9205244",,"Eugeni Akhmedov","Resonant Spin-Flavor Precession of Neutrinos As a Possible Solution to
+  the Solar Neutrino Problem","12 pages, 1 figure (not included), SISSA-49/92/EP",,,,"hep-ph",,"  Recent developments of the resonant neutrino spin-flavor precession scenario
+and its applications to the solar neutrino problem are reviewed. We discuss in
+particular the possibilities of reconciliation of strong time variations of the
+solar neutrino flux observed in the Homestake ${}^{37}\$Cl experiment with
+little or no time variation seen in the Kamiokande II experiment.
+","[{""version"":""v1"",""created"":""Fri, 29 May 1992 10:10:24 GMT""}]","2007-05-23"
+"hep-th/9205104","J. S. Park","Jae-Suk Park","Universal Bundle, Generalized Russian Formula and Non-Abelian Anomaly in
+  Topological Yang-Mills Theory","16 pages, harvmac TeX, ESENAT-92-07, (TeXnical and stupid errors are
+  corrected.)",,,,"hep-th",,"  We re-examine the geometry and algebraic structure of BRST's of Topological
+Yang-Mills theory based on the universal bundle formalism of Atiyah and Singer.
+This enables us to find a natural generalization of the {\it Russian formula
+and descent equations\/}, which can be used as algebraic method to find the
+non-Abelian anomalies counterparts in Topological Yang-Mills theory. We suggest
+that the presence of the non-Abelian anomaly obstructs the proper definition of
+Donaldson's invariants.
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 20:40:00 GMT""},{""version"":""v2"",""created"":""Wed, 15 Jul 1992 21:26:00 GMT""}]","2008-02-03"
+"hep-th/9205107",,"John Ellis, N.E. Mavromatos and D.V. Nanopoulos","The Origin of Space-Time as $W$ Symmetry Breaking in String Theory","13 pages","Phys.Lett.B288:23-30,1992","10.1016/0370-2693(92)91949-A",,"hep-th",,"  Physics in the neighbourhood of a space-time metric singularity is described
+by a world-sheet topological gauge field theory which can be represented as a
+twisted $N=2$ superconformal Wess-Zumino model with a $W_{1+\infty} \otimes
+W_{1+\infty} $ bosonic symmetry. The measurable $W$-hair associated with the
+singularity is associated with Wilson loop integrals around gauge defects. The
+breaking of $W_{1+\infty}$ $\otimes $ $W_{1+\infty}$ $\rightarrow $
+$W_{1+\infty}$ is associated with expectation values for open Wilson lines that
+make the metric non-singular away from the singularity. This symmetry breaking
+is accompanied by massless discrete `tachyon' states that appear as leg poles
+in $S$-matrix elements. The triviality of the $S$-matrix in the high-energy
+limit of the $c=1$ string model, after renormalisation by the leg pole factors,
+is due to the restoration of double $W$-symmetry at the singularity.
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 22:11:36 GMT""}]","2009-09-11"
+"hep-th/9205108",,"Ramzi R. Khuri","Exact Solutions in Bosonic and Heterotic String Theory","11 pages",,,,"hep-th",,"  We review some exact solitonic solutions of string theory with
+higher-membrane structure. These include an axionic instanton solution of
+bosonic string theory as well as multi-instanton and multimonopole solutions of
+heterotic string theory. The heterotic solutions reveal some interesting
+aspects of string theory as a theory of quantum gravity.
+","[{""version"":""v1"",""created"":""Fri, 29 May 1992 00:13:34 GMT""}]","2007-05-23"
+"hep-th/9205109","Rodolfo Cuerno","R. Cuerno, G. Sierra and C. Gomez","On Integrable Quantum Group Invariant Antiferromagnets","IFF-5/92, 13 pages, LaTex file, 8 figures available from authors",,"10.1016/0393-0440(93)90071-L",,"hep-th cond-mat",,"  A new open spin chain hamiltonian is introduced. It is both integrable
+(Sklyanin`s type $K$ matrices are used to achieve this) and invariant under
+${\cal U}_{\epsilon}(sl(2))$ transformations in nilpotent irreps for
+$\epsilon^3=1$. Some considerations on the centralizer of nilpotent
+representations and its representation theory are also presented.
+","[{""version"":""v1"",""created"":""Fri, 29 May 1992 12:30:19 GMT""}]","2009-10-22"
+"hep-th/9205110","Jean-Loup Gervais","I.M.Krichever","The $\tau$-function of the universal Whitham hierarchy, matrix models
+  and topological field theories","(34 pages LATEX file) LPTENS--92/18","Commun.PureAppl.Math.47:437,1994",,,"hep-th",,"  The universal Witham hierarchy is considered from the point of view of
+topological field theories. The $\tau$-function for this hierarchy is defined.
+It is proved that the algebraic orbits of Whitham hierarchy can be identified
+with various topological matter models coupled with topological gravity.
+","[{""version"":""v1"",""created"":""Fri, 29 May 1992 13:31:51 GMT""}]","2008-11-26"
+"hep-th/9205111","H. Ikemori","Hitoshi Ikemori","Extended form method of antifield-BRST formalism for BF theories","8 pages, Shiga-92-1","Mod.Phys.Lett. A7 (1992) 3397-3402","10.1142/S0217732392002792",,"hep-th",,"  The Batalin-Vilkovisky antifield action for the BF theories is constructed by
+means of the extended form method. The BRST invariant BV antifield action is
+directly written down by making use of the extended forms that involve all the
+required ghosts and antifields.
+","[{""version"":""v1"",""created"":""Fri, 29 May 1992 11:15:38 GMT""}]","2015-06-26"

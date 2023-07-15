@@ -1,0 +1,116 @@
+"cond-mat/9207019",,"C. Ting","Duality in Multi-layered Quantum Hall Systems","LaTex 9 pages, NUS/HEP/920503",,,,"cond-mat",,"  The braid group dynamics captures the fractional quantum Hall effect (FQHE)
+as a manifestation of puncture phase. When the dynamics is generalized for
+particles on a multi-sheeted surface, we obtain new tools which determine the
+fractional charges, the quantum statistics, and the filling factors of the
+multi-layered FQHE. A many-quasi-hole wavefunction is proposed for the
+bilayered samples. We also predict a $\nu = 5/7$ FQHE for triple-layered
+samples. The viability of {\em 3-dimensional} FQHE and the application of the
+concept of generalized duality to anyonic superconductivity are discussed.
+","[{""version"":""v1"",""created"":""Fri, 17 Jul 1992 11:02:02 GMT""}]","2007-05-23"
+"cond-mat/9207020",,"C. Ting","Mutual statistics, braid group, and the fractional quantum Hall effect","LaTex 26 pages","Int.J.Mod.Phys. B6 (1992) 3155-3178","10.1142/S0217979292002425","NUS/HEP/920502","cond-mat",,"  We show that the notion of mutual statistics arises naturally from the
+representation theory of the braid group over the multi-sheeted surface. A
+Hamiltonian which describes particles moving on the double-sheeted surface is
+proposed as a model for the bilayered fractional quantum Hall effect (FQHE)
+discovered recently. We explicitly show that the quasi-holes of the bilayered
+Hall fluid display fractional mutual statistics. A model for 3-dimensional FQHE
+using the multi-layered sample is suggested.
+","[{""version"":""v1"",""created"":""Fri, 17 Jul 1992 11:02:40 GMT""}]","2015-06-25"
+"cond-mat/9207021","James Sauls","S.K. Yip and J.A. Sauls","Nonlinear Meissner Effect in CuO Superconductors","5 pages (RevTex), 1 figure (postscript file incl.)","Phys.Rev.Lett.69:2264,1992","10.1103/PhysRevLett.69.2264",,"cond-mat",,"  Recent theories of the NMR in the CuO superconductors are based on a
+spin-singlet $d_{x^2-y^2}$ order parameter. Since this state has nodal lines on
+the Fermi surface, nonlinear effects associated with low-energy quasiparticles
+become important, particularly at low temperatures. We show that the
+field-dependence of the supercurrent, below the nucleation field for vortices,
+can be used to locate the positions of the nodal lines of an unconventional gap
+in momentum space, and hence test the proposed $d_{x^2-y^2}$ state.
+","[{""version"":""v1"",""created"":""Fri, 17 Jul 1992 15:28:04 GMT""}]","2009-01-23"
+"hep-lat/9207015","Alexander Migdal","A.A. Migdal","1/N Expansion and Particle Spectrum in Induced QCD",,"Mod.Phys.Lett. A8 (1993) 139-152","10.1142/S0217732393000155",,"hep-lat hep-th",,"  We study the 1/N expansion in the recently proposed model of the lattice
+gauge theory induced by heavy scalar field in adjoint representation. In the
+first approximation the fluctuations of the density of eigenvalues of the
+scalar field are Gaussian, so that the scalar glueball spectrum is defined from
+the corresponding linear wave equation.
+","[{""version"":""v1"",""created"":""Thu, 16 Jul 1992 17:36:35 GMT""},{""version"":""v2"",""created"":""Fri, 24 Jul 1992 19:25:06 GMT""}]","2009-10-22"
+"hep-lat/9207016","Thomas Kalkreuter","Thomas Kalkreuter","Improving Multigrid and Conventional Relaxation Algorithms for
+  Propagators","8 pages, DESY 92-108, (Revised version of paper hep-lat/9207016:
+  Inclusion of a cautionary remark concerning the term ``critical slowing
+  down'' in computations of propagators; the revised version does not contain
+  any figs. in ps due to problems IBM-->Unix, figs. can be obtained from the
+  author.)","Int.J.Mod.Phys. C3 (1992) 1323-1332","10.1142/S0129183192000907",,"hep-lat",,"  Practical modifications of deterministic multigrid and conventional
+relaxation algorithms are discussed. New parameters need not be tuned but are
+determined by the algorithms themselves. One modification can be thought of as
+``updating on a last layer consisting of a single site''. It eliminates
+critical slowing down in computations of bosonic and fermionic propagators in a
+fixed volume. Here critical slowing down means divergence of asymptotic
+relaxation times as the propagators approach criticality. A remaining volume
+dependence is weak enough in case of bosons so that conjugate gradient can be
+outperformed. However, no answer can be given yet if the same is true for
+staggered fermions on lattices of realizable sizes. Numerical results are
+presented for propagators of bosons and of staggered fermions in 4-dimensional
+$SU(2)$ gauge fields.
+","[{""version"":""v1"",""created"":""Fri, 17 Jul 1992 12:25:51 GMT""},{""version"":""v2"",""created"":""Sat, 5 Sep 1992 10:45:03 GMT""}]","2009-10-22"
+"hep-ph/9207244","Dave Bennett","David P. Bennett and Sun Hong Rhie","COBE's Constraints on the Global Monopole and Texture Theories of Cosmic
+  Structure Formation","8 pages, 5 figures (not included, but available by mail),
+  CfPA-TH-92-21","Astrophys.J. 406 (1993) L7-L10","10.1086/186773",,"hep-ph astro-ph",,"  We report on a calculation of large scale anisotropy in the cosmic microwave
+background radiation in the global monopole and texture models for cosmic
+structure formation. We have evolved the six component linear gravitational
+field along with the monopole or texture scalar fields numerically in an
+expanding universe and performed the Sachs-Wolfe integrals directly on the
+calculated gravitational fields. On scales $> 7^\circ$, we find a Gaussian
+distribution with an approximately scale invariant fluctuation spectrum. The
+$\Delta T/T$ amplitude is a factor of 4-5 larger than the prediction of the
+standard CDM model with the same Hubble constant and density fluctuation
+normalization. The recently reported COBE-DMR results imply that global
+monopole and texture models require high bias factors or a large Hubble
+constant in contrast to standard CDM which requires very low $H_0$ and bias
+values. For $H_0 = 70 {\rm {km\over sec} Mpc^{-1}}$, we find that normalizing
+to the COBE results implies $b_8 \simeq 3.2\pm 1.4$ (95\% c.l.). If we restrict
+ourselves to the range of bias factors thought to be reasonable before the
+announcement of the COBE results, $1.5 \lsim b_8 \lsim 2.5$, then it is fair to
+conclude that global monopoles and textures are consistent with the COBE
+results and are a {\it better} fit than Standard CDM.
+","[{""version"":""v1"",""created"":""Thu, 16 Jul 1992 20:40:01 GMT""}]","2009-10-22"
+"hep-ph/9207245",,"Fred Adams, J. R. Bond, Katherine Freese, Joshua Frieman, Angela
+  Olinto","Natural Inflation: Particle Physics Models, Power Law Spectra for Large
+  Scale Structure, and Constraints from COBE","42 pages, (12 figures not included but available from the authors)","Phys.Rev.D47:426-455,1993","10.1103/PhysRevD.47.426",,"hep-ph astro-ph",,"  A pseudo-Nambu-Goldstone boson, with a potential of the form $V(\phi) =
+\Lambda^4[1 \pm \cos(\phi/f)], naturally gives rise to inflation if $f \sim
+M_{Pl}$ and $\Lambda \sim M_{GUT}$. We show how this can arise in
+technicolor-like and superstring models, and work out an explicit string
+example in the context of multiple gaugino condensation models. We study the
+cosmology of this model in detail, and find that sufficient reheating to ensure
+that baryogenesis can take place requires $f > 0.3 M_{Pl}$. The primordial
+density fluctuation spectrum generated is a non-scale-invariant power law,
+$P(k) \propto k^{n_s}$, with $n_s \simeq 1 - (M^2_{Pl}/8\pi f^2)$, leading to
+more power on large length scales than the $n_s = 1$ Harrison-Zeldovich
+spectrum. The standard CDM model with $0 \la n_s \la 0.6-0.7$ could in
+principle explain the large-scale clustering observed in the APM and IRAS
+galaxy surveys as well as large-scale flows, but the COBE microwave anisotropy
+implies such low amplitudes (or high bias factors, $b>2$) for these CDM models
+that galaxy formation occurs too late to be viable; combining COBE with
+sufficiently early galaxy formation or the large-scale flows leads to $n_s
+>0.6$, or $f > 0.3 M_{Pl}$ as well. For extended and power law inflation
+models, this constraint is even tighter, $n_s > 0.7$; combined with other
+bounds on large bubbles in extended inflation, this leaves little room for most
+extended models.
+","[{""version"":""v1"",""created"":""Fri, 17 Jul 1992 09:48:42 GMT""}]","2010-11-30"
+"hep-th/9207060",,"M. J. Duff and J. X. Lu","Type II p-branes: the brane-scan revisited","18 pages (four figures not included), CERN-TH.6560/92, CTP/TAMU-37/92","Nucl.Phys.B390:276-290,1993","10.1016/0550-3213(93)90457-Z",,"hep-th",,"  We re-examine the classification of supersymmetric extended objects in the
+light of the recently discovered Type II p-branes, previously thought not to
+exist for p> 1. We find new points on the brane-scan only in D = 10 and then
+only for p = 3(Type IIB), p = 4 (Type IIA), p = 5 (Type IIA and IIB) and p = 6
+(Type IIA). The case D = 10, p = 2 (Type IIA) also exists but is equivalent to
+the previously classified D = 11 supermembrane.
+","[{""version"":""v1"",""created"":""Thu, 16 Jul 1992 17:29:00 GMT""}]","2011-07-19"
+"hep-th/9207061",,"C.P.Constantinidis, L.A. Ferreira, J.F. Gomes and A.H. Zimerman","Connection between the Affine and Conformal Affine Toda Models and their
+  Hirota's Solution","11 pages, LaTeX","Phys.Lett.B298:88-94,1993","10.1016/0370-2693(93)91712-V","IFT-P.26/92","hep-th",,"  It is shown that the Affine Toda models (AT) constitute a ``gauge fixed''
+version of the Conformal Affine Toda model (CAT). This result enables one to
+map every solution of the AT models into an infinite number of solutions of the
+corresponding CAT models, each one associated to a point of the orbit of the
+conformal group. The Hirota's $\tau$-function are introduced and soliton
+solutions for the AT and CAT models associated to $\hat {SL}(r+1)$ and $\hat
+{SP}(r)$ are constructed.
+","[{""version"":""v1"",""created"":""Thu, 16 Jul 1992 20:08:00 GMT""}]","2009-07-28"
+"hep-th/9207062",,"J.R. Bienkowska, H. Lu","A Note on N=2 Superstrings","8 pages, CTP TAMU-57/92, EFI-92-39","Mod.Phys.Lett. A7 (1992) 3639-3646","10.1142/S0217732392003062",,"hep-th",,"  In this note we investigate the generalised critical $N=2$ superstrings in
+$(1,2p)$ spacetime signature. We calculate the four-point functions for the
+tachyon operators of these theories. In contrast to the usual $N=2$ superstring
+in $(2,2)$ spacetime, the four-point functions do not vanish. The exchanged
+particles of the four-point function are included in the physical spectrum of
+the corresponding theory and have vanishing fermion charge.
+","[{""version"":""v1"",""created"":""Thu, 16 Jul 1992 20:02:29 GMT""}]","2015-06-26"

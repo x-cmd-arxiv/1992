@@ -1,0 +1,48 @@
+"astro-ph/9211004","Arthur Kosowsky","Arthur Kosowsky and Michael S. Turner","Gravitational Radiation from Colliding Vacuum Bubbles: Envelope
+  Approximation to Many-Bubble Collisions","In plain TeX, 28 pages (not including 13 figures, available by
+  request). FERMILAB-Pub-92/295-A","Phys.Rev.D47:4372-4391,1993","10.1103/PhysRevD.47.4372",,"astro-ph hep-ph",,"  We introduce an approximation to calculate the gravitational radiation
+produced by the collision of true-vacuum bubbles that is simple enough to allow
+the simulation of a phase transition by the collision of hundreds of bubbles.
+This ``envelope approximation'' neglects the complicated ``overlap'' regions of
+colliding bubbles and follows only the evolution of the bubble walls. The
+approximation accurately reproduces previous results for the gravitational
+radiation from the collision of two scalar-field vacuum bubbles. Using a bubble
+nucleation rate given by $\Gamma = \Gamma_0 e^{\beta t}$, we simulate a phase
+transition by colliding 20 to 200 bubbles; the fraction of vacuum energy
+released into gravity waves is $E_{\rm GW}/E_{\rm vac} = 0.06(H/\beta)^2$ and
+the peak of the spectrum occurs at $\omega_{\rm max}=1.6\beta$ ($H^2=8\pi G\rho
+/3$ is the Hubble constant associated with the false-vacuum phase). The
+spectrum is very similar to that in the two-bubble case, except that the
+efficiency of gravity-wave generation is about five times higher, presumably
+due to the fact that a given bubble collides with many others. Finally, we
+consider two further ``statistical'' approximations, where the gravitational
+radiation is computed as an incoherent sum over individual bubbles weighted by
+the distribution of bubble sizes. These approximations provide reasonable
+estimates of the gravitational-wave spectrum with far less computation.
+","[{""version"":""v1"",""created"":""Sat, 7 Nov 1992 20:57:32 GMT""}]","2008-11-26"
+"hep-ph/9211227","Stefano Forte","Stefano Forte","Violation of the Bjorken Sum Rule in QCD","11 pages, no figures (several typos and a numerical error on pag. 5
+  corrected)","Phys.Lett. B309 (1993) 174-178","10.1016/0370-2693(93)91522-O",,"hep-ph",,"  We show that the Bjorken sum rule for the first moment of the polarized
+nucleon structure function $g_1$ is not necessarily satisfied in QCD if the
+axial anomaly is taken into account. We argue that nonperturbative QCD effects
+should lead to a violation of the sum rule of the order of the percentage
+isospin violation in current quark masses.
+","[{""version"":""v1"",""created"":""Sat, 7 Nov 1992 23:53:00 GMT""},{""version"":""v2"",""created"":""Tue, 17 Nov 1992 16:40:52 GMT""}]","2009-10-22"
+"hep-ph/9211228","My Account","J. Lopez, D. Nanopoulos, H. Pois, and A. Zichichi","Proposed Tests for Minimal SU(5) Supergravity at Fermilab, Gran Sasso,
+  SuperKamiokande, and LEP","10 pages plus two figures (included as postscript files);
+  CTP-TAMU-72/92, CERN-TH.6716/92","Phys.Lett.B299:262-266,1993","10.1016/0370-2693(93)90257-I",,"hep-ph",,"  A series of predictions are worked out in order to put the minimal $SU(5)$
+supergravity model under experimental test. Using the two-loop gauge coupling
+renormalization group equations, with the inclusion of supersymmetric threshold
+corrections, we calculate a new value for the proton decay rate in this model
+and find that SuperKamiokande and Gran Sasso should see the proton decay mode
+$p\to\bar\nu K^+$ for most of the allowed parameter space. A set of physically
+sensible assumptions and the cosmological requirement of a not too young
+Universe give us a rather restrictive set of allowed points in the parameter
+space, which characterizes this model. This set implies the existence of
+interesting correlations among various masses: either the lightest chargino and
+the next-to-lightest neutralino are below $\approx100\GeV$ (and therefore
+observable at the Tevatron) or the lightest Higgs boson is below
+$\approx50\GeV$ (and therefore observable at LEP I-II). These tests are crucial
+steps towards selecting the correct low-energy effective supergravity model. We
+also comment on the compatibility of the model with $\sin^2\theta_w(M_Z)$
+measurements as a function of $\alpha_3(M_Z)$.
+","[{""version"":""v1"",""created"":""Sun, 8 Nov 1992 01:22:35 GMT""}]","2009-08-25"

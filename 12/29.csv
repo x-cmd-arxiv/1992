@@ -1,0 +1,54 @@
+"cond-mat/9212034","Lidp","Dingping Li","Hierarchical Wave Functions of Fractional Quantum Hall Effect on the
+  Torus","12 pages, PHYZZX","Int.J.Mod.Phys.B7:2655-2666,1993","10.1142/S0217979293002973","SISSA/ISAS/2/92/EP","cond-mat hep-th",,"  One kind of the hierarchical wave functions of Fractional Quantum Hall Effect
+on the torus is constructed. We find that the wave functions closely relate to
+the wave functions of generalized Abelian Chern-Simons theory.
+","[{""version"":""v1"",""created"":""Mon, 28 Dec 1992 16:38:24 GMT""},{""version"":""v2"",""created"":""Thu, 7 Jan 1993 12:14:29 GMT""}]","2008-11-26"
+"hep-ph/9212312","Isamu Watanabe","Y. Yasui, I. Watanabe, J. Kodaira and I. Endo","Measuring the Beam Polarizations and the Luminosity at Photon-Photon
+  Colliders","16 pages and 7 figures attached as PostScript files, LaTeX, HUPD-9217
+  (Revised for 4 points: 2 are important, see the top of the file for details.)","Nucl.Instrum.Meth.A335:385-396,1993","10.1016/0168-9002(93)91222-9",,"hep-ph",,"  We present methods to measure the beam polarizations and the luminosity of
+$\gamma \gamma$ colliders at TeV energy scale.
+  The beam polarizations of a $\gamma \gamma$ collider can easily be monitored
+by comparing the numbers of events of the processes $\gamma \gamma$
+$\rightarrow$ $\ell^+ \ell^-$ and $\gamma \gamma$ $\rightarrow$ $W^+ W^-$,
+where $\ell$ means $e$ or $\mu$.
+  The luminosity of a $\gamma \gamma$ collider is also measurable by the event
+rate of $W$ boson pair productions and the light lepton pair productions.
+","[{""version"":""v1"",""created"":""Mon, 28 Dec 1992 17:16:34 GMT""},{""version"":""v2"",""created"":""Mon, 1 Feb 1993 16:45:39 GMT""}]","2011-07-19"
+"hep-ph/9212313","Tomohiro Inagaki","S.Hashimoto, T.Inagaki, T.Muta","Dynamical CP Violation in Composite Higgs Models","20 pages, 2 figures not included, uses LaTeX, HUPD-9220","Phys.Rev.D48:1301-1309,1993","10.1103/PhysRevD.48.1301",,"hep-ph",,"  The dynamical origin of the CP violation in electroweak theory is
+investigated in composite Higgs models. The mechanism of the spontaneous CP
+violation proposed in other context by Dashen is adopted to construct simple
+models of the dynamical CP violation.
+  Within the models the size of the neutron electric dipole moment is estimated
+and the constraint on the $\varepsilon$-parameter in K-meson decays is
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 28 Dec 1992 23:27:44 GMT""}]","2010-11-01"
+"hep-th/9212154","Masafumi Fukuma","M.Fukuma, S.Hosono and H.Kawai","Lattice Topological Field Theory in Two Dimensions","29 pages (Latex) + 19 figures (uuencoded through uufiles)","Commun. Math. Phys. 161 (1994) 157-176","10.1007/BF02099416","CLNS92/1173","hep-th",,"  The lattice definition of a two-dimensional topological field theory (TFT) is
+given generically, and the exact solution is obtained explicitly. In
+particular, the set of all lattice topological field theories is shown to be in
+one-to-one correspondence with the set of all associative algebras $R$, and the
+physical Hilbert space is identified with the center $Z(R)$ of the associative
+algebra $R$. Perturbations of TFT's are also considered in this approach,
+showing that the form of topological perturbations is automatically determined,
+and that all TFT's are obtained from one TFT by such perturbations. Several
+examples are presented, including twisted $N=2$ minimal topological matter and
+the case where $R$ is a group ring.
+","[{""version"":""v1"",""created"":""Mon, 28 Dec 1992 21:47:10 GMT""}]","2009-10-22"
+"nucl-th/9212016","Charles Benesh","C.J. Benesh and J.L. Friar","Electromagnetic Dissociation of Nuclei in Heavy-Ion Collisions","28 pages","Phys.Rev.C48:1285-1296,1993","10.1103/PhysRevC.48.1285","LA-UR-92-4387","nucl-th",,"  Large discrepancies have been observed between measured Electromagnetic
+Dissociation(ED) cross sections and the predictions of the semiclassical
+Weiz\""acker-Williams-Fermi(WWF) method. In this paper, the validity of the
+semiclassical approximation is examined. The total cross section for
+electromagnetic excitation of a nuclear target by a spinless projectile is
+calculated in first Born approximation, neglecting recoil. The final result is
+expressed in terms of correlation functions and convoluted densities in
+configuration space. The result agrees with the WWF approximation to leading
+order(unretarded electric dipole approximation), but the method allows an
+analytic evaluation of the cutoff, which is determined by the details of the
+electric dipole transition charge density. Using the Goldhaber-Teller model of
+that density, and uniform charge densities for both projectile and target, the
+cutoff is determined for the total cross section in the nonrelativistic limit,
+and found to be smaller than values currently used for ED calculations. In
+addition, cross sections are calculated using a phenomenological momentum space
+cutoff designed to model final state interactions. For moderate projectile
+energies, the calculated ED cross section is found to be smaller than the
+semiclassical result, in qualitative agreement with experiment.
+","[{""version"":""v1"",""created"":""Mon, 28 Dec 1992 20:37:27 GMT""}]","2016-09-08"

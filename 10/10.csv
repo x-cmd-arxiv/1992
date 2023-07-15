@@ -1,0 +1,83 @@
+"alg-geom/9210003","Tyurin","Andrej Tyurin","The simple method of distinguishing the underlying differentiable
+  structures of algebraic surfaces","24 pages, Latex",,,,"alg-geom math.AG",,"  The simplest version of the Spin-polynomial invariants of the underlying
+differentiable structures of algebraic surfaces were considered and the
+simplest arguments were used in order to distinguish the underlying smooth
+structures of certain algebraic surfaces.
+","[{""version"":""v1"",""created"":""Sat, 10 Oct 1992 13:32:51 GMT""}]","2008-02-03"
+"cond-mat/9210006",,"Victor M. Yakovenko","Once again about interchain hopping","3 pages + 1 figure (appended), pure LaTeX","Pis'ma v ZhETF v.56, p.523 (1992); JETP Lett. 56, 510 (1992)",,,"cond-mat",,"  Renormalization group equations and a phase diagram are derived for a system
+of two chains with a single-electron hopping between chains in order to correct
+the results of a recent paper by F.~V.~Kusmartsev, A.~Luther, and A.~Nersesyan,
+Pis'ma v Zh.\ Exp.\ Teor.\ Fiz.\ {\bf 55}, 692 (1992) [JETP Lett.\ {\bf 55},
+724 (1992)].
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 16:51:33 GMT""},{""version"":""v2"",""created"":""Mon, 25 Jan 1993 20:56:52 GMT""}]","2008-02-03"
+"hep-lat/9210015","Maria-Paola Lombardo","Mp Lombardo, J.B. Kogut, A. Kocic and K.C. Wang","The nature of the continuum limit in strongly coupled quenched QED","(talk given at the XXVI ICHEP, Dallas, TX, Aug 6-12 92), 6 pp.,
+  ILL-(TH)-92-#22",,"10.1063/1.43404",,"hep-lat hep-ph",,"  We review the results of large scale simulations of noncompact quenched $QED$
+which use spectrum and Equation of State calculations to determine the theory's
+phase diagram, critical indices, and continuum limit. The resulting anomalous
+dimensions are in good agreement with Schwinger-Dyson solutions of the ladder
+graphs of conventional $QED$ and they satisfy the hyperscaling relations
+expected of a relativistic renormalizable field theory. The spectroscopy
+results satisfy the constraints of the Goldstone mechanism and PCAC, and may be
+indicative of Technicolor versions of the Standard Model which are strongly
+coupled at short distances.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 21:10:29 GMT""}]","2009-10-22"
+"hep-lat/9210016","Hattori","Tetsuya Hattori and Hideo Nakajima","Improvement of efficiency in generating random $U(1)$ variables with
+  Boltzmann distribution","19 pages LaTex text (2 figures not included, sorry), UTUP-95","Nucl. Phys. Proc. Suppl. 26 (1992) 635","10.1016/0920-5632(92)90356-W",,"hep-lat",,"  A method for generating random $U(1)$ variables with Boltzmann distribution
+is presented. It is based on the rejection method with transformation of
+variables. High efficiency is achieved for all range of temparatures or
+coupling parameters, which makes the present method especially suitable for
+parallel and pipeline vector processing machines. Results of computer runs are
+presented to illustrate the efficiency. An idea to find such algorithms is also
+presented, which may be applicable to other distributions of interest in Monte
+Carlo simulations.
+","[{""version"":""v1"",""created"":""Sat, 10 Oct 1992 08:40:37 GMT""}]","2009-10-22"
+"hep-ph/9210226","Fred Cooper","F.Cooper, C.Lucheroni, H.Shepard and P. Sodano","Variational Method for Studying Solitons in the KdV equation","8 pages",,"10.1016/0375-9601(93)90083-C","LAUR 92-2895","hep-ph",,"  We use a class of trial wave functions which are generalizations of gaussians
+to study single soliton approximate analytic solutions to the KdV equations.
+The variational parameters obey a Hamiltonian dynamics obtained from the
+Principle of Least Action. We get extremely accurate approximate single soliton
+solutions including their time dependence using this method.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 19:35:37 GMT""}]","2009-10-22"
+"hep-ph/9210227","Sangyong Jeon","Sangyong Jeon","Computing Spectral Densities in Finite Temperature Field Theory","51 pages, in latex using revtex macros, 12 figures in postscript,
+  appended. UW/PT-92-03","Phys.Rev. D47 (1993) 4586-4607","10.1103/PhysRevD.47.4586",,"hep-ph",,"  Convenient Cutkosky-like diagrammatic rules for computing the spectral
+densities of arbitrary two-point correlation functions in finite temperature
+field theory are derived. The approach is based on an explicit analytic
+continuation of imaginary-time Feynman diagrams and avoids the complications of
+real-time finite temperature perturbation theory. The application of this
+method to the perturbative evaluation of transport coefficients is briefly
+discussed.
+","[{""version"":""v1"",""created"":""Sat, 10 Oct 1992 00:27:16 GMT""}]","2009-10-22"
+"hep-th/9210056","hector DE Vega","H.J. de Vega","Simple Approach to Thermal Bethe Ansatz","12 pages, phyzzx",,,"LPTHE 92-30","hep-th",,"  We report on a new approach to the calculation of thermodynamic functions for
+crossing-invariant models solvable by Bethe Ansatz. In the case of the XXZ
+Heisenberg chain we derive, for arbitrary values of the anysotropy, a single
+non-linear integral equation from which the free energy can be exactly
+calculated.These equations are shown to be equivalent to an infinite set of
+algebraic equations of Bethe type which provide alternatively the
+thermodinamics.
+  The high-temperature expansion follows in a sistematic and relatively simple
+way from our non-linear integral equations. For low temperatures we obtain the
+correct central charge and predict the analytic structure of the full expansion
+around T=0. Furthermore, we derive a single non-linear integral equation
+describing the finite-size ground-state energy of the Sine-Gordon quantum field
+theory.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 17:23:31 GMT""}]","2007-05-23"
+"hep-th/9210057",,"Makoto Sakamoto","Peculiarity of String Theory on Orbifolds in the Presence of an
+  Antisymmetric Background Field","14 pages, plain TEX",,,"NBI-HE-92-71, KOBE-92-13","hep-th",,"  We study string theory on orbifolds in the presence of an antisymmetric
+constant background field and discuss some of new aspects of the theory. It is
+shown that the term with the antisymmetric field has a topological nature like
+a Chern-Simons term or a Wess-Zumino term. Due to this property, the theory
+exhibits various anomalous behavior: Zero mode variables obey nontrivial
+quantization conditions. Coordinate transformations which define orbifolds are
+modified at the quantum level. Wavefunctions of twisted strings acquire phase
+factors when they move around non-contractible loops on orbifolds. Zero mode
+eigenvalues are shifted from naively expected values, in favor of modular
+invariance.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 17:59:00 GMT""}]","2007-05-23"
+"math/9210228","Christopher Gol\'e","Christopher Gol\'e","Optical Hamiltonians and symplectic twist maps",,,,"Stony Brook IMS 1992/15","math.DS math.SG",,"  This paper concentrates on optical Hamiltonian systems of $T*\T^n$, i.e.
+those for which $\Hpp$ is a positive definite matrix, and their relationship
+with symplectic twist maps. We present theorems of decomposition by symplectic
+twist maps and existence of periodic orbits for these systems. The novelty of
+these results resides in the fact that no explicit asymptotic condition is
+imposed on the system. We also present a theorem of suspension by Hamiltonian
+systems for the class of symplectic twist map that emerges in our study.
+Finally, we extend our results to manifolds of negative curvature.
+","[{""version"":""v1"",""created"":""Sat, 10 Oct 1992 00:00:00 GMT""}]","2009-09-25"

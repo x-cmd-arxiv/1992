@@ -1,0 +1,180 @@
+"cond-mat/9204011",,"F.Colomo, A.G. Izergin, V. Korepin","Fredholm Determinant Representation for Correlation Functions in XXO
+  Heisenberg Chain","40 PAGES",,,,"cond-mat",,"  Space and time dependent temepreture correlation fucntions in the Hiesenberg
+XXO chain are evaluated in the magnetic field. The other name of the model is
+isotropic xy model in the transverse magnetic field. In the thermodynamic limit
+correlations in the model are represented as Fredhom determinanat. We expect
+this to to solve the problem of evaluation of asymptotics of temperature
+correlations.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 22:27:20 GMT""},{""version"":""v2"",""created"":""Wed, 15 Jul 1992 17:55:42 GMT""}]","2008-02-03"
+"cond-mat/9204012","James P. Sethna","James P. Sethna, Sivan Kartha, Teresa Cast'an, and James A. Krumhansl","Tweed in Martensites: A Potential New Spin Glass","18 pages and four figures (included)","Phys.Scripta T42 (1992) 214","10.1088/0031-8949/1992/T42/034",,"cond-mat",,"  We've been studying the ``tweed'' precursors above the martensitic transition
+in shape--memory alloys. These characteristic cross--hatched modulations occur
+for hundreds of degrees above the first--order shape--changing transition. Our
+two--dimensional model for this transition, in the limit of infinite elastic
+anisotropy, can be mapped onto a spin--glass Hamiltonian in a random field. We
+suggest that the tweed precursors are a direct analogy of the spin--glass
+phase. The tweed is intermediate between the high--temperature cubic phase and
+the low--temperature martensitic phase in the same way as the spin--glass phase
+can be intermediate between ferromagnet and antiferromagnet.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 08:12:10 GMT""}]","2015-06-25"
+"hep-lat/9204011","Rajan Gupta","D. Daniel, R. Gupta, G. Kilcup, A. Patel and S. Sharpe","Phenomenology with Wilson fermions using smeared sources","(revised), 57 pages (29 pages of PostScript in landscape mode, 765924
+  bytes)","Phys.Rev.D46:3130-3145,1992","10.1103/PhysRevD.46.3130",,"hep-lat",,"  We investigate the use of two types of non-local (``smeared'') sources for
+quark propagators in quenched lattice QCD at $\beta=6.0$ using Wilson fermions
+at $\kappa=0.154$ and $0.155$. We present results for the hadron mass spectrum,
+meson decay constants, quark masses, the chiral condensate and the quark
+distribution amplitude of the pion. The use of smeared sources leads to a
+considerable improvement over previous results. We find a disturbing
+discrepancy between the baryon spectra obtained using Wuppertal and wall
+sources. We find good signals in the ratio of correlators used to calculate the
+quark mass and the chiral condensate and show that the extrapolation to the
+chiral limit is smooth.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 22:48:17 GMT""}]","2014-11-17"
+"hep-lat/9204012",,"Apoorva Patel","Scalar and axial matrix elements of the nucleon: sea quark content","3 pages, to appear in lat91 proceedings","Nucl.Phys.Proc.Suppl.26:350-352,1992","10.1016/0920-5632(92)90273-U",,"hep-lat",,"  Sea quark contributions to the scalar density and the axial current matrix
+elements of the nucleon are studied in lattice qcd with two flavours of
+dynamical wilson fermions. the results are compared to trends in heavy quark
+mass expansions, and contrasted with the numbers obtained using dynamical
+staggered fermions.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 16:41:43 GMT""}]","2010-11-01"
+"hep-lat/9204013","Kari Rummukainen","K. Kajantie, Leo Karkkainen, K. Rummukainen","The Free Energy of Spherical Bubbles in Lattice SU(3) Gauge Theory","(11 pages; 10 ps-figures)","Phys.Lett. B286 (1992) 125-130","10.1016/0370-2693(92)90169-5",,"hep-lat",,"  We study the coefficients of the expansion $F(R) = 1/3 c_3 R^3 + 1/2 c_2 R^2
++ c_1 R$ of the free energy of spherical bubbles at $T=T_c$ in pure glue QCD
+using lattice Monte Carlo techniques. The coefficient $c_3$ vanishes at $T=T_c$
+and our results suggest that the sign and the order of magnitude of $c_1$ is in
+agreement with the value $c_1=\pm 32\pi T_c^2/9$ (- for hadronic bubbles in
+quark phase, + for quark bubbles in hadronic phase) computed by Mardor and
+Svetitsky from the MIT bag model. The parameter $c_2$ is small in agreement
+with earlier determinations.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 10:14:31 GMT""}]","2009-10-22"
+"hep-ph/9204225","Eric J. Piard","H. Arason, D.J. Castano, E.J. Piard, and P. Ramond","Mass and mixing angle patterns in the Standard Model and its Minimal
+  Supersymmetric Extension","25 pages, 18 postscript figures not included, (uses phyzzx)","Phys.Rev. D47 (1993) 232-240","10.1103/PhysRevD.47.232",,"hep-ph",,"  Using renormalization group techniques, we examine several interesting
+relations among masses and mixing angles of quarks and leptons in the Standard
+Model. We extend the analysis to the minimal supersymmetric extension to
+determine its effect on these mass relations. Remarkably Supersymmetry allows
+for these relations to be satisfied at a single grand unified scale.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 18:07:17 GMT""}]","2009-10-22"
+"hep-ph/9204226",,"M. A. Doncheski and J. L. Hewett","Signals for Virtual Leptoquark Exchange at HERA","14 pages, 6 figures (not included)","Z.Phys. C56 (1992) 209-214","10.1007/BF01555516",,"hep-ph",,"  We study the effects of virtual leptoquarks on charged current and neutral
+current processes at the $ep$ collider HERA. We present the areas of parameter
+space that can be excluded at HERA by searching for deviations from Standard
+Model expectations. The best results are obtained by examining the ratio of
+neutral current to charged current cross sections, $R=\sigma_{NC}/\sigma_{CC}$,
+where, with $200\inpb$ of integrated luminosity for unpolarized $e^-$ and $e^+$
+beams, HERA can search for leptoquarks with masses up to $\sim 800\gev$, with
+leptoquark coupling strengths of order $\alpha_{em}$.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 20:01:52 GMT""}]","2009-10-22"
+"hep-ph/9204227","Adrian Cooper","Shahar Ben-Menahem and Adrian Cooper","Superconductivity Solves the Monopole Problem for Alice Strings","16 pages, 7 figures (not included)","Nucl.Phys. B388 (1992) 393-408","10.1016/0550-3213(92)90619-M",,"hep-ph",,"  Alice strings are cosmic strings that turn matter into antimatter. Although
+they arise naturally in many GUT's, it has long been believed that because of
+the monopole problem they can have no cosmological effects. We show this
+conclusion to be false; by using the Langacker-Pi mechanism, monopoles can in
+fact be annihilated while Alice strings are left intact. This opens up the
+possibility that they can after all contribute to cosmology, and we mention
+some particularly important examples.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 00:24:24 GMT""}]","2009-10-22"
+"hep-ph/9204228","Peter Arnold","Peter Arnold","Phase Transition Temperatures at Next-to-Leading Order","17","Phys.Rev.D46:2628-2635,1992","10.1103/PhysRevD.46.2628",,"hep-ph",,"  Broken gauge symmetries are typically restored at high temperature, and the
+leading-order result for the critical temperature $T_c$ was found many years
+ago by Weinberg and by Dolan and Jackiw. I find a simple expression for the
+next-to-leading order correction to $T_c$, which is order $e T_c$ where $e$ is
+the gauge coupling. The result is a simple consequence of recent work on
+summing ring diagrams at high temperature in gauge theories. The result is
+valid when the Higgs self-coupling $\lambda$ is the same order as $e^2$, and it
+does not address the case of strongly first-order phase transitions, which
+arise when $\lambda \ll e^2$.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 00:17:51 GMT""}]","2010-02-16"
+"hep-ph/9204229",,"Adam F. Falk, Matthias Neubert and Michael Luke","The Residual Mass Term in the Heavy Quark Effective Theory","14 pages","Nucl.Phys.B388:363-375,1992","10.1016/0550-3213(92)90617-K",,"hep-ph",,"  We reformulate the heavy quark effective theory in the presence of a residual
+mass term, which has been taken to vanish in previous analyses. While such a
+convention is permitted, the inclusion of a residual mass allows us to resolve
+a potential ambiguity in the choice of the expansion parameter which defines
+the effective theory. We show to subleading order in the mass expansion that
+physical quantities computed in the effective theory do not depend on the
+expansion parameter.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 01:22:00 GMT""}]","2010-11-01"
+"hep-ph/9204231","Peter Landshoff","M Jacob and P V Landshoff","Reaction rate in a heat bath","9 pages plus one figure","Phys.Lett.B281:114-122,1992","10.1016/0370-2693(92)90284-B",,"hep-ph",,"  We show in detail how the presence of a heat bath of photons effectively
+gives charged particles in the final state of a decay process a
+temperature-dependent mass, and changes the effective strength of the force
+responsible for the decay. At low temperature, gauge invariance causes both
+these effects to be largely cancelled by absorption of photons from the heat
+bath and by stimulated emission into it, but at high temperature the
+temperature-dependent mass is the dominant feature.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 08:05:34 GMT""}]","2011-04-20"
+"hep-th/9204068","Omar Foda Rba5","Omar Foda, and Tetsuji Miwa","Corner Transfer Matrices and Quantum Affine Algebras","23 pages",,"10.1142/S0217751X92003811",,"hep-th nlin.SI solv-int",,"  Let H be the corner-transfer-matrix Hamiltonian for the six-vertex model in
+the anti-ferroelectric regime. It acts on the infinite tensor product W = V . V
+. V ....., where is the 2-dimensional irreducible representation of the quantum
+affine sl(2). We observe that H is the derivation of quantum affine sl(2), and
+conjecture that the eigenvectors of H form the level-1 vacuum representation of
+quantum affine sl(2). We report on checks in support of our conjecture.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 01:27:18 GMT""}]","2009-10-22"
+"hep-th/9204071",,"F. Delduc, E.Ivanov and E. Sokatchev","Twistor-like superstrings with D = 3, 4, 6 target-superspace and N =
+  (1,0), (2,0), (4,0) world-sheet supersymmetry","16p","Nucl.Phys.B384:334-351,1992","10.1016/0550-3213(92)90470-V",,"hep-th",,"  We construct a manifestly $N=(4,0)$ world-sheet supersymmetric twistor-like
+formulation of the $D=6$ Green-Schwarz superstring, using the principle of
+double (target-space and world-sheet) Grassmann analyticity. The superstring
+action contains two Lagrange multiplier terms and a Wess-Zumino term. They are
+written down in the analytic subspace of the world-sheet harmonic $N=(4,0)$
+superspace, the target manifold being too an analytic subspace of the harmonic
+$D=6\;\; N=1$ superspace. The kappa symmetry of the $D=6$ superstring is
+identified with a Kac-Moody extension of the world-sheet $N=(4,0)$
+superconformal symmetry. It can be enlarged to include the whole world-sheet
+reparametrization group if one introduces the appropriate gauge Beltrami
+superfield into the action. To illustrate the basic features of the new $D=6$
+superstring construction, we first give some details about the simpler (already
+known) twistor-like formulations of $D=3, N=(1,0)$ and $D=4, N=(2,0)$
+superstrings.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 17:04:06 GMT""}]","2008-11-26"
+"hep-th/9204072","William Nelson","Steven B. Giddings and W.M. Nelson","Quantum Emission from Two-Dimensional Black Holes","25 pages with 4 figures. v3: corrected typo; repaired and
+  incorporated figures","Phys.Rev. D46 (1992) 2486-2496","10.1103/PhysRevD.46.2486",,"hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We investigate Hawking radiation from two-dimensional dilatonic black holes
+using standard quantization techniques. In the background of a collapsing black
+hole solution the Bogoliubov coefficients can be exactly determined. In the
+regime after the black hole has settled down to an `equilibrium' state but
+before the backreaction becomes important these give the known result of a
+thermal distribution of Hawking radiation at temperature lambda/(2pi). The
+density matrix is computed in this regime and shown to be purely thermal.
+Similar techniques can be used to derive the stress tensor. The resulting
+expression agrees with the derivation based on the conformal anomaly and can be
+used to incorporate the backreaction. Corrections to the thermal density matrix
+are also examined, and it is argued that to leading order in perturbation
+theory the effect of the backreaction is to modify the Bogoliubov
+transformation, but not in a way that restores information lost to the black
+holes.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 23:57:02 GMT""},{""version"":""v2"",""created"":""Fri, 24 Apr 1992 23:29:08 GMT""},{""version"":""v3"",""created"":""Fri, 27 Nov 2009 21:03:23 GMT""}]","2009-11-27"
+"hep-th/9204073","Nohara","Hiroshi Nohara","Dynamical Topological Phase Transition in Massless Thirring Model","9 pages",,,,"hep-th",,"  We study the topological nature of both isotropic and anisotropic SU(N)
+Thirring model. It is shown that in the isotropic model there exists the
+special point where the system lives in the topological phase and that in the
+anisotropic one which is obtained by introducing two coupling constants and has
+U(1) symmetry, we present a simple mechanism of the dynamical topological phase
+transition which takes place at the infinite energy scale.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 07:11:10 GMT""}]","2007-05-23"
+"hep-th/9204074",,"D. B. Fairlie and J. Govaerts","Euler Hierarchies and Universal Equations","42 p., Plain TeX, replaces previous unprintable version corrupted by
+  mailer","J.Math.Phys. 33 (1992) 3543-3566","10.1063/1.529904","DTP-92/17","hep-th",,"  Finite Euler hierarchies of field theory Lagrangians leading to universal
+equations of motion for new types of string and membrane theories and for {\it
+classical} topological field theories are constructed. The analysis uses two
+main ingredients. On the one hand, there exists a generic finite Euler
+hierarchy for one field leading to a universal equation which generalises the
+Plebanski equation of self-dual four dimensional gravity. On the other hand,
+specific maps are introduced between field theories which provide a
+``triangular duality'' between certain classes of arbitrary field theories,
+classical topological field theories and generalised string and membrane
+theories. The universal equations, which derive from an infinity of
+inequivalent Lagrangians, are generalisations of certain reductions of the
+Plebanski and KdV equations, and could possibly define new integrable systems,
+thus in particular integrable membrane theories. Some classes of solutions are
+constructed in the general case. The general solution to some of the universal
+equations is given in the simplest cases.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 11:20:05 GMT""},{""version"":""v2"",""created"":""Thu, 23 Jul 1992 15:57:37 GMT""}]","2009-10-22"
+"hep-th/9204079","Juan Garcia-Bellido","Juan Garcia-Bellido and Mariano Quiros","String Effective Actions and Cosmological Stability of Scalar Potentials","10 pages + 7 figures (not included but available upon request)","Nucl.Phys. B385 (1992) 558-570","10.1016/0550-3213(92)90058-J",,"hep-th",,"  The cosmology of the string effective action, including one loop string
+threshold corrections, is analyzed for static compactifications. The stability
+of the minima of a general supersymmetry breaking potential is studied in the
+presence of radiation. In particular, it is shown that the radiation bath makes
+the minima with negative cosmological constant unstable.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 08:37:10 GMT""}]","2009-10-22"
+"math/9204201",,"Alexander Russakovskii","Zero sets of some classes of entire functions",,,,,"math.CV",,"  A method of constructing an entire function with given zeros and estimates of
+growth is suggested. It gives a possibility to describe zero sets of certain
+classes of entire functions of one and several variables in terms of growth of
+volume of these sets in certain polycylinders.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 19:53:41 GMT""}]","2009-09-25"
+"math/9204210","Juris Steprans","A. Dow, J Stepr\=ans and W. S. Watson","Reaping Numbers of Boolean Algebras",,,,"Logic E-prints April 23, 1992","math.LO",,"  A subset $A$ of a Boolean algebra $B$ is said to be $(n,m)$-reaped if there
+is a partition of unity $P \subset B$ of size $n$ such that the cardinality of
+$\{b \in P: b \wedge a \neq \emptyset\}$ is greater than or equal to $m$ for
+all $a\in A$. The reaping number $r_{n,m}(B)$ of a Boolean algebra $B$ is the
+minimum cardinality of a set $A \subset B\setminus \{0\}$ such which cannot be
+$(n,m)$-reaped. It is shown that, for each $n \in \omega$, there is a Boolean
+algebra $B$ such that $r_{n+1,2}(B) \neq r_{n,2}(B)$. Also, $\{r_{n,m}(B) :
+\{n,m\}\subseteq\omega\}$ consists of at most two consecutive integers. The
+existence of a Boolean algebra $B$ such that $r_{n,m}(B) \neq r_{n',m'}(B)$ is
+equivalent to a statement in finite combinatorics which is also discussed.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 00:00:00 GMT""}]","2008-02-03"

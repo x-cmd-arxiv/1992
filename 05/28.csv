@@ -1,0 +1,160 @@
+"cond-mat/9205015","Jorge Vinals","K.R. Elder (1), Jorge Vi\~nals (2) and Martin Grant (1) ((1)
+  Department of Physics, McGill University, Rutherford Building, Montr\'eal,
+  Qu\'ebec, Canada (2) Supercomputer Computations Research Institute, B-186,
+  Florida State University, Tallahassee, Florida)","Dynamic scaling and quasi-ordered states in the two dimensional
+  Swift-Hohenberg equation",,"Phys. Rev. A 46, 7618 (1992)","10.1103/PhysRevA.46.7618",,"cond-mat",,"  The process of pattern formation in the two dimensional Swift-Hohenberg
+equation is examined through numerical and analytic methods. Dynamic scaling
+relationships are developed for the collective ordering of convective rolls in
+the limit of infinite aspect ratio. The stationary solutions are shown to be
+strongly influenced by the strength of noise. Stationary states for small and
+large noise strengths appear to be quasi-ordered and disordered respectively.
+The dynamics of ordering from an initially inhomogeneous state is very slow in
+the former case and fast in the latter. Both numerical and analytic
+calculations indicate that the slow dynamics can be characterized by a simple
+scaling relationship, with a characteristic dynamic exponent of $1/4$ in the
+intermediate time regime.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 19:14:40 GMT""}]","2009-10-22"
+"cond-mat/9205016","Kikuo Harigaya","Kikuo Harigaya (Fundamental Physics Section, Electrotechnical
+  Laboratory, Japan)","C_{60} with O defects: Localized states in the gap and oxygen clustering","10 pages. To be published in J. Phys.: Condens. Matter; received
+  March 5 1992","J.Phys.Condens.Matter 4 (1992) 6769-6774","10.1088/0953-8984/4/32/013",,"cond-mat",,"  We propose a Su-Schrieffer-Heeger type electron-phonon model for C_{60} with
+O defects and solve by the adiabatic approximation. Two new properties are
+obtained. (1) The dimerization becomes weaker around the oxygen. Two localized
+states appear deep in the gap. Optical transition between them is allowed. This
+accords with the recent optical absorption data. (2) Oxygens are predicted to
+cluster on the surface of $\soc$. PACS numbers: 3640, 7155, 6165, 3120P
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 10:54:00 GMT""}]","2007-05-23"
+"hep-lat/9205026","Kenton Yee","Ken Yee","Central Charge of the Parallelogram Lattice Strong Coupling Schwinger
+  Model","8 pages","Phys.Rev. D47 (1993) 1719-1722","10.1103/PhysRevD.47.1719","BNL-47604","hep-lat cond-mat hep-th",,"  We put forth a Fierzed hopping expansion for strong coupling Wilson fermions.
+As an application, we show that the strong coupling Schwinger model on
+parallelogram lattices with nonbacktracking Wilson fermions span, as a function
+of the lattice skewness angle, the $\Delta = -1$ critical line of $6$-vertex
+models. This Fierzed formulation also applies to backtracking Wilson fermions,
+which as we describe apparently correspond to richer systems. However, we have
+not been able to identify them with exactly solved models.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 20:03:47 GMT""}]","2009-10-22"
+"hep-lat/9205027",,"P. Butera and M. Comi","High-Temperature series for the $RP^{n-1}$ lattice spin model
+  (generalized Maier-Saupe model of nematic liquid crystals) in two space
+  dimensions and with general spin dimensionality n","6 pages, revtex, IFUM 419/FT, 2 figures not included","Phys.Rev. B46 (1992) 11141-11144","10.1103/PhysRevB.46.11141",,"hep-lat cond-mat",,"  High temperature series expansions of the spin-spin correlation functions of
+the RP^{n-1} spin model on the square lattice are computed through order
+beta^{8} for general spin dimensionality n. Tables are reported for the
+expansion coefficients of the energy per site, the susceptibility and the
+second correlation moment.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 22:48:00 GMT""}]","2009-10-22"
+"hep-ph/9205238","Andrea Vicere'","Riccardo Barbieri, Matteo Beccaria, Paolo Ciafaloni, Giuseppe Curci
+  and Andrea Vicere'","Radiative Correction Effects of a Very Heavy Top","9 pages, report IFUP-TH 20/92","Phys.Lett. B288 (1992) 95-98; Erratum-ibid. B312 (1993) 511","10.1016/0370-2693(92)91960-H",,"hep-ph",,"  If the top is very heavy, m_t >> M_Z, the dominant radiative correction
+effects in all electroweak precision tests can be exactly characterized in
+terms of two quantities, the rho-parameter and the GIM violating Z -> b bbar
+coupling. These quantities can be computed using the Standard Model Lagrangian
+with vanishing gauge couplings. This is done here up to two loops for arbitrary
+values of the Higgs mass.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 16:28:54 GMT""}]","2009-10-22"
+"hep-ph/9205239","Ivan","Tzu Chiang Yuan","Anomalous Radiative Decay of Heavy Higgs Boson","7 pages, 1 figure (not included) NUHEP-TH-92-11",,,,"hep-ph",,"  The radiative decay width of a heavy Higgs boson $H \rightarrow W^+W^-\gamma$
+for a {\it hard} photon is calculated in the Standard Model and its extension
+with anomalous $\gamma WW$ couplings. Its dependence on the Higgs mass, the two
+unknown anomalous couplings, and the photon energy cutoff are studied in
+detail. We show that this radiative decay of a heavy Higgs is not very
+sensitive to a wide range of the anomalous couplings compared to the Standard
+Model result.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 16:02:37 GMT""}]","2007-05-23"
+"hep-ph/9205240","Lawrence Hall","Savas Dimopoulos, Lawrence Hall and Stuart Raby","Predictions for neutral K and B meson physics","10 pages no figure. LBL31431","Phys.Rev.D46:4793-4798,1992","10.1103/PhysRevD.46.R4793",,"hep-ph",,"  Using supersymmetric grand unified theories, we have recently invented a
+framework which allows the prediction of three quark masses, two of the
+parameters of the Kobayashi-Maskawa matrix and tan $\beta$, the ratio of the
+two vevs. These predictions are used to calculate $\epsilon$ and $\epsilon'$ in
+the kaon system, B meson mass mixing and the size of CP asymmetries in the
+decays of neutral B mesons to explicit final states of given CP.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 22:28:02 GMT""}]","2010-01-06"
+"hep-ph/9205241","Boris Blok","B. Blok and M. Shifman","Nonleptonic decays of K mesons revisited","17 pages Report NSF-ITP-92-82,TPI-MINN-92-26-T","Phys.Lett.B294:417-424,1992","10.1016/0370-2693(92)91543-I",,"hep-ph",,"  We estimate nonfactorizable 1/$N_c$ contributions in the $K\rightarrow 2\pi$
+amplitudes using the approach proposed in our previous work. It is demonstrated
+that for the conventional (nonpenguin) operators these contributions are close
+in magnitude to factorizable $1/N_c$ parts and have the opposite sign. Thus, an
+approximate rule of discarding $1/N_c$ corrections in $K\rightarrow 2\pi$
+decays is theoretically confirmed. As a result we find an extra suppression of
+the matrix element of $O_4$ ($\Delta I=3/2$) and an extra enhancement of the
+matrix element of $O_1$ ($\Delta I=1/2$).
+  The parameter $B$ describing $K^0-\bar K^0$ mixing is also discussed.
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 07:44:00 GMT""}]","2010-11-01"
+"hep-th/9205098","Robert Mann","R.B. Mann and S.F. Ross","Matching Conditions and Gravitational Collapse in Two-Dimensional
+  Gravity","22 pgs","Class.Quant.Grav.9:2335-2350,1992","10.1088/0264-9381/9/10/016",,"hep-th",,"  The general theory of matching conditions is developed for gravitational
+theories in two spacetime dimensions. Models inspired from general relativity
+and from string theory are considered. These conditions are used to study
+collapsing dust solutions in spacetimes with non-zero cosmological constant,
+demonstrating how two-dimensional black holes can arise as the endpoint of such
+collapse processes.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 16:18:36 GMT""}]","2010-04-06"
+"hep-th/9205099",,"J. A. Dixon and M. J. Duff","Chern-Simons Forms, Mickelsson-Faddeev Algebras and the P-Branes","11 pages, CTP-TAMU-45-92, (Correction of some minor sign errors and
+  typos)","Phys.Lett.B296:28-32,1992","10.1016/0370-2693(92)90799-A",,"hep-th",,"  In string theory, nilpotence of the BRS operator $\d$ for the string
+functional relates the Chern-Simons term in the gauge-invariant antisymmetric
+tensor field strength to the central term in the Kac-Moody algebra. We
+generalize these ideas to p-branes with odd p and find that the Kac-Moody
+algebra for the string becomes the Mickelsson-Faddeev algebra for the p-brane.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 21:49:38 GMT""},{""version"":""v2"",""created"":""Mon, 22 Jun 1992 20:13:18 GMT""}]","2008-11-26"
+"hep-th/9205100","Jacques Distler","J. Distler","A note on the 3D Ising model as a string theory","21 pages, 11 figures. This revised manuscript is identical to the
+  final published version (Nuclear Physics B, to appear). Aside from correcting
+  some scattered typos, the final version corrects and expands some of the
+  comments in the original preprint on the unoriented NSR string","Nucl.Phys. B388 (1992) 648-670","10.1016/0550-3213(92)90558-S","PUPT-1324","hep-th cond-mat hep-lat",,"  It has long been argued that the continuum limit of the 3D Ising model is
+equivalent to a string theory. Unfortunately, in the usual starting point for
+this equivalence -- a certain lattice theory of surfaces -- it is not at all
+obvious how to take the continuum limit. In this note, I reformulate the
+lattice theory of surfaces in a fashion such that the continuum limit is
+straightforward. I go on to discuss how this new formulation may overcome some
+fundamental objections to the notion that the Ising model is equivalent to a
+string theory. In an appendix, I also discuss some aspects of fermion doubling,
+and the lattice fermion formulation of the 2D Ising model.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 18:47:09 GMT""},{""version"":""v2"",""created"":""Tue, 25 Aug 1992 17:55:53 GMT""}]","2009-10-22"
+"hep-th/9205101","Ohta","Nobuyoshi Ohta and Hisao Suzuki","Interactions of Discrete States with Nonzero Ghost Number \\ in $c=1$
+  $2D$ Gravity","10 pages, OS-GE 25-92","Mod.Phys.Lett. A7 (1992) 2723-2730","10.1142/S0217732392002184",,"hep-th",,"  We study the interactions of the discrete states with nonzero ghost number in
+$c=1$ two-dimensional ($2D$) quantum gravity. By using the vertex operator
+representations, it is shown that their interactions are given by the structure
+constants of the group of the area preserving diffeomorphism similar to those
+of vanishing ghost number. The effective action for these states is also worked
+out. The result suggests the whole system has a BRST-like symmetry.
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 01:01:52 GMT""}]","2015-06-26"
+"hep-th/9205102",,"Roberto Zucchini","Light Cone $W_n$ Geometry and its Symmetries and Projective Field Theory","32 pages, plain TeX","Class.Quant.Grav.10:253-278,1993","10.1088/0264-9381/10/2/008",,"hep-th",,"  I show that the generalized Beltrami differentials and projective connections
+which appear naturally in induced light cone $W_n$ gravity are geometrical
+fields parametrizing in one-to-one fashion generalized projective structures on
+a fixed base Riemann surface. I also show that $W_n$ symmetries are nothing but
+gauge transformations of the flat ${SL}(n,{\bf C})$ vector bundles canonically
+associated to the generalized projective structures. This provides an original
+formulation of classical light cone $W_n$ geometry. From the knowledge of the
+symmetries, the full BRS algebra is derived. Inspired by the results of recent
+literature, I argue that quantum $W_n$ gravity may be formulated as an induced
+gauge theory of generalized projective connections. This leads to projective
+field theory. The possible anomalies arising at the quantum level are analyzed
+by solving Wess-Zumino consistency conditions. The implications for induced
+covariant $W_n$ gravity are briefly discussed. The results presented, valid for
+arbitrary $n$, reproduce those obtained for $n=2,3$ by different methods.
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 09:18:00 GMT""}]","2010-04-06"
+"hep-th/9205103",,"Leonardo Castellani","Gauge theories of quantum groups","12 pages, DFTT-19/92","Phys.Lett. B292 (1992) 93-98","10.1016/0370-2693(92)90613-9",,"hep-th",,"  We find two different q-generalizations of Yang-Mills theories. The
+corresponding lagrangians are invariant under the q-analogue of infinitesimal
+gauge transformations. We explicitly give the lagrangian and the transformation
+rules for the bicovariant q-deformation of $SU(2) \times U(1)$. The gauge
+potentials satisfy q-commutations, as one expects from the differential
+geometry of quantum groups. However, in one of the two schemes we present, the
+field strengths do commute.
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 11:26:00 GMT""}]","2009-10-22"
+"hep-th/9205105","Jeremy Schiff","Jeremy Schiff","The KdV Action and Deformed Minimal Models","15 pages, no figures, plain tex. Revised version - a few points
+  clarified. IASSNS-HEP-92/28",,,,"hep-th",,"  An action is constructed that gives an arbitrary equation in the KdV or MKdV
+hierarchies as equation of motion; the second Hamiltonian structure of the KdV
+equation and the Hamiltonian structure of the MKdV equation appear as Poisson
+bracket structures derived from this action. Quantization of this theory can be
+carried out in two different schemes, to obtain either the quantum KdV theory
+of Kupershmidt and Mathieu or the quantum MKdV theory of Sasaki and Yamanaka.
+The latter is, for specific values of the coupling constant, related to a
+generalized deformation of the minimal models, and clarifies the relationship
+of integrable systems of KdV type and conformal field theories. As a
+generalization it is shown how to construct an action for the $SL(3)$-KdV
+(Boussinesq) hierarchy.
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 13:49:18 GMT""},{""version"":""v2"",""created"":""Tue, 6 Oct 1992 18:14:25 GMT""}]","2008-02-03"
+"math/9205210","Eric Bedford","Eric Bedford, Mikhail Lyubich, John Smillie","Polynomial diffeomorphisms of C^2, IV: The measure of maximal entropy
+  and laminar currents",,,"10.1007/BF01232426","Stony Brook IMS 1992/8","math.DS",,"  This paper concerns the dynamics of polynomial automorphisms of ${\bf C}^2$.
+One can associate to such an automorphism two currents $\mu^\pm$ and the
+equilibrium measure $\mu=\mu^+\wedge\mu^-$. In this paper we study some
+geometric and dynamical properties of these objects. First, we characterize
+$\mu$ as the unique measure of maximal entropy. Then we show that the measure
+$\mu$ has a local product structure and that the currents $\mu^\pm$ have a
+laminar structure. This allows us to deduce information about periodic points
+and heteroclinic intersections. For example, we prove that the support of $\mu$
+coincides with the closure of the set of saddle points. The methods used
+combine the pluripotential theory with the theory of non-uniformly hyperbolic
+dynamical systems.
+","[{""version"":""v1"",""created"":""Thu, 28 May 1992 00:00:00 GMT""}]","2016-09-06"

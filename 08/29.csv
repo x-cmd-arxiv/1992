@@ -1,0 +1,39 @@
+"gr-qc/9208011",,"Jong H. Kung","Comparison of the Sachs-Wolfe Effect for Gaussian and Non-Gaussian
+  Fluctuations","16 pages","Phys.Rev.D47:409-415,1993","10.1103/PhysRevD.47.409","report # CfA 3435","gr-qc astro-ph",,"  A consequence of non-Gaussian perturbations on the Sachs-Wolfe effect is
+studied. For a particular power spectrum, predicted Sachs-Wolfe effects are
+calculated for two cases: Gaussian (random phase) configuration, and a specific
+kind of non-Gaussian configuration. We obtain a result that the Sachs-Wolfe
+effect for the latter case is smaller when each temperature fluctuation is
+properly normalized with respect to the corresponding mass fluctuation ${\delta
+M\over M}(R)$. The physical explanation and the generality of the result are
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 28 Aug 1992 17:36:37 GMT""}]","2009-12-30"
+"hep-ph/9208259",,"E.H. Simmons, R.S. Chivukula and S.B. Selipsky","Extended Technicolor Corrections to the $Z b\bar b$ Vertex","Latex file, 5 pages, no figures, HUTP-92/A024",,,,"hep-ph",,"  Extended technicolor theories generate potentially large corrections to the
+$\Zbb$ vertex. These can be observed in current experiments at LEP.
+","[{""version"":""v1"",""created"":""Fri, 28 Aug 1992 16:05:28 GMT""}]","2007-05-23"
+"hep-th/9208075","G. Weigt","Gerhard Weigt","Canonical Quantization of the Liouville Theory, Quantum Group
+  Structures, and Correlation Functions","12 pages, talk",,,,"hep-th",,"  We describe a self-consistent canonical quantization of Liouville theory in
+terms of canonical free fields. In order to keep the non-linear Liouville
+dynamics, we use the solution of the Liouville equation as a canonical
+transformation. This also defines a Liouville vertex operator. We show, in
+particular, that a canonical quantized conformal and local quantum Liouville
+theory has a quantum group structure, and we discuss correlation functions for
+non-critical strings.
+","[{""version"":""v1"",""created"":""Fri, 28 Aug 1992 16:23:55 GMT""},{""version"":""v2"",""created"":""Thu, 11 Feb 1993 18:17:14 GMT""}]","2008-02-03"
+"hep-th/9208076",,"Amit Giveon and Andrea Pasquinucci","On Cosmological String Backgrounds with Toroidal Isometries","10 pages, IASSNS-HEP-92/55","Phys.Lett.B294:162-166,1992","10.1016/0370-2693(92)90677-V",,"hep-th",,"  A large class of cosmological solutions (of the Einstein equations) in string
+theory, in the presence of Maxwell fields, is obtained by $O(d,d)$
+transformations of simple backgrounds with $d$ toroidal isometries. In all the
+examples in which we find a (closed) expanding universe, such that the universe
+admits a smooth, complete initial value hypersurface, a naked singularity may
+form only at the time when the universe collapses. The discrete symmetry group
+$O(d,d,Z)$ identifies different cosmological solutions with a background
+corresponding to a (relatively) simple CFT, and therefore, may be useful in
+understanding the properties of naked singularities in string theory.
+","[{""version"":""v1"",""created"":""Fri, 28 Aug 1992 20:00:00 GMT""}]","2011-07-19"
+"hep-th/9208077","Jose M. Figueroa-O'Farrill","J.M. Figueroa-O'Farrill, J. Mas, and E. Ramos","The Topography of $\W_\infty$-Type Algebras","15 pages, Plain TeX, BONN-HE-92-24, US-FT-8/92, KUL-TF-92/32. [This
+  new version contains some minor revisions due to the revision of
+  hep-th/9207092.]","Phys.Lett. B299 (1993) 41-48","10.1016/0370-2693(93)90881-H",,"hep-th",,"  We chart out the landscape of $\Winfty$-type algebras using $\Wkpq$---a
+recently discovered one-parameter deformation of $\W_{\rm KP}$. We relate all
+hitherto known $\Winfty$-type algebras to $\Wkpq$ and its reductions,
+contractions, and/or truncations at special values of the parameter.
+","[{""version"":""v1"",""created"":""Fri, 28 Aug 1992 18:46:44 GMT""},{""version"":""v2"",""created"":""Tue, 1 Sep 1992 13:04:36 GMT""},{""version"":""v3"",""created"":""Sun, 21 Mar 1993 20:51:29 GMT""}]","2009-10-22"

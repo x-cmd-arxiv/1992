@@ -1,0 +1,215 @@
+"astro-ph/9210001",,"Annie C. Robin, Michel Creze, Vijay Mohan","The Edge of the Galactic Disc","8 pages, Besancon Observatory preprint n. 2","Astrophys.J. 400 (1992) L25","10.1086/186640",,"astro-ph",,"  As part of a stellar population sampling program, a series of photometric
+probes at various field sizes and depths have been obtained in a low extinction
+window in the galactic anticentre direction. Such data set strong constraints
+on the radial structure of the disc. At the forefront of this ""drilling""
+program, very deep CCD frames probe the most external parts of the disc. Over
+the whole effective magnitude range (18 to 25), all contributions in the
+statistics which should be expected from old disc stars beyond 6 kpc vanish,
+although such stars dominate by far at distances less than 5 kpc. This is the
+signature of a sharp cut-off in the star density: the edge of the galactic disc
+between 5.5 and 6 kpc. As a consequence, the galactic radius does not exceed 14
+kpc (assuming $R/-/(//sun/)$=8.5). Colours of elliptical galaxies measured in
+the field rule out the risk of being misled by undetected extinction.
+","[{""version"":""v1"",""created"":""Fri, 2 Oct 1992 15:53:08 GMT""}]","2009-10-22"
+"cond-mat/9210002","Vladimir Privman","Vladimir Privman","Exact Solution of a Phase Separation Model with Conserved Order
+  Parameter Dynamics","10 pages (plain TeX), 1 figure (PostScript)","Phys.Rev.Lett.69:3686-3688,1992","10.1103/PhysRevLett.69.3686",,"cond-mat hep-lat",,"  Pairwise particle-exchange model on a linear lattice is solved exactly by a
+new rate-equation method. Lattice sites are occupied by particles A and B which
+can exchange irreversibly provided the local energy in reduced. Thus, the model
+corresponds to a zero-temperature Kawasaki-type phase separation process. Due
+to local order-parameter conservation, the dynamics reaches a frozen state at
+large times, the structure of which depends on the initial conditions.
+","[{""version"":""v1"",""created"":""Fri, 2 Oct 1992 03:52:11 GMT""}]","2014-10-13"
+"hep-lat/9210002",,"Bernd Bruegmann and E. Marinari","4d Simplicial Quantum Gravity with a Non-Trivial Measure","4 pages text, 4 figures on 1 page included as postscript file","Phys.Rev.Lett.70:1908-1911,1993","10.1103/PhysRevLett.70.1908","SCCS 361; SU-GP-92/9-2","hep-lat gr-qc hep-th",,"  We study 4d simplicial quantum gravity in the dynamical triangulation
+approach with a non-trivial class of measures. We find that the measure
+contribution plays an important role, influencing the phase diagram and the
+nature of the (possible) critical theory. We discuss how the lattice theory
+could be used to fix the quantum measure in a non-ambiguous way.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 20:22:00 GMT""}]","2008-11-26"
+"hep-lat/9210004","Kondo","T. Ebihara and K.-I. Kondo","Multicritical Points in a Lattice Yukawa Model with the Wilson-Yukawa
+  Coupling","11 pages (TeX), +3 pages with postscript figures, CHIBA-EP-61-REV","Phys.Lett. B292 (1992) 401-407","10.1016/0370-2693(92)91194-E",,"hep-lat",,"  For a lattice regularized chiral-invariant $SU(2)_L\times~SU(2)_R$
+fermion-scalar model with a Yukawa coupling $y$ and a Wilson-Yukawa coupling
+$w$, we investigate the phase structure and in particular show the existence of
+the multicritical line, in the strong Yukawa and/or Wilson Yukawa coupling
+region, at which four phases meet.
+  The result is in good agreement with the Monte Carlo simulation.
+  This analytical result is derived from the effective scalar model obtained by
+integrating out the fermion field where the action is explicitly obtained from
+the hopping parameter expansion up to next-to-leading order.
+  For estimates on the correlation function of the scalar field we apply the
+mean-field method.
+","[{""version"":""v1"",""created"":""Fri, 2 Oct 1992 02:47:44 GMT""},{""version"":""v2"",""created"":""Mon, 12 Oct 1992 15:31:13 GMT""}]","2009-10-22"
+"hep-lat/9210005","Tien Kieu","C J Griffin and T D Kieu","Fermion Doubling and Gauge Invariance on Random Lattices","7 A4 pages, 3 figures in postcript are included","Phys.Rev.Lett. 70 (1993) 3844-3847","10.1103/PhysRevLett.70.3844",,"hep-lat hep-th",,"  Random-lattice fermions have been shown to be free of the doubling problem if
+there are no interactions or interactions of a non-gauge nature. On the other
+hand, gauge interactions impose stringent constraints as expressed by the
+Ward-Takahashi identities which could revive the free-field suppressed doubler
+modes in loop diagrams. Comparing random lattice, naive and Wilson fermions in
+two dimensional abelian background gauge theory, we show that indeed the
+doublers are revived for random lattices in the continuum limit. Some
+implications of the persistent doubling phenomenon on random lattices are also
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 2 Oct 1992 05:06:35 GMT""}]","2009-10-22"
+"hep-ph/9210201","Mirjam Cvetic","Mirjam Cvetic","Stringy Origin of Neutrino Masses within the Minimal Supersymmetric
+  Standard Model","6 pages, UPR-528-T, (Talk presented at the XXVI International
+  Conference on High Energy Physics, August 6-12, 1992, Dallas, Texas)",,,,"hep-ph",,"  We present a ``gravity-induced'' seesaw mechanism, which accommodates
+neutrino masses ($m_\nu\propto m_u^2/M_I$, with $m_u$ the corresponding quark
+mass and $M_I\simeq 4\times10^{11}$ GeV) compatible with the MSW study of the
+Solar neutrino deficit within the minimal supersymmetric Standard Model (the
+grand desert with the gauge coupling unification at $M_U\simeq 2\times10^{16}$
+GeV). We show that for large radius ($R^2/\alpha '={\cal O}(20)$) Calabi-Yau
+spaces, threshold corrections ensure $M_U^2=M_C^2/{\cal O} (2R^2/\alpha')$ and
+the magnitude of the non-renormalizable terms in the superpotential yields
+$M_I= {\cal O}(e^{-R^2/\alpha'})M_C$. Here $M_C=g\times 5.2\times 10^{17}$GeV
+is the scale of the tree level (genus zero) gauge coupling ($g$) unification.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 17:03:44 GMT""}]","2007-05-23"
+"hep-ph/9210202",,"S. P. Rosen","Double Beta Decay","19 pages (two figures not included) report number UTAPHY-HEP-4",,,,"hep-ph",,"  I review the subject of double beta decay with emphasis upon its implications
+for the neutrino. It is shown that even if right-handed currents provide the
+phenomenological mechanism for no-neutrino decay, the fundamental mechanism
+underlying the process must be neutrino mass. Estimates of the mass required
+suggest that this mechanism is less likely than the direct mechanism of
+Majorana mass terms in the mass matrix.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 21:28:00 GMT""}]","2007-05-23"
+"hep-ph/9210203",,"S. P. Rosen","MSW Implications of Solar Neutrino Experiments","6 pages, 4 figures not included. Report number UTAPHY-HEP-5",,"10.1063/1.43283",,"hep-ph",,"  I discuss the implications for future solar neutrino experiments of the most
+recent gallium data in the context of the MSW mechanism. At the low energy end
+of the solar neutrino spectrum we need to measure the $^7$Be component
+directly; and at the high energy end, we need precise measurements of the shape
+of the spectrum.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 21:41:00 GMT""}]","2009-10-22"
+"hep-ph/9210204",,"D. V. Ahluwalia and Mikolaj Sawicki","Natural Hadronic Degrees of Freedom for an Effective QCD Action in the
+  Front Form","26 pages, LA-UR-92-3133 and ISU-NP-92-11",,,,"hep-ph nucl-th",,"  On the one hand any effective action of the QCD,
+$S[\pi,\,\rho,\,\omega,\ldots,N,\,\overline N,\,\Delta^{3/2},\ldots]$, would
+involve, at least in principle, a tower of hadronic fields of all spins; on the
+other hand the front form of the field theory has emerged as an appropriate
+framework to investigate the high energy behaviour of many systems. Motivated
+by these simple considerations we present a systematic formalism which
+explicitly provides the front form fields appropriate for constructing a
+$S[\pi,\,\rho,\,\omega,\ldots,N,\,\overline N,\,\Delta^{3/2},\ldots]$. Further,
+a transformation matrix $\Omega(j)$ is constructed which determines how the
+front form hadronic fields superimpose to yield the more familiar instant form
+fields. Explicit results for the front form hadronic fields up to spin two are
+catalogued in appendixes. For spin one half, the $\Omega(1/2)$ coincides with
+the celebrated ``Melosh transformation.'' The formalism, without explicitly
+invoking any wave equations, reproduces spin one half front-form results of
+Lepage and Brodsky, and Dziembowski.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 23:43:24 GMT""}]","2007-05-23"
+"hep-ph/9210205",,"J. Soto and R. Tzani","Anomalies in the effective theory of heavy quarks","16 pages, UB-ECM-PF-92/15","Phys.Lett. B297 (1992) 358-366","10.1016/0370-2693(92)91275-E",,"hep-ph hep-th",,"  The question of the anomalies in the effective theory of heavy quarks is
+investigated at two different levels. Firstly, it is shown that none of the
+symmetries of this effective theory contains an anomaly. The existence of a new
+`$ \gamma _ 5 $'-symmetry is pointed out and shown to be also anomaly free.
+Secondly, it is shown that the chiral anomaly of QCD is not reproduced in the
+effective lagrangian for the heavy quarks, thus contradicting 't Hooft's
+anomaly matching condition. Finally, the effective theory of heavy quarks is
+derived from the QCD lagrangian in such a way that the terms leading to the
+anomaly are included. For this derivation the generating functional method is
+used.
+","[{""version"":""v1"",""created"":""Fri, 2 Oct 1992 11:26:12 GMT""}]","2009-10-22"
+"hep-ph/9210206","Uwe Ritschel","Uwe Ritschel","Non-Gaussian Corrections to Higgs Mass in Autonomous lambda phi**4","12 pages","Z.Phys.C63:345-350,1994","10.1007/BF01411027",,"hep-ph hep-th",,"  Recent calculations in one-loop and Gaussian appro- ximation, using the
+so-called autonomous renormalization scheme, indicate a comparatively massive,
+narrow Higgs excitation at about 2 TeV. Here I show that this result
+qualitatively persists in the framework of a post-Gaussian variational
+approximation for the pure O(N)-symmetric phi**4-theory for N>1. The method is
+based on nonlinear transformations of path-integral variables, and the
+optimization amounts to a Schwinger-Dyson-type summation of diagrams. In the
+case of O(4), for example, I find M_Higgs = 2.3 TeV, compared to 1.9 TeV and
+2.1 TeV in 1-loop and Gaussian approximation, respectively.
+","[{""version"":""v1"",""created"":""Fri, 2 Oct 1992 13:07:44 GMT""}]","2014-11-17"
+"hep-th/9210006","Mirjam Cvetic","Mirjam Cvetic","Stability of Vacua and Domain Walls in Supergravity and Superstring
+  Theory","6 pages, UPR-529-T",,"10.1063/1.43394",,"hep-th gr-qc",,"  We address the possibility of false vacuum decay in $N=1$ supergravity
+theories, including those corresponding to superstring vacua. By establishing a
+Bogomol'nyi bound for the energy density stored in the domain wall of the
+$O(4)$ invariant bubble, we show that supersymmetric vacua remain absolutely
+stable against false vacuum decay into another supersymmetric vacuum, including
+those from a Minkowski to an anti-deSitter (AdS) one. As a consequence, there
+are no compact static spherical domain walls, while on the other hand there
+exist planar domain walls interpolating between non-degenerate supersymmetric
+vacua, e.g. between Minkowski (topology $\Re^{4}$) and AdS (topology
+$S^{1}(time) \times \Re^{3}(space)$) vacua. (Talk presented at the XXVI
+International Conference on High Energy Physics August 6-12, 1992, Dallas,
+Texas)
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 17:19:36 GMT""}]","2009-10-22"
+"hep-th/9210007","Andreas Recknagel","J. Kellendonk and A. Recknagel","Virasoro Representations on Fusion Graphs","9 pages (2 Figures not included), Bonn-HE-92-22","Phys.Lett. B298 (1993) 329-334","10.1016/0370-2693(93)91828-B",,"hep-th",,"  For any non-unitary model with central charge c(2,q) the path spaces
+associated to a certain fusion graph are isomorphic to the irreducible Virasoro
+highest weight modules.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 16:58:13 GMT""}]","2009-10-22"
+"hep-th/9210008","Warren Siegel","W. Siegel","Green-Schwarz Formulation of Self-Dual Superstring","11 pg., (uuencoded dvi file) ITP-SB-92-53","Phys.Rev. D47 (1993) 2512-2516","10.1103/PhysRevD.47.2512",,"hep-th",,"  The self-dual superstring has been described previously in a
+Neveu-Schwarz-Ramond formulation with local N=2 or 4 world-sheet supersymmetry.
+We present a Green-Schwarz-type formulation, with manifest spacetime
+supersymmetry.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 17:14:35 GMT""}]","2009-10-22"
+"hep-th/9210009","Andre LeClair","A. LeClair and C. Vafa","Quantum Affine Symmetry as Generalized Supersymmetry","45 pages","Nucl.Phys. B401 (1993) 413-454","10.1016/0550-3213(93)90309-D","CLNS 92/1156, HUTP-92/A045","hep-th",,"  The quantum affine $\CU_q (\hat{sl(2)}) $ symmetry is studied when $q^2$ is
+an even root of unity. The structure of this algebra allows a natural
+generalization of N=2 supersymmetry algebra. In particular it is found that the
+momentum operators $P ,\bar{P}$, and thus the Hamiltonian, can be written as
+generalized multi-commutators, and can be viewed as new central elements of the
+algebra $\CU_q (\hat{sl(2)})$. We show that massive particles in (deformations
+of) integer spin representions of $sl(2)$ are not allowed in such theories.
+Generalizations of Witten's index and Bogomolnyi bounds are presented and a
+preliminary attempt in constructing manifestly $\CU_q (\hat{sl(2)})$ invariant
+actions as generalized supersymmetric Landau-Ginzburg theories is made.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 17:41:06 GMT""}]","2009-10-22"
+"hep-th/9210010","Kareljan Schoutens","P. Bouwknegt and K. Schoutens","W-symmetry in Conformal Field Theory","137 pages (Corrections in Chapter 7 where some incorrect formulas
+  were taken out, see `Note added' for Comments.)","Phys.Rept. 223 (1993) 183-276","10.1016/0370-1573(93)90111-P","CERN-TH.6583/92, ITP-SB-92-23","hep-th",,"  We review various aspects of $\cW$-algebra symmetry in two-dimensional
+conformal field theory and string theory. We pay particular attention to the
+construction of $\cW$-algebras through the quantum Drinfeld-Sokolov reduction
+and through the coset construction.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 19:46:51 GMT""},{""version"":""v2"",""created"":""Wed, 23 Dec 1992 05:02:57 GMT""}]","2009-10-22"
+"hep-th/9210011","Edwin Langmann","E. Langmann and G. Semenoff","Gauge Theories on a Cylinder",,"Phys.Lett. B296 (1992) 117-120","10.1016/0370-2693(92)90811-H",,"hep-th",,"  (a few typos and an error corrected)
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 20:43:00 GMT""},{""version"":""v2"",""created"":""Thu, 8 Oct 1992 02:02:00 GMT""}]","2009-10-22"
+"hep-th/9210012","Jim Horne","J. Horne and G. Horowitz","Black Holes Coupled to a Massive Dilaton","36 p., (one reference added, minor typos), UCSBTH-92-17, YCTP-92-P37","Nucl.Phys. B399 (1993) 169-196","10.1016/0550-3213(93)90621-U",,"hep-th gr-qc",,"  We investigate charged black holes coupled to a massive dilaton. It is shown
+that black holes which are large compared to the Compton wavelength of the
+dilaton resemble the Reissner-Nordstr\""om solution, while those which are
+smaller than this scale resemble the massless dilaton solutions. Black holes of
+order the Compton wavelength of the dilaton can have wormholes outside the
+event horizon in the string metric. Unlike all previous black hole solutions,
+nearly extremal and extremal black holes (of any size) repel each other. We
+argue that extremal black holes are quantum mechanically unstable to decay into
+several widely separated black holes. We present analytic arguments and
+extensive numerical results to support these conclusions.
+","[{""version"":""v1"",""created"":""Fri, 2 Oct 1992 02:58:38 GMT""},{""version"":""v2"",""created"":""Tue, 6 Oct 1992 00:42:48 GMT""}]","2009-10-22"
+"hep-th/9210013",,"Peter Chang and J.S.Dowker","Vacuum energy on orbifold factors of spheres","29 pages, latex","Nucl.Phys.B395:407-432,1993","10.1016/0550-3213(93)90223-C",,"hep-th",,"  The vacuum energy is calculated for a free, conformally-coupled scalar field
+on the orbifold space-time \R$\times \S^2/\Gamma$ where $\Gamma$ is a finite
+subgroup of O(3) acting with fixed points. The energy vanishes when $\Gamma$ is
+composed of pure rotations but not otherwise. It is shown on general grounds
+that the same conclusion holds for all even-dimensional factored spheres and
+the vacuum energies are given as generalised Bernoulli functions (i.e. Todd
+polynomials). The relevant $\zeta$- functions are analysed in some detail and
+several identities are incidentally derived. The general discussion is
+presented in terms of finite reflection groups.
+","[{""version"":""v1"",""created"":""Fri, 2 Oct 1992 09:35:00 GMT""}]","2010-11-01"
+"hep-th/9210014","Michel Talon","M. Talon","Two--poles R-matrices","10 pages",,,,"hep-th",,"  We study integrable dynamical systems described by a Lax pair involving a
+spectral parameter. By solving the classical Yang-Baxter equation when the
+R-matrix has two poles we show that they can be interpreted as natural motions
+on a twisted loop algebra.
+","[{""version"":""v1"",""created"":""Fri, 2 Oct 1992 09:26:27 GMT""}]","2007-05-23"
+"hep-th/9210015","A. A. Tseytlin","A.S. Schwarz and A.A. Tseytlin","Dilaton shift under duality and torsion of elliptic complex","20 p., harvmac, IMPERIAL/TP/92-93/01","Nucl.Phys.B399:691-708,1993","10.1016/0550-3213(93)90514-P",,"hep-th",,"  We observe that the ratio of determinants of $2d$ Laplacians which appear in
+the duality transformation relating two sigma models with abelian isometries
+can be represented as a torsion of an elliptic (DeRham) complex. As a result,
+this ratio can be computed exactly and is given by the exponential of a local
+functional of $2d$ metric and target space metric. In this way the well known
+dilaton shift under duality is reproduced. We also present the exact
+computation of the determinant which appears in the duality transformation in
+the path integral.
+","[{""version"":""v1"",""created"":""Fri, 2 Oct 1992 13:05:00 GMT""},{""version"":""v2"",""created"":""Fri, 2 Oct 1992 17:38:00 GMT""}]","2009-09-17"
+"nucl-th/9210001","Dick Silbar","Richard R. Silbar (LANL)","An Interactive NeXTstep Interface to a Fortran Code for Solving Coupled
+  Differential Equations","15 pages text (revtex3), 8 figs (added as uuencoded PostScript file),
+  LA-UR 92-2541, August 1992, revised January 1993. To be pub., Comp. in Phys.,
+  July '93",,"10.1063/1.168473",,"nucl-th",,"  This paper describes a user-friendly frontend to a Fortran program that
+integrates coupled nonlinear ordinary differential equations. The user
+interface is built using the NeXTstep Interface Builder, together with a
+public-domain graphical palette for displaying intermediate and final results.
+In running the code for a given set of equation parameters the user sees a plot
+of the solutions at each stage of the iterative process. In the case of a
+successful sequence of iterations, the initially discontinuous curves smooth
+out as the scale parameters of the solutions are adjusted to achieve a solution
+to the nonlinear equations. If the iterative process goes astray, as it often
+does for a poor choice of starting scale parameters, the user has the
+opportunity to stop and start over with a better choice, guided by the result
+of the previous run. The ease of interaction with the equations also allows the
+user to develop an intuition regarding their solutions and to explore the
+parameter space for the equations much more quickly.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 20:33:58 GMT""},{""version"":""v2"",""created"":""Mon, 12 Apr 1993 20:33:18 GMT""}]","2009-10-22"
+"nucl-th/9210002","Terry Goldman","Fan Wang, Guang-han Wu, Li-jian Teng, and T. Goldman","Quark Delocalization, Color Screening, and Nuclear Intermediate Range
+  Attraction","10 pages, LaTeX, 4 figures in PostScript after text, LA-UR-91-2152","Phys.Rev.Lett.69:2901-2904,1992","10.1103/PhysRevLett.69.2901",,"nucl-th",,"  We consider the effect of including quark delocalization and color screening,
+in the nonrelativistic quark cluster model, on baryon-baryon potentials and
+phase shifts. We find that the inclusion of these additional effects allows a
+good qualitative description of both.
+","[{""version"":""v1"",""created"":""Thu, 1 Oct 1992 22:37:38 GMT""}]","2008-11-26"

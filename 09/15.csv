@@ -1,0 +1,213 @@
+"cond-mat/9209014","Ofer Biham","Wei Li and Gianfranco Vidali","Metal Adatom Induced Corrugation of Cu(001)","9 pages, four Figures (available upon request)",,"10.1016/0039-6028(93)90798-O","SU-92-1503","cond-mat",,"  We report the discovery of a metal adatom induced corrugation of Cu(001) as
+probed by atom beam scattering (ABS). At Pb or Bi coverages of 0.05 (fraction
+of Cu layer), and while a (1$\times$1) LEED pattern is still observed, the ABS
+diffraction pattern from \underbar{uncovered} Cu(001) areas has changed
+considerably from that of clean Cu(001). We show that these uncovered areas
+have become up to ten times more corrugated than the clean Cu(001). We
+performed several carefully designed experiments to test whether our data could
+be interpreted as a result of scattering from adsorbate islands or from a
+lattice of randomly occupied sites. Instead, we ascribe the nature of this
+metal adatom induced corrugation to the redistribution of the Cu(001) surface
+charge density due to the adsorption of Pb or Bi atoms. No effect is seen
+following adsorption of weakly chemisorbed adatoms, such as Hg. A model
+consistent with all our observations is presented.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 16:19:52 GMT""}]","2009-10-22"
+"cond-mat/9209015","Ofer Biham","Wei Li and Gianfranco Vidali","Growth of Metastable High-Order Commensurate Overlayers of Pb on Cu(001)","8 pages, 5 figures (available upon request)",,,"SU-92-1504","cond-mat",,"  We studied the growth and ordering of a Pb layer deposited on Cu(001) at 150
+K. Contrary to the case of adsorption of Pb at room temperature, islands
+readily form. These islands order in a high-order commensurate structure of
+symmetry ( sqrt(61) x sqrt(61) ) R arctan(5/6). We followed the growth of these
+islands using atom beam scattering. From the measurement of the island
+diffraction peak profiles we found a power growth law for the mean island- size
+versus coverage. Upon increasing the coverage another high-order commensurate
+structure is formed, (5 x 5) R arctan(3/4). All the ordered phases obtained by
+adsorption at low temperature are metastable.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 16:20:06 GMT""}]","2007-05-23"
+"cond-mat/9209016","Ofer Biham","Ofer Biham, L.-W. Chen and Gianfranco Vidali","Models for Monolayers Adsorbed on a Square Substrate","14 pages, Table (included), Two Figures (available upon request).
+  SU-92-1505",,"10.1016/0039-6028(93)91079-5",,"cond-mat",,"  Motivated by recent experimental studies of Hg and Pb monolayers on Cu(001)
+we introduce a zero temperature model of a monolayer adsorbed on a square
+substrate. Lennard-Jones potentials are used to describe the interaction
+between pairs of adlayer-adlayer and adlayer-substrate atoms. We study a
+special case in which the monolayer atoms form a perfect square structure and
+the lattice constant, position and orientation with respect to the substrate
+can vary to minimize the energy. We introduce a rule based on the Farey tree
+construction to generate systematically the most energetically favored phases
+and use it to calculate the phase diagram in this model.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 16:45:07 GMT""}]","2009-10-22"
+"gr-qc/9209005","Tsvi","Dalia S. Goldwirth, Malcolm J. Perry and Tsvi Piran","The Loss of Unitarity in the Vicinity of a Time Machine","13 pages",,,,"gr-qc hep-th",,"  We construct the propagator of a non-relativistic non-interacting particle in
+a flat spacetime in which two regions have been identified. This corresponds to
+the simplest ""time machine"". We show that while completeness is lost in the
+vicinity of the time machine it holds before the time machine appears and it is
+recovered afterwards. Unitarity, however, is not satisfied anywhere. We discuss
+the implications of these results and their relationship to the loss of
+unitarity in black hole evaporation.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 19:53:30 GMT""}]","2007-05-23"
+"hep-lat/9209018","Berndt Mueller","C. Gong","Lyapunov Exponent of SU(3) Gauge Theory","9pages, 5 figures appended as PostScript files, DUKE-TH-92-41","Phys.Lett.B298:257-262,1993","10.1016/0370-2693(93)91816-6",,"hep-lat",,"  The classical SU(3) gauge theory is shown to be deterministic chaotic. Its
+largest Lyapunov exponent is dertermined, from which a short time scale of
+thermalization of a pure gluon system is estimated. The connection to gluon
+damping rate is discussed.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 23:33:26 GMT""}]","2010-11-01"
+"hep-lat/9209019",,"A.M.Green, C.Michael and J.E.Paton","Multi-quark energies in QCD","26 pages, HU-TFT-92-12","Nucl.Phys.A554:701-720,1993","10.1016/0375-9474(93)90253-T",,"hep-lat",,"  Four-quark potentials for $SU(2)$ are evaluated in the static limit with the
+quenched approximation -- using a lattice of $16^3\times 32$ and $\beta=2.4$.
+The four quarks are restricted to the corners of rectangles with sides upto
+seven lattice spacings long. The results are analysed in terms of a strategy
+based on interquark two-body potentials -- as advocated earlier by the authors.
+This shows that a standard two-body approach overestimates the four-quark
+binding energy by upto a factor of about three for the largest rectangles.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 10:14:00 GMT""}]","2008-11-26"
+"hep-ph/9209231","Joaquim Prades","C. Bruno and J. Prades","Rare Kaon Decays in the $1/N_c$-Expansion","18 pages, LaTeX, CPT-92/P.2795","Z.Phys.C57:585-594,1993","10.1007/BF01561477",,"hep-ph",,"  We study the unknown coupling constants that appear at order $p^4$ in the
+Chiral Perturbation Theory analysis of $K \to \pi \gamma^* \to \pi l^+ l^-$,
+$K^{+-} \to \pi^{+-} \gamma \gamma$ and $K \to \pi \pi \gamma$ decays. To that
+end, we compute the chiral realization of the $\Delta S \, = \, 1$ Hamiltonian
+in the framework of the $1/N_c$-expansion of the low-energy action. The
+phenomenological implications are also discussed.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 16:21:32 GMT""}]","2008-11-26"
+"hep-ph/9209233",,"M. Carena and C.E.M. Wagner","On the Finite Temperature Effective Potential in Scalar QED with N
+  Flavors","33 pages and 2 figures (available upon request), MPI-Ph/92-67, August
+  1992","Nucl.Phys.B407:606-636,1993","10.1016/0550-3213(93)90092-4",,"hep-ph",,"  The effective potential of scalar quantum electrodynamics with N flavors of
+complex scalar fields is studied, by performing a self consistent 1/N expansion
+up to next to leading order in $1/N$. Starting from the broken phase at zero
+temperature, the theory exhibits a phase transition to the symmetric phase at
+some finite temperature $T_c$. We work in general covariant gauges and
+demonstrate the gauge invariance of both, the critical temperature $T_c$ and
+the minimization condition at any finite temperature T. Furthermore, the only
+minimum of the potential is at zero scalar vacuum expectation value for any
+temperature $T \geq T_c$ and varies continuously to nonzero values for
+temperatures below $T_c$, implying the existence of a second order phase
+transition.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 17:07:52 GMT""}]","2008-11-26"
+"hep-ph/9209234","Zheng Huang","Zheng Huang","On the Anomalous Discrete Symmetry","10 papges in LaTeX, SFU-Preprint-92-7","Phys.Rev.D46:4818-4821,1992","10.1103/PhysRevD.46.R4818",,"hep-ph",,"  We examine an interesting scenario to solve the domain wall problem recently
+suggested by Preskill, Trivedi, Wilczek and Wise. The effective potential is
+calculated in the presence of the QCD axial anomaly. It is shown that some
+discrete symmetries such as CP and Z_2 can be anomalous due to a so-called
+$K$-term induced by instantons. We point out that Z_2 domain-wall problem in
+the two-doublet standard model can be resolved by two types of solutions: the
+CP-conserving one and the CP-breaking one. In the first case, there exist two
+Z_2-related local minima whose energy splitting is provided by the instanton
+effect. In the second case, there is only one unique vacuum so that the domain
+walls do not form at all. The consequences of this new source of CP violation
+are discussed and shown to be well within the experimental limits in weak
+interactions.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 19:05:44 GMT""}]","2010-11-01"
+"hep-ph/9209235","Zheng Huang","Zheng Huang","The Measure of Strong CP Violation","37 pages in LateX, SFU-Preprint-92-8","Phys.Rev.D48:270-282,1993","10.1103/PhysRevD.48.270",,"hep-ph",,"  We investigate a controversial issue on the measure of CP violation in strong
+in teractions. In the presence of nontrivial topological gauge configurations,
+the $\theta$-term in QCD has a profound effect: it breaks the CP symmetry. The
+CP-violating amplitude is shown to be determined by the vacuum tunneling
+process, where the semiclassical method makes most sense. We discuss a
+long-standing dispute on whether the instanton dynamics satisfies or not the
+anomalous Ward identity (AWI). The strong CP violation measure, when complying
+with the vacuum alignment, is proportional to the topological susceptibility.
+We obtain an effective CP-violating lagrangian different from that provided by
+Baluni. To solve the IR divergence problem of the instanton computation, We
+present a ``classically gauged'' Georgi-Manohar model and derive an effective
+potential which uniquely determines an explicit $U(1)_A$ symmetry breaking
+sector. The CP violation effects are analyzed in this model. It is shown that
+the strong CP problem and the $U(1)$ problem are closely related. Some possible
+solutions to both problems are also discussed with new insights.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 19:24:04 GMT""}]","2010-11-01"
+"hep-ph/9209236",,"P. Gondolo, G. Gelmini and S. Sarkar","Cosmic Neutrinos from Unstable Relic Particles","21pp, 11 figures available on request, PHYZZX, UCLA/91/TEP/31
+  (revised)","Nucl.Phys.B392:111-136,1993","10.1016/0550-3213(93)90199-Y",,"hep-ph",,"  We derive constraints on the relic abundance of a generic particle of mass
+$\sim~1-10^{14}$ TeV which decays into neutrinos at cosmological epochs, using
+data from the Fr\'ejus and IMB nucleon decay detectors and the Fly's Eye air
+shower array. The lifetime of such unstable particles which may constitute the
+dark matter today is bounded to be greater than $\sim~10^{14}-10^{18}$ yr,
+depending on the mass. For lifetimes shorter than the age of the universe,
+neutrino energy losses due to scattering and the expansion redshift become
+important and set limits to the ability of neutrino observatories to probe the
+early universe.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 14:58:00 GMT""}]","2011-02-16"
+"hep-th/9209046","David Lowe","A. Polyakov","Conformal Turbulence","PUPT-1341, phyzzx, 12 pages",,,,"hep-th",,"  We describe conformal field theories, correlation functions of which satisfy
+equations of the two-dimensional fluid mechanics. Prediction for the energy
+spectrum is given, $E(k) \sim k^{-25/7}$.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 16:36:25 GMT""}]","2007-05-23"
+"hep-th/9209047",,"H.J. de Vega, A. V. Mikhailov and N. Sanchez","Exact String Solutions in 2+1-Dimensional De Sitter Spacetime","11 pages, Phyzzx macropackage used, PAR-LPTHE 92/32. Revised version
+  with a new understanding of the previous results","Theor.Math.Phys. 94 (1993) 166-172; Teor.Mat.Fiz. 94N2 (1993)
+  232-240","10.1007/BF01019328",,"hep-th astro-ph gr-qc",,"  Exact and explicit string solutions in de Sitter spacetime are found. (Here,
+the string equations reduce to a sinh-Gordon model). A new feature without flat
+spacetime analogy appears: starting with a single world-sheet, several (here
+two) strings emerge. One string is stable and the other (unstable) grows as the
+universe grows. Their invariant size and energy either grow as the expansion
+factor or tend to constant. Moreover, strings can expand (contract) for large
+(small) universe radius with a different rate than the universe.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 16:40:00 GMT""},{""version"":""v2"",""created"":""Thu, 2 Sep 1993 14:46:01 GMT""}]","2009-10-22"
+"hep-th/9209048",,"Daniel S. Freed","Locality and Integration in Topological Field Theory","15 pages","in Group Theoretical methods in Physics, Volume 2, eds. M.A. del
+  Olmo, M. Santander and J. M. Guilarte, Ciemat, 1993, 35-54",,,"hep-th",,"  This paper is an expanded version of a talk given at the XIX International
+Colloquium on Group Theoretical Methods in Physics, Salamanca, July, 1992.
+  We discuss the geometry of topological terms in classical actions, which by
+themselves form the actions of topological field theories. We first treat the
+Chern-Simons action directly. Then we explain how the geometry is best
+understood via integration of smooth Deligne cocycles. We conclude with some
+remarks about the corresponding quantum theories in 3 and 4 dimensions.
+  This paper is written using AMSTeX 2.1, which can be obtained via ftp from
+the American Mathematical Society (instructions included).
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 17:54:03 GMT""}]","2007-05-23"
+"hep-th/9209049","Simon Dalley","S.Dalley and I.Klebanov","String Spectrum of 1+1-Dimensional Large N QCD with Adjoint Matter","20 pages (7 figures available from authors as postscipt files),
+  PUPT-1342","Phys. Rev. D 47, 2517 (1993)","10.1103/PhysRevD.47.2517",,"hep-th hep-lat",,"  We propose gauging matrix models of string theory to eliminate unwanted
+non-singlet states. To this end we perform a discretised light-cone
+quantisation of large N gauge theory in 1+1 dimensions, with scalar or
+fermionic matter fields transforming in the adjoint representation of SU(N).
+The entire spectrum consists of bosonic and fermionic closed-string
+excitations, which are free as N tends to infinity. We analyze the general
+features of such bound states as a function of the cut-off and the gauge
+coupling, obtaining good convergence for the case of adjoint fermions. We
+discuss possible extensions of the model and the search for new non-critical
+string theories.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 20:26:09 GMT""}]","2013-11-13"
+"hep-th/9209050",,"Al. R. Kavalov","Extrinsic Geometry Sensitive Bosonic String Theory","4 pages","Theor.Math.Phys.95:568-570,1993; Teor.Mat.Fiz.95:276-279,1993","10.1007/BF01017142",,"hep-th",,"  A modified rigid string theory with infrared behaviour governed by a
+nontrivial fixed point is presented.
+","[{""version"":""v1"",""created"":""Mon, 14 Sep 1992 21:38:40 GMT""}]","2011-04-20"
+"hep-th/9209052",,"M. Gasperini, J. Maharana, G. Veneziano","Boosting Away Singularities from Conformal String Backgrounds","11 pages, CERN-TH.6634/92","Phys.Lett. B296 (1992) 51-57","10.1016/0370-2693(92)90802-B",,"hep-th",,"  Generalizing our previous work, we show how $O(d,d)$ transformations can be
+used to ""boost away"" in new dimensions the physical singularities that occur
+generically in cosmological and/or black-hole string backgrounds. As an
+example, we show how a recent model by Nappi and Witten can be made
+singularity-free via $O(3,3)$ boosts involving a fifth dimension.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 15:54:51 GMT""}]","2009-10-22"
+"hep-th/9209053","Elliott Lieb","Eric Carlen and Elliott Lieb","Optimal Hypercontractivity for Fermi Fields and Related Non-Commutative
+  Integration","18 p., princeton/ecel/7-12-92","Commun.Math.Phys. 155 (1993) 27-46","10.1007/BF02100048",,"hep-th",,"  Optimal hypercontractivity bounds for the fermion oscillator semigroup are
+obtained. These are the fermion analogs of the optimal hypercontractivity
+bounds for the boson oscillator semigroup obtained by Nelson. In the process,
+several results of independent interest in the theory of non-commutative
+integration are established. {}.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 15:34:23 GMT""}]","2009-10-22"
+"math/9209205","Brendle Jory","J\""org Brendle and Haim Judah","Perfect sets of random reals",,,,"Logic E-prints September 15, 1992","math.LO",,"  We discuss the relationship between perfect sets of random reals, dominating
+reals, and the product of two copies of the random algebra B. Recall that B is
+the algebra of Borel sets of 2^omega modulo the null sets. Also given two
+models M subseteq N of ZFC, we say that g in omega^omega cap N is a dominating
+real over M iff forall f in omega^omega cap M there is m in omega such that
+forall n geq m (g(n) > f(n)); and r in 2^omega cap N is random over M iff r
+avoids all Borel null sets coded in M iff r is determined by some filter which
+is B-generic over M.
+  We show that there is a ccc partial order P which adds a perfect set of
+random reals without adding a dominating real, thus answering a question asked
+by the second author in joint work with T. Bartoszynski and S. Shelah some time
+ago. The method of the proof of this result yields also that B times B does not
+add a dominating real. By a different argument we show that B times B does not
+add a perfect set of random reals (this answers a question that A. Miller asked
+during the logic year at MSRI).
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9209206","Brendle Jory","J\""org Brendle","Amoeba-absoluteness and projective measurability",,,,"Logic E-prints September 15, 1992","math.LO",,"  We study the relationship between Amoeba forcing (the partial order which
+generically adds a measure one set of random reals) and projective
+measurability. Given a universe V of set theory and a forcing notion P in V we
+say that V is Sigma^1_n - P - absolute iff for every Sigma^1_n-sentence phi
+with parameters in V we have V models phi iff V^P models phi.
+  We show that Sigma^1_4-Amoeba-absoluteness implies that forall a in
+omega^omega (omega_1^{L[a]} < omega_1^V), and hence Sigma^1_3-measurability.
+This answers a question of Haim Judah (private communication).
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9209218","Shelah Office","David H. Fremlin, Saharon Shelah","Pointwise compact and stable sets of measurable functions",,"J. Symbolic Logic 58 (1993), 435--455",,"Shelah [FrSh:406]","math.LO math.FA",,"  In a series of papers, M.Talagrand, the second author and others investigated
+at length the properties and structure of pointwise compact sets of measurable
+functions. A number of problems, interesting in themselves and important for
+the theory of Pettis integration, were solved subject to various special
+axioms. It was left unclear just how far the special axioms were necessary. In
+particular, several results depended on the fact that it is consistent to
+suppose that every countable relatively pointwise compact set of Lebesgue
+measurable functions is `stable' in Talagrand's sense; the point being that
+stable sets are known to have a variety of properties not shared by all
+pointwise compact sets. In the present paper we present a model of set theory
+in which there is a countable relatively pointwise compact set of Lebesgue
+measurable functions which is not stable, and discuss the significance of this
+model in relation to the original questions. A feature of our model which may
+be of independent interest is the following: in it, there is a closed
+negligible set Q subseteq [0,1]^2 such that whenever D subseteq [0,1] has outer
+measure 1 then the set Q^{-1}[D]= {x:(exists y in D)((x,y) in Q)} has inner
+measure 1.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 00:00:00 GMT""}]","2016-09-06"

@@ -1,0 +1,77 @@
+"funct-an/9205003","Vladimir Pestov","Vladimir G. Pestov","Nonstandard hulls of Banach-Lie groups and algebras","12 pages",,,,"funct-an math.OA",,"  We propose a new construction of Banach-Lie groups and algebras relying on
+nonstandard analysis. A major standard application is the Local Theorem which
+to certain extent reduces the problem of associating a Lie group to a given
+banach-Lie algebra to a similar problem for finitely generated Lie subalgebras.
+We discuss possible applications, e.g., to gauge theories.
+","[{""version"":""v1"",""created"":""Tue, 19 May 1992 04:26:24 GMT""}]","2008-02-03"
+"hep-lat/9205011","Yue Shen","Karl Jansen and Yue Shen","Tunneling and Energy Splitting in Ising Models","11pp","Nucl.Phys. B393 (1993) 658-669","10.1016/0550-3213(93)90077-3",,"hep-lat",,"  The energy splitting $E_{0a}$ in two and four dimensional Ising models is
+measured in a cylindrical geometry on finite lattices. By comparing to exact
+results in the two dimensional Ising model we demonstrate that $E_{0a}$ can be
+extracted very reliably from Monte Carlo calculations in practice. In four
+dimensions we compare the measured $E_{0a}$ with two different theoretical
+predictions on the finite size behavior of the energy splitting. We find that
+our numerical data are in favor of the predictions based on the semiclassical
+dilute instanton gas approximation.
+","[{""version"":""v1"",""created"":""Mon, 18 May 1992 21:38:11 GMT""}]","2009-10-22"
+"hep-ph/9205224","Juan Garcia-Bellido","Juan Garcia-Bellido","Axions with Variable Masses","9 pages, RevTeX, no figures, preprint IEM-FT-55/92",,,,"hep-ph",,"  Axions with variable masses, in the context of a scalar--tensor gravity
+theory, give a large entropy production during the matter era. The subsequent
+axion dilution is proportional to their present energy density. Depending on
+the parameters ($\beta_I,\beta_V$) of the model, this dilution relaxes or even
+eludes the cosmological bound on the axion mass, therefore opening the
+so--called ``axion window"".
+","[{""version"":""v1"",""created"":""Tue, 19 May 1992 13:01:49 GMT""}]","2007-05-23"
+"hep-th/9205061",,"Jennie Traschen and Robert Ferrel","Quantum-Mechanical Scattering of Charged Black Holes","16 pages","Phys.Rev.D45:2628-2635,1992","10.1103/PhysRevD.45.2628","UMHEP-371/revised","hep-th",,"  We describe the quantum mechanical scattering of slowly moving maximally
+charged black holes. Our technique is to develop a canonical quantization
+procedure on the parameter space of possible static classical solutions. With
+this, we compute the capture cross sections for the scattering of two black
+holes. Finally, we discuss how quantization on this parameter space relates to
+quantization of the degrees of freedom of the gravitational field.
+","[{""version"":""v1"",""created"":""Mon, 18 May 1992 19:46:00 GMT""}]","2011-04-20"
+"hep-th/9205063","Ulf Danielsson","Ulf H. Danielsson","A Study of Two Dimensional String Theory (PhD Thesis)","123 pages. Unix programs ""uudecode"", ""uncompress"" and ""tar"" needed.
+  Instructions included. Uncompressed version available from author",,,,"hep-th",,"  This thesis is a study of two dimensional noncritical string theory. The main
+tool which is used, is the matrix model. Introductions to both the Liouville
+model and its matrix model formulation are included. In particular the special
+states are discussed. Some calculations of partition functions on genus one
+using field theory techniques are given. Nonperturbative issues and string
+theory at finite radius are discussed. Zero momentum correlation functions are
+calculated using the matrix model. One important result is a set of recursion
+relations. The treatment is extended to nonzero momentum. The main result is a
+clear identification of the special states. Some comments on the Wheeler de
+Witt equation is given. The matrix model $W_{\infty}$ algebra is introduced.
+This organizes the previous results. In particular, a simple derivation of the
+genus zero tachyon correlation functions is given. The results are then
+extended to higher genus. It is seen how a deformation of the algebra is
+responsible for much of the higher genus structure. Some very explicit formulae
+are derived. Then the Liouville and matrix model calculations are compared
+followed by some general conclusions.
+","[{""version"":""v1"",""created"":""Mon, 18 May 1992 22:10:43 GMT""}]","2007-05-23"
+"hep-th/9205064","Andre LeClair","D. Bernard and A. LeClair","The Quantum Double in Integrable Quantum Field Theory","43 pages","Nucl.Phys.B399:709-748,1993","10.1016/0550-3213(93)90515-Q","CLNS 92/1147, SPht-92-054","hep-th",,"  Various aspects of recent works on affine quantum group symmetry of
+integrable 2d quantum field theory are reviewed and further clarified. A
+geometrical meaning is given to the quantum double, and other properties of
+quantum groups. Multiplicative presentations of the Yangian double are
+analyzed.
+","[{""version"":""v1"",""created"":""Mon, 18 May 1992 23:36:30 GMT""}]","2008-11-26"
+"hep-th/9205065","Vladimir Dotsenko","Vl.S.Dotsenko","The operator algebra of the discrete state operators in 2D gravity with
+  non-vanishing cosmological constant","17 pages","Mod.Phys.Lett.A7:2505-2518,1992","10.1142/S0217732392003967","CERN-TH.6502/92, PAR-LPTHE 92-17","hep-th",,"  Remarks are given to the structure of physical states in 2D gravity coupled
+to $C\leq 1$ matter. The operator algebra of the discrete state operators is
+calculated for the theory with non-vanishing cosmological constant.
+","[{""version"":""v1"",""created"":""Tue, 19 May 1992 12:19:36 GMT""}]","2011-04-15"
+"hep-th/9205066","Tatsuya Ueno o-4242","H.Y. Lee, A. Nakamichi and T. Ueno","Topological 2-form Gravity in Four Dimensions","15 pages","Phys.Rev. D47 (1993) 1563-1568","10.1103/PhysRevD.47.1563","TIT/HEP-192/COSMO-17","hep-th",,"  A kind of topological field theory is proposed as a candidate to describe the
+global structure of the 2-form Einstein gravity with or without a cosmological
+constant. Indeed in the former case, we show that a quantum state in the
+candidate gives an exact solution of the Wheeler-DeWitt equation. The BRST
+quantization based on the Batalin-Fradkin-Vilkovisky (BFV) formalism is carried
+out for this topological version of the 2-form Einstein gravity.
+","[{""version"":""v1"",""created"":""Tue, 19 May 1992 12:19:55 GMT""}]","2009-10-22"
+"hep-th/9205067","Paul Montague","P.Montague","Discussion of Self-Dual c=24 Conformal Field Theories","19 pages",,,,"hep-th",,"  We discuss questions arising from the recent work of Schellekens, and also
+from an earlier paper by Schellekens and Yankielowicz. We summarise
+Schellekens' results, and proceed to discuss the uniqueness of the c=24
+self-dual conformal field theory with no weight one states, i.e. the Monster
+module $V^\natural$. After introducing the concept of complementary
+representations, we examine $Z_2$-orbifold constructions in general, and then
+proceed to apply our considerations firstly to the specific case of the FKS
+constructions $H(\Lambda)$ and then to the reflection twisted theories
+$\widetilde H(\Lambda)$. Our techniques provide evidence for the existence of
+several new theories beyond those proven to exist in previous work and
+conjectured to exist in Schellekens and Yankielowicz.
+","[{""version"":""v1"",""created"":""Tue, 19 May 1992 13:59:34 GMT""},{""version"":""v2"",""created"":""Mon, 25 May 1992 09:00:49 GMT""}]","2008-02-03"

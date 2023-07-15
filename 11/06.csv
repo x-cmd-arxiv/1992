@@ -1,0 +1,131 @@
+"gr-qc/9211008",,"David Hochberg and Thomas W. Kephart","Gauge Field Back-reaction on a Black Hole","17 pages, three figures available on request, in RevTex","Phys.Rev. D47 (1993) 1465-1470","10.1103/PhysRevD.47.1465","VAND-TH-92-3","gr-qc astro-ph",,"  The order $\hbar$ fluctuations of gauge fields in the vicinity of a blackhole
+can create a repulsive antigravity region extending out beyond the renormalized
+Schwarzschild horizon. If the strength of this repulsive force increases as
+higher orders in the back-reaction are included, the formation of a
+wormhole-like object could occur.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 16:59:25 GMT""}]","2009-10-22"
+"gr-qc/9211009",,"David Hochberg, Thomas Kephart and James W. York","Positivity of Entropy in the Semi-Classical Theory of Black Holes and
+  Radiation","19 pages, RevTex","Phys.Rev.D48:479-484,1993","10.1103/PhysRevD.48.479","VAND-TH-92-12","gr-qc",,"  Quantum stress-energy tensors of fields renormalized on a Schwarzschild
+background violate the classical energy conditions near the black hole.
+Nevertheless, the associated equilibrium thermodynamical entropy $\Delta S$ by
+which such fields augment the usual black hole entropy is found to be positive.
+More precisely, the derivative of $\Delta S$ with respect to radius, at fixed
+black hole mass, is found to vanish at the horizon for {\it all} regular
+renormalized stress-energy quantum tensors. For the cases of conformal scalar
+fields and U(1) gauge fields, the corresponding second derivative is positive,
+indicating that $\Delta S$ has a local minimum there. Explicit calculation
+shows that indeed $\Delta S$ increases monotonically for increasing radius and
+is positive. (The same conclusions hold for a massless spin 1/2 field, but the
+accuracy of the stress-energy tensor we employ has not been confirmed, in
+contrast to the scalar and vector cases). None of these results would hold if
+the back-reaction of the radiation on the spacetime geometry were ignored;
+consequently, one must regard $\Delta S$ as arising from both the radiation
+fields and their effects on the gravitational field. The back-reaction, no
+matter how ""small"",
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 17:01:15 GMT""},{""version"":""v2"",""created"":""Mon, 22 Mar 1993 19:38:52 GMT""}]","2009-12-30"
+"hep-lat/9211016","Anna Hasenfratz","Anna Hasenfratz","Fermion induced SU$(N)$ Yang-Mills Theory","4 pages; talk at Lattice '92, Amsterdam, requires , espcrc2.sty","Nucl. Phys. Proc. Suppl. 30 (1993) 801","10.1016/0920-5632(93)90329-5",,"hep-lat",,"  We investigate the gauge interaction induced by heavy fermions using both
+dimensional and lattice regularization. We study the condition under which
+heavy fermions induce a continuum gauge theory.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 23:57:46 GMT""}]","2009-10-22"
+"hep-ph/9211214","Jim Pantaleone","J. Pantaleone, A. Halprin, C.N. Leung","Neutrino Mixing due to a Violation of the Equivalence Principle","13 pages","Phys.Rev.D47:4199-4202,1993","10.1103/PhysRevD.47.R4199",,"hep-ph",,"  Massless neutrinos will mix if their couplings to gravity are flavor
+dependent, i.e., violate the principle of equivalence. Because the
+gravitational interaction grows with neutrino energy, the solar neutrino
+problem and the recent atmospheric neutrino data may be simultaneously
+explained by violations at the level of 1E-14 to 1E-17 or smaller. This
+possibility is severely constrained by present accelerator neutrino experiments
+and will be preeminently tested in proposed long baseline accelerator neutrino
+experiments.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 21:04:50 GMT""}]","2008-11-26"
+"hep-ph/9211215",,"HoSeong La","""Vortex Solution in a Multi-Higgs System and Its Physical Implication,""","11pages, CTP-TAMU-73/92 ( The reason why $c_2/c_1$ should be used as
+  an independent input parameter is explained in detail. )","Mod. Phys. Lett. A8 (1993) 2649-2656","10.1142/S0217732393003032",,"hep-ph hep-th",,"  Classical vortex solutions in $(1+2)$-dimensional multi-Higgs systems are
+studied. In particular the existence of such a solution requires equal
+characteristic lengths and a specific relation between the ratio of the two
+Higgs vacuum expectation values and the couplings in the Higgs potential, if
+$\lambda_3\neq 0$.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 00:01:55 GMT""},{""version"":""v2"",""created"":""Fri, 5 Feb 1993 21:12:34 GMT""},{""version"":""v3"",""created"":""Thu, 15 Apr 1993 20:05:08 GMT""}]","2009-10-22"
+"hep-ph/9211217","Julius Hrivnac","Maria Smizanska & Julius Hrivnac","A Possible Measurement of CP-Violation in B0-decays by ATLAS on LHC","Talk given at the Hadron Structure '92, Stara Lesna (Slovakia), 4
+  pages + 1 PS picture",,,,"hep-ph",,"  A possibility to measure CP-violation in B0-decays by ATLAS experiment was
+investigated. With one year of running at luminosity 10^33 cm-2s-1 with a muon
+pt-trigger threshold of 20GeV and rapidity coverage eta<2.5 of the tracking
+detector the rate of 1490 events B0->J/psi->mumupipi can be reached.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 13:39:48 GMT""}]","2007-05-23"
+"hep-th/9211028","Jerry Kowalski","J. Kowalski-Glikman","On the Gupta-Bleuler Quantization of the Hamiltonian Systems with
+  Anomalies","50 pages of plain LaTeX","Ann.Phys.232:1-39,1994","10.1006/aphy.1994.1048",,"hep-th",,"  As compared to the previous version, the example of Gupta-Bleuler
+quantization of massive electrodynamics was added, and the derivation of path
+integral for anomalous theories is further elaborated. This is the final
+version to be published in Annals of Physics.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 16:26:45 GMT""},{""version"":""v2"",""created"":""Wed, 8 Sep 1993 13:32:37 GMT""}]","2011-07-19"
+"hep-th/9211029",,"M. Chaichian, J.F. Gomes and P. Kulish","Operator Formulation of q-Deformed Dual String Model","6pages, Latex","Phys.Lett. B311 (1993) 93-97","10.1016/0370-2693(93)90539-T",,"hep-th",,"  We present an operator formulation of the q-deformed dual string model
+amplitude using an infinite set of q-harmonic oscillators. The formalism
+attains the crossing symmetry and factorization and allows to express the
+general n-point function as a factorized product of vertices and propagators.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 18:26:00 GMT""},{""version"":""v2"",""created"":""Sat, 7 Nov 1992 12:17:00 GMT""}]","2009-10-22"
+"hep-th/9211030","Martin Oloughlin","T. Banks, M. O'Loughlin, and A. Strominger","Black Hole Remnants and the Information Puzzle","16 pages, revision has 5 figures uuencoded","Phys.Rev.D47:4476-4482,1993","10.1103/PhysRevD.47.4476","RU-92-40","hep-th",,"  Magnetically charged dilatonic black holes have a perturbatively infinite
+ground state degeneracy associated with an infinite volume throat region of the
+geometry. A simple argument based on causality is given that these states do
+not have a description as ordinary massive particles in a low-energy effective
+field theory. Pair production of magnetic black holes in a weak magnetic field
+is estimated in a weakly-coupled semiclassical expansion about an instanton and
+found to be finite, despite the infinite degeneracy of states. This suggests
+that these states may store the information apparently lost in black hole
+scattering processes.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 23:21:12 GMT""},{""version"":""v2"",""created"":""Fri, 6 Nov 1992 16:08:10 GMT""}]","2009-09-17"
+"hep-th/9211031",,"Toshiki Isse","Unification of Gravity, Gauge and Higgs Fields by Confined Quantum
+  Fields II -Effective Theory-","15 pages","Mod.Phys.Lett. A8 (1993) 947-960","10.1142/S0217732393000970",,"hep-th",,"  Dynamics of quantized free fields ( of spin 0 and 1/2 ) contained in a
+subspace $V_*$ of an N+4 dimensional flat space $V$ is studied. The space $V_*$
+is considered as a neighborhood of a four dimensional submanifold $M$
+arbitrarily embedded into $V$. We show that Einstein SO(N)-Yang-Mills Higgs
+theory is induced as a low energy effective theory of the system. Gravity,
+SO(N) gauge fields and Higgs fields are obtained from embedding functions of
+$M$.
+","[{""version"":""v1"",""created"":""Fri, 6 Nov 1992 06:08:53 GMT""}]","2009-10-22"
+"hep-th/9211032",,"Leonardo Castellani","R matrix and bicovariant calculus for the inhomogeneous quantum groups
+  IGL_q(n)","8 pp., LaTeX, DFTT-59/92","Phys.Lett. B298 (1993) 335-338","10.1016/0370-2693(93)91829-C",,"hep-th",,"  We find the R matrix for the inhomogeneous quantum groups whose homogeneous
+part is $GL_q(n)$, or its restrictions to $SL_q(n)$,$U_q(n)$ and $SU_q(n)$. The
+quantum Yang-Baxter equation for R holds because of the Hecke relation for the
+braiding matrix of the homogeneous subgroup. A bicovariant differential
+calculus on $IGL_q(n)$ is constructed, and its application to the $D=4$
+Poincar\'e group $ISL_q(2,\Cb)$ is discussed.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 19:47:00 GMT""}]","2009-10-22"
+"math/9211208",,"Nigel J. Kalton, Beata Randrianantoanina","Surjective isometries on rearrangement-invariant spaces",,,,"Banach Archive 11/5/92","math.FA",,"  We prove that if $X$ is a real rearrangement-invariant function space on
+$[0,1]$, which is not isometrically isomorphic to $L_2,$ then every surjective
+isometry $T:X\to X$ is of the form $Tf(s)=a(s)f(\sigma(s))$ for a Borel
+function $a$ and an invertible Borel map $\sigma:[0,1] \to [0,1].$ If $X$ is
+not equal to $L_p$, up to renorming, for some $1\le p\le \infty$ then in
+addition $|a|=1$ a.e. and $\sigma$ must be measure-preserving.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 20:02:20 GMT""}]","2009-09-25"
+"math/9211209",,"Alexander Koldobsky","Common subspaces of $L_{p}$-spaces",,,,"Banach Archive 11/5/92","math.FA",,"  For $n\geq 2, p<2$ and $q>2,$ does there exist an $n$-dimensional Banach
+space different from Hilbert spaces which is isometric to subspaces of both
+$L_{p}$ and $L_{q}$? Generalizing the construction from the paper ""Zonoids
+whose polars are zonoids"" by R.Schneider we give examples of such spaces.
+Moreover, for any compact subset $Q$ of $(0,\infty)\setminus \{2k, k\in N\},$
+we can construct a space isometric to subspaces of $L_{q}$ for all $q\in Q$
+simultaneously.
+  This paper requires vanilla.sty
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 20:02:20 GMT""}]","2009-09-25"
+"nucl-th/9211004",,"S.J. Pollock, E. N. Fortson and L. Wilets","Atomic Parity Nonconservation: Electroweak Parameters and Nuclear
+  Structure","44 pages, INT Preprint DOE/ER/40561-050-INT92-00-14","Phys.Rev.C46:2587-2600,1992","10.1103/PhysRevC.46.2587",,"nucl-th",,"  There have been suggestions to measure atomic parity nonconservation (PNC)
+along an isotopic chain, by taking ratios of observables in order to cancel
+complicated atomic structure effects. Precise atomic PNC measurements could
+make a significant contribution to tests of the Standard Model at the level of
+one loop radiative corrections. However, the results also depend upon certain
+features of nuclear structure, such as the spatial distribution of neutrons in
+the nucleus. To examine the sensitivity to nuclear structure, we consider the
+case of Pb isotopes using various recent relativistic and non-relativistic
+nuclear model calculations. Contributions from nucleon internal weak structure
+are included, but found to be fairly negligible. The spread among present
+models in predicted sizes of nuclear structure effects may preclude using Pb
+isotope ratios to test the Standard Model at better than a one percent level,
+unless there are adequate independent tests of the nuclear models by various
+alternative strong and electroweak nuclear probes. On the other hand,
+sufficiently accurate atomic PNC experiments would provide a unique method to
+measure neutron distributions in heavy nuclei.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 23:07:07 GMT""}]","2008-11-26"
+"nucl-th/9211005",,"G. Rosensteel","Self-consistent anisotropic oscillator with cranked angular and vortex
+  velocities","12 pages, LaTex/RevTex, Phys. Rev. C46","Phys.Rev.C46:1818-1824,1992","10.1103/PhysRevC.46.1818",,"nucl-th",,"  The Kelvin circulation is the kinematical Hermitian observable that measures
+the true character of nuclear rotation. For the anisotropic oscillator, mean
+field solutions with fixed angular momentum and Kelvin circulation are derived
+in analytic form. The cranking Lagrange multipliers corresponding to the two
+constraints are the angular and vortex velocities. Self-consistent solutions
+are reported with a constraint to constant volume.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 23:48:28 GMT""}]","2008-11-26"

@@ -1,0 +1,107 @@
+"cond-mat/9206010","Stuart A. Trugman","D. Coffey and S. A. Trugman","Magnetic Properties of Undoped $C_{60}$","12 pages, 3 figures (included)",,"10.1103/PhysRevLett.69.176",,"cond-mat",,"  The Heisenberg antiferromagnet, which arises from the large $U$ Hubbard
+model, is investigated on the $C_{60}$ molecule and other fullerenes. The
+connectivity of $C_{60}$ leads to an exotic classical ground state with
+nontrivial topology. We argue that there is no phase transition in the Hubbard
+model as a function of $U/t$, and thus the large $U$ solution is relevant for
+the physical case of intermediate coupling. The system undergoes a first order
+metamagnetic phase transition. We also consider the S=1/2 case using
+perturbation theory. Experimental tests are suggested.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 21:29:53 GMT""}]","2009-10-22"
+"cond-mat/9206011","Stuart A. Trugman","D. Coffey and S. A. Trugman","Correlations for the S=1/2 Antiferromagnet on a Truncated Tetrahedron","17 pages, 6 figures. (Figure 1 included, others available on request
+  from the authors.)",,"10.1103/PhysRevB.46.12717",,"cond-mat",,"  The antiferromagnetic Heisenberg Hamiltonian is investigated on a truncated
+tetrahedron, which is a closed 12 site system. We find that the ground state
+has many similarities to that of $C_{60}$. We study 2- and 4-spin correlations
+in the classical ground state of the truncated tetrahedron and calculate the
+same correlations in the exact S=1/2 ground state. We find that the classical
+correlations survive for a range of bond strengths in the Heisenberg
+Hamiltonian and that one can construct a good trial wavefunction based on the
+classical ground state. This suggests that the correlations present in the
+classical ground state of $C_{60}$ also survive in the exact ground state of
+that system, for a range of bond strengths about the physically relevant $J_2
+\approx J_1$. We calculate the momentum-space correlation function $S ( q )$,
+which is measurable by neutron scattering, for both $C_{12}$ and $C_{60}$. We
+also calculate correlations at finite temperature.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 23:08:05 GMT""}]","2009-10-22"
+"hep-ph/9206254","Stephen Naculich","S. G. Naculich and C.-P. Yuan","Can the Electroweak Symmetry-breaking Sector Be Hidden?","10 pages, phyzzx, JHU-TIPAC-920017","Phys.Lett.B293:395-399,1992","10.1016/0370-2693(92)90902-G",,"hep-ph",,"  In a recent paper, Chivukula and Golden claimed that the electroweak
+symmetry--breaking sector could be hidden if there were many inelastic channels
+in the longitudinal $WW$ scattering process. They presented a model in which
+the $W$'s couple to pseudo--Goldstone bosons, which may be difficult to detect
+experimentally. Because of these inelastic channels, the $WW$ interactions do
+not become strong in the TeV region. We demonstrate that, despite the reduced
+$WW$ elastic amplitudes in this model, the total event rate ($\sim 5000$ extra
+longitudinal $W^+W^-$ pairs produced in one standard SSC year) does not
+decrease with an increasing number of inelastic channels, and is roughly the
+same as in a model with a broad high--energy resonance and no inelastic
+channels.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 17:29:00 GMT""}]","2008-11-26"
+"hep-ph/9206255",,"R. Sekhar Chivukula, Mitchell Golden, Dimitrios Kominis, and M. V.
+  Ramana","The Phenomenology of a Hidden Symmetry Breaking Sector","harvmac, 8 pages (4 figures), BUHEP-92-23 new version corrects error
+  in figures","Phys.Lett. B293 (1992) 400-404","10.1016/0370-2693(92)90903-H",,"hep-ph",,"  We calculate the production rate of gauge-boson pairs at the SSC in a model
+with a ``hidden'' electroweak symmetry breaking sector. We show that the signal
+of electroweak symmetry breaking is lower than the background and that we
+cannot necessarily rely on gauge boson pairs as a signal of the dynamics of
+symmetry breaking.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 19:29:38 GMT""},{""version"":""v2"",""created"":""Tue, 21 Jul 1992 23:29:20 GMT""}]","2009-10-22"
+"hep-ph/9206256",,"D. C. Kennedy","Seesaw Neutrino Mass Ratios with Radiative Corrections","8 pp., plain tex, with jnl macros incl, FERMILAB-PUB-92/149-T","Phys.Lett. B309 (1993) 91-94","10.1016/0370-2693(93)91509-L",,"hep-ph",,"  In the canonical up-quark seesaw, the ratios of light neutrino masses are
+more easily predicted than the masses themselves. Under explicitly enumerated
+neccesary but minimal assumptions, these ratios are obtained, including
+radiative corrections. The predictions remain uncertain only by the top quark
+mass and triviality mass limit, and the power law of the seesaw. The tau
+neutrino is specially affected by the non-linear effect of the heavy top quark
+mass. The derived ratios have application to solar, atmospheric, and
+cosmological neutrinos and laboratory neutrino oscillation searches. The seesaw
+with charged lepton masses instead is briefly considered. Submitted to Phys
+Lett B.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 21:30:17 GMT""}]","2009-10-22"
+"hep-ph/9206257",,"Damien Pierce and Aris Papadopoulos","Radiative corrections to the Higgs boson decay rate $\Gamma(H\rightarrow
+  ZZ)$ in the minimal supersymmetric model","22 pages, 9 figures available from authors, UCB-PTH-92/23 and
+  LBL-32498","Phys.Rev.D47:222-231,1993","10.1103/PhysRevD.47.222",,"hep-ph",,"  We consider radiative corrections to the decay rate $\Gamma(H\rightarrow ZZ)$
+of the heavy {\it CP}-even Higgs boson of the minimal supersymmetric model to
+two $Z$ bosons. We perform a one loop Feynman diagram calculation in the
+on-mass-shell renormalization scheme, and include the third generation of
+quarks and squarks. The tree level rate is suppressed by a mixing angle factor
+and decreases as $1/M_H$ for large $M_H$. The corrected rate overcomes this
+suppression and increases with $M_H$ for $M_H > 500$~GeV. The corrections can
+be very large and depend in detail on the top squark masses and $A$-term, as
+well as the supersymmetric Higgs mass parameter $\mu$.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 23:30:27 GMT""}]","2009-08-12"
+"hep-ph/9206258",,"T.G. Rizzo","Probing New Gauge Boson Couplings at Hadron Supercolliders","5 pages, 3 Figures (not included), LaTex, Worldsci.sty macro,
+  ANL-HEP-CP-92-47",,,,"hep-ph",,"  Once it is discovered, the determination of the various couplings of a new
+neutral gauge boson at a hadron supercollider will not be an easy task. We
+review several recent studies that have begun to examine this issue for both
+the SSC and LHC.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 16:20:05 GMT""}]","2007-05-23"
+"hep-th/9206101",,"E. Bergshoeff and E. Sezgin","Self-Dual Supergravity Theories in 2+2 Dimensions","11 pages (TEX), UG-4/92 and CTP TAMU-46/92","Phys.Lett. B292 (1992) 87-92","10.1016/0370-2693(92)90612-8",,"hep-th",,"  Starting from the new minimal multiplet of supergravity in $2+2$ dimensions,
+we construct two types of self-dual supergravity theories. One of them involves
+a self-duality condition on the Riemann curvature and implies the equations of
+motion following from the Hilbert-Einstein type supergravity action. The other
+one involves a self-duality condition on a {\it torsionful} Riemann curvature
+with the torsion given by the field-strength of an antisymmetric tensor field,
+and implies the equations of motion that follow from an $R^2$-type action.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 18:19:00 GMT""}]","2009-10-22"
+"hep-th/9206102","Vipul Periwal","Vipul Periwal","Non-analyticity in the large N renormalization group","6 pages, iassns-hep-92-47","Phys.Lett. B294 (1992) 49-52","10.1016/0370-2693(92)91638-P",,"hep-th",,"  The flow of the action induced by changing $N$ is computed in large $N$
+matrix models. It is shown that the change in the action is non-analytic. This
+non-analyticity appears at the origin of the space of matrices if the action is
+even.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 18:58:19 GMT""}]","2009-10-22"
+"hep-th/9206103","Steve Carlip","Steven Carlip","The Sum over Topologies in Three-Dimensional Euclidean Quantum Gravity","12 pages (LaTeX), UCD-92-16","Class.Quant.Grav.10:207-218,1993","10.1088/0264-9381/10/2/004",,"hep-th",,"  In Hawking's Euclidean path integral approach to quantum gravity, the
+partition function is computed by summing contributions from all possible
+topologies. The behavior such a sum can be estimated in three spacetime
+dimensions in the limit of small cosmological constant. The sum over topologies
+diverges for either sign of $\Lambda$, but for dramatically different reasons:
+for $\Lambda>0$, the divergent behavior comes from the contributions of very
+low volume, topologically complex manifolds, while for $\Lambda<0$ it is a
+consequence of the existence of infinite sequences of relatively high volume
+manifolds with converging geometries. Possible implications for
+four-dimensional quantum gravity are discussed.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 22:12:04 GMT""}]","2010-04-28"
+"hep-th/9206105","Stephen P. Braham","Stephen P. Braham","Generalized embedding variables for geometrodynamics and spacetime
+  diffeomorphisms: Ultralocal coordinate conditions","16 pages","J.Math.Phys. 34 (1993) 115-129","10.1063/1.530393","UBCTP-92-016","hep-th gr-qc",,"  We investigate the embedding variable approach to geometrodynamics advocated
+in work by Isham, Kucha\v{r} and Unruh for a general class of coordinate
+conditions that mirror the Isham-Kucha\v{r} Gaussian condition but allow for
+arbitrary algebraic complexity. We find that the same essential structure
+present in the ultralocal Gaussian condition is repeated in the general case.
+The resultant embedding--extended phase space contains a full representation of
+the Lie algebra of the spacetime diffeomorphism group as well as a consistent
+pure gravity sector.
+","[{""version"":""v1"",""created"":""Fri, 26 Jun 1992 23:38:54 GMT""}]","2009-10-22"

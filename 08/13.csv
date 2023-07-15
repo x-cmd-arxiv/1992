@@ -1,0 +1,160 @@
+"cond-mat/9208008",,"G. De Lorenzi and F. Ercolessi","Multiple jumps and vacancy diffusion in a face-centered cubic metal","16 pages","Europhys.Lett.20:349-356,1992","10.1209/0295-5075/20/4/011",,"cond-mat",,"  The diffusion of monovacancies in gold has been studied by computer
+simulation. Multiple jumps have been found to play a central role in the atomic
+dynamics at high temperature, and have been shown to be responsible for an
+upward curvature in the Arrhenius plot of the diffusion coefficient.
+Appropriate saddle points on the potential energy surface have been found,
+supporting the interpretation of vacancy multiple jumps as distinct migration
+mechanisms.
+","[{""version"":""v1"",""created"":""Wed, 12 Aug 1992 22:39:13 GMT""}]","2010-12-17"
+"cond-mat/9208009","Jainendra Jain","G. Dev and J.K. Jain","Band Structure of the Fractional Quantum Hall Effect","10 pages",,"10.1103/PhysRevLett.69.2843",,"cond-mat",,"  The eigenstates of interacting electrons in the fractional quantum Hall phase
+typically form fairly well defined bands in the energy space. We show that the
+composite fermion theory gives insight into the origin of these bands and
+provides an accurate and complete microscopic description of the strongly
+correlated many-body states in the low-energy bands. Thus, somewhat like in
+Landau's fermi liquid theory, there is a one-to-one correspondence between the
+low energy Hilbert space of strongly interacting electrons in the fractinal
+quantum Hall regime and that of weakly interacting electrons in the integer
+quantum Hall regime.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 13:31:12 GMT""}]","2009-10-22"
+"gr-qc/9208004","Robert Mann","R.B. Mann and S.F. Ross","The $D\to 2$ Limit of General Relativity","8 pgs","Class.Quant.Grav.10:1405-1408,1993","10.1088/0264-9381/10/7/015","WATPHYS TH 92/07","gr-qc hep-th",,"  A method for taking the $D\to 2$ limit of D-dimensional general relativity is
+constructed, yielding a two-dimensional theory which couples gravitation to
+conserved stress-energy. We show how this theory is related to those obtained
+via an alternative dimensional reduction approach.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 03:17:21 GMT""}]","2010-04-30"
+"gr-qc/9208005","Salman Habib","Salman Habib and Henry E. Kandrup","Nonlinear Noise in Cosmology","26 pages","Phys.Rev. D46 (1992) 5303-5314","10.1103/PhysRevD.46.5303","LA-UR-92-2337","gr-qc",,"  This paper derives and analyzes exact, nonlocal Langevin equations
+appropriate in a cosmological setting to describe the interaction of some
+collective degree of freedom with a surrounding ``environment.'' Formally,
+these equations are much more general, involving as they do a more or less
+arbitrary ``system,'' characterized by some time-dependent potential, which is
+coupled via a nonlinear, time-dependent interaction to a ``bath'' of
+oscillators with time-dependent frequencies. The analysis reveals that, even in
+a Markov limit, which can often be justified, the time dependences and
+nonlinearities can induce new and potentially significant effects, such as
+systematic and stochastic mass renormalizations and state-dependent ``memory''
+functions, aside from the standard ``friction'' of a heuristic Langevin
+description. One specific example is discussed in detail, namely the case of an
+inflaton field, characterized by a Landau-Ginsburg potential, that is coupled
+quadratically to a bath of scalar ``radiation.'' The principal conclusion
+derived from this example is that nonlinearities and time-dependent couplings
+do {\em not} preclude the possibility of deriving a fluctuation-dissipation
+theorem, and do {\em not} change the form of the late-time steady state
+solution for the system, but {\em can} significantly shorten the time scale for
+the approach towards the steady state.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 06:42:19 GMT""}]","2009-10-22"
+"hep-lat/9208008","Alexander Migdal","A.A.Migdal","Phase Transitions in Induced QCD","13 pages, LaTeX, no figures, LPTENS-92/22","Mod.Phys.Lett. A8 (1993) 153-166","10.1142/S0217732393000167",,"hep-lat hep-th",,"  The variety of the phase transitions in Induced QCD are studied. Depending
+upon the parameters in the scalar field potential, there could be infinite
+number of fixed points, with different critical behavior. The integral equation
+for the density of the eigenvalues of the scalar field are generalized to the
+weak coupling phases, with the gap at the origin. We find a wide class of the
+massive solutions of these integral equations in the strong coupling phases,
+and derive an explicit eigenvalue equation for the scalar branch of the mass
+spectrum.
+","[{""version"":""v1"",""created"":""Wed, 12 Aug 1992 16:31:01 GMT""}]","2015-06-25"
+"hep-lat/9208009",,"Jeffrey E. Mandula and Michael C. Ogilvie","A New Technique for Measuring the Strangemess Content of the Proton on
+  the Lattice","8 pages, figures included in the text, all in postscript","Phys.Lett. B312 (1993) 327-332","10.1016/0370-2693(93)91088-5",,"hep-lat hep-ph",,"  A new technique for computing the strangeness content of the proton on the
+lattice is described. It is applied to the calculation of the strange quark
+contribution to the proton's spin, specifically to the evaluation of the proton
+matrix element of the strange quark axial current. Preliminary results are not
+in disagreement with the EMC experiment. NOTE: This paper is available only in
+postscript form.
+","[{""version"":""v1"",""created"":""Wed, 12 Aug 1992 20:42:54 GMT""}]","2009-10-22"
+"hep-lat/9208010",,"M.L. Paciello, C. Parrinello, S. Petrarca, B. Taglienti, A. Vladikas","Gribov Copies and Smeared Correlation Functions in Lattice QCD","12pgs., preprint n. 892, June 24, 1992, Dipartimento di Fisica Univ.
+  of Rome ""La Sapienza""","Phys.Lett. B289 (1992) 405-410","10.1016/0370-2693(92)91240-A",,"hep-lat",,"  We study the influence of Gribov copies in the Coulomb gauge on the smeared
+hadronic correlation functions that are involved in the determination of the B
+meson decay constant. We find that the residual gauge freedom associated to
+Gribov copies induces observable noise effects, though at the level of
+numerical accuracy of our simulation these effects are not relevant to the
+final determination of f_B. Our results indicate that such effects may become
+important on bigger lattices.
+","[{""version"":""v1"",""created"":""Wed, 12 Aug 1992 19:51:28 GMT""}]","2009-10-22"
+"hep-lat/9208011","Radford Neal","R. M. Neal","An Improved Acceptance Procedure for the Hybrid Monte Carlo Algorithm","15 pages, 4 figures (only one of which is present), New version with
+  corrected LaTex, Submitted to J. of Comp. Physics",,,,"hep-lat",,"  The probability of accepting a candidate move in the hybrid Monte Carlo
+algorithm can be increased by considering a transition to be between windows of
+several states at the beginning and end of the trajectory, with a state within
+the selected window being chosen according to the Boltzmann probabilities. The
+detailed balance condition used to justify the algorithm still holds with this
+procedure, provided the start state is randomly positioned within its window.
+The new procedure is shown empirically to significantly improve performance for
+a test system of uncoupled oscillators.
+","[{""version"":""v1"",""created"":""Wed, 12 Aug 1992 21:15:19 GMT""},{""version"":""v2"",""created"":""Thu, 20 Aug 1992 20:32:58 GMT""}]","2008-02-03"
+"hep-ph/9208224",,"Richard Easther and William Moreau","Calculating the Critical Temperature for Coleman-Weinberg GUTs","9 pages","J.Phys. G18 (1992) 1869-1874","10.1088/0954-3899/18/12/002",,"hep-ph",,"  We study the finite temperature effective potential of the Higgs scalar in
+GUTs with Coleman-Weinberg symmetry breaking. The critical temperature is
+derived without employing a high temperature approximation to the effective
+potential, and the limitations of such approximations are discussed.
+","[{""version"":""v1"",""created"":""Wed, 12 Aug 1992 16:50:17 GMT""}]","2009-10-22"
+"hep-th/9208033","Peter Freund","Peter G. O. Freund, Anton V. Zabrodin","A Hierarchical Array of Integrable Models","18 pages, EFI-92-29","J.Math.Phys. 34 (1993) 5832-5842","10.1063/1.530285",,"hep-th",,"  Motivated by Harish-Chandra theory, we construct, starting from a simple
+CDD\--pole $S$\--matrix, a hierarchy of new $S$\--matrices involving ever
+``higher'' (in the sense of Barnes) gamma functions.These new $S$\--matrices
+correspond to scattering of excitations in ever more complex integrable
+models.From each of these models, new ones are obtained either by
+``$q$\--deformation'', or by considering the Selberg-type Euler products of
+which they represent the ``infinite place''. A hierarchic array of integrable
+models is thus obtained. A remarkable diagonal link in this array is
+established.Though many entries in this array correspond to familiar integrable
+models, the array also leads to new models. In setting up this array we were
+led to new results on the $q$\--gamma function and on the $q$\--deformed
+Bloch\--Wigner function.
+","[{""version"":""v1"",""created"":""Wed, 12 Aug 1992 18:28:57 GMT""}]","2009-10-22"
+"hep-th/9208034",,"R. Brooks, D. Cangemi and M. Crescimanno","Einstein Gravity in 2+1 Dimensions from a Gauge Model with Symmetry
+  Breaking","10 pages, MIT preprint CTP#2129",,,,"hep-th gr-qc",,"  Einstein Gravity in 2+1 dimensions arises as a consequence of the equations
+of motion of a gauge model in an external metric. Newton's constant appears as
+an order parameter of a spontaneously broken discrete symmetry. Matter is
+coupled in a straightforward way.
+","[{""version"":""v1"",""created"":""Wed, 12 Aug 1992 19:36:20 GMT""}]","2007-05-23"
+"hep-th/9208035","Nathan Berkovits","Nathan Berkovits","Calculation of Green-Schwarz Superstring Amplitudes Using the N=2
+  Twistor-String Formalism","46 pages plain Tex, ITP-SB-92-42","Nucl.Phys. B395 (1993) 77-118","10.1016/0550-3213(93)90209-8",,"hep-th",,"  The manifestly SU(4)xU(1) super-Poincare invariant free-field N=2 twistor-
+string action for the ten-dimensional Green-Schwarz superstring is quantized
+using standard BRST methods. Unlike the light-cone and semi-light-cone
+gauge-fixed Green-Schwarz actions, the twistor-string action does not require
+interaction-point operators at the zeroes of the light-cone momentum, $\dz
+x^+$, which complicated all previous calculations. After defining the vertex
+operator for the massless physical supermultiplet, as well as two
+picture-changing operators and an instanton-number-changing operator,
+scattering amplitudes for an arbitrary number of loops and external massless
+states are explicitly calculated by evaluating free-field correlation functions
+of these operators on N=2 super-Riemann surfaces of the appropriate topology,
+and integrating over the global moduli. Although there is no sum over spin
+structures, only discrete values of the global U(1) moduli contribute to the
+amplitudes. Because the spacetime supersymmetry generators do not contain ghost
+fields, the amplitudes are manifestly spacetime supersymmetric, there is no
+multiloop ambiguity, and the non-renormalization theorem is easily proven. By
+choosing the picture-changing operators to be located at the zeroes of $\dz
+x^+$, these amplitudes are shown to agree with amplitudes obtained using the
+manifestly unitary light-cone gauge formalism.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 01:43:45 GMT""}]","2009-10-22"
+"hep-th/9208036","Robert Mann","S.F. Ross and R.B. Mann","Gravitationally Collapsing Dust in $(2+1)$ Dimensions","12 pgs. WATPHYS TH 92/07","Phys.Rev. D47 (1993) 3319-3322","10.1103/PhysRevD.47.3319",,"hep-th gr-qc",,"  We investigate the circumstances under which gravitationally collapsing dust
+can form a black hole in three-dimensional spacetime.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 03:17:37 GMT""}]","2009-10-22"
+"math/9208201","Nielsen","Hermann K\""onig and Niels J. Nielsen","Vector-valued L_p convergence of orthogonal series and Lagrange
+  interpolation",,"Forum Math. 6 (1994), 183-207",,"Banach Archive 8/13/92","math.FA",,"  We give necessary and sufficient conditions for interpolation inequalities of
+the type considered by Marcinkiewicz and Zygmund to be true in the case of
+Banach space-valued polynomials and Jacobi weights and nodes. We also study the
+vector-valued expansion problem of $L_p$-functions in terms of Jacobi
+polynomials and consider the question of unconditional convergence. The notion
+of type $p$ with respect to orthonormal systems leads to some characterizations
+of Hilbert spaces. It is also shown that various vector-valued Jacobi means are
+equivalent.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9208202",,"Hermann K\""onig","Vector-valued Lagrange interpolation and mean convergence of Hermite
+  series",,,,"Banach Archive 8/13/92","math.FA",,"  Let X be a Banach space and $1\le p<\infty$. We prove interpolation
+inequalities of Marcinkiewicz-Zygmund type for X-valued polynomials g of degree
+$\le n$ on $R$,
+  \[c_p (\sum\limits_{i=1}^{n+1} \mu_i \| g(t_i)e^{-t_i^2 /2} \|^p)^{1/p} \le
+(\int\limits_{\RR}^{} \|g(t)e^{-t^2 /2} \|^p dt)^{1/p} \le d_p
+(\sum\limits_{i=1}^{n+1} \mu_i \|g(t_i)e^{-t_i^2 /2} \|^p)^{1/p}\;\;,\]
+  where $(t_i)_1^{n+1}$ are the zeros of the Hermite polynomial $H_{n+1}$ and
+$(\mu_i)_1^{n+1}$ are suitable weights. The validity of the right inequality
+requires $1<p<4$ and X being a UMD-space. This implies a mean convergence
+theorem for the Lagrange interpolation polynomials of continuous functions on
+$R$ taken at the zeros of the Hermite polynomials. In the scalar case, this
+improves a result of Nevai $[$N$]$. Moreover, we give vector-valued extensions
+of the mean convergence results of Askey-Wainger $[$AW$]$ in the case of
+Hermite expansions.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9208204","Alfredo Poirier","Alfredo Poirier","Hubbard forests",,,,"Stony Brook IMS 1992/12","math.DS",,"  The theory of Hubbard trees provides an effective classification of
+non-linear post-critically finite polynomial maps from \C to itself. This note
+will extend this classification to the case of maps from a finite union of
+copies of \C to itself. Maps which are post-critically finite and nowhere
+linear will be characterized by a ``forest'', which is made up out of one tree
+in each copy of \C.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 00:00:00 GMT""}]","2009-09-25"

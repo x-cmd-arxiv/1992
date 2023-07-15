@@ -1,0 +1,224 @@
+"hep-lat/9107001","Urs Heller","U.M. Heller, H. Neuberger and P. Vranas","How to Put a Heavier Higgs on the Lattice",,"Phys.Lett. B283 (1992) 335-340","10.1016/0370-2693(92)90028-3",,"hep-lat",,"  Lattice work, exploring the Higgs mass triviality bound, seems to indicate
+that a strongly interacting scalar sector in the minimal standard model cannot
+exist while low energy QCD phenomenology seems to indicate that it could. We
+attack this puzzle using the 1/N expansion and discover a simple criterion for
+selecting a lattice action that is more likely to produce a heavy Higgs
+particle. Our large $N$ calculation suggests that the Higgs mass bound might be
+around $850 GeV$, which is about 30% higher than previously obtained.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9107002","Bernd Berg","Nelsons A. Alves, Bernd Al. Berg and Sergiu Sanielevici","Spectral Density Study of the SU(3) Deconfining Phase Transition",,"Nucl.Phys. B376 (1992) 218-252","10.1016/0550-3213(92)90075-M",,"hep-lat",,"  We present spectral density reweighting techniques adapted to the analysis of
+a time series of data with a continuous range of allowed values. In a first
+application we analyze action and Polyakov line data from a Monte Carlo
+simulation on $L_t L^3 (L_t=2,4)$ lattices for the SU(3) deconfining phase
+transition. We calculate partition function zeros, as well as maxima of the
+specific heat and of the order parameter susceptibility. Details and warnings
+are given concerning i) autocorrelations in computer time and ii) a reliable
+extraction of partition function zeros. The finite size scaling analysis of
+these data leads to precise results for the critical couplings $\beta_c$, for
+the critical exponent $\nu$ and for the latent heat $\triangle s$. In both
+cases ($L_t=2$ and 4), the first order nature of the transition is
+substantiated.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9112001","Hans Evertz","Hans Gerd Evertz","Vectorized Cluster Search",,"Nucl.Phys.Proc.Suppl. 26 (1992) 620-622","10.1016/0920-5632(92)90351-R",,"hep-lat",,"  Contrary to conventional wisdom, the construction of clusters on a lattice
+can easily be vectorized, namely over each ``generation'' in a breadth first
+search. This applies directly to, e.g., the {\it single cluster} variant of the
+Swendsen-Wang algorithm. On a Cray Y-MP, total CPU time was reduced by a factor
+3.5 -- 7 in actual applications.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2007-05-23"
+"hep-lat/9112002","Robert Edwards","Robert G. Edwards, Sabino Jos\'e Ferreira, Jonathan Goodman, Alan D.
+  Sokal","Multi-Grid Monte Carlo III. Two-Dimensional O(4)-Symmetric Nonlinear
+  $\sigma$-Model",,"Nucl.Phys. B380 (1992) 621-664","10.1016/0550-3213(92)90262-A",,"hep-lat",,"  We study the dynamic critical behavior of the multi-grid Monte Carlo (MGMC)
+algorithm with piecewise-constant interpolation applied to the two-dimensional
+O(4)-symmetric nonlinear $\sigma$-model [= SU(2) principal chiral model], on
+lattices up to $256 \times 256$. We find a dynamic critical exponent
+$z_{int,{\cal M}^2} = 0.60 \pm 0.07$ for the W-cycle and $z_{int,{\cal M}^2} =
+1.13 \pm 0.11$ for the V-cycle, compared to $z_{int,{\cal M}^2} = 2.0 \pm 0.15$
+for the single-site heat-bath algorithm (subjective 68% confidence intervals).
+Thus, for this asymptotically free model, critical slowing-down is greatly
+reduced compared to local algorithms, but not completely eliminated. For a $256
+\times 256$ lattice, W-cycle MGMC is about 35 times as efficient as a
+single-site heat-bath algorithm.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9201001","Jonas Berlin","Jonas Berlin","Monte Carlo Simulations of Higgs-Fermion Systems",,,,,"hep-lat",,"  To gain understanding of the Higgs-fermion sector of the standard model, we
+study the one-component $Z_2$ symmetric and the four-component O(4) symmetric
+scalar models coupled to staggered fermions using the hybrid Monte Carlo
+algorithm. We map out the phase diagrams, and show that the $Z_2$ model has a
+tree level perturbative behaviour at all points in the broken phase. The O(4)
+model on the other hand is shown to have two characteristically different
+behaviours; one for large Yukawa couplings where the fermions get infinitely
+heavy and decouple in the continuum limit, and one for small Yukawa couplings
+where the fermions remain light. For very small Yukawa couplings the fermions
+show the expected tree level perturbative behaviour and for larger values the
+influence of the fermions becomes substantial. After estimating the finite size
+effects at small Yukawa couplings we make relatively accurate measurements of
+the scalar mass and wave function renormalization constants at the point
+$\kappa=0.0$ and $y=0.85-0.95$. Even though this is not the largest value
+possible for the Yukawa coupling we are able to show that the bound of the
+Higgs mass will move up significantly, from around $600 GeV$ to around $900
+GeV$, by including fermions in the model. Likewise we show that a bound can be
+put on the fermion mass, around $200 GeV$. The largest value of the bare Yukawa
+coupling is obtained at rather large negative $\kappa$. Due to bad convergence
+rates in the inversion of the fermion matrix, which is needed in the updating
+procedure, this region has not been possible to investigate.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2007-05-23"
+"hep-lat/9201002","Urs Heller","R.V. Gavai, U.M. Heller, F. Karsch, B. Plache, and T. Neuhaus","A Study of Symmetry Restoration at Finite Temperature in the O(4) Model
+  Using Anisotropic Lattices",,"Nucl.Phys.Proc.Suppl. 26 (1992) 539-541","10.1016/0920-5632(92)90327-O",,"hep-lat",,"  Results of investigations of the O(4) spin model at finite temperature using
+anisotropic lattices are presented. In both the large $N$ approximation and the
+numerical simulations using the Wolff cluster algorithm we find that the ratio
+of the symmetry restoration temperature $T_{\rm SR}$ to the Higgs mass $m_{\rm
+H}$ is independent of the anisotropy. We obtain a lower bound of $0.59 \pm
+0.04$ for the ratio, $T_{\rm SR}/m_{\rm H}$, at $m_{\rm H}a \simeq 0.5$, which
+is lowered further by about 10% at $m_{\rm H}a \simeq 1.$
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9201003","Robert Edwards","S. Caracciolo, R.G. Edwards, A. Pelissetto, and A.D. Sokal","Dynamic Critical Behaviour of Wolff's Algorithm for $RP^N$
+  $\sigma$-Models",,"Nucl.Phys.Proc.Suppl.26B:595-597,1992","10.1016/0920-5632(92)90344-R",,"hep-lat",,"  We study the performance of a Wolff-type embedding algorithm for $RP^N$
+$\sigma$-models. We find that the algorithm in which we update the embedded
+Ising model \`a la Swendsen-Wang has critical slowing-down as $z_\chi \approx
+1$. If instead we update the Ising spins with a perfect algorithm which at
+every iteration produces a new independent configuration, we obtain $z_\chi
+\approx 0$. This shows that the Ising embedding encodes well the collective
+modes of the system, and that the behaviour of the first algorithm is connected
+to the poor performance of the Swendsen-Wang algorithm in dealing with a
+frustrated Ising model.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2011-08-05"
+"hep-lat/9201004","Urs Heller","U.M. Heller, M. Klomfass, H. Neuberger, and P. Vranas","How to Put a Heavier Higgs on the Lattice",,"Nucl.Phys.Proc.Suppl. 26 (1992) 522-524","10.1016/0920-5632(92)90322-J",,"hep-lat",,"  The cutoff dependence of the Scalar Sector of the Minimal Standard Model can
+result in an increase of the existing triviality bound estimates of the Higgs
+mass. We present a large $N$ calculation and some preliminary N=4 results that
+suggest that the increase can be as large as 30%, resulting to a bound of about
+850 G eV.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9201005","Khalil Bitar","K.M. Bitar, R. Edwards, T.A. DeGrand, Steven Gottlieb, U.M. Heller,
+  A.D. Kennedy, J.B. Kogut, A. Krasnitz, W. Liu, M.C. Ogilvie, R.L. Renken,
+  D.K. Sinclair, R.L. Sugar, D. Toussaint, and K.C. Wang","QCD Hadron Spectroscopy with Staggered Dynamical Quarks at $\beta = 5.6$",,"Nucl.Phys.Proc.Suppl. 26 (1992) 259-261","10.1016/0920-5632(92)90246-O",,"hep-lat",,"  We present preliminary results from the 1991 HEMCGC simulations with
+staggered dynamical fermions on a $16^3 \times 32$ lattice at $\beta = 5.6$
+with sea quark masses $am_q = 0.025$ and 0.01. The spectroscopy was done both
+for staggered valence quarks with mass equal to the sea quark masses and for
+Wilson valence quarks at six different values for $\kappa$, 0.1320, 0.1410,
+0.1525, 0.1565, 0.1585, and 0.1600. In addition to the measurements performed
+in our earlier work, we also measured the $\Delta$ and other `extended' hadrons
+for staggered valence quarks and pseudo-scalar decay constants and vector meson
+matrix elements, the wave function at the origin, for Wilson valence quarks.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9201006","Khalil Bitar","Khalil M. Bitar","Path Integrals and Voronin's Theorem on the Universality of the Riemann
+  Zeta Function",,"Nucl. Phys. Proc. Suppl. 26 (1992) 656","10.1016/0920-5632(92)90361-U",,"hep-lat",,"  We explore a new approach to the path integral for a latticized quantum
+theory. This talk is based on work with N. Khuri and H. Ren.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9201007","Robert Edwards","A.D. Kennedy and R.G. Edwards","On the Dynamics of Light Wilson Quarks",,,,,"hep-lat",,"  We describe recent results obtained as part of the High Energy Monte Carlo
+Grand Challenge (HEMCGC) project concerning the behaviour of lattice QCD with
+light dynamical Wilson quarks. We show that it is possible to reach regions of
+parameter space with light pions $m_\pi\ll0.2/a$, but that the equilibration
+time for such a system is at least of the order of 1,000 unit-length Hybrid
+Monte Carlo (HMC) trajectories (about a Gigaflop/sec-year). If the Hybrid
+Molecular Dynamics (HMD) algorithm is used with the same parameters it gives
+incorrect results.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2007-05-23"
+"hep-lat/9202001","Bernd Berg","Wolfhard Janke, Bernd A. Berg, and Mohammad Katoot","Monte Carlo Calculation of the Surface Free Energy for the 2d 7-state
+  Potts Model, and an Estimate for 4d SU(3) Gauge Theory",,"Nucl.Phys. B382 (1992) 649-661","10.1016/0550-3213(92)90663-V",,"hep-lat",,"  Using the recently proposed multicanonical ensemble, we perform Monte Carlo
+simulation for the 2d 7-state Potts model and calculate its surface free energy
+density (surface tension) to be $2 f^s = 0.0241 \pm 0.0010$. This is an order
+of magnitude smaller than other estimates in the recent literature. Relying on
+existing Monte Carlo data, we also give a preliminary estimate for the surface
+tension of 4d SU(3) lattice gauge theory with $L_t=2$.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9202002","Pavlos Vranas","Joe Kiskis, Rajamani Narayanan and Pavlos Vranas","Random Walks and the Correlation Length Critical Exponent in Scalar
+  Quantum Field Theory",,,,,"hep-lat",,"  The distance scale for a quantum field theory is the correlation length
+$\xi$, which diverges with exponent $\nu$ as the bare mass approaches a
+critical value. If $t=m^{2}-m_{c}^{2}$, then $\xi=m_{P}^{-1} \sim t^{-\nu}$ as
+$t \to 0$. The two-point function of a scalar field has a random walk
+representation. The walk takes place in a background of fluctuations (closed
+walks) of the field itself. We describe the connection between properties of
+the walk and of the two-point function. Using the known behavior of the two
+point function, we deduce that the dimension of the walk is $d_{w}=\phi / \nu$
+and that there is a singular relation between $t$ and the energy per unit
+length of the walk $\theta \sim t^{\phi}$ that is due to the singular behavior
+of the background at $t=0$. ($\phi$ is a computable crossover exponent.)
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2007-05-23"
+"hep-lat/9202003","Urs Heller","S. Gottlieb, U.M. Heller, A.D. Kennedy, J.B. Kogut, A. Krasnitz, W.
+  Liu, R.L. Renken, D.K. Sinclair, R.L. Sugar, D. Toussaint and K.C. Wang","Thermodynamics of Lattice QCD with 2 Light Dynamical (Staggered) Quark
+  Flavours on a $16^3\times 8$ Lattice",,"Nucl.Phys.Proc.Suppl. 26 (1992) 308-310","10.1016/0920-5632(92)90261-P",,"hep-lat",,"  Lattice QCD with 2 light staggered quark flavours is being simulated on a
+$16^3\times8$ lattice to study the transition from hadronic matter to a quark
+gluon plasma. We have completed runs at $m_q=0.0125$ and are extending this to
+$m_q=0.00625$. We also examine the addition of a non-dynamical ""strange"" quark.
+Thermodynamic order parameters are being measured across the transition and
+further into the plasma phase, as are various screening lengths. No evidence
+for a first order transition is seen, and we estimate the transition
+temperature to be $TY_c=143(7) MeV$.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9202004","Bernd Berg","B.A. Berg and T. Neuhaus","Multicanonical Ensemble: A New Approach to Simulate First-order Phase
+  Transitions",,"Phys.Rev.Lett. 68 (1992) 9-12","10.1103/PhysRevLett.68.9",,"hep-lat",,"  Relying on the recently proposed multicanonical algorithm, we present a
+numerical simulation of the first order phase transition in the 2d 10-state
+Potts model on lattices up to sizes $100\times100$. It is demonstrated that the
+new algorithm $lacks$ an exponentially fast increase of the tunneling time
+between metastable states as a function of the linear size $L$ of the system.
+Instead, the tunneling time diverges approximately proportional to $L^{2.65}$.
+Thus the computational effort as counted per degree of freedom for generating
+an independent configuration in the unstable region of the model rises
+proportional to $V^{2.3}$, where $V$ is the volume of the system. On our
+largest lattice we gain more than two orders of magnitude as compared to a
+standard heat bath algorithm. As a first physical application we report a high
+precision computation of the interfacial tension.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9203001","Khalil Bitar","Khalil M. Bitar and Pavlos M. Vranas","Is there a $\rho$ in the O(4) $\lambda \phi^4_4$ theory?",,"Phys.Lett. B284 (1992) 366-370","10.1016/0370-2693(92)90446-B",,"hep-lat hep-ph",,"  A Monte Carlo simulation of the O(4) $\lambda \phi^4$ theory in the broken
+phase is performed on a hypercubic lattice in search of an I=1, J=1 resonance.
+The region of the cutoff theory where the interaction is strong is investigated
+since it is there that a resonance would be expected to have a better chance to
+form. In that region the presence of an I=1, J=1 resonance with mass below the
+cutoff is excluded.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-10-22"
+"hep-lat/9203002","Bernd Berg","U. Hansmann, B.A. Berg and T. Neuhaus","Multimagnetical Simulations",,,,,"hep-lat",,"  We modified the recently proposed multicanonical MC algorithm for the case of
+a magnetic field driven order--order phase transition. We test this {\it
+multimagnetic} Monte Carlo algorithm for the D=2 Ising model at $\beta=0.5$ and
+simulate square lattices up to size $100 \times 100$. On these lattices with
+periodic boundary conditions it is possible to enhance the appearance of
+order-order interfaces during the simulation by many orders of magnitude as
+compared to the standard Monte Carlo simulation.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2007-05-23"
+"hep-lat/9204001","Bernd Berg","Bernd A. Berg and Tarik Celik","A New Approach to Spin Glass Simulations",,"Phys.Rev.Lett.69:2292-2295,1992","10.1103/PhysRevLett.69.2292",,"hep-lat",,"  We present a recursive procedure to calculate the parameters of the recently
+introduced multicanonical ensemble and explore the approach for spin glasses.
+Temperature dependence of the energy, the entropy and other physical quantities
+are easily calculable and we report results for the zero temperature limit. Our
+data provide evidence that the large $L$ increase of the ergodicity time is
+greatly improved. The multicanonical ensemble seems to open new horizons for
+simulations of spin glasses and other systems which have to cope with
+conflicting constraints.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 22:58:34 GMT""}]","2009-01-23"
+"hep-ph/9204215",,"Gian F. Giudice","A new ansatz for quark and lepton mass matrices","10 pages","Mod.Phys.Lett.A7:2429-2436,1992","10.1142/S0217732392003876",,"hep-ph",,"  A new ansatz for quark and lepton mass matrices is proposed in the context of
+supersymmetric grand unified theories. The 13 parameters describing fermion
+masses and mixings are determined in terms of only 6 free parameters, allowing
+7 testable predictions. The values of $V_{us}$, $V_{cb}$, $V_{ub}$, $m_u$,
+$m_d$, $m_s$, and $m_b$ are then predicted as a function of the 3 charged
+lepton masses, $m_c$, $m_t$, and $\tan \beta$, the ratio of Higgs vacuum
+expectation values. In particular the Cabibbo angle and $m_s/m_d$ are
+determined in terms of only lepton masses. All predictions are in very good
+agreement with experiments.
+","[{""version"":""v1"",""created"":""Wed, 8 Apr 1992 17:25:05 GMT""}]","2010-11-01"
+"hep-th/9204021","Claudio Coriano","Claudio Coriano'","Electrodynamics in the presence of an axion","13 pages","Mod. Phys. Lett. A7 (1992) 1253-1262","10.1142/S0217732392003736",,"hep-th",,"  The low energy limit of an axion field coupled to gauge fields is
+investigated through the behaviour of the gauge field propagator in a local
+vaccum angle background. The local (singular) part of the effective action for
+the axion field is calculated at one loop level. In the case of a timelike,
+linearly growing axion field, representing a massive axion, we give an
+asymptotic expansion of the causal propagator and we solve nonlocally for the
+first coefficient. We show that, for a generic axionic background, short
+distance propagation of the gauge fields is well defined.
+","[{""version"":""v1"",""created"":""Thu, 9 Apr 1992 00:18:19 GMT""}]","2015-06-26"
+"hep-th/9204022",,"N. Manojlovic and A. Mikovic","Ashtekar Formulation of 2+1 Gravity on a Torus","15 pages","Nucl.Phys.B385:571-586,1992","10.1016/0550-3213(92)90059-K",,"hep-th",,"  Pure (2+1)-dimensional Einstein gravity is analysed in the Ashtekar
+formulation, when the spatial manifold is a torus. We have found a set of
+globally defined observables, forming a closed algebra. This allowed us to
+solve the quantum constraints, and to show that the reduced phase space of the
+Ashtekar formulation is greater then the corresponding space of the Witten
+formulation. Furthermore, we have found a globally defined time variable which
+satisfies all the requiriments of an extrinsic time variable in quantum
+gravity.
+","[{""version"":""v1"",""created"":""Thu, 9 Apr 1992 15:08:22 GMT""}]","2009-01-16"
+"hep-th/9204087","Daniel H. Gottlieb","Daniel Henry Gottlieb","Vector Fields and the Unity of Mathematics and Physics","22 pages",,,,"hep-th math.GT",,"  We give an argument that magnetic monopoles should not exist. It is based on
+the concept of the index of a vector field. The thrust of the argument is that
+indices of vector fields are invariants of space-time orientation and of
+coordinate changes, and thus physical vector fields should preserve indices.
+The index is defined inductively by means of an equation called the Law of
+Vector Fields. We give extended philosophical arguments that this Law of Vector
+Fields should play an important role in mathematics, and we back up this
+contention by using it in a mechanical way to greatly generalize the
+Gauss--Bonnet theorem and the Brouwer fixed point theorem and get new proofs of
+many other theorems. We also give some other suggestions for using the Law and
+index in physics.
+","[{""version"":""v1"",""created"":""Thu, 9 Apr 1992 15:26:07 GMT""}]","2008-02-03"

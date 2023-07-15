@@ -1,0 +1,94 @@
+"cond-mat/9207010","Ofer Biham","Ofer Biham and Mark Kvale","Unstable Periodic Orbits in the Stadium Billiard","17 pages, 6 Figures",,"10.1103/PhysRevA.46.6334",,"cond-mat",,"  A systematic numerical technique for the calculation of unstable periodic
+orbits in the stadium billiard is presented. All the periodic orbits up to
+order $p=11$ are calculated and then used to calculate the average Lyapunov
+exponent and the topological entropy. Applications to semiclassical
+quantization and to experiments in mesoscopic systems and microwave cavities
+are noted.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 16:15:00 GMT""}]","2009-10-22"
+"cond-mat/9207011","Jorge Vinals","Hao-wen Xi, Jorge Vinals and J.D. Gunton","Numerical study of pattern formation following a convective instability
+  in non-Boussinesq fluids","9 pages, report FSU-SCRI-92-66","Phys. Rev. A 46, R4483 (1992)","10.1103/PhysRevA.46.R4483",,"cond-mat",,"  We present a numerical study of a model of pattern formation following a
+convective instability in a non-Boussinesq fluid. It is shown that many of the
+features observed in convection experiments conducted on $CO_{2}$ gas can be
+reproduced by using a generalized two-dimensional Swift-Hohenberg equation. The
+formation of hexagonal patterns, rolls and spirals is studied, as well as the
+transitions and competition among them. We also study nucleation and growth of
+hexagonal patterns and find that the front velocity in this two dimensional
+model is consistent with the prediction of marginal stability theory for one
+dimensional fronts.
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 14:53:45 GMT""}]","2009-10-22"
+"hep-lat/9207011","Enzo Marinari","Pawel Pliszka and Enzo Marinari","On Heteropolymer Shape Dynamics","12 pages, very simple LaTeX file, 6 figures not included, sorry. SCCS
+  330",,"10.1209/0295-5075/22/3/002",,"hep-lat cond-mat q-bio.QM",,"  We investigate the time evolution of the heteropolymer model introduced by
+Iori, Marinari and Parisi to describe some of the features of protein folding
+mechanisms. We study how the (folded) shape of the chain evolves in time. We
+find that for short times the mean square distance (squared) between chain
+configurations evolves according to a power law, $D \sim t ^\nu$. We discuss
+the influence of the quenched disorder (represented by the randomness of the
+coupling constants in the Lennard-Jones potential) on value of the critical
+exponent. We find that $\nu$ decreases from $\frac{2}{3}$ to $\frac{1}{2}$ when
+the strength of the quenched disorder increases.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 17:13:52 GMT""}]","2009-10-22"
+"hep-ph/9207227",,"M. Pietroni","The Electroweak Phase Transition in a Nonminimal Supersymmetric Model","23 pages, LaTeX, DFPD/92/TH/36","Nucl.Phys. B402 (1993) 27-45","10.1016/0550-3213(93)90635-3",,"hep-ph",,"  We study the electroweak phase transition in a supersymmetric version of the
+Standard Model, in which a gauge singlet superfield is added to the Higgs
+sector. We show that the order of the transition is determined by the trilinear
+soft supersymmetry breaking terms rather than by the $O ( m^{3} T )$ term in
+the 1-loop, $T\neq0$ corrections. This fact removes the Standard Model upper
+bound on the Higgs mass, $ m_{H} < 55 GeV$, coming from the requirement that
+baryon asymmetry is not washed out by anomalous electroweak processes. We
+perform a numerical analysis of parameter space including in the effective
+potential top-stop contribution to 1-loop radiative corrections. We find that
+this model is compatible with the preservation of baryon asymmetry for masses
+of the lightest scalar up to about 170 GeV.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 18:09:00 GMT""}]","2009-10-22"
+"hep-ph/9207228",,"A.C. Mattingly and P.M. Stevenson","QCD Perturbation Theory at Low Energies","11 pages including 3 Postscript Figures using Epsf.tex, LaTex","Phys.Rev.Lett. 69 (1992) 1320-1323","10.1103/PhysRevLett.69.1320","DOE/ER/05096-50","hep-ph",,"  We apply the optimization procedure based on the Principle of Minimal
+Sensitivity to the third-order calculation of $\R$. The effective couplant
+remains finite, freezing to a value $\alpha_s/\pi = 0.26$ at low energies.
+Using Poggio-Quinn-Weinberg smearing we find good agreement between theory and
+experiment right down to zero energy.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 20:55:00 GMT""}]","2009-10-22"
+"hep-ph/9207230","Alexander Kusenko","Alexander Kusenko","Invariants Describing Quark Mixing and Mass Matrices","5 pages (Latex), ITP-SB-92-38",,,,"hep-ph",,"  We introduce two new sets of invariant functions of quark mass matrices,
+which express the constraints on these mass matrices due to knowledge of the
+quark mixing matrix. These invariants provide a very simple method to test
+candidate forms for mass matrices.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 23:14:44 GMT""}]","2007-05-23"
+"hep-ph/9207231",,"P.L.White","Discrete Symmetries from Broken $SU(N)$ and the MSSM","14 pages, plain TEX, computer problems fixed since first version","Nucl.Phys. B403 (1993) 141-158","10.1016/0550-3213(93)90032-K","SHEP-91/92-24","hep-ph",,"  In order that discrete symmetries should not be violated by gravitational
+effects, it is necessary to gauge them. In this paper we discuss the gauging of
+$\Z_N$ from the breaking of a high energy $SU(N)$ gauge symmetry, and derive
+consistency conditions for the resulting discrete symmetry fr om the
+requirement of anomaly cancellation in the parent symmetry. These results are
+then applied to a detailed analysis of the possible discrete symmetries
+forbidding proton decay in the minimal supersymmetric standard model.
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 12:32:47 GMT""}]","2009-10-22"
+"hep-th/9207029","Thomas Larsson","T. A. Larsson","Conformal fields: a class of representations of Vect(N)","16 pages","Int.J.Mod.Phys. A7 (1992) 6493","10.1142/S0217751X92002970",,"hep-th",,"  $Vect(N)$, the algebra of vector fields in $N$ dimensions, is studied. Some
+aspects of local differential geometry are formulated as $Vect(N)$
+representation theory. There is a new class of modules, {\it conformal fields},
+whose restrictions to the subalgebra $sl(N+1) \subset Vect(N)$ are
+finite-dimensional $sl(N+1)$ representations. In this regard they are simpler
+than tensor fields. Fock modules are also constructed. Infinities, which are
+unremovable even by normal ordering, arise unless bosonic and fermionic degrees
+of freedom match.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 20:41:31 GMT""}]","2015-06-26"
+"hep-th/9207030","Thomas Larsson","T. A. Larsson","Vect(N) conformal fields and their exterior derivatives","17 pages",,,,"hep-th",,"  Conformal fields are a recently discovered class of representations of the
+algebra of vector fields in $N$ dimensions. Invariant first-order differential
+operators (exterior derivatives) for conformal fields are constructed.
+","[{""version"":""v1"",""created"":""Thu, 9 Jul 1992 21:05:32 GMT""}]","2007-05-23"
+"hep-th/9207031",,"M.D. Freeman, K. Hornfeck and P. West","Commuting quantities and exceptional W-algebras","27 pages, KCL-TH-92-1","Int.J.Mod.Phys. A8 (1993) 909-928","10.1142/S0217751X93000357",,"hep-th",,"  Sets of commuting charges constructed from the current of a U(1) Kac-Moody
+algebra are found. There exists a set S_n of such charges for each positive
+integer n > 1; the corresponding value of the central charge in the
+Feigin-Fuchs realization of the stress tensor is c = 13-6n-6/n. The charges in
+each series can be written in terms of the generators of an exceptional
+W-algebra.
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 07:28:00 GMT""}]","2015-06-26"
+"hep-th/9207032",,"A.Ch. Ganchev and V.B. Petkova","Reduction of the Knizhnik-Zamolodchikov Equation - a Way of Producing
+  Virasoro Algebra Singular Vectors","12 pages, plain TeX, SISSA-111/92/EP","Phys.Lett. B293 (1992) 56-66","10.1016/0370-2693(92)91480-W",,"hep-th",,"  It is shown that the sl(2,C) KZ equation for (half-) integer isospins
+recovers, up to a gauge transformation, the matrix system for Virasoro algebra
+singular vectors of Bauer et al. In the case of Kac-Kazhdan spins the general
+(infinite matrix) KZ system is truncated due to the decoupling of the A^(1)_1
+singular vectors. This suggests an algorithm converting Malikov-Feigin-Fuks
+singular vectors into Virasoro ones.
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 08:44:10 GMT""}]","2009-10-22"
+"hep-th/9207033",,"S. Massar, R. Parentani, R. Brout","On the Problem of the Uniformly Accelerated Oscillator","14 pages (+postscript figures attached), ULB-TH-03/92",,"10.1088/0264-9381/10/2/020",,"hep-th",,"  The particle detector model consisting of a harmonic oscillator coupled to a
+scalar field in $1+1$ dimensions is investigated in the inertial case. The same
+approach is then used in the accelerating case. The absence of radiation from a
+uniformly accelerated detector in a stationnary state is discussed and
+clarified.
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 14:52:54 GMT""}]","2009-10-22"

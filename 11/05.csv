@@ -1,0 +1,128 @@
+"gr-qc/9211003","Kay-Thomas Pirk","Kay-Thomas Pirk","Hadamard States and Adiabatic Vacua","10pages, LaTeX (RevTeX-preprint style)","Phys.Rev. D48 (1993) 3779-3783","10.1103/PhysRevD.48.3779","UMD preprint 92-239","gr-qc hep-th",,"  Reversing a slight detrimental effect of the mailer related to TeXability
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 20:55:28 GMT""},{""version"":""v2"",""created"":""Thu, 12 Nov 1992 15:43:39 GMT""}]","2009-10-22"
+"gr-qc/9211004",,"Jonathan Halliwell and Miguel Ortiz","Sum-over-histories origin of the composition laws of relativistic
+  quantum mechanics and quantum cosmology","36 pages","Phys.Rev. D48 (1993) 748-768","10.1103/PhysRevD.48.748","CTP# 2134","gr-qc hep-th",,"  The scope of the paper has been broadened to include a more complete
+discussion of the following topics: The derivation of composition laws in
+quantum cosmology. The connection between the existence of a composition law in
+the sum over histories approach to relativistic quantum mechanics and quantum
+cosmology, and the existence of a canonical formulation.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 21:33:16 GMT""},{""version"":""v2"",""created"":""Wed, 27 Jan 1993 20:45:11 GMT""}]","2009-10-22"
+"gr-qc/9211006",,"David Hochberg and Thomas W. Kephart","Wormhole Cosmology and the Horizon Problem","13 pages, in RevTex","Phys.Rev.Lett. 70 (1993) 2665-2668","10.1103/PhysRevLett.70.2665","VAND-TH-92-5, NSF-ITP-92-77","gr-qc hep-th",,"  We construct an explicit class of dynamic lorentzian wormholes connecting
+Friedmann-Robertson-Walker (FRW) spacetimes. These wormholes can allow two-way
+transmission of signals between spatially separated regions of spacetime and
+could permit such regions to come into thermal contact. The cosmology of a
+network of early Universe wormholes is discussed.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 22:03:53 GMT""}]","2009-10-22"
+"hep-lat/9211010","Klaus Pinn","Martin Hasenbusch and Klaus Pinn","Surface Tension, Surface Stiffness, and Surface Width of the
+  3-dimensional Ising Model on a Cubic Lattice","contribution to the Proceedings of LATTICE 92, LaTeX file,
+  espcrc2.sty needed, 4 pages, 1 PS-figure appended","Nucl.Phys.Proc.Suppl. 30 (1993) 857","10.1016/0920-5632(93)90342-4",,"hep-lat",,"  We compute properties of the interface of the 3-dimensional Ising model for a
+wide range of temperatures and for interface extensions up to 64 by 64. The
+interface tension sigma is obtained by integrating the surface energy density
+over the inverse temperature beta. The surface stiffness coefficient kappa is
+determined. We also study universal quantities like xi^2 sigma and xi^2 kappa.
+The behavior of the interfacial width on lattices up to 512 times 512 times 27
+is also investigated.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 19:00:49 GMT""}]","2009-10-22"
+"hep-lat/9211011","Walter Wilcox","Walter Wilcox","Lattice Charge Overlap and the Elastic Limit","4 pages, BU/HEP/92/2","Nucl. Phys. Proc. Suppl. 30 (1993) 491","10.1016/0920-5632(93)90257-7",,"hep-lat",,"  The results of a lattice simulation of time-separated charge overlap for the
+charged pion are discussed. The expected result $\sim {\rm exp}[-(E_q -
+m_{\pi})t\,]$ for large charge density overlap time separations, $t$, is
+clearly visible in the Fourier transform, indicating that the elastic limit can
+be achieved at low to medium momentum values on present-sized lattices. The
+implications of this result for direct lattice simulations of hadron structure
+functions are discussed and a brief presentation of the lattice formalism is
+given.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 20:37:29 GMT""}]","2009-10-22"
+"hep-lat/9211012","Jeffrey Grandy","M.-C. Chu, J. M. Grandy, S. Huang, and J. W. Negele","Lattice Analysis of Two-Point Hadronic Correlators in the QCD Vacuum","4 pages, Los Alamos Preprint Number Pending, Submitted to Nucl. Phys.
+  B (Proc. Suppl.), Proceedings of the International Conference on Lattice
+  Field Theory (Lattice '92)","Nucl.Phys.Proc.Suppl.30:495-498,1993","10.1016/0920-5632(93)90258-8",,"hep-lat",,"  Results from the first lattice QCD analysis of vacuum correlators of local
+hadronic currents using dispersion relations are presented. We have explored
+the vector, pseudoscalar, axial, and scalar meson channels, and the proton-like
+and delta-like baryon channels. The lattice results are shown to agree
+qualitatively with experimental results in channels where experimental data
+exist, and shed insight into interacting instanton approximations and sum rule
+calculations in the other channels.
+  3 figures included (as PostScript files): pi.ps, nd.ps, va.ps : Search for
+%%% to retrieve the files. Latex file, needs espcrc2.sty (Search for %%%).
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 00:40:15 GMT""}]","2010-05-27"
+"hep-lat/9211013","Dr. Sergio Caracciolo","S. Caracciolo, G. Parisi and A. Pelissetto","Random Walks with Long-Range Self-Repulsion on Proper Time","25 pages latex, 4 postscript figures, uses epsf.sty (all included)
+  IFUP-Th 13/92 and SNS 14/92","J.Statist.Phys. 77 (1994) 519-543","10.1007/BF02179448",,"hep-lat",,"  We introduce a model of self-repelling random walks where the short-range
+interaction between two elements of the chain decreases as a power of the
+difference in proper time. Analytic results on the exponent $\nu$ are obtained.
+They are in good agreement with Monte Carlo simulations in two dimensions. A
+numerical study of the scaling functions and of the efficiency of the algorithm
+is also presented.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 08:19:02 GMT""}]","2015-06-25"
+"hep-lat/9211014","Alain Billoire","A. Billoire, T. Neuhaus and B. Berg","Observation of FSS for a First Order Phase Transition","Submited to Nuclear Physics B (FS) Latex file, 15 pages, 5 PostScript
+  figures. Saclay preprint SPhT-92/120","Nucl.Phys. B396 (1993) 779-788","10.1016/0550-3213(93)90671-B",,"hep-lat cond-mat",,"  We present the results of a multicanonical simulation of the q=20 2-d Potts
+model in the transition region. This is a very strong first order phase
+transition. We observe, for the first time, the asymptotic finite size scaling
+behavior predicted by Borgs and Koteck\'y close to a first order phase
+transition point.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 10:30:22 GMT""}]","2009-10-22"
+"hep-lat/9211015","Bartolome Alles","B. Alles, M. Campostrini, A. Feo and H. Panagopoulos","Three-Loop Results on the Lattice","(Contribution to Lattice-92 conference). 4 pages","Nucl.Phys.Proc.Suppl. 30 (1993) 243-246","10.1016/0920-5632(93)90200-P",,"hep-lat",,"  We present some new three-loop results in lattice gauge theories, for the
+Free Energy and for the Topological Susceptibility. These results are an
+outcome of a scheme which we are developing (using a symbolic manipulation
+language), for the analytic computation of renormalization functions on the
+lattice.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 09:40:56 GMT""}]","2009-10-22"
+"hep-ph/9211211","Giovanni Amelino-Camelia","G. Amelino-Camelia and S.-Y. Pi","Self-consistent Improvement of the Finite Temperature Effective
+  Potential","19 pages, Plain Tex, (References completely reorganized and
+  corresponding changes in the text. Also minor typo corrections. 4 figures
+  still not included.)","Phys.Rev. D47 (1993) 2356-2362","10.1103/PhysRevD.47.2356","BUHEP-92-26","hep-ph hep-th",,"  We present a self-consistent calculation of the finite temperature effective
+potential for $\lambda \phi^4$ theory, using the composite operator effective
+potential in which an infinite series of the leading diagrams is summed up. Our
+calculation establishes the proper form of the leading correction to the
+perturbative one-loop effective potential.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 17:09:46 GMT""},{""version"":""v2"",""created"":""Wed, 11 Nov 1992 23:20:56 GMT""}]","2009-10-22"
+"hep-ph/9211212","749","K.Funakubo, S.Otsuki, K.Takenaga and F.Toyoda","Scattering with Baryon Number Violation -- The Case of Higgs Particle
+  Production --","modified PHYZZX(included), 4 Figures (not included), SAGA-HE-46 :
+  KYUSHU-HET-6","Prog.Theor.Phys. 89 (1993) 881-894","10.1143/ptp/89.4.881",,"hep-ph",,"  \noindent A formalism based on path-integral expression of time-evolution
+operator during tunneling at a finite energy proposed by the authors is applied
+to $SU(2)$ gauge-Higgs system to produce Higgs particles with $\Delta B=1$.
+Instead of starting from instanton tunneling at the zero energy, a classical
+bounce solution giving sphaleron (instanton) action at high (low) energies is
+used as the tunneling configuration. Fourier transform of the bounce
+configuration in coherent state expression at the entrance and exit of the
+tunneling plays an important role. Numerical results at various energies for
+$M_H/M_W=1 \sim 2 $ are given. Though the cross section with $\Delta B=1$
+results from a severe cancellation of several large quantities in the leading
+order as occured in the instanton calculus, it seems unlikely that the cross
+section grows as largely as to reach unitarity bound at energies $E \leq
+E_{sph}$. It is pointed out that the actual value $g^2=0.418$ of the $SU(2)$
+gauge coupling constant may be too large to take the weak coupling limit.}
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 08:20:26 GMT""}]","2017-02-01"
+"hep-ph/9211213",,"A. Abada, D. Kalafatis and B. Moussallam","On the role of vector mesons in topological soliton stability","10 pages, plain TEX, 1 figure (not included) IPN Orsay report IPNO/TH
+  92-83","Phys.Lett. B300 (1993) 256-260","10.1016/0370-2693(93)90363-M",,"hep-ph",,"  Isospin one vector mesons (in particular the $\rho$) are usually described as
+massive Yang-Mills particles in the chiral Lagrangian. We investigate some
+aspects of an alternative approach in the soliton sector. It is found that the
+soliton is stable in very much the same way as with the $\omega$-meson and that
+spontaneous parity violating classical solutions do not exist. The formulation
+in terms of antisymmetric tensors is shown to be canonically related to a
+vector field description provided the Skyrme term is added to the latter.
+","[{""version"":""v1"",""created"":""Thu, 5 Nov 1992 15:27:40 GMT""}]","2009-10-22"
+"hep-th/9211018","Benoit Louis","L. Benoit and Y. Saint-Aubin","Fusion and the Neveu-Schwarz Singular Vectors","26 pages, Amstex, CRM 1833","Int. J. Mod. Phys. A9 (1994) 547-566","10.1142/S0217751X94000273",,"hep-th",,"  Bauer, Di Francesco, Itzykson and Zuber proposed recently an algorithm to
+construct all singular vectors of the Virasoro algebra. It is based on the
+decoupling of (already known) singular fields in the fusion process. We show
+how to extend their algorithm to the Neveu-Schwarz superalgebra.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 21:22:47 GMT""}]","2015-06-26"
+"hep-th/9211026","Holger Ewen","Holger Ewen and Oleg Ogievetsky","Jordanian Solutions of Simplex Equations","6 pages","Lett.Math.Phys. 26 (1992) 307-314","10.1007/BF00420240","MPI-Ph/92-99","hep-th math.QA",,"  We construct for all $N$ a solution of the Frenkel--Moore $N$--simplex
+equation which generalizes the $R$--matrix for the Jordanian quantum group.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 17:44:26 GMT""}]","2009-10-22"
+"hep-th/9211027","Stephan Stieberger","S. Stieberger","Moduli and Twisted Sector Dependence of Z_N x Z_M Orbifold Couplings","10 pages (Latex)","Phys.Lett.B300:347-353,1993","10.1016/0370-2693(93)91344-M",,"hep-th",,"  We derive the four point correlation function involving four twist fields for
+arbitrary even dimensional Z_N x Z_M orbifold compactifications. Using
+techniques from the conformal field theory the three point correlation
+functions with twist fields are determined. Both the choice of the modular
+background (compatible with the twists) and of the (higher) twisted sectors
+involved are fully general. Our results turn out to be target space duality
+invariant.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 19:34:12 GMT""}]","2010-11-01"
+"nucl-th/9211003","Peter Tiemeijer","P.C. Tiemeijer and J.A. Tjon","Meson Mass Spectrum from Relativistic Equations in Configuration Space","21 pages (8 figures not included, available upon request). In revtex",,,"THU-92/31","nucl-th hep-ph",,"  A method is described for solving relativistic quasi-potential equations in
+configuration space. The Blankenbecler-Sugar-Logunov-Tavkhelidze and an
+equal-time equation, both relativistic covariant two-body equations containing
+the full Dirac structure of positive and negative energy states, are studied in
+detail. These equations are solved for a system of two constituent quarks
+interacting through a potential consisting of a one-gluon exchange part with
+running coupling constant plus a linear confining potential which is mostly
+scalar and partly vector, and the spectrum of all light and heavy mesons is
+calculated.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 18:52:56 GMT""}]","2007-05-23"

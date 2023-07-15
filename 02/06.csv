@@ -1,0 +1,75 @@
+"alg-geom/9202001","Sheldon Katz","Sheldon Katz","Rational Curves on Calabi-Yau Threefolds","10 pages, AMSLaTeX v1.0 or 1.1. This is a survey talk given at the
+  May 1991 Workshop on Mirror Symmetry at MSRI",,,,"alg-geom math.AG",,"  The point is to compare the mathematical meaning of the ``number of rational
+curves on a Calabi-Yau threefold'' to the meaning ascribed to the same notion
+by string theorists.
+","[{""version"":""v1"",""created"":""Wed, 5 Feb 1992 17:01:13 GMT""}]","2008-02-03"
+"alg-geom/9202002","David R. Morrison","Sheldon Katz and David R. Morrison","Gorenstein Threefold Singularities with Small Resolutions via Invariant
+  Theory for Weyl Groups","73 pages, AMSLaTeX v1.1","J. Alg. Geom. 1 (1992) 449--530",,,"alg-geom math.AG",,"  We classify simple flops on smooth threefolds, or equivalently, Gorenstein
+threefold singularities with irreducible small resolution. There are only six
+families of such singularities, distinguished by Koll{\'a}r's {\em length}
+invariant. The method is to apply invariant theory to Pinkham's construction of
+small resolutions. As a by-product, generators of the ring of invariants are
+given for the standard action of the Weyl group of each of the irreducible root
+systems.
+","[{""version"":""v1"",""created"":""Wed, 5 Feb 1992 17:29:18 GMT""}]","2008-02-03"
+"hep-th/9202016","Malcolm Perry","Noah Linden and Malcolm Perry","Path Intergals and Perturbative Expansions for Non-Compact Symmetric
+  Spaces","16 pages","Int.J.Mod.Phys. A7 (1992) 6873-6886","10.1142/S0217751X92003161",,"hep-th",,"  We show how to construct path integrals for quantum mechanical systems where
+the space of configurations is a general non-compact symmetric space.
+Associated with this path integral is a perturbation theory which respects the
+global structure of the system. This perturbation expansion is evaluated for a
+simple example and leads to a new exactly soluble model. This work is a step
+towards the construction of a strong coupling perturbation theory for quantum
+gravity.
+","[{""version"":""v1"",""created"":""Wed, 5 Feb 1992 17:22:34 GMT""}]","2015-06-26"
+"hep-th/9202017","Sheldon Katz","Sheldon Katz","Rational Curves on Calabi-Yau Threefolds","10 pages. This is a survey talk given at the May 1991 Workshop on
+  Mirror Symmetry at MSRI",,,,"hep-th math.AG",,"  By considering mirror symmetry applied to conformal field theories
+corresponding to strings propagating in quintic hypersurfaces in projective
+4-space, Candelas, de la Ossa, Green and Parkes calculated the ``number of
+rational curves on the hypersurface'' by comparing three point functions.
+Actually, the number of curves may be infinite for special examples; what is
+really being calculated is a path integral. The point of this talk is to give
+mathematical techniques and examples for computing the finite number that
+``should'' correspond to an infinite family of curves (which coincides with
+that given by the path integral in every known instance), and to suggest that
+these techniques should provide the answer to the not yet solved problem of how
+to calculate instanton corrections to the three point function in general.
+","[{""version"":""v1"",""created"":""Wed, 5 Feb 1992 17:52:58 GMT""}]","2008-02-03"
+"hep-th/9202018","Jorge Pullin","Bernd Bruegmann, Rodolfo Gambini, Jorge Pullin","Jones Polynomials for Intersecting Knots as Physical States of Quantum
+  Gravity","23pp","Nucl.Phys.B385:587-603,1992","10.1016/0550-3213(92)90060-O",,"hep-th",,"  We find a consistent formulation of the constraints of Quantum Gravity with a
+cosmological constant in terms of the Ashtekar new variables in the connection
+representation, including the existence of a state that is a solution to all
+the constraints. This state is related to the Chern-Simons form constructed
+from the Ashtekar connection and has an associated metric in spacetime that is
+everywhere nondegenerate. We then transform this state to the loop
+representation and find solutions to all the constraint equations for
+intersecting loops. These states are given by suitable generalizations of the
+Jones knot polynomial for the case of intersecting knots. These are the first
+physical states of Quantum Gravity for which an explicit form is known both in
+the connection and loop representations. Implications of this result are also
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 5 Feb 1992 18:41:37 GMT""}]","2008-11-26"
+"hep-th/9202019",,"Shahar Ben-Menahem (SLAC)","D=0 Matrix Model as Conjugate Field Theory","38 pages, phyzzx","Nucl.Phys. B391 (1993) 176-210","10.1016/0550-3213(93)90146-G",,"hep-th",,"  The D=0 matrix model is reformulated as a 2d nonlocal quantum field theory.
+The interactions occur on the one-dimensional line of hermitian matrix
+eigenvalues. The field is conjugate to the density of matrix eigenvalues which
+appears in the Jevicki-Sakita collective field theory. The classical solution
+of the field equation is either unique or labeled by a discrete index. Such a
+solution corresponds to the Dyson sea modified by an entropy term. The
+modification smoothes the sea edges, and interpolates between different
+eigenvalue bands for multiple-well potentials. Our classical eigenvalue density
+contains nonplanar effects, and satisfies a local nonlinear Schr\""odinger
+equation with similarities to the Marinari-Parisi $D=1$ reformulation. The
+quantum fluctuations about a classical solution are computable, and the IR and
+UV divergences are manifestly removed to all orders. The quantum corrections
+greatly simplify in the double scaling limit, and include both
+string-perturbative and nonperturbative effects.
+","[{""version"":""v1"",""created"":""Thu, 6 Feb 1992 12:19:00 GMT""}]","2009-10-22"
+"hep-th/9202020",,"F.Ravanini","Thermodynamic Bethe Ansatz for G_k x G_l / G_{k+l} Coset Models
+  Perturbed by Their \phi_{1,1,Adj} Operator","13pp","Phys.Lett. B282 (1992) 73-79","10.1016/0370-2693(92)90481-I",,"hep-th",,"  We propose a Thermodynamic Bethe Ansatz (TBA) for G_k x G_l / G_{k+l}
+conformal coset models (G any simply-laced Lie algebra) perturbed by their
+operator \phi_{1,1,Adj}. An interesting adjacency structure appears and can be
+depicted in a sort of ``product'' of Dynkin diagrams of G and A_{k+l-1}. UV and
+IR limits are computed and reproduce the expected values for the central
+charges. For k->\infty, l fixed we obtain the TBA of the G_l WZW model
+perturbed by J_a\bar{J}_a, and for k,l->\infty, k-l fixed, that of Principal
+Chiral model with WZ term at level k-l.
+","[{""version"":""v1"",""created"":""Thu, 6 Feb 1992 14:51:00 GMT""}]","2009-10-22"

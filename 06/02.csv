@@ -1,0 +1,122 @@
+"alg-geom/9206001","Paolo Aluffi","Paolo Aluffi, Carel Faber","Linear orbits of smooth plane curves","25 pages. Tex dialect: amstex (pre-2.0)","J. Algebraic Geom. 2 (1993), no. 1, 155-184",,,"alg-geom math.AG",,"  The group PGL(3) of linear transformations of the projective plane acts
+naturally on the projective space parametrizing curves of a given degree. In
+this note we begin the study of the orbits of smooth curves under this action:
+we construct a resolution of the closure of the orbit of a given curve, and we
+use it to compute its degree. This turns out to depend only on the degree of
+the curve, the order of its automorphism group, and on the number and type of
+its flexes. This paper will appear on the Journal of Algebraic Geometry.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 15:30:36 GMT""}]","2012-04-10"
+"hep-lat/9205029","Ray Renken","R.L. Renken, S.M. Catterall, and J.B. Kogut","Three Dimensional Quantum Gravity Coupled to Ising Matter","12 pages","Nucl.Phys. B389 (1993) 601-610","10.1016/0550-3213(93)90355-S","ILL-(TH)-92-7","hep-lat hep-th",,"  We establish the phase diagram of three--dimensional quantum gravity coupled
+to Ising matter. We find that in the negative curvature phase of the quantum
+gravity there is no disordered phase for ferromagnetic Ising matter because the
+coordination number of the sites diverges. In the positive curvature phase of
+the quantum gravity there is evidence for two spin phases with a first order
+transition between them.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 17:06:12 GMT""}]","2009-10-22"
+"hep-lat/9205030",,"V. Azcoiti, G. Di Carlo and A.F. Grillo","Renormalization group and triviality in noncompact lattice QED with
+  light fermions","9 pages","Mod. Phys. Lett. A7 (1992) 3561-3568","10.1142/S0217732392002974","DFTUZ-91.33","hep-lat",,"  In the framework of noncompact lattice QED with light fermions, we derive the
+functional dependence of the average energy per plaquette on the bare
+parameters using block-spin Renormalization Group arguments and assuming that
+the renormalized coupling vanishes. Our numerical results for this quantity in
+$8^4$ and $10^4$ lattices show evidence for triviality in the weak coupling
+phase and point to a non vanishing value for the renormalized coupling constant
+in the strong coupling phase.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 20:09:00 GMT""}]","2015-06-25"
+"hep-lat/9206001","Robert D. Mawhinney","Frank R. Brown, Hong Chen, Norman H. Christ, Zhihua Dong, Robert D.
+  Mawhinney, Wendy Schaffer, and Alessandro Vaccarino","Lattice QCD with 8 Light Quark Flavors","36 pages of text plus 17 pages of figures","Phys.Rev. D46 (1992) 5655-5670","10.1103/PhysRevD.46.5655","CU-TP-541","hep-lat",,"  QCD with eight flavors is studied on $16^3\times N_t$ lattices with $N_t=4$,
+6, 8, 16 and 32, a dynamical quark mass $ma=0.015$ and lattice coupling
+$\beta=6/g^2$ between 4.5 and 5.0. For $N_t=16$ and 32, hadron masses and
+screening lengths are computed for a variety of valence quark masses. The
+previously observed, strong, first-order transition for $N_t=4$, 6 and 8 is
+seen, for $N_t=16$, to become a $\beta$-independent, zero-temperature
+transition characterized by a factor of $\approx 3$ change in lattice scale.
+This strong, first-order transition restores chiral symmetry, at least for
+$N_t=4$, 6 and 8, producing a chirally symmetric, weak-coupling phase. However,
+as $N_t$ increases to 16, the chiral symmetry properties of the weak-coupling
+side of the zero-temperature transition are unclear and offer a hint of a
+normal, finite-temperature, chiral symmetry breaking transition in the
+weak-coupling phase.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 14:46:44 GMT""}]","2016-08-31"
+"hep-ph/9206202","S. F. King","T.Elliott and S.F.King","Heavy Axions From Strong Broken Horizontal Gauge Symmetry","(22 pages, 8 figures),SHEP 91/92-22","Z.Phys. C58 (1993) 609-618","10.1007/BF01553021",,"hep-ph",,"  We study the consequences of the existence and breaking of a Peccei--Quinn
+symmetry within the context of a dynamical model of electroweak symmetry
+breaking based on broken gauged flavour symmetries. We perform an estimate of
+the axion mass by including flavour instanton effects and show that, for low
+cut--offs, the axion is sufficiently massive to prevent it from being
+phenomenologically unacceptable. We conclude with an examination of the strong
+CP problem and show that our axion cannot solve the problem, though we indicate
+ways in which the model can be extended so that the strong CP problem is
+solved.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 18:00:04 GMT""}]","2009-10-22"
+"hep-ph/9206203","Steve Kelley","John Ellis, S. Kelley and D. V. Nanopoulos","Constraints From Gauge Coupling Unification On The Scale Of
+  Supersymmetry Breaking","9 pages, 1 figure not included, ACT-10/92","Phys.Lett.B287:95-100,1992","10.1016/0370-2693(92)91882-A",,"hep-ph",,"  We reanalyze precision LEP data and coupling constant unification in the
+minimal supersymmetric $SU(5)$ model including the evolution of the gaugino
+masses. We derive general bounds on the primordial gaugino
+supersymmetry-breaking mass-scale $m_{1/2}$ in terms of the various input
+parameters. The model cannot accommodate $m_{1/2}<1\TeV$ for values of $\as <
+0.115$, even for extreme $1-\sigma$ values of the other inputs. We emphasize
+the sensitivity of this type of calculations to the various input parameters.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 21:48:09 GMT""}]","2008-11-26"
+"hep-th/9206004","Mirjam Cvetic","Mirjam Cvetic, Stephen Griffies, and Soo-Jong Rey","Nonperturbative Stability of Supergravity and Superstring Vacua","25 pages NSF-ITP-92-84, UPR-494-T, YCTP-P44-91","Nucl.Phys.B389:3-24,1993","10.1016/0550-3213(93)90283-U",,"hep-th",,"  We investigate the possibility of false vacuum decay in $N=1$ supergravity
+theories. By establishing a Bogomol'nyi bound for the energy density stored in
+the domain wall of the $O(4)$ invariant bubble, we show that supersymmetric
+vacua remain absolutely stable against false vacuum decay into another
+supersymmetric vacuum. This conforms with and completes the previous
+perturbative analysis of Weinberg. Implications for dynamical supersymmetry
+breaking and decompactification instabilities in superstring theory are
+discussed. In addition, we show that there are no compact static spherical
+domain walls.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 18:54:18 GMT""}]","2009-09-17"
+"hep-th/9206005",,"Jouko Mickelsson","Vacuum Expectation Values of Products of Chiral Currents in $3+1$
+  Dimensions","20 pages","Commun.Math.Phys. 154 (1993) 403-420","10.1007/BF02097003",,"hep-th",,"  An algebraic rule is presented for computing expectation values of products
+of local nonabelian charge operators for fermions coupled to an external vector
+potential in $3+1$ space-time dimensions. The vacuum expectation value of a
+product of four operators is closely related to a cyclic cocycle in
+noncommutative geometry of Alain Connes. The relevant representation of the
+current is constructed using Kirillov's method of coadjoint orbits.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 21:38:00 GMT""}]","2009-10-22"
+"hep-th/9206006","Konstadinos Sfetsos","I. Bars and K. Sfetsos","Conformally Exact Metric and Dilaton in String Theory on Curved
+  Spacetime","USC-92/HEP-B2, 19 pages and 3 figures","Phys. Rev. D 46, 4510 (1992)","10.1103/PhysRevD.46.4510",,"hep-th",,"  Using a Hamiltonian approach to gauged WZW models, we present a general
+method for computing the conformally exact metric and dilaton, to all orders in
+the $1/k$ expansion, for any bosonic, heterotic, or type-II superstring model
+based on a coset $G/H$. We prove the following relations: (i) For type-II
+superstrings the conformally exact metric and dilaton are identical to those of
+the non-supersymmetric {\it semi-classical} bosonic model except for an overall
+renormalization of the metric obtained by $k\to k- g$. (ii) The exact
+expressions for the heterotic superstring are derived from their exact bosonic
+string counterparts by shifting the central extension $k\to 2k-h$ (but an
+overall factor $(k-g)$ remains unshifted). (iii) The combination
+$e^\Phi\sqrt{-G}$ is independent of $k$ and therefore can be computed in lowest
+order perturbation theory as required by the correct formulation of a
+conformally invariant path integral measure. The general formalism is applied
+to the coset models $SO(d-1,2)_{-k}/SO(d-1,1)_{-k}$ that are relevant for
+string theory on curved spacetime. Explicit expressions for the conformally
+exact metric and dilaton for the cases $d=2,3,4$ are given. In the
+semiclassical limit $(k\to \infty)$ our results agree with those obtained with
+the Lagrangian method up to 1-loop in perturbation theory.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 00:32:06 GMT""}]","2013-11-13"
+"hep-th/9206007","Giorgio Giavarini","G. Giavarini, C.P. Martin, F. Ruiz Ruiz","Chern-Simons Theory as the Large Mass Limit of Topologically Massive
+  Yang-Mills Theory","64 pages without figures (10 figures), DAMTP 91-34, LPTHE 91-61,
+  NBI-HE 91-55, UGMS 91-23","Nucl.Phys.B381:222-280,1992","10.1016/0550-3213(92)90647-T",,"hep-th",,"  We study quantum Chern-Simons theory as the large mass limit of the limit
+$D\to 3$ of dimensionally regularized topologically massive Yang-Mills theory.
+This approach can also be interpreted as a BRS-invariant hybrid regularization
+of Chern-Simons theory, consisting of a higher-covariant derivative Yang-Mills
+term plus dimensional regularization. Working in the Landau gauge, we compute
+radiative corrections up to second order in perturbation theory and show that
+there is no two-loop correction to the one-loop shift $k\rightarrow k+
+c_{\scriptscriptstyle V},\,\,k$ being the bare Chern-Simons parameter. In
+passing we also prove by explicit computation that topologically massive
+Yang-Mills theory is UV finite.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 10:11:46 GMT""}]","2014-11-18"
+"hep-th/9206008","Katri Huitu","Katri Huitu","Modular Invariants of $N=2$ Supersymmetric $SU(1,1)$ Models","12 pages, report USC-012/92","Phys.Lett. B313 (1993) 75-82","10.1016/0370-2693(93)91193-Q",,"hep-th",,"  We study the modular invariance of $N=2$ superconformal $SU(1,1)$ models. By
+decomposing the characters of Kazama-Suzuki model $SU(3)/(SU(2)\times U(1))$
+into an infinite sum of the characters of $(SU(1,1)/U(1))\times U(1)$ we
+construct modular invariant partition functions of $(SU(1,1)/U(1))\times U(1)$.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 13:34:53 GMT""}]","2009-10-22"
+"hep-th/9206009",,"Jin-Min Shen, Zheng-Mao Sheng, Zhong-Hau Wang","Quantum Liouville Theory On The Riemann Sphere With $n>3$ Punctures","13 pages","Phys.Lett. B291 (1992) 53-62","10.1016/0370-2693(92)90118-N",,"hep-th",,"  We have studied the quantum Liouville theory on the Riemann sphere with n>3
+punctures. While considering the theory on the Riemann surfaces with n=4
+punctures, the quantum theory near an arbitrary but fixed puncture can be
+obtained via canonical quantization and an extra symmetry is explored. While
+considering more than four distinguished punctures, we have found the exchange
+relations of the monodromy parameters from which we can get a reasonable
+quantum theory.
+","[{""version"":""v1"",""created"":""Tue, 2 Jun 1992 14:35:02 GMT""}]","2009-10-22"

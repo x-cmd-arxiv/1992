@@ -1,0 +1,158 @@
+"hep-lat/9209001","Balasubramanian","Bernd A. Berg, Balasubramanian Krishnan and Mohammad Katoot","Asymptotic Freedom and Euclidean Quantum Gravity","37 pages with 17 postscript figures included. (TeX + LaTeX) file.
+  FSU-HEP-92-0818","Nucl.Phys. B404 (1993) 359-384","10.1016/0550-3213(93)90484-7",,"hep-lat",,"  Pure SU(2) gauge theory is the simplest asymptotically free theory in four
+dimensions. To investigate Euclidean quantum gravity effects in a fundamental
+length scenario, we simulate 4$d$ SU(2) lattice gauge theory on a dynamically
+coupled Regge skeleton. The fluctuations of the skeleton are governed by the
+standard Regge-Einstein action. From a small $2\cdot 4^3$ lattice we report
+exploratory numerical results, limited to a region of strong gravity where the
+Planck mass and hadronic masses take similar orders of magnitude. We find a
+range of the Planck mass where stable bulk expectation values are obtained
+which vary smoothly with the gauge coupling, and a remnant of the QCD
+deconfining phase transition is located. Note: The full ps file of this
+preprint is also available via anonymous ftp to ftp.scri.fsu.edu. To get the ps
+file, ftp to this address and use for username ""anonymous"" and for password
+your name. The file is in the directory pub/krishnan (to go to that directory
+type: cd pub/krishnan) and is called gravity.ps (to get it type: get
+gravity.ps). If you have any problems send mail to krishnan@ds1.scri.fsu.edu.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 19:26:55 GMT""}]","2009-10-22"
+"hep-lat/9209002","Karl Jansen","Karl Jansen and Martin Schmaltz","Critical Momenta of Lattice Chiral Fermions","UCSD/PTH 92-29","Phys.Lett. B296 (1992) 374-378","10.1016/0370-2693(92)91335-7",,"hep-lat",,"  We determine the critical momenta for chiral fermions in the domain wall
+model recently suggested by Kaplan. For a wide range of domain wall masses $m$
+and Wilson couplings $r$ we explicitly exhibit the regions in momentum space
+where the fermions are chiral. We compare the critical momenta for the
+infinitely large system with those obtained on a finite lattice.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 19:42:09 GMT""}]","2009-10-22"
+"hep-lat/9209003","David B. Kaplan","Maarten Golterman, Karl Jansen and David Kaplan","Chern-Simons Currents and Chiral Fermions on the Lattice","10 pages (1 figure not included), uses harvmac, UCSD-PTH-92-28","Phys.Lett. B301 (1993) 219-223","10.1016/0370-2693(93)90692-B",,"hep-lat hep-th",,"  We compute the Chern-Simons current induced by Wilson fermions on a $d=2n+1$
+dimensional lattice, making use of a topological interpretation of the momentum
+space fermion propagator as a map from the torus to the sphere, $T^{d}\to
+S^{d}$. These mappings are shown to fall in different homotopy classes
+depending on the value of $m/r$, where $m$ is the fermion mass and $r$ is the
+Wilson coupling. As a result, the induced Chern-Simons term changes
+discontinuously at $d+1$ different values for $m$, unlike in the continuum.
+This behavior is exactly what is required by the peculiar spectrum found for a
+recently proposed model of chiral lattice fermions as zeromodes bound to a
+domain wall.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 21:58:36 GMT""}]","2009-10-22"
+"hep-lat/9209004","Karl Jansen","Karl Jansen","The Finite Temperature Phase Diagram of a U(1) Higgs-Yukawa Model","UCSD/PTH 92-22","Phys.Lett. B295 (1992) 109-113","10.1016/0370-2693(92)90098-O",,"hep-lat",,"  The finite temperature phase diagram of a U(1) Higgs-Yukawa model at a finite
+value of the scalar self coupling $\lambda$ is investigated by means of a
+large-$N_f$ calculation and numerical simulations. The phase diagram is similar
+to the one at zero temperature and shows a ferromagnetic, two symmetric and an
+antiferromagnetic phase. However, the phase transition lines are shifted to
+larger values of the Yukawa coupling demonstrating the occurence of the finite
+temperature symmetry restoration.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 22:06:33 GMT""}]","2009-10-22"
+"hep-lat/9209005","Ulli Wolff","Ulli Wolff (CERN)","High Precision Simulation Techniques for Lattice Field Theory","(Talk given at the 4th International Conference on Computational
+  Physics PC92, Prague, August 1992), 11 pages, 1 ps figure","Int.J.Mod.Phys.C4:451-458,1993","10.1142/S0129183193000495","CERN-TH 6636/92","hep-lat",,"  An overview is given over the recently developed and now widely used Monte
+Carlo algorithms with reduced or eliminated critical slowing down. The basic
+techniques are overrelaxation, cluster algorithms and multigrid methods. With
+these tools one is able to probe much closer than before the universal
+continuum behavior of field theories on the lattice.
+","[{""version"":""v1"",""created"":""Wed, 2 Sep 1992 09:43:12 GMT""}]","2011-04-15"
+"hep-ph/9209201",,"Heinz K\""onig","Minimal Supersymmetric Standard Model Extended by One Additional Higgs
+  Singlet and its Influence on the Anomalous Magnetic Moment of the Muon","5 pages, 2 figures - not included, Plain Tex, OCIP/C-92-2",,,,"hep-ph",,"  We present the results of the influence of the minimal supersymmetric
+standard model extended by an additional
+  Higgs singlet N, with vacuum expectation value $v_N$, on the anomalous
+magnetic moment of the muon.
+  This gives different mass matrices for the charginos and neutralinos, which
+are taken into account within the relevant penguin diagrams leading to a
+contribution $\Delta a_{\mu}$\ to the anomalous magnetic moment of the muon. We
+show that a large vacuum expectation value for the Higgs singlet leads to a
+suppression of the supersymmetric contribution making it difficult to see in an
+experiment in the near future.}\hfill
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 17:37:26 GMT""}]","2007-05-23"
+"hep-ph/9209202",,"Y.N. Srivstava, A. Widom, M.H. Friedman, O.Panella","Compact Lattice QED and the Coulomb Potential","6 pages, includes one figure in Topdrawer, NUB 3054/92","Phys.Lett. B298 (1993) 405-408","10.1016/0370-2693(93)91841-A",,"hep-ph",,"  The potential energy of a static charge distribution on a lattice is
+rigorously computed in the standard compact quantum electrodynamic model. The
+method used follows closely that of Weyl for ordinary quantum electrodynamics
+in continuous space-time. The potential energy of the static charge
+distribution is independent of temperature and can be calculated from the
+lattice version of Poisson's equation. It is the usual Coulomb potential.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 20:12:00 GMT""}]","2009-10-22"
+"hep-ph/9209203","Lowell Brown","Lowell S. Brown","Summing tree graphs at threshold","11 pages in RevTex, UW/PT-92-16","Phys.Rev.D46:4125-4127,1992","10.1103/PhysRevD.46.R4125",,"hep-ph",,"  The solution of the classical field equation generates the sum of all tree
+graphs. We show that the classical equation reduces to an easily solved
+ordinary differential equation for certain multiparticle threshold amplitudes
+and compute these amplitudes.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 20:12:14 GMT""}]","2009-12-30"
+"hep-ph/9209204","Martin John Savage","Malcolm N. Butler and Martin J. Savage","Electromagnetic Polarisability of the Nucleon in Chiral Perturbation
+  Theory","11 pages (uses harvmac, figures available upon request) , UCSD/PTH
+  92-30, QUSTH-92-04","Phys.Lett. B294 (1992) 369-374","10.1016/0370-2693(92)91535-H",,"hep-ph",,"  We compute the polarisability of the nucleon to leading order in chiral
+perturbation theory. The contributions from kaons and baryon resonances as
+intermediate states are included in addition to the contribution from pions and
+nucleons that had been previously computed. The isoscalar operators are
+dominated by the infrared behaviour of pion loops giving rise to a $1/m_{\pi}$
+coefficient. In contrast, the isovector operators are dominated by loops
+involving kaons, giving a $1/m_{k}$ coefficient, and further demonstrates that
+the strange quark is an important component of the nucleon. In addition, the
+inclusion of the decuplet of baryon resonances as intermediate states
+substantially modifies the result found from the octet baryons alone for the
+isoscalar polarisability.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 21:53:54 GMT""}]","2009-10-22"
+"hep-ph/9209205","Peter Landshoff","A Donnachie and P V Landshoff","Total cross sections","7 pages + 5 figures (appended as a ps file)","Phys.Lett. B296 (1992) 227-232","10.1016/0370-2693(92)90832-O","CERN-TH 6635/92","hep-ph",,"  Regge theory provides a very simple and economical description of all total
+cross sections
+","[{""version"":""v1"",""created"":""Wed, 2 Sep 1992 15:04:59 GMT""}]","2009-10-22"
+"hep-ph/9209207",,"Thomas G. Rizzo","The Production of $Z'$ Associated With Photons or Jets as a Probe of New
+  Gauge Boson Couplings","14pp, 6 figs(not included), LaTex, ANL-HEP-PR-92-58","Phys.Rev. D47 (1993) 956-960","10.1103/PhysRevD.47.956",,"hep-ph",,"  We examine the production of a new $Z'$ gauge boson in association with
+photons or jets at future hadron supercolliders as a probe of its couplings to
+fermions. Associated jet production is found to be rather insensitive to these
+couplings and suffers from large uncertainties as well as substantial
+backgrounds. On the other hand, the ratio of rates for associated photon $Z'$
+production to that of conventional $Z'$ production has a rather clean signature
+(once appropriate cuts are made), and is found to be quite sensitive to the
+choice of extended electroweak model, while being simultaneously insensitive to
+structure function uncertainties and QCD corrections. Rates at both the SSC and
+LHC are significant for $Z'$ masses in the 1 TeV range.
+","[{""version"":""v1"",""created"":""Wed, 2 Sep 1992 11:28:19 GMT""}]","2009-10-22"
+"hep-th/9209005","Yong-Shi Wu","Wei Chen, Gordon W. Semenoff and Yong-Shi Wu","Two-Loop Analysis of Non-abelian Chern-Simons Theory","48 pages, UU/HEP/91/12; file format changed to standard Latex to
+  solve the problem with printing","Phys.Rev. D46 (1992) 5521-5539","10.1103/PhysRevD.46.5521",,"hep-th",,"  Perturbative renormalization of a non-Abelian Chern-Simons gauge theory is
+examined. It is demonstrated by explicit calculation that, in the pure
+Chern-Simons theory, the beta-function for the coefficient of the Chern-Simons
+term vanishes to three loop order. Both dimensional regularization and
+regularization by introducing a conventional Yang-Mills component in the action
+are used. It is shown that dimensional regularization is not gauge invariant at
+two loops. A variant of this procedure, similar to regularization by
+dimensional reduction used in supersymmetric field theories is shown to obey
+the Slavnov-Taylor identity to two loops and gives no renormalization of the
+Chern-Simons term. Regularization with Yang-Mills term yields a finite
+integer-valued renormalization of the coefficient of the Chern-Simons term at
+one loop, and we conjecture no renormalization at higher order. We also examine
+the renormalization of Chern-Simons theory coupled to matter. We show that in
+the non-abelian case the Chern-Simons gauge field as well as the matter fields
+require infinite renormalization at two loops and therefore obtain nontrivial
+anomalous dimensions. We show that the beta function for the gauge coupling
+constant is zero to two-loop order, consistent with the topological
+quantization condition for this constant.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 20:04:37 GMT""},{""version"":""v2"",""created"":""Thu, 10 Sep 1992 23:11:26 GMT""}]","2009-10-22"
+"hep-th/9209006",,"H. Aratyn, E. Nissimov, S. Pacheva and I. Vaysburd","R-Matrix Formulation of KP Hierarchies and their Gauge Equivalence","13 pages, Latex, CERN-TH.6627/92","Phys.Lett. B294 (1992) 167-176","10.1016/0370-2693(92)90678-W",,"hep-th",,"  The Adler-Kostant-Symes $R$-bracket scheme is applied to the algebra of
+pseudo-differential operators to relate the three integrable hierarchies: KP
+and its two modifications, known as nonstandard integrable models. All three
+hierarchies are shown to be equivalent and connection is established in the
+form of a symplectic gauge transformation. This construction results in a new
+representation of the W-infinity algebras in terms of 4 bosonic fields.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 20:32:14 GMT""}]","2009-10-22"
+"hep-th/9209007","Barnich Glenn","G. Barnich, R.Constantinescu and P. Gregoire","BRST-anti-BRST Antifield formalism : The Example of the
+  Freedman-Townsend Model","16 pages, Latex file, Latex errors corrected, otherwise unchanged","Phys.Lett. B293 (1992) 353-360","10.1016/0370-2693(92)90895-B",,"hep-th",,"  The general BRST-anti-BRST construction in the framework of the
+antifield-antibracket formalism is illustrated in the case of the
+Freedmann-Townsend model.
+","[{""version"":""v1"",""created"":""Wed, 2 Sep 1992 14:33:45 GMT""},{""version"":""v2"",""created"":""Wed, 13 Aug 2003 23:43:30 GMT""}]","2009-10-22"
+"hep-th/9209008","David Lowe","David A. Lowe","Semiclassical Approach to Black Hole Evaporation","15 pages, PUPT-1340, harvmac, 11 figures available on request","Phys.Rev.D47:2446-2453,1993","10.1103/PhysRevD.47.2446",,"hep-th gr-qc",,"  Black hole evaporation may lead to massive or massless remnants, or naked
+singularities. This paper investigates this process in the context of two quite
+different two dimensional black hole models. The first is the original CGHS
+model, the second is another two dimensional dilaton-gravity model, but with
+properties much closer to physics in the real, four dimensional, world.
+Numerical simulations are performed of the formation and subsequent evaporation
+of black holes and the results are found to agree qualitatively with the
+exactly solved modified CGHS models, namely that the semiclassical
+approximation breaks down just before a naked singularity appears.
+","[{""version"":""v1"",""created"":""Wed, 2 Sep 1992 14:58:00 GMT""}]","2010-11-01"
+"hep-th/9209009","Bougourzi Hamid","A. Abada, A.H. bougourzi and M.A. El Gradechi","Deformation of the Wakimoto construction","8 pages","Mod.Phys.Lett. A8 (1993) 715-724","10.1142/S0217732393000738",,"hep-th",,"  We present the extension of the Wakimoto construction to the $su(2)_k$
+quantum current algebra and its associated $Z_k$ quantum parafermion algebra.
+This construction is achieved in terms of various deformations of three
+classical free boson fields. We also give the vertex operators corresponding to
+the quantum spin-$j$ representation.
+","[{""version"":""v1"",""created"":""Wed, 2 Sep 1992 15:00:40 GMT""}]","2015-06-26"
+"hep-th/9209010",,"G. Aldazabal, M.Bonini, J.M.Maldacena","Factorization and Discrete States in C=1 Superliouville Theory","23 pages, revtex, CNEA-CAB-92-036 and UPRF-92-352","Int.J.Mod.Phys. A9 (1994) 3969-3988","10.1142/S0217751X94001606",,"hep-th",,"  We study the discrete state structure of $\hat c=1$ superconformal matter
+coupled to 2-D supergravity. Factorization properties of scattering amplitudes
+are used to identify these states and to construct the corresponding vertex
+operators. For both Neveu-Schwarz and Ramond sectors these states are shown to
+be organized in
+  SU(2) multiplets. The algebra generated by the discrete states is computed in
+the limit of null cosmological constant.
+","[{""version"":""v1"",""created"":""Wed, 2 Sep 1992 10:44:00 GMT""}]","2015-06-26"

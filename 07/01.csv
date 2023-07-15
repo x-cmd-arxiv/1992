@@ -1,0 +1,216 @@
+"cs/9301116","Maggie McLoughlin","Donald E. Knuth, Arvind Raghunathan","The problem of compatible representatives",,"SIAM J. Discrete Math. 5 (1992), no. 3, 422--427",,"Knuth migration 11/2004","cs.DS math.CO",,"  The purpose of this note is to attach a name to a natural class of
+combinatorial problems and to point out that this class includes many important
+special cases. We also show that a simple problem of placing nonoverlapping
+labels on a rectangular map is NP-complete.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2008-02-03"
+"hep-lat/9206027",,"Jeffrey E. Mandula","Numerical Analysis of the Quark Fraction of the Proton Spin","8 pages, all in postscript",,,,"hep-lat hep-ph",,"  We report on a lattice QCD estimate of the quark spin fraction of the proton
+spin. The estimate is arrived at by means of a lattice QCD simulation of the
+polarized proton matrix element of the Adler-Bell-Jackiw anomaly. The
+preliminary result of the simulation is that this fraction is rather small.
+This is in accord with the interpretation of the EMC experiment that the quark
+spins are responsible for very little, if any, of the proton spin. (Talk given
+at the Adriatico Research Conference on Polarization Dynamics in Nuclear and
+Particle Physics, Trieste, January, 1992) NOTE: This paper is available only in
+postscript form.
+","[{""version"":""v1"",""created"":""Tue, 30 Jun 1992 19:50:59 GMT""}]","2007-05-23"
+"hep-ph/9206264","Robert Shrock","R. Shrock","On the Origin of Fermion Masses","13 pages, Latex, uses npbpr10.sty and npbproc.sty macros (available
+  from xxx.lanl.gov), ITP-SB-92-27","Nucl. Phys. Proc. Suppl. 29BC (1992) 124","10.1016/0920-5632(92)90014-J",,"hep-ph hep-lat",,"  We review some recent work on nonperturbative properties of fermions and
+connections with chiral gauge theories. In particular, we consider one of the
+ultimate goals of this program: the understanding of the actual fermion mass
+spectrum. It is pointed out that if quarks and leptons are composite, their
+masses may be set by the physics of the preons and their interactions in such a
+manner as to differ considerably from the Yukawa form $m_f \propto v$ (where
+$v$ is the electroweak symmetry breaking scale) or analogous forms involving
+$v$. Some ideas of how this might work are given, and some implications are
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 30 Jun 1992 16:04:15 GMT""}]","2009-10-22"
+"hep-ph/9206265",,"Huazhong Zhang","Global Quantization in Gauge Orbit Space with Magnetic Monopoles As a
+  Solution to Strong CP Problem and the Relevance to $U_A(1)$ Problem","LBL-32531 (LaTex 28 pages)","J.Group Theor.Phys. 2 (1994) 55-80",,,"hep-ph",,"  We generalize our discussions and give more general physical applications of
+a new solution to the strong CP problem with magnetic monopoles as originally
+proposed by the author$^1$. Especially, we will discuss about the global
+topological structure in the relevant gauge orbit spaces to be clarified. As it
+is shown that in non-abelian gauge theories with a $\theta$ term, the induced
+gauge orbit space with gauge potentials and gauge functions restricted on the
+space boundary $S^2$ has a magnetic monopole structure and the gauge orbit
+space has a vortex structure if there is a magnetic monopole in the ordinary
+space. The Dirac's quantization conditions in the quantum theories ensure that
+the vacuum angle $\theta$ in the gauge theories must be quantized. The
+quantization rule is given by $\theta=2\pi/n~(n\neq 0)$ with n being the
+topological charge of the magnetic monopole. Therefore, the strong CP problem
+is automatically solved in the presence of a magnetic monopole of charge $\pm
+1$ with $\theta=\pm 2\pi$, or magnetic monopoles of very large total
+topological charge ($|n|\geq 10^92\pi$) if it is consistent with the abundance
+of magnetic monopoles. Where in the first case with a magnetic monopole of
+topological charge 1 or -1, we mean the strong CP-violation can be only very
+small by the measurements implemented so far. Since $\theta=\pm 2\pi$
+correspond to different monopole sectors, the CP can not be conserved exactly
+in strong interactions in this case. In the second case, the strong CP cannot
+be conserved either for large but finite n. The fact that the strong
+CP-violation measured so far can be only so small or vanishing may be a signal
+for the existence of magnetic monopoles. We also conjecture that the parity
+violation and CP violation in weak interaction fundamentally may intimately
+","[{""version"":""v1"",""created"":""Tue, 30 Jun 1992 19:19:31 GMT""},{""version"":""v2"",""created"":""Tue, 18 Aug 1992 20:45:25 GMT""}]","2008-02-03"
+"hep-ph/9206266","Stanley Myint","Stanley Myint","Baryogenesis Constraints on the Minimal Supersymmetric Model","9 pages (3 figures), LATEX, BUHEP-92-4","Phys.Lett. B287 (1992) 325-330","10.1016/0370-2693(92)90991-C",,"hep-ph astro-ph",,"  Requirement that the vacuum expectation values of Higgs fields immediately
+after the phase transition be large enough imposes constraints upon the
+parameters of the minimal supersymmetric model. In particular, one obtains the
+upper bound on the lighter CP-even Higgs mass and the soft supersymmetry
+breaking scale for different values of the top quark mass.
+","[{""version"":""v1"",""created"":""Tue, 30 Jun 1992 23:58:47 GMT""}]","2009-10-22"
+"hep-th/9206113",,"I. Tsutsui and L. Feher","On the Lagrangian Realization of the WZNW Reductions","15 pages, DIAS-STP-92-09/UdeM-LPN-TH-92-92","Phys.Lett. B294 (1992) 209-216","10.1016/0370-2693(92)90684-V",,"hep-th",,"  We develop a phase space path-integral approach for deriving the Lagrangian
+realization of the models defined by Hamiltonian reduction of the WZNW theory.
+We illustrate the uses of the approach by applying it to the models of
+non-Abelian chiral bosons, $W$-algebras and the GKO coset construction, and
+show that the well-known Sonnenschein's action, the generalized Toda action and
+the gauged WZNW model are precisely the Lagrangian realizations of those
+models, respectively.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 01:03:22 GMT""}]","2009-10-22"
+"hep-th/9206114","Ezer Melzer","Timothy R. Klassen and Ezer Melzer","Sine-Gordon =/= Massive Thirring, and Related Heresies","50 pages (harvmac unreduced), CLNS-92/1149, ITP-SB-92-36","Int.J.Mod.Phys. A8 (1993) 4131-4174","10.1142/S0217751X93001703",,"hep-th",,"  By viewing the Sine-Gordon and massive Thirring models as perturbed conformal
+field theories one sees that they are different (the difference being
+observable, for instance, in finite-volume energy levels). The UV limit of the
+former (SGM) is a gaussian model, that of the latter (MTM) a so-called {\it
+fermionic} gaussian model, the compactification radius of the boson underlying
+both theories depending on the SG/MT coupling. (These two families of conformal
+field theories are related by a ``twist''.) Corresponding SG and MT models
+contain a subset of fields with identical correlation functions, but each model
+also has fields the other one does not, e.g. the fermion fields of MTM are not
+contained in SGM, and the {\it bosonic} soliton fields of SGM are not in MTM.
+Our results imply, in particular, that the SGM at the so-called ``free-Dirac
+point'' $\beta^2 = 4\pi$ is actually a theory of two interacting bosons with
+diagonal S-matrix $S=-1$, and that for arbitrary couplings the overall sign of
+the accepted SG S-matrix in the soliton sector should be reversed. More
+generally, we draw attention to the existence of new classes of quantum field
+theories, analogs of the (perturbed) fermionic gaussian models, whose partition
+functions are invariant only under a subgroup of the modular group. One such
+class comprises ``fermionic versions'' of the Virasoro minimal models.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 03:11:52 GMT""},{""version"":""v2"",""created"":""Thu, 2 Jul 1992 01:24:55 GMT""}]","2009-10-22"
+"hep-th/9207001","Thomas Strobl","Thomas Strobl","All Symmetries of Non-Einsteinian Gravity in $d =2$","LaTex, 16 pages, TUW9207, (Some smaller corrections, cross-references
+  updated)","Int.J.Mod.Phys. A8 (1993) 1383-1398","10.1142/S0217751X93000576",,"hep-th",,"  The covariant form of the field equations for two--dimensional $R^2$--gravity
+with torsion as well as its Hamiltonian formulation are shown to suggest the
+choice of the light--cone gauge. Further a one--to--one correspondence between
+the Hamiltonian gauge symmetries and the diffeomorphisms and local Lorentz
+transformations is established, thus proving that there are no hidden local
+symmetries responsible for the complete integrability of the model. Finally the
+constraint algebra is shown to have no quantum anomalies so that Dirac's
+quantization should be applicable.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 11:18:44 GMT""},{""version"":""v2"",""created"":""Tue, 24 Nov 1992 13:22:01 GMT""}]","2009-10-22"
+"hep-th/9207002","Osorio & Vazquez-Mozo","M.A.R. Osorio and M.A. Vazquez-Mozo","Duality in Non-Trivially Compactified Heterotic Strings","(Preprint No. FTUAM-92/12) 17 pages","Phys.Rev.D47:3411-3420,1993","10.1103/PhysRevD.47.3411",,"hep-th",,"  We study the implications of duality symmetry on the analyticity properties
+of the partition function as it depends upon the compactification length. In
+order to obtain non-trivial compactifications, we give a physical prescription
+to get the Helmholtz free energy for any heterotic string supersymmetric or
+not. After proving that the free energy is always invariant under the duality
+transformation $R\rightarrow \alpha^{'}/(4R)$ and getting the zero temperature
+theory whose partition function corresponds to the Helmholtz potential, we show
+that the self-dual point $R_{0}=\sqrt{\alpha^{'}}/2$ is a generic singularity
+as the Hagedorn one. The main difference between these two critical
+compactification radii is that the term producing the singularity at the
+self-dual point is finite for any $R \neq R_{0}$. We see that this behavior at
+$R_{0}$ actually implies a loss of degrees of freedom below that point.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 14:44:44 GMT""}]","2010-11-01"
+"hep-th/9207003",,"Eduardo Fradkin, Enrique Moreno and Fidel A.Schaposnik","Ground state wave functionals for $1+1$-dimensional fermion field
+  theories","42 pages. P92-6-88","Nucl.Phys.B392:667-699,1993","10.1016/0550-3213(93)90521-P",,"hep-th",,"  We use path-\-integral methods to derive the ground state wave functions of a
+number of two-\-dimensional fermion field theories and related systems in
+one-\-dimensional many body physics. We derive the exact wave function for the
+Thirring/Luttinger and Coset fermion models and apply our results to derive the
+universal behavior of the wave functions of the Heisenberg antiferromagnets and
+of the Sutherland model. We find explicit forms for the wave functions in the
+density and in the Grassmann representations. We show that these wave functions
+always have the Jastrow factorized form and calculated the exponent. Our
+results agree with the exponents derived from the Bethe Ansatz for the
+Sutherland model and the Haldane-\-Shastri spin chain but apply to all the
+systems in the same universality class.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 15:14:29 GMT""}]","2010-11-01"
+"math/9207209","Peter W. Michor","Andreas Cap, Andreas Kriegl, Peter W. Michor, Ji\v{r}i Van\v{z}ura","The Fr\""olicher-Nijenhuis bracket in non-commutative differential
+  geometry",,"Acta Math. Univ. Comenianae 62 (1993), 17-49",,"Michor 99-08","math.QA math.FA",,"  We carry over to a quite general noncommutative setting some of the basic
+tools of differential geometry, using from the very beginning the setting of
+convenient vector spaces developed by Froelicher and Kriegl, which allows to
+carry all of multilinear algebra into this kind of functional analysis with
+suitably completed tensor products. In the first section we give a short
+description of the setting of convenient spaces elaborating those aspects which
+are needed later. Then we repeat the usual construction of noncommutative
+differential forms for convenient algebras. Next they show that the bimodule
+$\Omega\sb n (A)$ of universal non-commutative $n$-forms represents the functor
+of the normalized Hochschild $n$-cocycles. In the third section we introduce
+the noncommutative version of the Froelicher-Nijenhuis bracket by investigating
+all bounded graded derivations of the algebra of differential forms. This
+bracket is then used to formulate the concept of integrability and
+involutiveness for distributions and to indicate a route towards a theorem of
+Frobenius. This is then used to discuss bundles and connections in the
+noncommutative setting and to go some steps towards a noncommutative Chern-Weil
+homomorphism. In the final section we give a brief description of the
+noncommutative version of the Schouten-Nijenhuis bracket and describe Poisson
+structures.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9207210",,"Shreeram S. Abhyankar","Galois theory on the line in nonzero characteristic","66 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 68-133",,"Bulletin migration 11/99","math.NT math.GR",,"  The author surveys Galois theory of function fields with non-zero
+caracteristic and its relation to the structure of finite permutation groups
+and matrix groups.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9207211","Ara Basmajian","Ara Basmajian","Generalizing the hyperbolic collar lemma","5 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 154-158",,"Bulletin migration 11/99","math.DG math.GT",,"  We discuss two generalizations of the collar lemma. The first is the stable
+neighborhood theorem which says that a (not necessarily simple) closed geodesic
+in a hyperbolic surface has a \lq\lq stable neighborhood\rq\rq whose width only
+depends on the length of the geodesic. As an application, we show that there is
+a lower bound for the length of a closed geodesic having crossing number $k$ on
+a hyperbolic surface. This lower bound tends to infinity with $k$. Our second
+generalization is to totally geodesic hypersurfaces of hyperbolic manifolds.
+Namely, we construct a tubular neighborhood function and show that an embedded
+closed totally geodesic hypersurface in a hyperbolic manifold has a tubular
+neighborhood whose width only depends on the area of the hypersurface (and
+hence not on the geometry of the ambient manifold). The implications of this
+result for volumes of hyperbolic manifolds is discussed. We also derive a
+(hyperbolic) quantitative version of the Klein-Maskit combination theorem (in
+all dimensions) for free products of fuchsian groups. Using this last theorem,
+we construct examples to illustrate the qualitative sharpness of the tubular
+neighborhood function.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9207212",,"Michael G. Crandall, Hitoshi Ishii, Pierre-Louis Lions","user's guide to viscosity solutions of second order partial differential
+  equations","67 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 1-67",,"Bulletin migration 11/99","math.AP",,"  The notion of viscosity solutions of scalar fully nonlinear partial
+differential equations of second order provides a framework in which startling
+comparison and uniqueness theorems, existence theorems, and theorems about
+continuous dependence may now be proved by very efficient and striking
+arguments. The range of important applications of these results is enormous.
+This article is a self-contained exposition of the basic theory of viscosity
+solutions.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9207213","Fulvio Ricci","Ewa Damek, Fulvio Ricci","A class of nonsymmetric harmonic Riemannian spaces","4 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 139-142",,"Bulletin migration 11/99","math.DG math.RT",,"  Certain solvable extensions of $H$-type groups provide noncompact
+counterexamples to the so-called Lichnerowicz conjecture, which asserted that
+``harmonic'' Riemannian spaces must be rank 1 symmetric spaces.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9207214","Alexandre Eremenko","Alexandre Er\""emenko","A counterexample to the Arakelyan Conjecture","6 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 159-164",,"Bulletin migration 11/99","math.CV",,"  A ``self--similar'' example is constructed that shows that a conjecture of N.
+U. Arakelyan on the order of decrease of deficiencies of an entire function of
+finite order is not true.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9207215","Scott Wolpert","Carolyn Gordon, David L. Webb, Scott Wolpert","One cannot hear the shape of a drum","5 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 134-138",,"Bulletin migration 11/99","math.DG",,"  We use an extension of Sunada's theorem to construct a nonisometric pair of
+isospectral simply connected domains in the Euclidean plane, thus answering
+negatively Kac's question, ``can one hear the shape of a drum?'' In order to
+construct simply connected examples, we exploit the observation that an
+orbifold whose underlying space is a simply connected manifold with boundary
+need not be simply connected as an orbifold.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9207216",,"Samuel L. Krushkal","The Green function of Teichm\""uller spaces with applications","5 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 143-147",,"Bulletin migration 11/99","math.CV",,"  We describe briefly a new approach to some problems related to Teichm\""uller
+spaces, invariant metrics, and extremal quasiconformal maps. This approach is
+based on the properties of plurisubharmonic functions, especially of the
+plurisubharmonic Green function. The main theorem gives an explicit
+representation of the Green function for Teichm\""uller spaces by the
+Kobayashi-Teichm\""uller metric of these spaces. This leads to various
+applications. In particular, this gives a new characterization of extremal
+quasiconformal maps.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9207217",,"John Martino, Stewart Priddy","A Classification of the Stable Type of $BG$","6 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 165-170",,"Bulletin migration 11/99","math.AT math.GR",,"  We give a classification of the $p$--local stable homotopy type of $BG$,
+where $G$ is a finite group, in purely algebraic terms. $BG$ is determined by
+conjugacy classes of homomorphisms from $p$--groups into $G$. This
+classification greatly simplifies if $G$ has a normal Sylow $p$--subgroup; the
+stable homotopy types then depends only on the Weyl group of the Sylow
+$p$--subgroup. If $G$ is cyclic mod $p$ then $BG$ determines $G$ up to
+isomorphism. The last class of groups is important because in an appropriate
+Grothendieck group $BG$ can be written as a unique linear combination of
+$BH$'s, where $H$ is cyclic mod $p$.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9207218",,"Herbert S. Wilf, Doron Zeilberger","Rational function certification of multisum/integral/``$q$'' identities","6 pages","Bull. Amer. Math. Soc. (N.S.) 27 (1992) 148-153",,"Bulletin migration 11/99","math.CO math.CA",,"  The method of rational function certification for proving terminating
+hypergeometric identities is extended from single sums or integrals to
+multi-integral/sums and ``$q$'' integral/sums.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9207221","Maggie McLoughlin","Donald E. Knuth","Convolution polynomials",,"Mathematica J. 2 (1992), no. 4, 67--78",,"Knuth migration 11/2004","math.CA",,"  The polynomials that arise as coefficients when a power series is raised to
+the power $x$ include many important special cases, which have surprising
+properties that are not widely known. This paper explains how to recognize and
+use such properties, and it closes with a general result about approximating
+such polynomials asymptotically.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 00:00:00 GMT""}]","2008-02-03"

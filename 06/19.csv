@@ -1,0 +1,130 @@
+"cond-mat/9206006","Randall Kamien","Randall D. Kamien and David R. Nelson","Directed Polymer Blends and Quantum Critical Phenomena","23 pages (requires harvmac), figures upon request","J. Stat. Phys. 71 (1993) 23","10.1007/BF01048086",,"cond-mat",,"  The statistical mechanics of directed line-like objects, such as directed
+polymers in an external field, strands of dipoles in both ferro- and
+electrorheological fluids, and flux lines in high-$T_{\tiny C}$ superconductors
+bears a close resemblance to the quantum mechanics of bosons in $2+1$
+dimensions. We show that single component and binary mixture critical phenomena
+in these systems are in the universality class of three dimensional uniaxial
+dipolar ferromagnets and ferroelectrics. Our results also apply to films of two
+superfluid species undergoing phase separation well below their
+$\lambda$-points near $T=0$. In the case of directed polymers and
+electrorheological fluids we analyze the effects of free ends occurring in the
+sample as well as a novel directionally-dependent compressibility.
+","[{""version"":""v1"",""created"":""Thu, 18 Jun 1992 17:06:14 GMT""}]","2009-10-22"
+"cond-mat/9206007","Alexei Tsvelik","A. M. Tsvelik","New Fermionic Description of Quantum S = 1/2 Antiferromargnet","4 pages",,"10.1103/PhysRevLett.69.2142",,"cond-mat",,"  A novel approach to S =1/2 antiferromagnets with strong fluctuations based on
+the representation of spin-1/2 operators as bylinear forms of real (Majorana)
+fermions is suggested. This representation has the advantage of being
+irreducible without any constraints on the fermionic Hilbert space. This
+property allows to derive an effective Hamiltonian for low-lying excitations in
+the spin liquid state. It is proven that these excitations are S = 1 real
+fermions.
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 15:01:24 GMT""}]","2009-10-22"
+"hep-ph/9206233","Dave Bennett","David P. Bennett, Albert Stebbins, and Francois R. Bouchet","The Implications of the COBE-DMR Results for Cosmic Strings","8 pages, 1 figure (included). UCRL-JC-110803","Astrophys.J.399:L5-L8,1992","10.1086/186592",,"hep-ph astro-ph",,"  We compare the anisotropies in the cosmic microwave background radiation
+measured by the COBE experiment to the predictions of cosmic strings. We use an
+analytic model for the $\Delta T/T$ power spectrum that is based on our
+previous numerical simulations to show that the COBE results imply a value for
+the string mass per unit length, $\mu$ under the assumption that cosmic strings
+are the source of the measured anisotropy. We find $G\mu = 1.5\pm 0.5 \times
+10^{-6}$ which is consistent with the value of $\mu$ thought to be required for
+cosmic strings to seed galaxy formation.
+","[{""version"":""v1"",""created"":""Thu, 18 Jun 1992 23:32:58 GMT""}]","2009-10-22"
+"hep-ph/9206234","Dave Bennett","Sun Hong Rhie and David P. Bennett","Hopf Textures","18 pages, 13 figures (not included, but available on request)",,,"UCRL-JC-110560","hep-ph",,"  A Hopf texture is a vacuum field configuration of isovector fields which is
+an onto map from the space as a large three sphere to the vacuum manifold
+$S^2$. We construct a Hopf texture with spherically symmetric energy density
+and discuss the topological charge. A Hopf texture collapses, and we study the
+collapse process numerically. In our simulations, it is clear that a Hopf
+texture does not decay into a pair of monopoles. We also argue that the
+probability of forming Hopf textures in random processes is very small compared
+to that of global monopoles.
+","[{""version"":""v1"",""created"":""Thu, 18 Jun 1992 23:57:27 GMT""}]","2007-05-23"
+"hep-ph/9206235","D. Brahm","C.G. Boyd, D.E. Brahm, & S.D.H. Hsu","Corrections to the Electroweak Effective Action at Finite Temperature","LaTeX, 6 figures available by email, CALT-68-1795, HUTP-92-A027,
+  EFI-92-22","Phys.Rev. D48 (1993) 4952-4962","10.1103/PhysRevD.48.4952",,"hep-ph",,"  We calculate contributions to the finite temperature effective action for the
+electroweak phase transition (EWPT) at $\O(g^4)$, {\it i.e.} at second order in
+$(g^2 T/\M)$ and all orders in $(g^2 T^2/\M^2)$. This requires plasma-mass
+corrections in the calculation of the effective potential, inclusion of the
+``lollipop'' diagram, and an estimate of derivative corrections. We find the
+EWPT remains too weakly first-order to drive baryogenesis. We calculate some
+one loop kinetic energy corrections using both functional and diagrammatic
+methods; these may be important for saddlepoint configurations such as the
+bounce or sphaleron.
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 07:03:43 GMT""}]","2009-10-22"
+"hep-ph/9206236",,"Johan Bijnens, Christophe Bruno and Eduardo de Rafael","Nambu Jona-Lasinio Like Models and the Low Energy Effective Action of
+  QCD","50 pages, LaTeX, 4 LaTeX figures included","Nucl.Phys.B390:501-541,1993","10.1016/0550-3213(93)90466-3","CERN TH 6521/92, CPT-92 / P.2710","hep-ph",,"  We present a derivation of the low energy effective action of an extended
+Nambu Jona-Lasinio (ENJL) model to $O(p^4)$ in the chiral counting. Two
+alternative scenarios are considered on how the ENJL model could originate as a
+low energy approximation to QCD. The low energy effective Lagrangian we derive
+includes the usual pseudoscalar Goldstone modes, as well as the lower scalar,
+vector and axial-vector degrees of freedom. By taking appropriate limits, we
+recover most of the effective low-energy models discussed in the literature; in
+particular the gauged Yang-Mills vector Lagrangian, the Georgi-Manohar
+constituent quark-meson model, and the QCD effective action approach model.
+Another property of the ensuing effective Lagrangian is that it incorporates
+most of the short-distance relations which follow from QCD. (We derive these
+relations in the presence of all possible gluonic interactions to leading order
+in the $1/N_c$-expansion.) Finally the numerical predictions are compared to
+the experimental values of the low energy parameters
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 09:26:28 GMT""}]","2011-07-19"
+"hep-th/9206072","Robert C. Myers","J.R. Anglin and R.C. Myers","Wormholes and Supersymmetry","29 pages, jnl, McGill/92-21","Phys.Rev. D46 (1992) 2469-2479","10.1103/PhysRevD.46.2469",,"hep-th",,"  Revisions: reference added to: G. Gilbert, {\sl Nucl.Phys.} {\bf B328}, 159
+(1989)
+","[{""version"":""v1"",""created"":""Thu, 18 Jun 1992 18:23:33 GMT""},{""version"":""v2"",""created"":""Tue, 23 Jun 1992 17:30:57 GMT""}]","2009-10-22"
+"hep-th/9206073","Ted Allen","Theodore J. Allen and Andrew J. Bordner","Charged Vortex Dynamics in Ginzburg-Landau Theory of the Fractional
+  Quantum Hall Effect","28 pages + 1 Figure, new phyzzx macro (included), MAD/TH-92-02","Int.J.Mod.Phys. A10 (1995) 645-666","10.1142/S0217751X95000292",,"hep-th cond-mat",,"  We write a Ginzburg-Landau Hamiltonian for a charged order parameter
+interacting with a background electromagnetic field in 2+1 dimensions. Using
+the method of Lund we derive a collective coordinate action for vortex defects
+in the order parameter and demonstrate that the vortices are charged. We
+examine the classical dynamics of the vortices and then quantize their motion,
+demonstrating that their peculiar classical motion is a result of the fact that
+the quantum motion takes place in the lowest Landau level. The classical and
+quantum motion in two dimensional regions with boundaries is also investigated.
+The quantum theory is not invariant under magnetic translations. Magnetic
+translations add total time derivative terms to the collective action, but no
+extra constants of the motion result.
+","[{""version"":""v1"",""created"":""Thu, 18 Jun 1992 18:39:00 GMT""}]","2015-06-26"
+"hep-th/9206074",,"Alexander Moroz","Quantum Field Theory as a Problem of Resummation (Short guide to using
+  summability methods)","Plain latex, 82 pp, 8 figures (ask author)) PhD Thesis, Prague, July
+  1991",,,,"hep-th cond-mat funct-an hep-lat hep-ph math.FA",,"  Thesis includes review on the large order behaviour of perturbation theory in
+quantum mechanical and field theory models; generalization of the Borel
+summability and strong asymptotic conditions to various (including horn-shaped)
+regions; discussion of analytic aspects of perturbation theory; examples which
+demonstrate differences between the Borel summability and generalized one;
+application to the Rayleigh-Schr\""{o}dinger perturbation theory and to the
+definition of the operator valued functions. The new summability methods
+converges in the whole Mittag-Leffeler star of an analytical function and as
+such is useful for localization of singularities in the complex plane. Their
+position can be calculated even analytically provided large order behaviour of
+the Taylor series is known. Method can be implemented numerically as well.
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 13:14:28 GMT""}]","2008-02-03"
+"hep-th/9206075","Zoltan Bajnok","Z. Bajnok, L.Palla, G. Takacs","A2 Toda theory in reduced WZNW framework and the representations of the
+  W algebra","38 pages","Nucl.Phys.B385:329-360,1992","10.1016/0550-3213(92)90104-J","ITP Budapest Rep. No 491","hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Using the reduced WZNW formulation we analyse the classical $W$ orbit content
+of the space of classical solutions of the $A_2$ Toda theory. We define the
+quantized Toda field as a periodic primary field of the $W$ algebra satisfying
+the quantized equations of motion. We show that this local operator can be
+constructed consistently only in a Hilbert space consisting of the
+representations corresponding to the minimal models of the $W$ algebra.
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 13:50:44 GMT""},{""version"":""v2"",""created"":""Wed, 14 Dec 2011 07:13:52 GMT""}]","2011-12-15"
+"hep-th/9206076","Ergin Sezgin","A. Das, E. Sezgin and Z. Khviengia","Self-Duality in 3+3 Dimensions and the KP Equation","Plain Tex, 12 pages, UR-1259, ER-40685-711, CTP TAMU-31/92","Phys.Lett. B289 (1992) 347-353","10.1016/0370-2693(92)91230-7",,"hep-th",,"  We consider two types of generalized self-duality conditions for Yang-Mills
+fields on paracomplex manifolds of arbitrary dimension. We then specialize to
+$3+3$ dimensions and show how one can obtain the KP equation from these
+self-duality conditions on $SL(2,R)$ valued gauge fields.
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 13:08:03 GMT""}]","2009-10-22"
+"hep-th/9206077",,"John Ellis, N.E. Mavromatos and D.V. Nanopoulos","World-Sheet Duality, Space-Time Foam, and the Quantum Fate of a Stringy
+  Black Hole","16 pages, CERN-TH.6534/92, (correction of a minor typographical error
+  on page 12)","Phys.Lett.B289:25-34,1992","10.1016/0370-2693(92)91357-F",,"hep-th",,"  We interpret Minkowski black holes as world-sheet {\it spikes } which are
+related by world-sheet { \it duality} to {\it vortices } that correspond to
+Euclidean black holes. These world-sheet defects induce defects in the gauge
+fields of the corresponding coset Wess-Zumino descriptions of
+spherically-symmetric black holes. The low-temperature target space-time foam
+is a Minkowski black hole (spike) plasma with confined Euclidean black holes
+(vortices). The high-temperature phase is a {\it dense} vortex plasma described
+by a topological gauge field theory on the world-sheet, which possesses
+enhanced symmetry as in the target space-time singularity at the core of a
+black hole. Quantum decay via higher-genus effects induces a back-reaction
+which causes a Minkowski black hole to lose mass until it is indistinguishable
+from intrinsic fluctuations in the space-time foam.
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 14:57:56 GMT""},{""version"":""v2"",""created"":""Sat, 20 Jun 1992 15:09:15 GMT""}]","2009-09-11"
+"hep-th/9206078",,"Chiara R. Nappi and Edward Witten","A Closed, Expanding Universe in String Theory","10 pp","Phys.Lett.B293:309-314,1992","10.1016/0370-2693(92)90888-B","IASSNS-HEP-92/38","hep-th",,"  We present a conformal field theory -- obtained from a gauged WZW model --
+that describes a closed, inhomogeneous expanding and recollapsing universe in
+$3+1$ dimensions. A possible violation of cosmic censorship is avoided because
+the universe recollapses just when a naked singularity was about to form. The
+model has been chosen to have $c=4$ (or $\widehat c=4$ in the supersymmetric
+case), just like four dimensional Minkowski space.
+","[{""version"":""v1"",""created"":""Fri, 19 Jun 1992 15:37:00 GMT""}]","2010-04-07"

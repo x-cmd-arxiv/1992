@@ -1,0 +1,53 @@
+"cond-mat/9207006",,"Per Arne Slotte","Phase Diagram of a Lattice Microemulsion Model in Two Dimensions","25 pages + 7 figures",,"10.1103/PhysRevA.46.6469",,"cond-mat",,"  The phase diagram of a lattice microemulsion model proposed by Ciach, H{\o}ye
+and Stell is studied using mean-field theory and Monte Carlo simulations.
+Surfactant directional degrees of freedom are summed out exactly before
+mean-field theory is applied, and the resulting phase diagrams are much
+improved compared with previous mean-field results. The critical line and
+tricritical point is located using Monte Carlo simulations and finite size
+scaling.
+","[{""version"":""v1"",""created"":""Mon, 6 Jul 1992 09:39:55 GMT""}]","2009-10-22"
+"cond-mat/9207007",,"F. Guinea and M. Ueda","Low voltage conductance of small tunnel junctions","8 pages (RevTex). Figures upon request",,,,"cond-mat",,"  A discrete charge transfer in a small tunnel junction where Coulomb
+interactions are important can excite electron-hole pairs near the Fermi level.
+We use a simple model to study the associated nonequilibrium properties and
+found two novel effects: (i) for junctions with electrodes of the same
+electronic properties, a leakage current exists within the Coulomb gap even
+when the environmental impedance is infinite; (ii) for junctions with
+electrodes of different electronic properties, the differential conductance
+diverges when a net interaction between conduction electrons is attractive, and
+it is strongly suppressed for a net repulsive interaction.
+","[{""version"":""v1"",""created"":""Mon, 6 Jul 1992 15:29:00 GMT""}]","2007-05-23"
+"hep-ph/9207216",,"Mirjam Cveti\v{c} and Paul Langacker","$V'Z$ and $V'W$ Production as Tests of Heavy Gauge Boson Couplings at
+  Future Hadron Colliders","27 pages, 14 figures (not included), PHYZZX and TABLES, UPR-0514T","Phys.Rev.D46:4943,1992; Erratum-ibid.D48:4484,1993;
+  Phys.Rev.D48:4484,1993","10.1103/PhysRevD.46.4943 10.1103/PhysRevD.48.4484",,"hep-ph",,"  We point out that the production cross section of $pp\to V'V$, with
+$V'=W',Z'$ and $V=W,Z$ is a useful diagnostic of $V'$ gauge couplings at future
+hadron colliders. For $M_{Z'}\simeq1$ TeV it would allow determination of
+combinations of $Z'$ gauge couplings to the quarks to around 10 percent. An
+analysis of the extraction of gauge couplings from the complementary tests:
+forward-backward asymmetry, rare decays $pp\to V'\to f_1{\bar f_2}V$, and the
+production cross section $pp\to V'V$ is given in a model-independent framework.
+Four ratios of charges are needed to characterize a general gauge theory with
+an additional family-independent $U_1'$ factor. We show that there are four
+functions of these ratios observable at hadron colliders, but for projected SSC
+and LHC luminosities only two combinations can be extracted. These yield a
+significant discrimination between interesting GUT-motivated models. Clean
+tests of whether a new $W'$ couples to right-handed currents, of the ratio
+$g_R/g_L$ of gauge couplings, and of the non-abelian vertex in left-right
+symmetric models are described.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1992 20:11:03 GMT""}]","2014-11-17"
+"hep-th/9207014",,"Zhu Yang","A Note on ``Anomalous"" Chiral Gauge Theories","5 pages, UR-1264","Phys.Lett. B296 (1992) 151-153","10.1016/0370-2693(92)90817-N",,"hep-th hep-lat",,"  We show that, the lattice regularization of chiral gauge theories proposed by
+Kaplan, when applied to a (2+1)-dimensional domain wall, produces a
+(1+1)-dimensional theory at low energy even if gauge anomaly produced by chiral
+fermions does not cancel. But the corresponding statement is not true in higher
+dimensions.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1992 19:35:00 GMT""}]","2009-10-22"
+"hep-th/9207015",,"N.J.MacKay","The full set of $c_n$-invariant factorized $S$-matrices","10pp","J.Phys. A25 (1992) L1343-L1350","10.1088/0305-4470/25/24/001",,"hep-th",,"  We use the method of the tensor product graph to construct rational (Yangian
+invariant) solutions of the Yang-Baxter equation in fundamental representations
+of $c_n$ and thence the full set of $c_n$-invariant factorized $S$-matrices.
+Brief comments are made on their bootstrap structure and on Belavin's scalar
+Yangian conserved charges.
+","[{""version"":""v1"",""created"":""Mon, 6 Jul 1992 13:21:04 GMT""},{""version"":""v2"",""created"":""Wed, 8 Jul 1992 15:05:56 GMT""}]","2015-06-26"
+"math/9207219","Grzegorz Swiatek","Grzegorz Swiatek","Hyperbolicity is dense in the real quadratic family",,,,"Stony Brook IMS 1992/10","math.DS",,"  It is shown that for non-hyperbolic real quadratic polynomials topological
+and quasisymmetric conjugacy classes are the same. By quasiconformal rigidity,
+each class has only one representative in the quadratic family, which proves
+that hyperbolic maps are dense.
+","[{""version"":""v1"",""created"":""Mon, 6 Jul 1992 00:00:00 GMT""}]","2009-09-25"

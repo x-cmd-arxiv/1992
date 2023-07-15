@@ -1,0 +1,173 @@
+"hep-lat/9211030","Gerrit Schierholz","M. Goeckeler and G. Schierholz","A method for putting chiral fermions on the lattice","4 pages, HLRZ 92-81","Nucl.Phys.Proc.Suppl.30:609-612,1993","10.1016/0920-5632(93)90285-E",,"hep-lat",,"  We describe a method to put chiral gauge theories on the lattice. Our method
+makes heavy use of the effective action for chiral fermions in the continuum,
+which is in general complex. As an example we discuss the chiral Schwinger
+model.
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 17:45:01 GMT""}]","2014-11-17"
+"hep-lat/9211031","Marcus Speh","M. Baeker, G. Mack and M. Speh","Multigrid meets Neural Nets","contribution to LATTICE '92, 4 pages, LaTeX [revised version: no
+  change in content; problems printing PS figures corrected]","Nucl. Phys. Proc. Suppl. 30 (1993) 269","10.1016/0920-5632(93)90206-L",,"hep-lat",,"  We present evidence that multigrid (MG) works for wave equations in
+disordered systems, e.g. in the presence of gauge fields, no matter how strong
+the disorder. We introduce a ""neural computations"" point of view into large
+scale simulations: First, the system must learn how to do the simulations
+efficiently, then do the simulation (fast). The method can also be used to
+provide smooth interpolation kernels which are needed in multigrid Monte Carlo
+updates.
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 18:46:20 GMT""},{""version"":""v2"",""created"":""Wed, 25 Nov 1992 20:58:35 GMT""}]","2009-10-22"
+"hep-lat/9211032","Kenton Yee","Ken Yee","Decoupling of Photon Propagator in Compact QED","(Postscript file fixed; see file header.) 4 pages, DOE/ER/40617-135
+  and LSUHEP-10-92","Nucl.Phys.Proc.Suppl. 30 (1993) 583-586","10.1016/0920-5632(93)90279-F",,"hep-lat",,"  In compact QED$_{2+1}$ quantum monopole fluctuations induce confinement by
+expelling electric flux in a dual Meissner effect. Guided by Landau-Ginzburg
+theory, one might guess that the inverse London penetration depth
+$\lambda^{-1}$---the only physical mass scale---equals the photon propagator
+mass pole $M_\gamma$. I show this is not true. Indeed, in the Villain
+approximation the monopole part of the partition function factorizes from the
+photon part, whose dynamical variables are Dirac strings. Since Dirac strings
+are gauge-variant structures, I conclude that $M_\gamma$ is physically
+irrelevant: it is not a blood relative of $\lambda$ or any other quantity in
+the gauge-invariant sector. This result is confirmed by numerical simulations
+in the full theory, where $M_\gamma$ is not sensitive to monopole prohibition
+but essentially vanishes if Dirac strings are prohibited.
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 21:25:22 GMT""},{""version"":""v2"",""created"":""Fri, 13 Nov 1992 00:23:43 GMT""}]","2009-10-22"
+"hep-lat/9211033","Simon M. Catterall","S.Catterall, F.Devlin, I.Drummond, R.Horgan, A. Simpson","Non-Relativistic QCD for Heavy Quark Systems","13 pages, DAMTP-92-70","Phys.Lett.B300:393-399,1993","10.1016/0370-2693(93)91352-N",,"hep-lat",,"  We employ a nonrelativistic version of QCD (NRQCD) to study heavy
+quark-antiquark bound states in the lowest approximation without fine
+structure. We use gluon configurations on a 16^3 by 48 lattice at beta=6.2 from
+the UKQCD collaboration. For quark masses in the vicinity of the b we obtain
+bound state masses for S, P and both types of D wave. We also detect signals
+for two types of hybrids (quark,antiquark,gluon states). The results are
+sufficiently accurate to confirm that the values of the D wave mass from both
+lattice D waves coincide indicating that the cubical invariance of the lattice
+is restored to full rotational invariance at large distance.
+  Our results also show that the S-P splitting is indeed insensitive to
+variations in the bare quark mass from Ma=1.0 to Ma=1.9.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 10:45:19 GMT""},{""version"":""v2"",""created"":""Mon, 16 Nov 1992 14:13:32 GMT""}]","2010-11-01"
+"hep-lat/9211034",,"He-Ping Ying and Uwe-Jens Wiese (Bern University)","Blockspin Scheme and Cluster Algorithm for Quantum Spin Systems","contribution to the Amsterdam Lattice '92 conference, 4 pages,
+  figures not included, stylefile espcrc2.sty required, BUTP-92/33",,,,"hep-lat",,"  We present a numerical study using a cluster algorithm for the 1-d $S=1/2$
+quantum Heisenberg models. The dynamical critical exponent for
+anti-ferromagnetic chains is $z=0.0(1)$ such that critical slowing down is
+eliminated.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 11:22:35 GMT""}]","2007-05-23"
+"hep-lat/9211035","Kazuyuki Kanaya","Y. Iwasaki, K. Kanaya, S. Sakai, and T. Yoshie","Quark Confinement in Multi-Flavor Quantum Chromodynamics","(Talk presented by K. Kanaya at Lattice 92, Sept.1992, Amsterdam), 4
+  pages with 7 PostScript figures, LaTeX (espcrc2.sty required), UTHEP-247","Nucl. Phys. Proc. Suppl. 30 (1993) 327","10.1016/0920-5632(93)90219-V",,"hep-lat",,"  It is investigated how quark confinement depends on the number of flavors,
+$N_f$, in QCD on the lattice with Wilson quarks. We strengthen and extend the
+conclusion reported at {\it Lattice 91}: (1) For $N_f \le 6$ the finite
+temperature deconfining transition/crossover line crosses the chiral limit at
+finite $\beta$. We identify the crossing point for $N_f=2$ and 6 on a $T=4$
+lattice, where $T$ is the lattice size in the temporal direction. We find the
+phase transition at the crossing point is continuous for $N_f=2$, while it is
+of first order for $N_f=6$. (2) For $N_f \ge 7$, the $T$-independent
+deconfining transition observed at $\beta=0$ extends up to $\beta=4.5$ with the
+critical quark mass $m_{\rm quark} = O(a^{-1})$, where $a$ is the lattice
+spacing.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 13:00:26 GMT""}]","2009-10-22"
+"hep-ph/9211238",,"B.H. Smith","Properties of perturbative multi-particle amplitudes in $\phi^k$ and
+  $O(N)$ theories","7 pages, LaTex, TPI-MINN-92/60-T","Phys.Rev. D47 (1993) 3521-3524","10.1103/PhysRevD.47.3521",,"hep-ph",,"  Threshold amplitudes are considered for multi-particle production in $\phi^k$
+and $O(N) ~\phi^4$ theories. It is found that the disappearance of tree-level
+threshold amplitudes of $2$ on-shell particles producing a large number of
+particles occurs in $\phi^k$ theory only for $k=3$ and $k=4$. The one-loop
+correction to the threshold amplitude for a highly virtual scalar particle
+decaying into $n$ particles in an $O(N)$ model is derived.
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 20:28:11 GMT""}]","2009-10-22"
+"hep-ph/9211239",,"J. Schechter, A. Subbaraman and H. Weigel","Effective Hadron Dynamics: From Meson Masses to the Proton Spin Puzzle","33 pages, LaTeX","Phys.Rev. D48 (1993) 339-355","10.1103/PhysRevD.48.339","SU-4240-525","hep-ph",,"  We construct a three flavor chiral Lagrangian of pseudoscalars and vectors
+with special emphasis on the symmetry breaking terms. Comparing tree level two
+and three point functions with experiment allows us to first, fix the
+parameters of the model (including the light quark mass ratios) and second, to
+predict $m(K^{*+})-m(K^{*\circ}),\, \Gamma(K^*\rightarrow K\pi)$ and
+$\Gamma(\phi\rightarrow K {\overline K})$. The last mentioned quantities come
+out reasonably well, in contrast to an ``ordinary"" $SU(3)$ treatment. For this
+purpose we need ``second order"" symmetry breakers involving the vector fields
+analogous to those needed for the chiral perturbation theory program with only
+pseudoscalars. An improved description of the $\eta-\eta^\prime$ system is also
+given. We then use the soliton sector of this improved chiral Lagrangian to
+investigate some aspects of baryon physics which are especially sensitive to
+symmetry breaking. For this purpose a fairly elaborate ``cranking"" techinque is
+employed in connection with the collective Hamiltonian. In addition to the
+``strong"" baryon mass spectrum a careful investigation is made of the
+non-electromagnetic part of the neutron-proton mass difference. This work is
+needed to improve our previous estimates concerning the two component approach
+to the ``proton spin"" puzzle. We find that both the ``matter"" and ``glue""
+contributions are small but they do tend to cancel each other.
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 20:28:00 GMT""}]","2009-10-22"
+"hep-ph/9211240",,"Rohini M. Godbole and Probir Roy","Debajyoti Choudhury",,"Phys.Lett. B308 (1993) 394-402; Erratum-ibid. B314 (1993) 482","10.1016/0370-2693(93)91304-6",,"hep-ph",,"  Gluon fusion into a very heavy neutrino pair by Higgs exchange is shown to
+lead to substantial production cross sections at $pp$ supercolliders even
+without any extra generation of quarks. Rates are calculated for scalar as well
+as pseudoscalar Higgs. The angular correlation between dileptons emerging from
+the decays of the neutrinos shows distinctive features for Dirac and Majorana
+neutrinos as well as for scalar and pseudoscalar Higgs.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 14:52:00 GMT""}]","2009-10-22"
+"hep-th/9211049","Paul F. Mende","Julian Lee and Paul F. Mende","Semiclassical Tunneling in 1+1 Dimensional String Theory","16 pp., phyzzx macros","Phys.Lett. B312 (1993) 433-440","10.1016/0370-2693(93)90979-R","BROWN-HET-880","hep-th",,"  We describe time-dependent tunneling of massless particles in 1+1 dimensional
+string field theory. Polchinski's description of the classical solutions in
+terms of the Fermi sea is used to identify the leading instanton contribution
+connecting the two half-lines. The field theory lagrangian is proportional to
+$1/g^2$, where $g$ is the string coupling constant, but the $S$-matrix for
+tunneling from one half-line to the other behaves as $\exp(-C/g)$. We note the
+constant~$C$ involves curious boundary contributions and observe that a
+prescription connecting the two half-lines unifies treatments of the Fermi
+level above and below the barrier. We also note the relation to recent work of
+Brustein and Ovrut.
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 23:36:29 GMT""}]","2009-10-22"
+"hep-th/9211050",,"Enrique Alvarez","Some General Problems in Quantum Gravity II: The Three Dimensional Case","22 pages","Int.J.Mod.Phys. D2 (1993) 1-14","10.1142/S0218271893000027",,"hep-th",,"  The general problems of three-dimensional quantum gravity are recatitulated
+here, putting the emphasis on the mathematical problems of defining the measure
+of the path integral over all three-dimensional metrics.This work should be
+viewed as an extension of a preceding one on the four dimensional case
+(\cite{kn:eav5}), where also some general ideas are discussed in detail. We
+finally put forward some suggestions on the lines one could expect further
+progress in the field.
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 19:34:41 GMT""}]","2009-10-22"
+"hep-th/9211051",,"C.N. Pope","Physical States in the $W_3$ String","14 pages",,,,"hep-th",,"  We present a review of some of the recent developments in the study of the
+$W_3$ string. One of the interesting features of the theory is that the
+physical spectrum includes states with non-standard ghost structure, such as
+excitations of the ghost fields, both for discrete-momentum and
+continuous-momentum states. (Contribution to the Proceedings of the 16'th Johns
+Hopkins Workshop on Current Problems in Particle Physics, Gothenburg, Sweden,
+June 1992)
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 20:39:25 GMT""}]","2007-05-23"
+"hep-th/9211052",,"Franco Ferrari","Multivalued Fields on the Complex Plane and Conformal Field Theories","(revised version), 30 pages + one figure (not included), (requires
+  harvmac.tex), LMU-TPW 92-13","Commun.Math.Phys. 156 (1993) 179-200","10.1007/BF02096737",,"hep-th",,"  In this paper a class of conformal field theories with nonabelian and
+discrete group of symmetry is investigated. These theories are realized in
+terms of free scalar fields starting from the simple $b-c$ systems and scalar
+fields on algebraic curves. The Knizhnik-Zamolodchikov equations for the
+conformal blocks can be explicitly solved. Besides of the fact that one obtains
+in this way an entire class of theories in which the operators obey a
+nonstandard statistics, these systems are interesting in exploring the
+connection between statistics and curved space-times, at least in the two
+dimensional case.
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 22:34:46 GMT""}]","2009-10-22"
+"hep-th/9211054","Thomas Strobl","Peter Schaller and Thomas Strobl","Canonical Quantization of Non-Einsteinian Gravity and the Problem of
+  Time","20 pages, LaTeX, TUW9213","Class.Quant.Grav.11:331-346,1994","10.1088/0264-9381/11/2/006",,"hep-th",,"  For a 1+1 dimensional theory of gravity with torsion different approaches to
+the formulation of a quantum theory are presented. They are shown to lead to
+the same finite dimensional quantum system. Conceptual questions of quantum
+gravity like e.g.\ the problem of time are discussed in this framework.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 13:44:32 GMT""}]","2010-04-06"
+"hep-th/9211065","Chand Devchand","B. M. Zupnik","Minimal deformations of the commutative algebra and the linear group
+  GL(n)","14 pages","Theor.Math.Phys. 95 (1993) 677-685; Teor.Mat.Fiz. 95N3 (1993)
+  403-417","10.1007/BF01017513","NIIPF-92/01","hep-th math.QA",,"  We consider the relations of generalized commutativity in the algebra of
+formal series $ M_q (x^i ) $, which conserve a tensor $ I_q $-grading and
+depend on parameters $ q(i,k) $ . We choose the $ I_q $-preserving version of
+differential calculus on $ M_q$ . A new construction of the symmetrized tensor
+product for $ M_q $-type algebras and the corresponding definition of minimally
+deformed linear group $ QGL(n) $ and Lie algebra $ qgl(n) $ are proposed. We
+study the connection of $ QGL(n) $ and $ qgl(n) $ with the special matrix
+algebra $ \mbox{Mat} (n,Q) $ containing matrices with noncommutative elements.
+A definition of the deformed determinant in the algebra $ \mbox{Mat} (n,Q) $ is
+given. The exponential parametrization in the algebra $ \mbox{Mat} (n,Q) $ is
+considered on the basis of Campbell-Hausdorf formula.
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 16:36:57 GMT""}]","2009-10-22"
+"nucl-th/9211007","Rob Timmermans","Vincent Stoks, Rob Timmermans, and J.J. de Swart","On the pion-nucleon coupling constant","19 pages, Nijmegen preprint THEF-NYM-92-05","Phys.Rev.C47:512-520,1993","10.1103/PhysRevC.47.512",,"nucl-th",,"  In view of persisting misunderstanding about the determination of the
+pion-nucleon coupling constants in the Nijmegen multienergy partial-wave
+analyses of pp, np, and pbar-p scattering data, we present additional
+information which may clarify several points of discussion. We comment on
+several recent papers addressing the issue of the pion-nucleon coupling
+constant and criticizing the Nijmegen analyses.
+","[{""version"":""v1"",""created"":""Wed, 11 Nov 1992 18:01:37 GMT""}]","2008-11-26"
+"nucl-th/9211008",,"S. Kumano (U. Mainz (present address) and INS-U. of Tokyo)","Test of Scalar Meson Structure in $\phi$ Radiative Decays","11 pages, LATEX file (without figures), Talk given at the
+  International Workshop on Flavor and Spin in Hadronic and Electromagnetic
+  Interactions Torino, Italy, September 21-23, 1992",,,"MKPH-T-92-18","nucl-th hep-ph",,"  We show that $\phi$ radiative decays into scalar mesons [$f_0$(975),
+$a_0$(980)$\equiv S$] can provide important clues on the internal structures of
+these mesons. Radiative decay widths vary widely: $B.R.=10^{-4}-10^{-6}$
+depending on the substructures ($q\bar q$, $qq\bar q\bar q$, $K\bar K$,
+glueball). Hence, we could discriminate among various models by measuring these
+widths at future $\phi$ factories. The understanding of these meson structures
+is valuable not only in hadron spectroscopy but also in nuclear physics in
+connection with the widely-used but little-understood $\sigma$ meson. We also
+find that the decay $\phi\rightarrow S\gamma \rightarrow K^0 \bar K^0\gamma$ is
+not strong enough to pose a significant background problem for studying CP
+violation via $\phi\rightarrow K^0 \bar K^0$ at the $\phi$ factories.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 10:48:00 GMT""}]","2007-05-23"

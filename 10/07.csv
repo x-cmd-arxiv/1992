@@ -1,0 +1,145 @@
+"alg-geom/9210001","Mikhail Kapranov","I.Dolgachev and M.Kapranov","Arrangements of Hyperplanes and Vector Bundles on $P^n$","38 pages, plain TeX",,,,"alg-geom math.AG",,"  Any arrangement of hyperplanes in general position in $P^n$ can be regarded
+as a divisor with normal crossing. We study the bundles of logarithmic 1-forms
+corresponding to such divisors` from the point of view of classification of
+vector bundles on $P^n$. It turns out that all such bundles are stable. The
+study of jumping lines of these bundles gives a unified treatment of several
+classical constructions associating a curve to a collection of points in $P^n$.
+The main result of the paper is ""Torelli theorem"" which says that the
+collection of hyperplanes can be recovered from the isomorphism class of the
+corresponding logarithmic bundle unless the hyperplanes ocsulate a rational
+normal curve. In this latter case our construction reduces to that of secant
+bundles of Schwarzenberger.
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 22:09:40 GMT""}]","2008-02-03"
+"cond-mat/9210004",,"Marcus Kasner and Walter Apel (Physikalisch-Technische Bundesanstalt
+  Braunschweig, PF 3345, D-W-3300 Braunschweig, Germany)","A new Proposal for a Quasielectron Trial Wavefunction for the FQHE on a
+  Disk","8 pages","Europhys.Lett.20:715-720,1992","10.1209/0295-5075/20/8/009",,"cond-mat hep-th",,"  In this letter, we propose a new quasielectron trial wavefunction for $N$
+interacting electrons in two dimensions moving in a strong magnetic field in a
+disk geometry. Requiring that the trial wavefunction exhibits the correct
+filling factor of a quasielectron wavefunction, we obtain $N+1$ angular
+momentum eigenfunctions. The expectation values of the energy are calculated
+and compared with the data of an exact numerical diagonalization.
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 17:42:00 GMT""}]","2010-12-17"
+"gr-qc/9210003","H. Ueda","Atushi Ishikawa and Haruhiko Ueda","The Wave Function of the Universe by the New Euclidean Path-integral
+  Approach in Quantum Cosmology","11 pages","Int. J. Mod. Phys. D2 (1993) 249","10.1142/S0218271893000192","OU-HET 169","gr-qc hep-th",,"  The wave function of the universe is evaluated by using the Euclidean path
+integral approach. As is well known, the real Euclidean path integral diverges
+because the Einstein-Hilbert action is not positive definite. In order to
+obtain a finite wave function, we propose a new regularization method and
+calculate the wave function of the Friedmann- Robertson-Walker type
+minisuperspace model. We then consider a homogeneous but anisotropic type
+minisuperspace model, which is known as the Bianch type I model. The physical
+meaning of the wave function by this new regularization method is also
+examined.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 10:40:45 GMT""},{""version"":""v2"",""created"":""Thu, 8 Oct 1992 08:44:18 GMT""}]","2009-10-22"
+"hep-lat/9210008","Andreas S. Kronfeld","A.S. Kronfeld and U.-J. Wiese","SU(N) Gauge Theories with C-Periodic Boundary Conditions: II. Small
+  Volume Dynamics","FERMILAB-PUB-92/255-T and BUTP-92/40. 14 pages LaTeX with 2 figures
+  in encapsulated Postscript appended","Nucl.Phys. B401 (1993) 190-205","10.1016/0550-3213(93)90302-6",,"hep-lat hep-th",,"  The dynamics of SU(N) gauge theories, especially for N=3, in a small
+C-periodic box are investigated. We identify the fields that mimimize the
+energy---the torons---and determine which of these ``classical'' vacua are
+stable quantum mechanically. The stable torons break cubic symmetry, which has
+interesting consequences on the spectrum. At any of the stable torons there are
+also quartic modes. Since all C-periodic boundary conditions are
+gauge-equivalent, we choose a convenient version, for which the quartic modes
+are constant modes, and compute the effective Hamiltonian to one loop in
+perturbation theory.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 15:26:04 GMT""}]","2009-10-22"
+"hep-lat/9210009","Christian B. Lang","R. Kenna and C.B. Lang","Renormalization Group Analysis of Finite-Size Scaling in the $\Phi^4_4$
+  Model","25 p + 3 PS-figures, UNIGRAZ-UTP-07-10-92 (Revision 08-10-92: only
+  PS-figures, which originally had too long lines exceeding 80 characters)","Nucl.Phys. B393 (1993) 461-479; Erratum-ibid. B411 (1994) 340","10.1016/0550-3213(93)90068-Z",,"hep-lat",,"  A finite-size scaling theory for the $\phi^4_4$ model is derived using
+renormalization group methods. Particular attention is paid to the partition
+function zeroes, in terms of which all thermodynamic observables can be
+expressed. While the leading scaling behaviour is identical to that of mean
+field theory, there exist multiplicative logarithmic corrections too. A
+non-perturbative test of these formulae in the form of a high precision Monte
+Carlo analysis reveals good quantitative agreement with the analytical
+predictions.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 15:20:31 GMT""},{""version"":""v2"",""created"":""Thu, 8 Oct 1992 14:27:22 GMT""}]","2009-10-22"
+"hep-ph/9210215",,"G. Curci and G. Ricciardi","QCD non-leading corrections to weak decays in the dimensional scheme","20 pages, latex file, 3 figures (not included)","Phys.Rev. D47 (1993) 2991-3000","10.1103/PhysRevD.47.2991",,"hep-ph",,"  We compute the next to leading QCD corrections to weak four fermion
+interactions introducing a scheme that does not require an explicit definition
+of $\gamma_5$ in $d$ dimensions. This scheme reduces greatly the difficulties
+in calculating the two loop anomalous dimensions; we recover the results
+obtained in the previous literature.
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 18:18:23 GMT""}]","2016-09-01"
+"hep-ph/9210216",,"Michael Chanowitz","Complementarity of Resonant and Nonresonant Strong WW Scattering at SSC
+  and LHC","8 pages (figures on request by Pony Express), LBL-32938",,"10.1063/1.43426",,"hep-ph",,"  Signals and backgrounds for strong $WW$ scattering at the SSC and LHC are
+considered. Complementarity of resonant signals in the $I=1$ $WZ$ channel and
+nonresonant signals in the $I=2$ \wpwp channel is illustrated using a chiral
+lagrangian with a $J=1$ \qrho resonance. Results are presented for purely
+leptonic final states in the $W^{\pm}Z$, $W^+W^+ + W^-W^-$, and $ZZ$ channels.
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 18:25:25 GMT""}]","2009-10-22"
+"hep-ph/9210217","Jan T. Gammel","J. Tinka Gammel and John L. Gammel","A Non-Standard Quark Model and the Mass Difference $\Xi^- - \Xi^0$","15 pages, in latex using revtex macros, 2 figures in postscript,
+  appended. NRaD.9210.001.GAM",,,,"hep-ph",,"  We show that a highly unconventional theory, based on the 16 dimensional
+(${3\over2}$,${3\over2}$) irreducible representation of O(4), fits the masses
+of the baryons
+$\Xi^-$,$\Xi^0$,$\Sigma^-$,$\Sigma^0$,$\Sigma^+$,$\Lambda$,$p$,$n$ and the
+leptons $\mu$,$e$,$\nu_\mu$,$\nu_e$ to within current experimental error, yet
+yields a prediction substantially different from that of Coleman and Glashow,
+namely $\Xi^- - \Xi^0 < 6.1$ MeV. We discuss the ramifications of this very
+non-standard model in the hope to stimulate improved measurements of the $\Xi^-
+- \Xi^0$ mass difference.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 05:20:36 GMT""}]","2007-05-23"
+"hep-ph/9210218",,"D. Kapetanakis, M. Mondragon and G. Zoupanos","Finite Unified Models","13 pages, latex file","Z.Phys.C60:181-186,1993","10.1007/BF01650445",,"hep-ph hep-th",,"  We present phenomenologically viable $SU(5)$ unified models which are finite
+to all orders before the spontaneous symmetry breaking. In the case of two
+models with three families the top quark mass is predicted to be 178.8 GeV.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 12:15:27 GMT""}]","2011-07-19"
+"hep-ph/9210219",,"A. de la Macorra and G. G. Ross","Gaugino condensation in 4-D superstring models","19 pages, report OUTP-92-14P","Nucl.Phys. B404 (1993) 321-341","10.1016/0550-3213(93)90482-5",,"hep-ph",,"  We study the possibility that supersymmetry is broken via a gaugino
+condensate in four dimensional string theories. We derive an effective
+low-energy theory describing the Goldstone mode associated with the R-symmetry
+breaking driven by gaugino condensation and show that this gives a description
+of gaugino condensation equivalent, at tree level, to other effective
+Lagrangian approaches based on the symmetries of the theory. A study of the
+mass gap equation shows that non-perturbative effects favour the appearance of
+a gaugino condensate. By minimizing the effective potential describing both the
+condensate and the moduli determining the gauge coupling constant and radius of
+compactification we show that large hierarchy may occur between the gravitino
+mass and the Planck mass with the existence of only one gaugino condensate.
+Associated with this is a determination of the fine structure constant and the
+compactification scale.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 13:53:59 GMT""}]","2009-10-22"
+"hep-th/9210029","Jeremy Schiff","Jeremy Schiff","The Nonlinear Schrodinger Equation and Conserved Quantities in the
+  Deformed Parafermion and SL(2,R)/U(1) Coset Models","24 pages, plain tex, 1 figure given as a latex file, IASSNS-HEP-92/57",,,,"hep-th",,"  The relationship between the nonlinear Schrodinger hierarchy and the
+parafermion and SL(2,R)/U(1) coset models, analogous to the relationship
+between the KdV hierarchy and the minimal models, is explained. To do this I
+first present an in depth study of a series of integrable hierarchies related
+to NLS, and write down an action from which any of these hierarchies, and the
+associated second Poisson bracket structures, can be obtained. In quantizing
+the free part of this action we find many features in common with the bosonized
+parafermion and SL(2,R)/U(1) models, and particularly it is clear that the
+quantum NLS hamiltonians are conserved quantities in these models. The first
+few quantum NLS hamiltonians are constructed.
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 17:44:43 GMT""}]","2007-05-23"
+"hep-th/9210030",,"D. Bailin, A. Love and W.A. Sabra","Twisted Sector Yukawa Couplings for the $Z_3\times Z_3$ Orbifold","14 pages","Mod.Phys.Lett. A7 (1992) 3607-3615","10.1142/S0217732392003037","SUSX-TH-92/16","hep-th",,"  The moduli dependent Yukawa couplings between twisted sectors of the
+$Z_3\times Z_3$ orbifold are studied.
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 17:44:00 GMT""}]","2015-06-26"
+"hep-th/9210031","Daniel Waldram","Daniel Waldram","Charged String-like Solutions of Low-energy Heterotic String Theory","15, EFI-92-43","Phys.Rev. D47 (1993) 2528-2535","10.1103/PhysRevD.47.2528",,"hep-th",,"  Two string-like solutions to the equations of motion of the low-energy
+effective action for the heterotic string are found, each a source of electric
+and magnetic fields. The first carries an electric current equal to the
+electric charge per unit length and is the most general solution which
+preserves one half of the supersymmetries. The second is the most general
+charged solution with an event horizon, a `black string'. The relationship of
+the solutions to fundamental, macroscopic heterotic strings is discussed, and
+in particular it is shown that any stable state of such a fundamental string
+also preserves one half of the supersymmetries, in the same manner as the first
+solution.
+","[{""version"":""v1"",""created"":""Tue, 6 Oct 1992 18:52:28 GMT""}]","2009-10-22"
+"hep-th/9210032",,"D.V. Boulatov","q-deformed lattice gauge theory and 3-manifold invariants","26 pages, NBI-HE-92-66","Int. J. Mod. Phys. A8 (1993) 3139","10.1142/S0217751X93001259",,"hep-th",,"  The notion of $q$-deformed lattice gauge theory is introduced. If the
+deformation parameter is a root of unity, the weak coupling limit of a 3-$d$
+partition function gives a topological invariant for a corresponding
+3-manifold. It enables us to define the generalized Turaev-Viro invariant for
+cell complexes. It is shown that this invariant is determined by an action of a
+fundamental group on a universal covering of a complex. A connection with
+invariants of framed links in a manifold is also explored. A model giving a
+generating function of all simplicial complexes weighted with the invariant is
+investigated.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 12:08:00 GMT""}]","2015-06-26"
+"hep-th/9210039","Jean-Michel Maillet","Laurent Freidel and J. M. Maillet","The universal R-matrix and its associated quantum algebra as functionals
+  of the classical r-matrix: the $sl_{2}$ case","15 pages","Phys.Lett. B296 (1992) 353-360","10.1016/0370-2693(92)91331-3","ENSLAPP-399-92","hep-th math.QA",,"  Using a geometrical approach to the quantum Yang-Baxter equation, the quantum
+algebra ${\cal U}_{\hbar}(sl_{2})$ and its universal quantum $R$-matrix are
+explicitely constructed as functionals of the associated classical $r$-matrix.
+In this framework, the quantum algebra ${\cal U}_{\hbar}(sl_{2})$ is naturally
+imbedded in the universal envelopping algebra of the $sl_{2}$ current algebra.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 15:24:24 GMT""}]","2009-10-22"
+"math/9210202","Bill Mitchell","William J. Mitchell","The Complexity of the Core Model",,,,"Logic E-prints October 07, 1992","math.LO",,"  We use the Sigma^1_3 absoluteness theorem to show that the complexity of the
+statement ""(omega,E)$ is isomorphic to an initial segment of the core model"" is
+Pi^1_4, and that the complexity of the statement ""(omega,E)$ is isomorphic to a
+member of the core model"" is Delta^1_5.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 00:00:00 GMT""}]","2016-09-06"

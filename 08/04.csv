@@ -1,0 +1,84 @@
+"hep-lat/9208003","Pablo Tamayo","Mike Flanigan and Pablo Tamayo","A Parallel Cluster Labeling Method for Monte Carlo Dynamics","16 pages (TeX macros included)",,"10.1142/S0129183192000853",,"hep-lat",,"  We present an algorithm for cluster dynamics to efficiently simulate large
+systems on MIMD parallel computers with large numbers of processors. The method
+divides physical space into rectangular cells which are assigned to processors
+and combines a serial local procedure with a nearest neighbor relaxation
+process. By controlling overhead and reducing inter-processor communication
+this method attains good performance and speed-up. The complexity and scaling
+properties of the algorithm are analyzed.
+  The algorithm has been used to simulate large 2d Ising systems (up to 27808 X
+27808 sites) with Swendsen-Wang dynamics. Typical updating times on the order
+of 82 nanosecs/site and efficiencies larger than 90% have been obtained using
+256 processors on the CM-5 supercomputer.
+","[{""version"":""v1"",""created"":""Mon, 3 Aug 1992 23:26:26 GMT""},{""version"":""v2"",""created"":""Wed, 5 Aug 1992 16:19:01 GMT""}]","2009-10-22"
+"hep-ph/9208201",,"M. Jamin, M. Muenz","Current correlators to all orders in the quark masses","24 pages, LateX file, TUM-T31-21/92, 1 postscript file included","Z.Phys. C60 (1993) 569-578","10.1007/BF01560056",,"hep-ph",,"  The contributions to the coefficient functions of the quark and the mixed
+quark-gluon condensate to mesonic correlators are calculated for the first time
+to all orders in the quark masses, and to lowest order in the strong coupling
+constant. Existing results on the coefficient functions of the unit operator
+and the gluon condensate are reviewed. The proper factorization of short- and
+long-distance contributions in the operator product expansion is discussed in
+detail. It is found that to accomplish this task rigorously the operator
+product expansion has to be performed in terms of non-normal-ordered
+condensates. The resulting coefficient functions are improved with the help of
+the renormalization group. The scale invariant combination of dimension 5
+operators, including mixing with the mass operator, which is needed for the
+renormalization group improvement, is calculated in the leading order.
+","[{""version"":""v1"",""created"":""Mon, 3 Aug 1992 16:42:37 GMT""}]","2009-10-22"
+"hep-ph/9208202","Marc Kamionkowski","Marc Kamionkowski and Katherine Freese","Instability and Subsequent Evolution of Electroweak Bubbles","9 pages (IASSNS-HEP-92-46)","Phys.Rev.Lett. 69 (1992) 2743-2746","10.1103/PhysRevLett.69.2743",,"hep-ph astro-ph",,"  Bubbles in a first-order electroweak phase transition are nucleated with
+radii $R_0$ and expand with velocity $v$. If $v$ is subsonic, a bubble becomes
+unstable to non-spherical perturbations when its radius is roughly $10^4\,
+R_0$. These perturbations accelerate the transition, and the effective velocity
+of bubble growth rapidly becomes supersonic. The transition should subsequently
+proceed spherically via detonation. If for some reason the onset of detonation
+is postponed, the surface area of the bubbles may be enhanced by $10^5$. We
+discuss consequences for electroweak baryogenesis.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 07:21:43 GMT""}]","2009-10-22"
+"hep-ph/9208203",,"Xiao-Gang He and B.H.J. McKellar","Topological phase due to electric dipole moment and magnetic monopole
+  interaction","8 pages","Phys.Rev. A47 (1993) 3424","10.1103/PhysRevA.47.3424",,"hep-ph",,"  We show that there is an anologous Aharonov-Casher effect on a neutral
+particle with electric dipole moment interacting with a magnetic filed produced
+by magnetic monopoles.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 07:50:59 GMT""}]","2009-10-22"
+"hep-ph/9208204",,"J. Bijnens, G. Ecker and J. Gasser","Semileptonic Kaon Decays in Chiral Perturbation Theory","LaTeX, 85 pages, figures not included, CERN-TH.6504/92, BUTP-92/20",,,,"hep-ph",,"  We present the matrix elements for the semileptonic kaon decays
+$K_{l2\gamma}$, $K_{l2l^+l^-}$, $K_{l2l'^+l'^-}$, $K_{l3}$, $K_{l3\gamma}$ and
+$K_{l4}$ at next-to-leading order in chiral perturbation theory and compare the
+predictions with experimental data. Monte Carlo event generators are used to
+calculate the corresponding rates at DAFNE. We discuss the possibilities to
+improve our knowledge of the low-energy structure of the Standard Model at this
+and similar machines.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 09:53:18 GMT""}]","2007-05-23"
+"hep-th/9208011",,"M.J. Martins","Exact resonance A-D-E S-matrices and their renormalization group
+  trajectories","18 pages(no figures included)","Nucl.Phys. B394 (1993) 339-355","10.1016/0550-3213(93)90018-K",,"hep-th",,"  We introduce the A-D-E resonance factorized models as an appropriate
+analytical continuation of the Toda S-matrices to the complex values of their
+coupling constant. An investigation of the associated Casimir energy, via the
+thermodynamic Bethe ansatz, reveals a rich pattern of renormalization group
+trajectories interpolating between the central charges of the $G_1 \otimes G_k
+/ G_{k+1}$ GKO coset models. We have also constructed the simplest resonance
+factorized model satisfying the ``$\phi^3$''-property. From this resonance
+scattering, we predict new flows in non-unitary minimal models.
+","[{""version"":""v1"",""created"":""Mon, 3 Aug 1992 16:21:56 GMT""}]","2009-10-22"
+"hep-th/9208012",,"I.I. Kogan, A. Morozov, G.W. Semenoff and N. Weiss","Area Law and Continuum Limit in ""Induced QCD""","38 pages","Nucl.Phys. B395 (1993) 547-580","10.1016/0550-3213(93)90047-S","UBCTP 92-26, ITEP M6/92","hep-th",,"  We investigate a class of operators with non-vanishing averages in a
+D-dimensional matrix model recently proposed by Kazakov and Migdal. Among the
+operators considered are ``filled Wilson loops"" which are the most reasonable
+counterparts of Wilson loops in the conventional Wilson formulation of lattice
+QCD. The averages of interest are represented as partition functions of certain
+2-dimensional statistical systems with nearest neighbor interactions. The
+``string tension"" $\alpha'$, which is the exponent in the area law for the
+``filled Wilson loop"" is equal to the free energy density of the corresponding
+statistical system. The continuum limit of the Kazakov--Migdal model
+corresponds to the critical point of this statistical system. We argue that in
+the large $N$ limit this critical point occurs at zero temperature. In this
+case we express $\alpha'$ in terms of the distribution density of eigenvalues
+of the matrix-valued master field. We show that the properties of the continuum
+limit and the description of how this limit is approached is very unusual and
+differs drastically from what occurs in both the Wilson theory ($S\propto({\rm
+Tr}\prod U +{\rm c.c.})$) and in the ``adjoint'' theory ($S\propto\vert{\rm
+Tr}\prod U\vert^2$). Instead, the continuum limit of the model appears to be
+intriguingly similar to a $c>1$ string theory.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 06:58:00 GMT""}]","2009-10-22"
+"hep-th/9208013",,"M.D. Freeman and P. West","On the quantum KP hierarchy and its relation to the non-linear
+  Schr\""odinger equation","16 pages, KCL-TH-92-2","Phys.Lett. B295 (1992) 59-66","10.1016/0370-2693(92)90089-M",,"hep-th",,"  We establish a relation between the classical non-linear Schr\""odinger
+equation and the KP hierarchy, and we extend this relation to the quantum case
+by defining a quantum KP hierarchy. We present evidence that an integrable
+hierarchy of equations is obtained by quantizing the first Hamiltonian
+structure of the KdV equation. The connection between infinite-dimensional
+algebras and integrable models is discussed.
+","[{""version"":""v1"",""created"":""Tue, 4 Aug 1992 08:23:00 GMT""}]","2009-10-22"

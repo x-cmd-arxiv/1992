@@ -1,0 +1,261 @@
+"astro-ph/9210004","Phil Fischer","P. Fischer, D. L. Welch, and M. Mateo","Dynamics of the Young Binary LMC Cluster NGC 1850","41 pages (figures available via anonymous FTP as described below)",,"10.1086/116483",,"astro-ph",,"  In this paper we have examined the age and internal dynamics of the young
+binary LMC cluster NGC 1850 using BV CCD images and echelle spectra of 52
+supergiants. Isochrone fits to a BV color-magnitude diagram revealed that the
+primary cluster has an age of $\tau = 90 \pm 30$ Myr while the secondary member
+has $\tau = 6 \pm 5$ Myr. BV surface brightness profiles were constructed out
+to R $>$ 40 pc, and single-component King-Michie (KM) models were applied. The
+total cluster luminosity varied from L$_B$ = 2.60 - 2.65 $\times 10^6$
+L$_B$\sol\ and L$_V$ = 1.25 - 1.35 $\times 10^6$ as the anisotropy radius
+varied from infinity to three times the scale radius with the isotropic models
+providing the best agreement with the data. Of the 52 stars with echelle
+spectra, a subset of 36 were used to study the cluster dynamics. The KM radial
+velocity distributions were fitted to these velocities yielding total cluster
+masses of 5.4 - 5.9 $\pm 2.4 \times 10^4$ M\sol\ corresponding to M/L$_B$ =
+0.02 $\pm 0.01$ M\sol/L$_B$\sol\ or M/L$_V$ = 0.05 $\pm 0.02$ M\sol/L$_V$\sol.
+A rotational signal in the radial velocities has been detected at the 93\%
+confidence level implying a rotation axis at a position angle of 100\deg. A
+variety of rotating models were fit to the velocity data assuming cluster
+ellipticities of $\epsilon = 0.1 - 0.3$. These models provided slightly better
+agreement with the radial velocity data than the KM models and had masses that
+were systematically lower by a few percent. The preferred value for the slope
+of a power-law IMF is a relatively shallow, $x = 0.29 \pmm{+0.3}{-0.8}$
+assuming the B-band M/L or $x = 0.71 \pmm{+0.2}{-0.4}$ for the V-band.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 17:24:23 GMT""}]","2009-10-22"
+"astro-ph/9210005","Paolo Marziani","Paolo Marziani and Jack W. Sulentic","Evidence for a Very Broad Line Region in PG 1138+222","15 pages + 1 Table and 3 Figures (not included but available upon
+  request), LaTex",,"10.1086/172692",,"astro-ph",,"  We present a high S/N spectrum for the quasar PG 1138+222. We detect a very
+broad HeII$\lambda$4686 emission line component with twice the FWHM of the
+conventional broad line region (BLR) as evidenced by the Balmer lines. The
+profile shape and centroid redshift also distinguish this HeII component from
+the BLR features. The large ratio of HeII\l 4686 to any analogous H$\beta$
+emission component is an indicator that it arises in a very high density region
+($n_e \simgt 10^{11}-10^{13}$ \cm3). This Helium component is probably emitted
+in a Very Broad Line Region (VBLR), where the radiation field is so strong that
+the Str\""omgren depth becomes similar to the geometrical thickness of the
+emitting clouds. The gas could therefore be optically thin to the Lyman
+continuum.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 23:15:45 GMT""}]","2009-10-22"
+"gr-qc/9210010","James B. Hartle","Murray Gell-Mann and James B. Hartle","Classical Equations for Quantum Systems","100pages, 1 figure","Phys.Rev.D47:3345-3382,1993","10.1103/PhysRevD.47.3345","UCSBTH-91-15","gr-qc hep-th quant-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The origin of the phenomenological deterministic laws that approximately
+govern the quasiclassical domain of familiar experience is considered in the
+context of the quantum mechanics of closed systems such as the universe as a
+whole. We investigate the requirements for coarse grainings to yield decoherent
+sets of histories that are quasiclassical, i.e. such that the individual
+histories obey, with high probability, effective classical equations of motion
+interrupted continually by small fluctuations and occasionally by large ones.
+We discuss these requirements generally but study them specifically for coarse
+grainings of the type that follows a distinguished subset of a complete set of
+variables while ignoring the rest. More coarse graining is needed to achieve
+decoherence than would be suggested by naive arguments based on the uncertainty
+principle. Even coarser graining is required in the distinguished variables for
+them to have the necessary inertia to approach classical predictability in the
+presence of the noise consisting of the fluctuations that typical mechanisms of
+decoherence produce. We describe the derivation of phenomenological equations
+of motion explicitly for a particular class of models. Probabilities of the
+correlations in time that define equations of motion are explicitly considered.
+Fully non-linear cases are studied. Methods are exhibited for finding the form
+of the phenomenological equations of motion even when these are only distantly
+related to those of the fundamental action. The demonstration of the connection
+between quantum-mechanical causality and causalty in classical phenomenological
+equations of motion is generalized. The connections among decoherence, noise,
+dissipation, and the amount of coarse graining necessary to achieve classical
+predictability are investigated quantitatively.
+","[{""version"":""v1"",""created"":""Wed, 21 Oct 1992 01:07:17 GMT""},{""version"":""v2"",""created"":""Tue, 7 Jan 2014 22:29:18 GMT""}]","2014-01-15"
+"gr-qc/9210011",,"Chris J. Isham","Canonical Quantum Gravity and the Problem of Time","125 pages of LaTeX output",,,"Imperial/TP/91-92/25","gr-qc",,"  This is the write-up of my lectures at the NATO Summer School held in
+Salamanca in June 1992. The paper deals with the problem of time in quantum
+gravity. All the major schemes are reviewed. Please note that the paper is in
+two parts for ease of email transmission; this is part 1. The mailer from gr-qc
+may further subdivide these two sections.
+","[{""version"":""v1"",""created"":""Wed, 21 Oct 1992 14:54:51 GMT""}]","2007-05-23"
+"hep-lat/9210023","Christian B. Lang","C.R. Gattringer, I. Hip and C.B. Lang","Scattering in a Simple 2-d Lattice Model","4 p + 2 PS-figures, UNIGRAZ-UTP-21-10-92","Nucl. Phys. Proc. Suppl. 30 (1993) 875","10.1016/0920-5632(93)90346-8",,"hep-lat",,"  L\""uscher has suggested a method to determine phase shifts from the finite
+volume dependence of the two-particle energy spectrum. We apply this to two
+models in d=2: (a) the Ising model, (b) a system of two Ising fields with
+different mass and coupled through a 3-point term, both considered in the
+symmetric phase. The Monte Carlo simulation makes use of the cluster updating
+and reduced variance operator techniques. For the Ising system we study in
+particular O($a^2$) effects in the phase shift of the 2-particle scattering
+process.
+","[{""version"":""v1"",""created"":""Wed, 21 Oct 1992 13:08:30 GMT""}]","2009-10-22"
+"hep-lat/9210024","Srinath Cheluvaraja","Ramesh Anishetty, Srinath Cheluvaraja, H.S. Sharatchandra and Manu
+  Mathur","Dual of 3-dimensional pure SU(2) Lattice Gauge Theory and the
+  Ponzano-Regge Model","9 pages, Latex, IMSc-92/41","Phys.Lett. B314 (1993) 387-390","10.1016/0370-2693(93)91254-K",,"hep-lat cond-mat",,"  By carrying out character expansion and integration over all link variables,
+the partition function of 3-dimensional pure SU(2) lattice gauge theory is
+rewritten in terms of 6j symbols. The result is Ponzano-Regge model of
+3-dimensional gravity with a term that explicitly breaks general coordinate
+invariance. Conversely, we show that dual of Ponzano-Regge model is an SU(2)
+lattice gauge theory where all plaquette variables are constrained to the
+identity matrix and therefore the model needs no further regularization. Our
+techniques are applicable to other models with non-abelian symmetries in any
+dimension and provide duality transform for the partition function.
+","[{""version"":""v1"",""created"":""Wed, 21 Oct 1992 14:58:11 GMT""}]","2009-10-22"
+"hep-ph/9210249",,"R. Guida and K. Konishi","Avalanche in the Valley (Fermions, Anomaly and Unitarity in High-Energy
+  Electroweak Interactions)","11 pages + 1 figure (not included)","Phys.Lett.B298:371-379,1993","10.1016/0370-2693(93)91835-B","GEF-Th-16/1992","hep-ph",,"  Problems related to fermions, unitarity and chiral anomaly in high energy
+electroweak interactions, are investigated. Particular attention is paid to the
+correct functional integration over fermion fields in the background of
+instanton-anti\-instanton type configurations. This leads to an expansion of
+correlation functions in terms of a small parameter, $\rho/R$, when the
+instanton-antiinstanton separation ($R$) is large compared to their sizes
+($\rho$). Applying such a method to widely discussed cases of fermion-number
+violation in the electroweak theory, we conclude that there are no theoretical
+basis for expecting anomalous cross sections to become observable at energies
+in the $10$ TeV region.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 17:17:00 GMT""},{""version"":""v2"",""created"":""Sat, 12 Dec 1992 17:32:00 GMT""}]","2011-07-19"
+"hep-ph/9210250",,"K.S. Babu","The fermion mass problem","17 pages, BA-92-69, in LaTeX, 3 figures (not included)","Quest for Links to New Physics, Proceedings of theXV International
+  Warsaw Meeting on Elementary Particle Physics, ed. Z. Ajduk, S.Pokorski and
+  A.K. Wroblewski, (World Scientific), p. 219",,,"hep-ph",,"  In this talk I review the `puzzles' associated with the fermion mass matrices
+and describe some recent attempts to resolve them, at least partially. Models
+which attempt to explain the observed mass hierarchy as arising from radiative
+corrections are discussed. I then scrutinize possible inter--relations among
+quark and lepton masses and the mixing angles in the context of grand unified
+theories. It is argued that the absence of CP violation in the strong
+interaction sector (the strong CP problem) may also have its origin in the
+structure of the quark mass matrices; such a resolution does not invoke
+approximate global $U(1)$ symmetries resulting in the axion. Arguments in favor
+of tiny neutrino masses are summarized (the solar neutrino puzzle, atmospheric
+neutrino problem) and ways to accommodate them naturally are described.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 17:06:15 GMT""}]","2007-05-23"
+"hep-ph/9210251",,"K.S. Babu and Q. Shafi","Heavy top quark from Fritzsch mass matrices","LaTeX, 14 figures (not included, available on request)","Phys.Rev.D47:5004-5012,1993","10.1103/PhysRevD.47.5004","BA-92-70","hep-ph",,"  It is shown, contrary to common belief, that the Fritzsch ansatz for the
+quark mass matrices admits a heavy top quark. With the ansatz prescribed at the
+supersymmetric grand unified (GUT) scale, one finds that the top quark may be
+as heavy as 145 GeV, provided that tan$\beta$ (the ratio of the vacuum
+expectation values of the two higgs doublets) $\gg 1$. Within a
+non-supersymmetric GUT framework with two (one) light higgs doublets, the
+corresponding approximate upper bound on the top mass is $120~ (90)$ GeV. Our
+results are based on a general one--loop renormalization group analysis of the
+quark masses and mixing angles and are readily applied to alternative mass
+matrix ans\""{a}tze.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 17:06:49 GMT""}]","2010-11-01"
+"hep-ph/9210252","Zurab Berezhiani","Zurab Berezhiani and Riccardo Rattazzi","Radiative Origin of the Fermion Mass Hierarchy: A Realistic and
+  Predictive Approach","8 pages, LATEX, LMU-08/92",,,,"hep-ph",,"  The up-down splitting within quark families increases with the family number:
+m_u ~ m_d, m_c > m_s, m_t >> m_b. We show an approach that realizes this
+feature of the spectrum in a natural way. We suggest that the mass hierarchy is
+first generated by radiative effects in a sector of heavy isosinglet fermions,
+and then projected to the ordinary light fermions by means of a seesaw mixing.
+The hierarchy appears then inverted in the light fermion sector. We present a
+simple left-right symmetric gauge model in which the P- and CP-parities and an
+isotopical ""up-down"" symmetry are softly (or spontaneously) broken in the Higgs
+potential. Experimentally consistent predictions are obtained. The Cabibbo
+angle is automatically in the needed range: Theta_C ~ 0.2. The top quark is
+naturally heavy, but not too heavy: m_t < 150 GeV.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 18:57:22 GMT""},{""version"":""v2"",""created"":""Wed, 21 Oct 1992 18:46:47 GMT""}]","2008-02-03"
+"hep-ph/9210253",,"K. Rajagopal and F. Wilczek","Static and Dynamic Critical Phenomena at a Second Order QCD Phase
+  Transition","phyzzx, 41 pages, 4 figures available as a postscript file from K.R.,
+  PUPT-1347, IASSNS-HEP-92/60","Nucl.Phys. B399 (1993) 395-425","10.1016/0550-3213(93)90502-G",,"hep-ph astro-ph hep-lat",,"  In QCD with two flavors of massless quarks, the chiral phase transition is
+plausibly in the same universality class as the classical four component
+Heisenberg antiferromagnet. Therefore, renormalization group techniques
+developed in the study of phase transitions can be applied to calculate the
+critical exponents which characterize the scaling behaviour of universal
+quantities near the critical point. This approach to the QCD phase transition
+has implications both for lattice gauge theory and for heavy ion collisions.
+Future lattice simulations with longer correlation lengths will be able to
+measure the various exponents and the equation of state for the order parameter
+as a function of temperature and quark mass which we describe. In a heavy ion
+collision, the consequence of a long correlation length would be large
+fluctuations in the number ratio of neutral to charged pions. Unfortunately, we
+show that this phenomenon will not occur if the plasma stays close to
+equilibrium as it cools. If the transition is far out of equilibrium and can be
+modelled as a quench, it is possible that large volumes of the plasma with the
+pion field correlated will develop, with dramatic phenomenological
+consequences. }
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 23:13:41 GMT""}]","2009-10-22"
+"hep-ph/9210254",,"Ina Sarcevic","Intermittency and Particle Correlations: Theory","7 pages; AZPH-TH/92-33; Invited minirapporteur talk given at XXVI
+  ICHEP, Dallas",,"10.1063/1.43324",,"hep-ph",,"  We review recent theoretical developments in understanding the intermittency
+phenomenon observed in high-energy leptonic, hadronic and nuclear collisions.
+In particular, we discuss self-similar cascading and QCD parton showers, models
+with models with phase transitions, and the three-dimensional statistical field
+theory of multiparticle density fluctuations. University
+","[{""version"":""v1"",""created"":""Wed, 21 Oct 1992 01:13:04 GMT""}]","2009-10-22"
+"hep-ph/9210255","Oleg Tarasov","D.J. Broadhurst, A.L. Kataev and O.V. Tarasov","Analytical on-shell QED results: 3-loop vacuum polarization, 4-loop
+  beta-function and the muon anomaly","LaTex, 11 pages, figures available from O.V.T. CERN--TH. 6602/92,
+  OUT--4102--39, BI--TP--92/33","Phys.Lett.B298:445-452,1993","10.1016/0370-2693(93)91849-I",,"hep-ph hep-th",,"  We present the results of analytical calculations of the 3-loop contributions
+to the asymptotic photon vacuum polarization function, in the on shell scheme,
+and of the 4-loop contributions to the on shell QED beta-function. These are
+used to evaluate various 4-loop and 5-loop contributions to the muon anomaly.
+Our analytical contributions to (g-2)_\mu differ significantly from previous
+numerical results. A very recent numerical re-evaluation of 4-loop muon-anomaly
+contributions has yielded results much closer to ours.
+","[{""version"":""v1"",""created"":""Wed, 21 Oct 1992 10:56:07 GMT""}]","2019-08-17"
+"hep-th/9210110","Jorge Pullin","R. Gambini, J. Pullin","Quantum Einstein-Maxwell Fields: A Unified Viewpoint from the Loop
+  Representation","13pp. no figures, Revtex, UU-HEP-92/9, IFFI 92-11","Phys.Rev.D47:5214-5218,1993","10.1103/PhysRevD.47.R5214",,"hep-th gr-qc",,"  We propose a naive unification of Electromagnetism and General Relativity
+based on enlarging the gauge group of Ashtekar's new variables. We construct
+the connection and loop representations and analyze the space of states. In the
+loop representation, the wavefunctions depend on two loops, each of them
+carrying information about both gravitation and electromagnetism. We find that
+the Chern-Simons form and the Jones Polynomial play a role in the model.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 17:18:14 GMT""}]","2009-12-30"
+"hep-th/9210111",,"A.P. Balachandran","Gauge Symmetries,Topology and Quantisation","74pages (Lectures)","AIP Conf.Proc.317:1-81,1994","10.1063/1.46854","SU-4240-506","hep-th",,"  The following two loosely connected sets of topics are reviewed in these
+lecture notes: 1) Gauge invariance, its treatment in field theories and its
+implications for internal symmetries and edge states such as those in the
+quantum Hall effect. 2) Quantisation on multiply connected spaces and a
+topological proof the spin-statistics theorem which avoids quantum field theory
+and relativity. Under 1), after explaining the meaning of gauge invariance and
+the theory of constraints, we discuss boundary conditions on gauge
+transformations and the definition of internal symmetries in gauge field
+theories. We then show how the edge states in the quantum Hall effect can be
+derived from the Chern-Simons action using the preceding ideas. Under 2), after
+explaining the significance of fibre bundles for quantum physics, we review
+quantisation on multiply connected spaces in detail, explaining also
+mathematical ideas such as those of the universal covering space and the
+fundamental group. These ideas are then used to prove the aforementioned
+topological spin-statistics theorem.e of the universal covering space and the
+fundamental group.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 20:10:00 GMT""}]","2015-06-26"
+"hep-th/9210112",,"Yutaka Hosotani and Choon-Lin Ho","Anyons on a Torus","4 pages, plain TeX, UMN-TH-1116/92",,"10.1063/1.43444",,"hep-th",,"  We prove the equivalence between anyon quantum mechanics on a torus and
+Chern-Simons gauge theory. It is also shown that the Hamiltonian and total
+momenta commute among themselves only in the physical Hilbert space.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 19:55:17 GMT""}]","2009-10-22"
+"hep-th/9210113","Giorgio Giavarini","G. Giavarini, C. P. Martin and F. Ruiz Ruiz","Regularization and Renormalization of Chern-Simons Theory","10 pages, Phyzzx, LPTHE 92-42",,,,"hep-th",,"  We analyze some features of the perturbative quantization of Chern-Simons
+theory (CST) in the Landau gauge. In this gauge the theory is known to be
+perturbatively finite. We consider the renormalization scheme in which the
+renormalized parameter $k$ equals the bare or classical one and show that it
+constitutes a natural parametrization for the quantum theory. The reason is
+that, although in this renormalization scheme the value of the Green functions
+depends on the regularization used, comparison among different regularization
+methods shows that the observables (Wilson loops) are the same function of the
+shifted monodromy parameter $k+c_v$ for all BRS invariant regulators used so
+far for CST. We also discuss a particular BRS invariant regularization
+prescription in which CST is perturbatively defined as the large mass limit of
+dimensionally regularized topologically massive Yang-Mills theory. With this
+regularization prescription the radiative corrections induced by two-loop
+contributions do not entail observable consequences since they can be
+reabsorbed by a finite rescaling of the fields only. This very mechanism is
+conjectured to take place at higher perturbative orders. Talk presented by G.G.
+at the NATO AWR on ``Low dimensional Topology and Quantum Field Theory'', 6-13
+September 1992, Cambridge (UK).
+","[{""version"":""v1"",""created"":""Wed, 21 Oct 1992 14:04:59 GMT""}]","2007-05-23"
+"hep-th/9210114",,"Gabriel Lopes Cardoso and Burt A. Ovrut","Natural Supergravity Inflation","13 pages, CERN-TH.6685/92, UPR-0526T","Phys.Lett.B298:292-298,1993","10.1016/0370-2693(93)91823-6",,"hep-th",,"  We show that a single uncharged chiral superfield, canonically coupled to
+\mbox{$N=1$} supergravity with vanishing superpotential, naturally drives
+inflation in the early universe for a class of simple Kahler potentials.
+Inflation occurs due to the one-loop generation of a Kahler anomaly
+proportional to $\R^2$. The coefficient of this $\R^2$ term is of the correct
+magnitude to describe all aspects of an inflationary cosmology, including
+sufficient amplitude perturbations and reheating. Higher order terms
+proportional to $\R^n$ for $n \geq 3$ are naturally suppressed relative to the
+$\R^2$ term and, hence, do not destabilize the theory.
+","[{""version"":""v1"",""created"":""Wed, 21 Oct 1992 14:44:28 GMT""}]","2011-07-19"
+"math/9210203",,"Tim LaBerge and Avner Landver","Reflection and Weakly Collectionwise Hausdorff Spaces",,,,"Logic E-prints October 21, 1992","math.LO",,"  We show that square(theta) implies that there is a first countable
+<theta-collectionwise Hausdorff space that is not weakly theta-collectionwise
+Hausdorff. We also show that in the model obtained by Levy collapsing a weakly
+compact (supercompact) cardinal to omega_2, first countable
+aleph_1-collectionwise Hausdorff spaces are weakly aleph_2-collectionwise
+Hausdorff (weakly collectionwise Hausdorff). In the last section we show that
+assuming E^omega_theta, a certain theta-family of integer valued functions
+exists and that in the model obtained by Levy collapsing a supercompact
+cardinal to omega_2, these families do not exist.
+","[{""version"":""v1"",""created"":""Wed, 21 Oct 1992 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9210014","Stacey Scoville","C. W. Johnson, S. E. Koonin, G. H. Lang, and W. E. Ormand","Monte Carlo methods for the nuclear shell model","13 pages, MAP-148","Phys.Rev.Lett.69:3157-3160,1992","10.1103/PhysRevLett.69.3157",,"nucl-th",,"  We present novel Monte Carlo methods for treating the interacting shell model
+that allow exact calculations much larger than those heretofore possible. The
+two-body interaction is linearized by an auxiliary field; Monte Carlo
+evaluation of the resulting functional integral gives ground-state or thermal
+expectation values of few-body operators. The ``sign problem'' generic to
+quantum Monte Carlo calculations is absent in a number of cases. We discuss the
+favorable scaling of these methods with nucleon numb er and basis size and
+their suitability to parallel computation.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 18:25:46 GMT""}]","2008-11-26"
+"nucl-th/9210015","Niels R. Walet","Niels R. Walet and R. D. Amado","Skyrmions and the Nuclear Force","24 pages, UPR-0124MT","Phys.Rev.C47:498-510,1993","10.1103/PhysRevC.47.498",,"nucl-th",,"  The derivation of the nucleon-nucleon force from the Skyrme model is
+reexamined. Starting from previous results for the potential energy of
+quasistatic solutions, we show that a calculation using the Born-Oppenheimer
+approximation properly taking into account the mixing of nucleon resonances,
+leads to substantial central attraction. We obtain a potential that is in
+qualitative agreement with phenomenological potentials. We also study the
+non-adiabatic corrections, such as the velocity dependent transition
+potentials, and discuss their importance.
+","[{""version"":""v1"",""created"":""Tue, 20 Oct 1992 22:18:09 GMT""}]","2008-11-26"

@@ -1,0 +1,99 @@
+"funct-an/9211010","Larry Schweitzer","Larry B. Schweitzer","Dense m-convex Frechet Subalgebras of Operator Algebra Crossed Products
+  by Lie Groups","92 pages, AMS Tex 2.1, 11-27-92","Internat. J. Math. 4(4) (1993), 601-673",,,"funct-an math.OA",,"  Let A be a dense Frechet *-subalgebra of a C*-algebra B. (We do not require
+Frechet algebras to be m-convex.) Let G be a Lie group, not necessarily con-
+nected, which acts on both $A$ and B by *-automorphisms, and let \s be a sub-
+multiplicative function from G to the nonnegative real numbers. If \s and the
+action of G on A satisfy certain simple properties, we define a dense Frechet
+*-subalgebra G\rtimes^{\s} A of the crossed product L^{1}(G, B). Our algebra
+consists of differentiable A-valued functions on G, rapidly vanishing in \s.
+  We give conditions on the action of G on A which imply the m-convexity of the
+dense subalgebra G\rtimes^{\s}A. A locally convex algebra is said to be m-con-
+vex if there is a family of submultiplicative seminorms for the topology of the
+algebra. The property of m-convexity is important for a Frechet algebra, and is
+useful in modern operator theory.
+  If G acts as a transformation group on a manifold M, we develop a class of
+dense subalgebras for the crossed product L^{1}(G, C_{0}(M)), where C_{0}(M)
+denotes the continuous functions on M vanishing at infinity with the sup norm
+topology.We define Schwartz functions S(M) on M, which are differentiable with
+respect to some group action on M, and are rapidly vanishing with respect to
+some scale on M. We then form a dense m-convex Frechet *-subalgebra G\rtimes^
+{\s} S(M) of rapidly vanishing, G-differentiable functions from G to S(M).
+  If the reciprocal of \s is in L^{p}(G) for some p, we prove that our group
+algebras S^{\s}(G) are nuclear Frechet spaces, and that G\rtimes^{\s}A is the
+projective completion S^{\s}(G) \otimes A.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 23:04:34 GMT""}]","2016-02-15"
+"hep-lat/9211065","Elena Rivas","Jose Luis Alonso, Philippe Boucaud, Jose Luis Cortes, Felipe Lesmes,
+  and Elena Rivas","The S, U and \Delta\rho parameters in the Zaragoza proposal for lattice
+  chiral gauge fermions","17 Pages. Texis. WASH-U-HEP/92-89","Nucl.Phys.B407:373-386,1993","10.1016/0550-3213(93)90063-U",,"hep-lat",,"  Using the Zaragoza proposal for lattice chiral gauge fermions, the S, U and
+\Delta\rho parameters have been calculated at one loop. It is shown that the
+continuum values for these quantities can be reproduced without requiring
+explicit fine tuning of counterterms. Furthermore, fermion fields doubling is
+not necessary. To the best of our knowledge, the Zaragoza proposal is the only
+scheme which has these properties. A necessary (although not sufficient)
+symmetry is found to support the calculations. Previous results for some of
+these parameters in other lattice chiral regularizations are revisited in the
+light of this symmetry.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 23:54:46 GMT""}]","2010-03-19"
+"hep-ph/9211325",,"J. Ellis, D.V. Nanopoulos and K. Olive","Flipped Heavy Neutrinos from the Solar Neutrino Problem to Baryogenesis","12 pages, 1 figure not included, CERN-TH.6712/92","Phys.Lett.B300:121-127,1993","10.1016/0370-2693(93)90758-A",,"hep-ph astro-ph",,"  We discuss baryogenesis using the flipped $SU(5)$ model for lepton mass
+matrices. We show that the generalized see-saw mechanism in this model can not
+only provide MSW neutrino mixing suitable for solving the solar neutrino
+problem, and supply a hot dark matter candidate ($\nu_\tau$) with mass
+$0(10)eV$ as indicated by recent COBE results, but can also naturally account
+for the baryon asymmetry of the universe. Heavy singlet neutrino decay
+generates a net lepton asymmetry which is subsequently reprocessed by
+nonperturbative electroweak interactions. We evaluate the baryon asymmetry so
+produced in light of the constraints that the COBE observations put on
+inflationary cosmologies, finding it comfortably consistent with observation.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 16:38:40 GMT""}]","2009-09-11"
+"hep-ph/9211326","Lynne Orr","Lynne H. Orr, Yu.L. Dokshitzer, V.A. Khoze, and W.J. Stirling","Top Width Effects in Soft Gluon Radiation","LaTeX, 4 pages + 3 figures appended as postscript files, talk given
+  at 1992 Meeting of Division of Particles and Fields, Fermilab, UCD-92-28",,,,"hep-ph",,"  Soft gluons radiated in top quark production and decay can interfere in a way
+that is sensitive to the top width. We show how the width affects the gluon
+distribution in $e^+e^- \rightarrow t {\bar t}$ and discuss prospects for
+measuring $\Gamma$ from gluons radiated near $\tt$ threshold.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 18:55:00 GMT""}]","2007-05-23"
+"hep-ph/9211327",,"P.M. Stevenson","Response to Brodsky and Lu's Letter ""On the Self-Consistency of
+  Scale-Setting Methods","4 pages, LaTeX",,,"DE-FG05-92ER40717-2","hep-ph",,"  The claim that the Principle of Minimal Sensitivity is ""disfavored"" because
+it does not satisfy certain ""self-consistency requirements"" is meaningless, and
+shows a basic misunderstanding of the renormalization-scheme-dependence
+problem.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 21:47:00 GMT""},{""version"":""v2"",""created"":""Mon, 30 Nov 1992 19:42:00 GMT""}]","2008-02-03"
+"hep-ph/9211328","Osamu Yasuda","Kazuhito Iida, Hisakazu Minakata and Osamu Yasuda","A test of the equivalence principle by long-baseline
+  neutrino-oscillation experiments","LaTeX, 13 pages and 5 figures appended as PostScript files,
+  TMUP-HEL-9207","Mod. Phys. Lett. A8 (1993) 1037-1046","10.1142/S021773239300252X",,"hep-ph",,"  We show that a breakdown of the universality of the gravitational couplings
+to different neutrino flavors can be tested in long-baseline
+neutrino-oscillation experiments. In particular we have analyzed in detail a
+proposed experiment at SOUDAN 2 with $\nu_\mu$ beams from the Fermilab Main
+Injector. It turns out that we can study both masses of neutrinos and such a
+breakdown with sensitivity to the order of $10^{-14}$ by investigating the
+energy spectrum of the resulting muons.
+","[{""version"":""v1"",""created"":""Sat, 28 Nov 1992 14:55:02 GMT""}]","2015-06-25"
+"hep-th/9211128","Robert Perret","Robert Perret","A classical N=4 super W_3 algebra","15 pages, USC/92-023","Int. J. Mod. Phys. A8 (1993) 3615-3630","10.1142/S0217751X93001478",,"hep-th",,"  I construct classical superextensions of the Virasoro algebra by employing
+the Ward identities of a linearly realized subalgebra. For the $N=4$
+superconformal algebra, this subalgebra is generated by the $N=2$ $U(1)$
+supercurrent and a spin~0 $N=2$ superfield. I show that this structure can be
+extended to an $N=4$ super $W_3$ algebra, and give the complete form of this
+algebra.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 20:41:28 GMT""}]","2015-06-26"
+"hep-th/9211129",,"J. H. Yoon","Algebraically Special Class of Space-Times and (1+1)-Dimensional Field
+  Theories","15 pages, SNUTP 92-98",,,,"hep-th gr-qc",,"  We present the (1+1)-dimensional description of the algebraically special
+class of space-times of 4-dimensions. It is described by the (1+1)-dimensional
+Yang-Mills action interacting with matter fields, with diffeomorphisms of
+2-surface as the gauge symmetry. Parts of the constraints are identified as the
+gauge fixing condition. We also show that the representations of
+$w_{\infty}$-gravity appear naturally as special cases of this description, and
+discuss the geometry of $w_{\infty}$-gravity in term of the fibre bundle.
+","[{""version"":""v1"",""created"":""Sat, 28 Nov 1992 10:59:53 GMT""}]","2007-05-23"
+"hep-th/9211130","Andreas Honecker","A. Honecker","Automorphisms of W-Algebras and Extended Rational Conformal Field
+  Theories","23 pages (Plain TeX), BONN-HE-92-37","Nucl.Phys. B400 (1993) 574-596","10.1016/0550-3213(93)90416-M",,"hep-th",,"  Many extended conformal algebras with one generator in addition to the
+Virasoro field as well as Casimir algebras have non-trivial outer automorphisms
+which enables one to impose `twisted' boundary conditions on the chiral fields.
+We study their effect on the highest weight representations. We give formulae
+for the enlarged rational conformal field theories in both series of W-algebras
+with two generators and conjecture a general formula for the additional models
+in the minimal series of Casimir algebras. A third series of W-algebras with
+two generators which includes the spin three algebra at $c=-2$ also has
+finitely many additional fields in the twisted sector although the model itself
+is apparently not rational. The additional fields in the twisted sector have
+applications in statistical mechanics as we demonstrate for $Z_n$-quantum spin
+chains with a particular type of boundary conditions.
+","[{""version"":""v1"",""created"":""Sat, 28 Nov 1992 13:44:48 GMT""}]","2009-10-22"

@@ -1,0 +1,112 @@
+"cond-mat/9207024","Per Hyldgaard","Selman Hershfield, John H. Davies, Per Hyldgaard, Christopher J.
+  Stanton, and John W. Wilkins","Zero Frequency Current Noise for the Double Tunnel Junction Coulomb
+  Blockade","33 pages, 10 figures",,"10.1103/PhysRevB.47.1967",,"cond-mat",,"  We compute the zero frequency current noise numerically and in several limits
+analytically for the coulomb blockade problem consisting of two tunnel
+junctions connected in series. At low temperatures over a wide range of
+voltages, capacitances, and resistances it is shown that the noise measures the
+variance in the number of electrons in the region between the two tunnel
+junctions. The average current, on the other hand, only measures the mean
+number of electrons. Thus, the noise provides additional information about
+transport in these devices which is not available from measuring the current
+alone.
+","[{""version"":""v1"",""created"":""Mon, 20 Jul 1992 17:04:03 GMT""}]","2009-10-22"
+"gr-qc/9207001",,"Riccardo Capovilla","Non-Minimally Coupled Scalar Field and Ashtekar Variables","6 pages","Phys.Rev.D46:1450-1452,1992","10.1103/PhysRevD.46.1450",,"gr-qc",,"  The non-minimal coupling of a scalar field is considered in the framework of
+Ashtekar's new variables formulation of gravity. A first order action
+functional for this system is derived in which the field variables are a tetrad
+field, and an SL(2,C) connection, together with the scalar field. The tetrad
+field and the SL(2,C) connection are related to the Ashtekar variables for the
+vacuum case by a conformal transformation. A canonical analysis shows that for
+this coupling the equations of Ashtekar's formulation of canonical gravity are
+non-polynomial in the scalar field. (to be published in Phys. Rev. D)
+","[{""version"":""v1"",""created"":""Mon, 20 Jul 1992 22:50:00 GMT""}]","2010-11-01"
+"hep-lat/9207020",,"J. Ambjorn and K. Farakos","Topography of the hot sphaleron Transitions","11 pages. No figures (sorry, but ps files too huge). Latex file.
+  NBI-HE-92-52","Phys.Lett. B294 (1992) 248-256","10.1016/0370-2693(92)90690-6",,"hep-lat",,"  By numerical simulations in {\it real time} we provide evidence in favour of
+sphaleron like transitions in the hot, symmetric phase of the electroweak
+theory. Earlier performed observations of a change in the Chern-Simons number
+are supplemented with a measurement of the lowest eigenvalues of the
+three-dimensional staggered fermion Dirac operator and observations of the
+spatial extension of energy lumps associated with the transition. The
+observations corroborate on the interpretation of the change in Chern-Simons
+numbers as representing continuum physics, not lattice artifacts. By combining
+the various observations it is possible to follow in considerable detail the
+time-history of thermal fluctuations of the classical gauge-field
+configurations responsible for the change in the Chern-Simons number.
+","[{""version"":""v1"",""created"":""Mon, 20 Jul 1992 16:10:00 GMT""}]","2009-10-22"
+"hep-lat/9207021","Hartmut Wittig","C. Frick, L. Lin, I. Montvay, G. Munster, M. Plagge, T. Trappenberg,
+  H. Wittig","Numerical simulation of heavy fermions in an SU(2)_L x SU(2)_R symmetric
+  Yukawa model","15 pp + 11 Figures appended as Postscript files","Nucl.Phys.B397:431-450,1993","10.1016/0550-3213(93)90350-X",,"hep-lat",,"  An exploratory numerical study of the influence of heavy fermion doublets on
+the mass of the Higgs boson is performed in the decoupling limit of a chiral
+$\rm SU(2)_L \otimes SU(2)_R$ symmetric Yukawa model with mirror fermions. The
+behaviour of fermion and boson masses is investigated at infinite bare quartic
+coupling on $4^3 \cdot 8$, $6^3 \cdot 12$ and $8^3 \cdot 16$ lattices. A first
+estimate of the upper bound on the renormalized quartic coupling as a function
+of the renormalized Yukawa-coupling is given.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 10:25:37 GMT""}]","2010-12-23"
+"hep-ph/9207248","Datta Amitava","Amitava Datta","Flavour Democracy Calls for the Fourth Generation","9, Latex, IC/92/164","Pramana 40:L503-L509,1993",,,"hep-ph",,"  It is argued with the help of an illustrative model, that the inter--species
+hierarchy among the fermion masses and the quark mixing angles can be
+accommodated naturally in the standard model with (approximate) flavor
+democracy provided there are four families of sequential quark--leptons with
+all members of the fourth family having roughly equal masses. The special
+problem of light neutrino masses (if any) and possible solutions are also
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 20 Jul 1992 16:07:00 GMT""}]","2010-11-01"
+"hep-ph/9207249",,"R. Sekhar Chivukula, M. Dugan and M. Golden","Electroweak Corrections in Technicolor Reconsidered","17 pages (which incl 3 figures), BUHEP-92-25 HUTP-92/A033, text uses
+  harvmac, figures use pictex","Phys.Lett. B292 (1992) 435-441","10.1016/0370-2693(92)91200-S",,"hep-ph hep-lat",,"  Radiative corrections to electroweak parameters in technicolor theories may
+be evaluated by one of two techniques: either one estimates spectral function
+integrals using scaled QCD data, or one uses naive dimensional analysis with a
+chiral Lagrangian. The former yields corrections to electroweak parameters
+proportional to the number of flavors and the number of colors, while the
+latter is proportional to the number of flavors squared and is independent of
+the number of colors. We attempt to resolve this apparent contradiction by
+showing that the spectrum of technicolor one obtains by scaling QCD data to
+high energies is unlikely to resemble that of an actual technicolor theory. The
+resonances are likely to be much lighter than naively supposed and the
+radiative corrections to electroweak parameters may by much larger. We also
+argue that much less is known about the spectrum and the radiative corrections
+in technicolor than was previously believed.
+","[{""version"":""v1"",""created"":""Mon, 20 Jul 1992 23:35:16 GMT""}]","2009-10-22"
+"hep-ph/9207250",,"A. Zhitnitsky","Once more on $\theta$-vacua in $2+1$ dimensional QED and 3+1 dimensional
+  gluodynamics","15 pages","Phys.Lett.B291:465-472,1992","10.1016/0370-2693(92)91405-X","IASSNS 91-76","hep-ph",,"  Two different but tightly connected problems, $U(1)$ and strong CP violation
+problems, are discussed in two different models which exhibit both asymptotic
+freedom and confinement. One of them is the 3d Polyakov's model of compact QED
+and the other is 4d gluodynamics. It is shown that although both these models
+possess the long range interactions of the topological charges, only in the
+former case physics does not depend on $\theta$; while the latter exhibits an
+explicit $\theta$- dependence. The crucial difference is due to the
+observation, that the pseudoparticles of 4d gluodynamics possess an aditional
+quantum number, apart of the topological charge $Q$ .
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 08:39:46 GMT""}]","2010-11-01"
+"hep-ph/9207257",,"V. Barger, R. J. N. Phillips and K. Whisnant","Long-Wavelength Oscillations and the Gallex Solar Neutrino Signal","11 pages, 3 figures available by conventional mail or fax, MAD/PH/708","Phys.Rev.Lett.69:3135-3138,1992","10.1103/PhysRevLett.69.3135",,"hep-ph",,"  The recently reported solar neutrino signal in the $^{71}$Ga GALLEX detector
+adds a new dimension to the solar neutrino puzzle, complementing the previously
+known signals in $^{37}$Cl and water-Cherenkov detectors. Possible explanations
+for this new signal in terms of matter-enhanced neutrino oscillations (MSW
+effect) are already awaiting in the literature. We point out here that
+long-wavelength vacuum oscillations can furnish an alternative explanation of
+all three signals simultaneously; such solutions give neutrino spectra with
+distinctive energy dependence and seasonal time dependence. %This is a Revtex
+file, which is Latex-based but depends upon inputting the %Revtex style files
+distributed by APS/Physical Review. For more information, %contact Peggy
+Sutherland at MIS@APSEDOFF.BITNET, phone (516) 349-7800 ext 674
+","[{""version"":""v1"",""created"":""Mon, 20 Jul 1992 16:44:00 GMT""}]","2009-09-15"
+"hep-th/9207065","Igor Klebanov","S.Dalley and I.Klebanov","Light-Cone Quantization of the c=2 Matrix Model","12 pages, (3 diagrams now available as postscript files from authors,
+  1 ref added), PUPT-1333","Phys.Lett. B298 (1993) 79-87","10.1016/0370-2693(93)91711-U",,"hep-th",,"  We study the large $N$ limit of an interacting \td\ matrix field theory,
+whose perturbative expansion generates the sum over planar random graphs
+embedded in two dimensions. In the \lc\ quantization the theory possesses
+closed string excitations which become free as $N\to\infty$. If the
+longitudinal momenta are discretized, then the calculation of the free string
+spectrum reduces to finite matrix diagonalization, the size of the matrix
+growing as the cut-off is removed. Our numerical results suggest that, for a
+critical coupling, the \lc\ string spectrum becomes continuous. This would
+indicate the massless dynamics of the Liouville mode of \td\ gravity, which
+would constitute a {\it third} dimension of the string theory.
+","[{""version"":""v1"",""created"":""Mon, 20 Jul 1992 16:45:59 GMT""},{""version"":""v2"",""created"":""Mon, 14 Sep 1992 19:46:28 GMT""}]","2009-10-22"
+"hep-th/9207068",,"Jan Govaerts","A Quantum Anomaly For Rigid Particles","(replaces previous unpritable version corrupted mailer) 12 pages
+  (Plain TeX), DTP-92/37","Phys.Lett. B293 (1992) 327-334","10.1016/0370-2693(92)90891-7",,"hep-th",,"  Canonical quantisation of rigid particles is considered paying special
+attention to the restriction on phase space due to causal propagation. A mixed
+Lorentz-gravitational anomaly is found in the commutator of Lorentz boosts with
+world-line reparametrisations. The subspace of gauge invariant physical states
+is therefore not invariant under Lorentz transformations. The analysis applies
+for an arbitrary extrinsic curvature dependence with the exception of only one
+case to be studied separately. Consequences for rigid strings are also
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 21 Jul 1992 11:32:54 GMT""},{""version"":""v2"",""created"":""Thu, 23 Jul 1992 16:07:22 GMT""}]","2009-10-22"

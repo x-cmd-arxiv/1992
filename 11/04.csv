@@ -1,0 +1,263 @@
+"astro-ph/9211001","Jonathan Katz","J. I. Katz","A Burst of Speculation","5pp",,"10.1063/1.44180",,"astro-ph",,"  Self-consistent models of gamma-ray burst source regions at 100 Kpc distance
+are possible if the radiating plasma is confined to very thin sheets, and I
+estimate parameters. Energy sources might be elastic (by starquakes) or
+magnetic (by reconnection), but mechanisms remain obscure. I discuss a very
+speculative model involving collisions between comets in a hypothetical inner
+Oort cloud.
+","[{""version"":""v1"",""created"":""Tue, 3 Nov 1992 20:37:21 GMT""}]","2015-06-24"
+"astro-ph/9211002","Jean Kaplan","Paul Baillon, Alain Bouquet, Yannick Giraud-H\'eraud and Jean Kaplan","Detection of brown dwarfs by the micro-lensing of unresolved stars","14 p., LaTeX, 4 figures available on request, PAR-LPTHE 92 39/LPC 92
+  17","Astron.Astrophys. 277 (1993) 1-9",,,"astro-ph",,"  The presence of brown dwarfs in the dark galactic halo could be detected
+through their gravitational lensing effect and experiments under way monitor
+about one million stars to observe a few lensing events per year. We show that
+if the photon flux from a galaxy is measured with a good precision, it is not
+necessary to resolve the stars and besides more events could be observed.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 12:59:22 GMT""}]","2007-05-23"
+"cond-mat/9211002",,"Jan von Delft and Christopher L. Henley (Laboratory of Atomic and
+  Solid State Physics, Cornell University, Ithaca, NY)","Spin tunneling in the Kagom\'e antiferromagnet","38 pages (RevTex), 8 figures upon request PRB9211",,"10.1103/PhysRevB.48.965",,"cond-mat",,"  The collective tunneling of a small cluster of spins between two degenerate
+ground state configurations of the Kagom\'{e}-lattice quantum Heisenberg
+antiferromagnet is \mbox{studied}. The cluster consists of the six spins on a
+hexagon of the lattice. The resulting tunnel splitting energy $\Delta$ is
+calculated in detail, including the prefactor to the exponential $\exp(- \SSo /
+\hbar)$. This is done by setting up a coherent spin state path integral in
+imaginary time and evaluating it by the method of steepest descent. The hexagon
+tunneling problem is mapped onto a much simpler tunneling problem, involving
+only one collective degree of freedom, which can be treated by known methods.
+It is found that for half-odd-integer spins, the tunneling amplitude and the
+tunnel splitting energy are exactly zero, because of destructive interference
+between symmetry-related $(+)$-instanton and $(-)$-instanton tunneling paths.
+This destructive interference is shown to occur also for certain larger loops
+of spins on the Kagom\'{e} lattice. For small, integer spins, our results
+suggest that tunneling strongly competes with \mbox{in-plane}
+order-from-disorder selection effects; it constitutes a disordering mechanism
+that might drive the system into a partially disordered ground state, related
+to a spin nematic.
+","[{""version"":""v1"",""created"":""Tue, 3 Nov 1992 18:23:13 GMT""}]","2009-10-22"
+"cond-mat/9211003","Arthur Mezhlumian","A.Mezhlumian and S.A.Molchanov","Infinite-Scale Percolation in a New Type of Branching Diffusion
+  Processes","20 pages","Journal of Statistical Physics, vol. 71, p. 799 (1993)","10.1007/BF01058448","SU-ITP-92-32","cond-mat hep-lat",,"  We give an account of matter and (basically) a solution of a new class of
+problems synthesizing percolation theory and branching diffusion processes.
+They led us to realizing a novel type of stochastic processes, namely branching
+processes with diffusion on the space of parameters distinguishing the
+branching `particles' each other.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 01:32:26 GMT""}]","2011-12-08"
+"cond-mat/9211004","T. Hsu","Theodore C. Hsu and J.C. Angles d'Auriac","Level repulsion in integrable and almost-integrable quantum spin models","15 pages + 7 figures, REVTEX",,"10.1103/PhysRevB.47.14291",,"cond-mat",,"  The repartition of the separation between energy levels of various isotropic
+S=1/2 antiferromagnetic chains is studied numerically with the aim of
+investigating the transition from integrable to non-integrable systems. We
+begin by displaying the level separation distribution of the integrable Bethe
+chain. Then two non-integrable systems, two coupled chains and a
+next-nearest-neighbor coupled chain, are studied as a function of the coupling.
+We examine how the level spacing evolves from the Poisson distribution to the
+GOE distribution. Finally we consider the Haldane-Shastry $1/r^{2}$ model. A
+number of conclusions regarding the behaviour and relevance of the level
+spacing distribution in these spin systems is drawn.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 04:49:51 GMT""}]","2009-10-22"
+"gr-qc/9211002","Jonathan Z. Simon","Leonard Parker and Jonathan Z. Simon","Einstein Equation with Quantum Corrections Reduced to Second Order","47 pages plus 4 figure pages","Phys.Rev.D47:1339-1355,1993","10.1103/PhysRevD.47.1339","WISC-MILW-92-TH-14","gr-qc",,"  We consider the Einstein equation with first order (semiclassical) quantum
+corrections. Although the quantum corrections contain up to fourth order
+derivatives of the metric, the solutions which are physically relevant satisfy
+a reduced equations which contain derivatives no higher than second order. We
+obtain the reduced equations for a range of stress-energy tensors. These
+reduced equations are suitable for numerical solution, are expected to contain
+fewer numerical instabilities than the original fourth order equations, and
+yield only physically relevant solutions. We give analytic and numerical
+solutions or reduced equations for particular examples, including
+Friedmann-Lema\^\i tre universes with cosmological constant, a spherical body
+of constant density, and more general conformally flat metrics.
+","[{""version"":""v1"",""created"":""Tue, 3 Nov 1992 16:14:00 GMT""}]","2008-11-26"
+"gr-qc/9211005",,"M. De Francia, G. Goya, R. C. Mercader and H. Vucetich","M\""o\ss{}bauer null redshift experiment II","LaTeX, 8 pages, 1 figure (included), LAPLATA-",,,,"gr-qc",,"  Accurate limits for the violation of the Principle of Equivalence have been
+found from the comparison of the redshifts of two identical nuclear species in
+different chemical environments.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 14:16:31 GMT""}]","2007-05-23"
+"gr-qc/9211007","Ctirad Klimcik","C. Klim\v{c}\'ik and P. Koln\'ik","D=3: Singularities in Gravitational Scattering of Scalar Waves","22 pages, 5 figures upon request, LaTeX","Class.Quant.Grav.10:1367-1382,1993","10.1088/0264-9381/10/7/013","PRA-HEP-91/8","gr-qc",,"  Family of exact spacetimes of D=3 Einstein gravity interacting with massless
+scalar field is obtained by suitable dimensional reduction of a class of D=4
+plane-symmetric Einstein vacua. These D=3 spacetimes describe collisions of
+line-fronted asymptotically null excitations and are generically singular to
+the future. The solution for the scalar field can be decomposed into the
+Fourier-Bessel modes around the background solitons. The criteria of regularity
+of incoming waves are found. It is shown that the appearance of the scalar
+curvature singularities need not stem from singularities of incoming waves.
+Moreover, in distinction to D=4 case, for all solutions with regular incoming
+waves the final singularities are inevitable.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 09:11:32 GMT""}]","2016-08-14"
+"hep-lat/9211006","Tvaughan","J. B. Bronzan and Timothy E. Vaughan","A Gauge-fixed Hamiltonian for Lattice QCD","7 pages of LaTeX, RU-92-45 and BUHEP-92-37","Phys.Rev. D47 (1993) 3543-3545","10.1103/PhysRevD.47.3543",,"hep-lat",,"  We study the gauge fixing of lattice QCD in 2+1 dimensions, in the
+Hamiltonian formulation. The technique easily generalizes to other theories and
+dimensions. The Hamiltonian is rewritten in terms of variables which are gauge
+invariant except under a single global transformation. This paper extends
+previous work, involving only pure gauge theories, to include matter fields.
+","[{""version"":""v1"",""created"":""Tue, 3 Nov 1992 16:06:39 GMT""}]","2009-10-22"
+"hep-lat/9211007","Steven Gottlieb","The MILC Collaboration: C. Bernard, T. A. DeGrand, C. DeTar, Steven
+  Gottlieb, A. Krasnitz, R. Authors: L. Sugar, and D. Toussaint","Finite Size Effects on the QCD Spectrum Revisited","talk at Lattice '92, Amsterdam, 4 pages, 4 figures (included as
+  PostScript files), requires espcrc2.sty, Preprint IUHET--233","Nucl.Phys.Proc.Suppl.30:369-372,1993","10.1016/0920-5632(93)90229-Y",,"hep-lat",,"  We have continued our study of finite size effects in the QCD spectrum on
+lattices ranging in size from $8^3\times 24$ to $16^3\times24$. We have
+increased our statistics for quark mass $am_q=0.025$ for the smallest lattice
+size. In addition, we have studied quark mass 0.0125 for lattice sizes
+$12^3\times24$ and $16^3\times24$. These lattice sizes correspond to a box
+1.8--3.6 fm on a side when the rho mass at zero quark mass is used to set the
+scale. We discuss the nucleon to rho mass ratio at a smaller value of
+$m_\pi/m_\rho$ than previously studied with two dynamical flavors.
+","[{""version"":""v1"",""created"":""Tue, 3 Nov 1992 19:57:15 GMT""}]","2012-08-27"
+"hep-lat/9211008","Thomas Kalkreuter","Thomas Kalkreuter","Multigrid for propagators of staggered fermions in four-dimensional
+  $SU(2)$ gauge fields","4 pages, 3 figures (one LaTeX-figure, two figures appended as
+  encapsulated ps files); Contribution to LATTICE '92, requires espcrc2.sty","Nucl. Phys. Proc. Suppl. 30 (1993) 257","10.1016/0920-5632(93)90203-I",,"hep-lat",,"  Multigrid (MG) methods for the computation of propagators of staggered
+fermions in non-Abelian gauge fields are discussed. MG could work in principle
+in arbitrarily disordered systems. The practical variational MG methods tested
+so far with a ``Laplacian choice'' for the restriction operator are not
+competitive with the conjugate gradient algorithm on lattices up to $18^4$.
+Numerical results are presented for propagators in $SU(2)$ gauge fields.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 09:13:55 GMT""}]","2016-08-31"
+"hep-lat/9211009",,"B. Grossmann, M. L. Laursen, T. Trappenberg and U.-J. Wiese","The confined-deconfined interface tension, wetting, and the spectrum of
+  the transfer matrix","Talk presented at the International Conference on Lattice Field
+  Theory, Lattice 92, to be published in the proceedings, 4 pages, 4 figures,
+  figures 2,3,4 appended as postscript files, figure 1 not available as a
+  postscript file but identical with figure 2 of Nucl. Phys. B372 (1992) 703,
+  special style file espcrc2.sty required (available from hep-lat), BUTP-92/47",,"10.1016/0920-5632(93)90344-6",,"hep-lat",,"  The reduced tension $\sigma_{cd}$ of the interface between the confined and
+the deconfined phase of $SU(3)$ pure gauge theory is determined from numerical
+simulations of the first transfer matrix eigenvalues. At $T_c = 1/L_t$ we find
+$\sigma_{cd} = 0.139(4) T_c^2$ for $L_t = 2$. The interfaces show universal
+behavior because the deconfined-deconfined interfaces are completely wet by the
+confined phase. The critical exponents of complete wetting follow from the
+analytic interface solutions of a $\Z(3)$-symmetric $\Phi^4$ model in three
+dimensions. We find numerical evidence that the confined-deconfined interface
+is rough.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 12:06:32 GMT""}]","2009-10-22"
+"hep-ph/9211208","Lawrence Krauss","Lawrence M. Krauss","Cosmology and Astrophysics 1992","Plenary Lecture Delivered at the XXVI International Conference on
+  High Energy Physics, 28 pages, microsoft word file",,,"YCTP-P40-92","hep-ph astro-ph",,"  I review recent developments in cosmology and astrophysics relevant to
+particle physics, focussing on the following questions: What's new in 1992?
+What have we learned since the last ICHEP meeting in 1990? and What are the
+prospects for the future? AMong the topics explicitly discussed are: COBE,
+Large Scale Structure, and Dark Matter; Bib Bang Nucleosynthesis; the Solar
+Neutrino Problem; and High Energy Gamma Ray PHysics.
+","[{""version"":""v1"",""created"":""Tue, 3 Nov 1992 21:20:59 GMT""}]","2009-09-25"
+"hep-ph/9211209","Donald Shaw","Donald S. Shaw and Ray R. Volkas","Systematic Study of Fermion Masses and Mixing Angles in Horizontal SU(2)
+  Gauge Theory","43 pages, 4 figures (available by postal mail on request), OZ-92/08","Phys.Rev. D47 (1993) 241-255","10.1103/PhysRevD.47.241",,"hep-ph",,"  Despite its great success in explaining the basic interactions of nature, the
+standard model suffers from an inability to explain the observed masses of the
+fundamental particles and the weak mixing angles between them. We shall survey
+a set of possible extensions to the standard model, employing an SU(2)
+``horizontal'' gauge symmetry between the particle generations, to see what
+light they can shed on this problem.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 06:44:33 GMT""}]","2009-10-22"
+"hep-ph/9211210","Rick Weller","John S. Hagelin and S. Kelley","Evidence For SUSY from GUTS? Evidence For GUTS From SUSY!","19 pages plus 5 figures available on request, MIU-THP-92/61",,,,"hep-ph",,"  We review the theoretical and experimental status of minimal grand unified
+theories (GUTS), contrasting the failure of minimal non-supersymmetric $SU(5)$
+with the success of the minimal supersymmetric $SU(5)$ and minimal
+supersymmetric Flipped $SU(5)\times U(1)$ models. We show that a reasonable
+value for the universal soft supersymmetry-breaking gaugino mass,
+$45\GeV<m_{1/2}<1\TeV$, and a $1-\sigma$ range of the other inputs constrains
+the strong coupling, $\as>.114$. We define the supersymmetric standard model
+(SSM), the minimal supersymmetric extension of the standard model with gauge
+coupling unification and universal soft supersymmetry-breaking at the
+unification scale, as a baseline model for unified theories. We review the
+structure of the allowed parameter space of the SSM and suggest sparticle
+spectroscopy as the experimental means to determine the parameters of the SSM
+and search for departures from the baseline SSM.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 02:11:28 GMT""}]","2007-05-23"
+"hep-th/9211014","Judy Mack","A. Das and C. A. P. Galvao","Self-duality and the Supersymmetric KdV Hierarchy","10 pages","Mod.Phys.Lett. A8 (1993) 1399-1406","10.1142/S0217732393001112","UR-1284","hep-th",,"  We show how the supersymmetric KdV equation can be obtained from the
+self-duality condition on Yang-Mills fields in four dimension associated with
+the graded Lie algebra OSp(2/1). We also obtain the hierarchy of Susy KdV
+equations from such a condition. We formulate the Susy KdV hierarchy as a
+vanishing curvature condition associated with the U(1) group and show how an
+Abelian self-duality condition in four dimension can also lead to these
+equations.
+","[{""version"":""v1"",""created"":""Tue, 3 Nov 1992 19:39:00 GMT""}]","2015-06-26"
+"hep-th/9211015","Andrei Linde","Renata Kallosh, Tomas Ortin and Amanda Peet","Entropy and Action of Dilaton Black Holes","15 p., SU-ITP-92-29","Phys.Rev.D47:5400-5407,1993","10.1103/PhysRevD.47.5400",,"hep-th",,"  We present a detailed calculation of the entropy and action of $U(1)~2$
+dilaton black holes, and show that both quantities coincide with one quarter of
+the area of the event horizon. Our methods of calculation make it possible to
+find an explanation of the rule $S = A/4$ for all static, spherically symmetric
+black holes studied so far. We show that the only contribution to the entropy
+comes from the extrinsic curvature term at the horizon, which gives $S = A/4$
+independently of the charge(s) of the black hole, presence of scalar fields,
+etc. Previously, this result did not have a general explanation, but was
+established on a case-by-case basis. The on-shell Lagrangian for maximally
+supersymmetric extreme dilaton black holes is also calculated and shown to
+vanish, in agreement with the result obtained by taking the limit of the
+expression obtained for black holes with regular horizon.The physical meaning
+of the entropy is discussed in relation to the issue of splitting of extreme
+black holes.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 01:47:01 GMT""},{""version"":""v2"",""created"":""Wed, 4 Nov 1992 16:26:43 GMT""}]","2010-11-19"
+"hep-th/9211016","Vipul Periwal","Robert C. Myers and Vipul Periwal","Conformally invariant off-shell string physics","8 pages, iassns-hep-92-20 and McGill/92-48 (references
+  added/corrected)","Phys.Rev.Lett.70:2841-2844,1993","10.1103/PhysRevLett.70.2841",,"hep-th",,"  Using recent advances in the understanding of non-critical strings, we
+construct a unique, conformally invariant continuation to off-shell momenta of
+Polyakov amplitudes in critical string theory. Three-point amplitudes are
+explicitly calculated. These off-shell amplitudes possess some unusual,
+apparently stringy, characteristics, which are unlikely to be reproduced in a
+string field theory. Thus our results may be an indication that some
+fundamentally new formulation, other than string field theory, will be required
+to extend our understanding of critical strings beyond the Polyakov path
+integral.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 06:45:19 GMT""},{""version"":""v2"",""created"":""Fri, 6 Nov 1992 04:45:40 GMT""}]","2011-07-19"
+"hep-th/9211017","Gerald Cleaver","Gerald B. Cleaver","Comments on Fractional Superstrings","14 pages, jytex, CALT-68-1757",,,,"hep-th",,"  Using the factorization approach of Gepner and Qiu, I systematically rederive
+the closed fractional superstring partition functions for K= 4, 8, and 16. For
+these theories the relationship between the massless graviton and gravi- tino
+sector and the purely massive sectors is explored. Properties of the massive
+sectors are investigated. A twist current in these models is found responsible
+for the occurrence of N=1 space-time supersymmetry. I show this twist current
+transforms bosonic (fermionic) projection states into fermionic (bosonic)
+non-projection states and vice-versa.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 06:50:43 GMT""},{""version"":""v2"",""created"":""Thu, 5 Nov 1992 01:46:52 GMT""}]","2008-02-03"
+"hep-th/9211019","Jens L. Petersen","K. Ito, J.O. Madsen and J.L. Petersen","Extended Superconformal Algebras from Classical and Quantum Hamiltonian
+  Reduction","30 pages, NBI-HE-92-81",,,,"hep-th",,"  We consider the extended superconformal algebras of the Knizhnik-Bershadsky
+type with $W$-algebra like composite operators occurring in the commutation
+relations, but with generators of conformal dimension 1,$\frac{3}{2}$ and 2,
+only. These have recently been neatly classified by several groups, and we
+emphasize the classification based on hamiltonian reduction of affine Lie
+superalgebras with even subalgebras $G\oplus sl(2)$. We reveiw the situation
+and improve on previous formulations by presenting generic and very compact
+expressions valid for all algebras, classical and quantum. Similarly generic
+and compact free field realizations are presented as are corresponding
+screening charges. Based on these a discussion of singular vectors is
+presented. (Based on talk by J.L. Petersen at the Int. Workshop on ""String
+Theory, Quantum Gravity and the Unification of the Fundamental Interactions"",
+Rome Sep. 21-26, 1992)
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 11:09:23 GMT""}]","2007-05-23"
+"hep-th/9211020",,"J. Gamboa and C. Ramirez","Hamiltonian Approach to $2D$ Supergravity","11pp, Plain tex, IPNO-TH 92/79","Phys.Lett. B301 (1993) 20-24","10.1016/0370-2693(93)90714-S",,"hep-th",,"  We study $2D$ supergravity in a covariant and gauge independent way. The
+theory is obtained from $2D$ bosonic gravity following the square root method
+and the diffeomorphism superalgebra is explicitly computed. We argue that our
+approach could be a procedure for introducing nontrivial physics in quantum
+$2D$ (super)gravity.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 13:19:09 GMT""}]","2009-10-22"
+"hep-th/9211021",,"M. Gasperini and G. Veneziano","Pre-Big-Bang in String Cosmology","36 pages (plus 1 table and 3 figures ava. upon request), CERN-TH.6572","Astropart.Phys.1:317-339,1993","10.1016/0927-6505(93)90017-8",,"hep-th",,"  The duality-type symmetries of string cosmology naturally lead to a
+pre-big-bang phase of accelerated evolution as dual counterpart of the
+decelerated expansion of standard cosmology. We discuss several properties of
+this scenario, including the possibility that tracks of the pre-big-bang may be
+found either in the spectrum of relic gravitons or in the distortion they
+induce on the cosmic microwave background.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 13:15:07 GMT""}]","2011-05-23"
+"hep-th/9211022",,"Achim Kempf","Quantum Group Symmetric Bargmann Fock Construction","4 pages, LMU-TPW 92-25",,,,"hep-th",,"  Usually in quantum mechanics the Heisenberg algebra is generated by operators
+of position and momentum. The algebra is then represented on an Hilbert space
+of square integrable functions. Alternatively one generates the Heisenberg
+algebra by the raising and lowering operators. It is then natural to represent
+it on the Bargmann Fock space of holomorphic functions. In the following I show
+that the Bargmann Fock construction can also be done in the quantum group
+symmetric case. This leads to a 'q- deformed quantum mechanics' in which the
+basic concepts, Hilbert space of states and unitarity of time evolution, are
+preserved.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 13:29:49 GMT""}]","2007-05-23"
+"hep-th/9211023","Achim Kempf","Achim Kempf","Approach to Quantum Group deformed Quantum Field Theory","6 pages; Withdrawn at author's request Mon, 30 Oct 95",,,"LMU-TPW 92-26","hep-th",,"  In quantum field theory the creation and annihilation operators that are
+located at the points in 3-momentum space have commutation relations that are
+conserved under the action of a $U({\infty})$ group. Here it is shown how to
+define an appropriate $U_q({\infty})$ which then leads to deformed commutation
+relations. A formalism that was previously defined for quantum group symmetric
+quantum mechanics can be applied by imposing simple adjustments. The simplest
+example of a free scalar $q$-bosonic field is discussed. The deformation occurs
+as a multi-particle effect, which introduces a kinetic energy (i.e.
+$({\vec{p}})^2$) - ordering of the involved particles.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 13:45:30 GMT""}]","2007-05-23"
+"hep-th/9211024",,"J. Grundberg, U. Lindstrom and H. Nordstrom","Discretization of the Superparticle Path Integral","10 pages","Mod. Phys. Lett. A8 (1993) 1323-1330","10.1142/S0217732393001057","USITP-92-11","hep-th",,"  Requiring that the path integral has the global symmetries of the classical
+action and obeys the natural composition property of path integrals, and also
+that the discretized action has the correct naive continuum limit, we find a
+viable discretization of the (D=3,N=2) superparticle action.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 12:49:00 GMT""}]","2015-06-26"
+"hep-th/9211025",,"Nathan Berkovits","Lorentz-Covariant Green-Schwarz Superstring Amplitudes","11 pages plain Tex, KCL-TH-92-6","Phys.Lett.B300:53-60,1993","10.1016/0370-2693(93)90748-7",,"hep-th",,"  In a recent paper, the BRST formalism for the gauge-fixed N=2 twistor-string
+was used to calculate Green-Schwarz supersring scattering amplitudes with an
+arbitrary number of loops and external massless states. Although the
+gauge-fixing procedure preserved the worldsheet N=2 superconformal invariance
+of the twistor-string, it broke the target-space SO(9,1) super-Poincar\'e
+invariance down to an SU(4)xU(1) subgroup. In this paper, generators for the
+SO(9,1) super-Poincar\'e transformations, as well as manifestly covariant
+vertex operators, are explicitly constructed out of the gauge-fixed matter
+fields. The earlier calculated amplitudes are then expressed in manifestly
+Lorentz-covariant notation.
+","[{""version"":""v1"",""created"":""Wed, 4 Nov 1992 15:38:00 GMT""}]","2011-07-19"
+"nucl-th/9211002",,"L. Frankfurt, W. R. Greenberg, G. A. Miller, M. Strikman","Sum Rule Description of Color Transparency","22 pages + 3 postscript figures attached","Phys.Rev.C46:2547-2553,1992","10.1103/PhysRevC.46.2547","U.WA. Report 40427-25-N92","nucl-th",,"  The assumption that a small point-like configuration does not interact with
+nucleons leads to a new set of sum rules that are interpreted as models of the
+baryon-nucleon interaction. These models are rendered semi-realistic by
+requiring consistency with data for cross section fluctuations in proton-proton
+diffractive collisions.
+","[{""version"":""v1"",""created"":""Tue, 3 Nov 1992 20:49:47 GMT""}]","2008-11-26"

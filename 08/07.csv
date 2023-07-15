@@ -1,0 +1,106 @@
+"alg-geom/9208002","Kenneth A. Ribet","Kenneth A. Ribet","Abelian varieties over Q and modular forms","19 pages, AMS-TeX 2.1",,,,"alg-geom math.AG",,"  This paper gives a conjectural characterization of those elliptic curves over
+the field of complex numbers which ""should"" be covered by standard modular
+curves. The elliptic curves in question all have algebraic j-invariant, so they
+can be viewed as curves over Q-bar, the field of algebraic numbers. The
+condition that they satisfy is that they must be isogenous to all their Galois
+conjugates. Borrowing a term from B.H. Gross, ""Arithmetic on elliptic curves
+with complex multiplication,"" we say that the elliptic curves in question are
+""Q-curves."" Since all complex multiplication elliptic curves are Q-curves (with
+this definition), and since they are all uniformized by modular forms
+(Shimura), we consider only non-CM curves for the remainder of this abstract.
+We prove:
+  1. Let C be an elliptic curve over Q-bar. Then C is a Q-curve if and only if
+C is a Q-bar simple factor of an abelian variety A over Q whose algebra of
+Q-endomorphisms is a number field of degree dim(A). (We say that abelian
+varieties A/Q with this property are of ""GL(2) type."")
+  2. Suppose that Serre's conjecture on mod p modular forms are correct (Ref:
+Duke Journal, 1987). Then an abelian variety A over Q is of GL(2)-type if and
+only if it is a simple factor (over Q) of the Jacobian J_1(N) for some integer
+N\ge1. (The abelian variety J_1(N) is the Jacobian of the standard modular
+","[{""version"":""v1"",""created"":""Thu, 6 Aug 1992 22:54:15 GMT""}]","2015-06-30"
+"astro-ph/9208003","Aminneborg","Stefan {\AA}minneborg (Stockholm University)","The Probability for Formation of Collapsing Textures and Texture Knots","12 pages, 9 figures (not included), LATEX, (rev. may 1992)","Nucl.Phys.B388:521-538,1992","10.1016/0550-3213(92)90625-L","USITP-91-21","astro-ph hep-th",,"  Global textures are interesting because they are promising candidates for
+seeds in the structure formation of the universe. The important configurations
+are those who will be able to collapse. The type of configurations that I will
+consider are half knots and true knots. I define a half knot as one that covers
+more than a half-$S^3$, and a true knot as a configuration that covers the
+whole of $S^3$. Configurations that are half knots will be able to collapse, a
+new argument for this collapse criterion is given in this paper. I also give
+some critical remarks on the method of using the total winding number as a
+criterion for identifying a knot. I propose another more direct method and make
+use of it when I estimate the probability for formation of both true and half
+knots by numerical simulations.Taking into account the chance of annihilation
+the probability for collapse is found to be in the interval $p_{coll} \in
+[0.01,0.04]$. In the skyrmion picture of hadrons the investigations of
+formation of true knots are important, and some implications of my result on
+the predictions of a ""topological"" theory of baryon production in jets are
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 7 Aug 1992 08:51:00 GMT""}]","2011-07-19"
+"cond-mat/9208003",,"F. Guinea, O. Pla and E. Louis","Complexity and criticality in Laplacian growth models","7pages. Figures upon request",,"10.1209/0295-5075/24/9/001",,"cond-mat",,"  We analyze the dynamical evolution of systems which obey simple growth laws,
+like diffusion limited aggregation or dielectric breakdown. We show that, if
+the developing patterns is sufficiently complex, a scale invariant noise
+spectrum is generated, in agreement with the hypothesis that the system is in a
+self organized critical state. The intrinsic noise generated in the evolution
+is shown to be independent of the (extrinsic) stochastic aspects of the growth.
+Instead, it is related to the complexity of the generated pattern.
+","[{""version"":""v1"",""created"":""Fri, 7 Aug 1992 14:01:00 GMT""}]","2009-10-22"
+"hep-ph/9208211","Charles Gale","K. Haglin, C.Gale and V. Emel'yanov","Soft dilepton production in relativistic heavy ion collisions","29 pages typed in revtex, 13 figures (not included), hardcopy
+  available by regular mail upon request, McGill/92-33","Phys.Rev.D47:973-988,1993","10.1103/PhysRevD.47.973",,"hep-ph",,"  Production of electron-positron pairs with invariant masses less than 300 MeV
+from thermalized hadronic matter in relativistic heavy ion collisions is
+calculated using a soft virtual photon approximation. The general theoretical
+framework is reviewed and extended to include arbitrarily massed and charged
+reaction partners, which we apply to pions and quarks. This result, exact
+within the soft photon approximation, is compared with a widely used
+approximate result which uses an electromagnetic amplitude limited in validity
+to momentum transfers less than $4m_{\pi(q)}^{2}$. A comparison is made between
+the rate of production of zero total momentum soft dileptons obtained using
+resummation techniques in QCD perturbation theory to that which we calculate
+using this soft photon approximation.
+","[{""version"":""v1"",""created"":""Thu, 6 Aug 1992 18:21:24 GMT""}]","2010-01-15"
+"hep-ph/9208212",,"Jaume Garriga and Alexander Vilenkin","Black Holes from Nucleating Strings","27 pages, tutp-92-6","Phys.Rev. D47 (1993) 3265-3274","10.1103/PhysRevD.47.3265",,"hep-ph gr-qc hep-th",,"  We evaluate the probability that a loop of string that has spontaneously
+nucleated during inflation will form a black hole upon collapse, after the end
+of inflation. We then use the observational bounds on the density of primordial
+black holes to put constraints on the parameters of the model. Other
+constraints from the distortions of the microwave background and emission of
+gravitational radiation by the loops are considered. Also, observational
+constraints on domain wall nucleation and monopole pair production during
+inflation are briefly discussed.
+","[{""version"":""v1"",""created"":""Thu, 6 Aug 1992 20:20:00 GMT""}]","2009-10-22"
+"hep-ph/9208213","John Collins","John Collins","Fragmentation of Transversely Polarized Quarks Probed in Transverse
+  Momentum Distributions","22 pages + 4 figures (included), LaTeX. V. 2 has misprints corrected
+  and an appendix added, as in the published version","Nucl.Phys. B396 (1993) 161-182","10.1016/0550-3213(93)90262-N",,"hep-ph",,"  It is shown that the azimuthal dependence of the distribution of hadrons in a
+quark jet is a probe of the transverse spin of the quark initiating the jet.
+This results in a new spin-dependent fragmentation function that acts at the
+twist-2 level. One example of a process where it contributes is semi-inclusive
+deeply inelastic scattering with a transversely polarized nucleon target but
+with an {\em unpolarized} electron beam. This process is treated in detail.
+Another process is the cross section for singly polarized hadron-hadron
+scattering when two high $p_{\perp}$ hadrons are measured in the final state
+and are close to back-to-back in azimuth. The new fragmentation function is
+sensitive to the coupling of the fragmentation process to (spontaneous) chiral
+symmetry breaking.
+","[{""version"":""v1"",""created"":""Thu, 6 Aug 1992 21:52:09 GMT""},{""version"":""v2"",""created"":""Fri, 10 May 2002 15:54:13 GMT""}]","2009-10-22"
+"hep-ph/9208214","Silvia Mollerach","F. Lucchin, S. Matarrese and S. Mollerach","The gravitational wave contribution to CMB anisotropies and the
+  amplitude of mass fluctuations from COBE results","11 pages. Two figures available upon request","Astrophys.J.401:L49,1992","10.1086/186668","FNAL-Pub-92/185-A","hep-ph",,"  A stochastic background of primordial gravitational waves may substantially
+contribute, via the Sachs--Wolfe effect, to the large--scale Cosmic Microwave
+Background (CMB) anisotropies recently detected by COBE. This implies a {\it
+bias} in any resulting determination of the primordial amplitude of density
+fluctuations. We consider the constraints imposed on $n<1$ (``tilted"")
+power--law fluctuation spectra, taking into account the contribution from both
+scalar and tensor waves, as predicted by power--law inflation. The
+gravitational--wave contribution to CMB anisotropies generally reduces the
+required {\it rms} level of mass fluctuation, thereby increasing the linear
+{\it bias parameter}, even in models where the spectral index is close to the
+Harrison--Zel'dovich value $n=1$. This ``gravitational--wave bias"" helps to
+reconcile the predictions of CDM models with observations on pairwise galaxy
+velocity dispersion on small scales.
+","[{""version"":""v1"",""created"":""Fri, 7 Aug 1992 15:38:14 GMT""}]","2011-07-19"
+"hep-th/9208020","Yuri Makeenko","S.Khokhlachev and Yu.Makeenko","The Problem of Large-N Phase Transition in Kazakov-Migdal Model of
+  Induced QCD","10 pages, ITEP-YM-5-92","Phys.Lett. B297 (1992) 345-352","10.1016/0370-2693(92)91273-C",,"hep-th hep-lat",,"  We study the lattice gauge model proposed recently by Kazakov and Migdal for
+inducing QCD. We discuss an extra local Z_N which is a symmetry of the model
+and propose of how to construct observables. We discuss the role of the large-N
+phase transition which should occur before the one associated with the
+continuum limit in order that the model describes continuum QCD. We formulate
+the mean field approach to study the large-N phase transition for an arbitrary
+potential and show that no first order phase transition occurs for the
+quadratic potential.
+","[{""version"":""v1"",""created"":""Thu, 6 Aug 1992 19:03:42 GMT""}]","2009-10-22"

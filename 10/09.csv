@@ -1,0 +1,148 @@
+"hep-lat/9210013","Thomas A. DeGrand","T. DeGrand and M. Hecht","Wave functions and their use in spectroscopy and phenomenology","4 pages latex with lat92 macro plus 4 postscript figs, COLO-HEP-292","Nucl. Phys. Proc. Suppl. 30 (1993) 409","10.1016/0920-5632(93)90239-3",,"hep-lat",,"  We describe the calculation of Coulomb gauge wave functions for light quark
+systems, and their use as interpolating fields for excited state spectroscopy.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 23:27:07 GMT""}]","2009-10-22"
+"hep-lat/9210014","Juan Jesus Ruiz","Alonso, Azcoiti, Campos, Ciria, Cruz, Iniguez, lesmes, Piedrafita,
+  Rivero, Tarancon, Badoni, Fernandez, Munoz Sudupe, Ruiz Lorenzo, Gonzalez
+  Arroyo, Martinez, Pech and Tellez","The U(1)-Higgs Model: Critical Behaviour in the Confinig-Higgs region","21 text pages. 12 postscript figures available on request","Nucl.Phys.B405:574-592,1993","10.1016/0550-3213(93)90560-C","FT/UCM/12/92","hep-lat",,"  We study numerically the critical properties of the U(1)-Higgs lattice model,
+with fixed Higgs modulus, in the region of small gauge coupling where the Higgs
+and Confining phases merge. We find evidence of a first order transition line
+that ends in a second order point. By means of a rotation in parameter space we
+introduce thermodynamic magnitudes and critical exponents in close resemblance
+with simple models that show analogous critical behaviour. The measured data
+allow us to fit the critical exponents finding values in agreement with the
+mean field prediction. The location of the critical point and the slope of the
+first order line are accurately given.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 12:59:31 GMT""}]","2008-11-26"
+"hep-ph/9210221","Lawrence Krauss","Lawrence M. Krauss, Evalyn Gates, and Martin White","Solar Neutrino Data, Solar Model Uncertainties and Neutrino Oscillations","10 pages, latex, 3 figures (not included)","Phys.Lett.B299:94-98,1993","10.1016/0370-2693(93)90888-O","YCTP-P38-92","hep-ph astro-ph",,"  We incorporate all existing solar neutrino flux measurements and take solar
+model flux uncertainties into account in deriving global fits to parameter
+space for the MSW and vacuum solutions of the solar neutrino problem.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 18:26:05 GMT""}]","2008-11-26"
+"hep-ph/9210222","Mirjam Cvetic","Mirjam Cvetic and Paul Langacker","Signatures for Heavy $\bf Z'$ Bosons at Hadron Colliders","Talk given at the XXVI International Conference on High Energy
+  Physics, August 6--12, 1992, Dallas, Texas, 5 pages, UPR-533-T",,"10.1063/1.43435",,"hep-ph",,"  We discuss three promising diagnostic probes of the couplings of a possible
+heavy $Z'$ boson at hadron colliders: the forward-backward asymmetry into
+leptons, the rare decay $Z' \ra W^{\pm} \ell^{\mp} \nu$, and associated
+production $pp \ra Z'W,\; Z'Z$. A general model-independent framework is
+proposed for interpreting these and other data. Clean tests of whether a new
+$W'$ couples to right-handed currents, of the ratio $g_R/g_L$ of gauge
+couplings, and of the non-abelian vertex in left-right symmetric models are
+described.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 21:07:44 GMT""}]","2009-10-22"
+"hep-ph/9210223","Jarny Choi","J. Choi and R. R. Volkas","The effective potential at finite temperature in the left-right
+  symmetric model","20 A4pages + 2 figures not included but available (by ordinary mail)
+  upon request, plain Latex, UM-P-92/88","Phys.Rev.D48:1258-1265,1993","10.1103/PhysRevD.48.1258",,"hep-ph",,"  We obtain the effective potential at finite temperature within the left-right
+symmetric model. We take the Higgs sector to consist of two doublets and
+calculate its finite temperature effective potential up to the order of
+``ring-diagrams'', using analogous techniques to those employed in the
+derivation of the effective potential in the Standard Model. We find that two
+first order phase transitions can exist, one at the $SU(2)_R$ breaking scale,
+the other at the usual $SU(2)_L\otimes U(1)_Y$ breaking scale. Even though more
+parameters are present than the standard model, we find that the electroweak
+phase transition is still too weak to allow baryon asymmetry to survive the
+transition, if the lower bound of the Higgs boson mass from experiment is
+adhered to.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 07:36:24 GMT""}]","2008-11-26"
+"hep-ph/9210224",,"K. Tsushima and D.O. Riska","Dilatons in the topological soliton model for the hyperons","13 pages","Nucl.Phys. A560 (1993) 985-996","10.1016/0375-9474(93)90141-J","HU-TFT-92-35","hep-ph",,"  We show that the predicted hyperon masses in the topological soliton model
+are very sensitive to the value of the gluon condensate parameter that appears
+when the scale invariance and trace anomaly of QCD are taken into account by
+introduction of a dilaton field. This contrasts with the insensitivity of the
+soliton properties to the dilaton coupling. In order that the predicted strange
+and charmed hyperon spectra agree with the empirical ones the gluon condensate
+parameter has to be about (400 MeV)$^4$, which agrees with the result obtained
+from QCD sum rules. This implies that the bag formed by the scalar field must
+be very shallow.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 08:47:00 GMT""}]","2009-10-22"
+"hep-ph/9210225","Gideon Lana","Gideon Lana and Benjamin Svetitsky","Instability of Bubbles Near the Hadron--Quark-Gluon-Plasma Phase
+  Transition","6 pages, Latex + 2 figures; corrected inclusion of figures",,,"TAUP 2000-92","hep-ph",,"  The small surface tension of the interface between hadronic and
+quark-gluon-plasma domains, along with a negative curvature tension, implies
+that the uniform plasma is unstable against spontaneous formation of hadronic
+bubbles. We furthermore show that spherical bubbles are not stable against
+small perturbations.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 10:57:34 GMT""},{""version"":""v2"",""created"":""Wed, 25 Nov 1992 13:23:20 GMT""},{""version"":""v3"",""created"":""Sat, 28 May 2005 22:42:01 GMT""}]","2008-02-03"
+"hep-th/9210045","Joe G. Polchinski","Joseph Polchinski","Strings and QCD?","13 pages, LaTeX. Presented at the Symposium on Black Holes,
+  Wormholes, Membranes, and Superstrings, H.A.R.C., Houston, January 1992",,,"UTTG-16-92","hep-th",,"  Is large-$N$ QCD equivalent to a string theory? Maybe, maybe not. I review
+various attempts to answer the question.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 18:06:00 GMT""}]","2007-05-23"
+"hep-th/9210046","Joe G. Polchinski","Joseph Polchinski","Effective Field Theory and the Fermi Surface","39 pages, LaTeX. Lectures presented at TASI 1992. Figures now
+  included in epsf form",,,"NSF-ITP-92-132, UTTG-20-92","hep-th cond-mat hep-lat hep-ph",,"  This is an introduction to the method of effective field theory. As an
+application, I derive the effective field theory of low energy excitations in a
+conductor, the Landau theory of Fermi liquids, and explain why the high-$T_c$
+superconductors must be described by a different effective field theory.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 18:06:00 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jun 1999 16:24:03 GMT""}]","2008-02-03"
+"hep-th/9210047",,"Michael Dine","String Theory: Lessons for Low Energy Physics","13 pages, SCIPP 92/36. Should be easier to tex than previously",,"10.1063/1.43432",,"hep-th hep-ph",,"  This talk considers possible lessons of string theory for low energy physics.
+These are of two types. First, assuming that string theory is the correct
+underlying theory of all interactions, we ask whether there are any generic
+predictions the theory makes, and we compare the predictions of string theory
+with those of conventional grand unified theories. Second, string theory offers
+some possible answers to a number of troubling naturalness questions. These
+include problems of discrete and continuous symmetries in general, and CP and
+the strong CP problem in particular.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 19:11:00 GMT""},{""version"":""v2"",""created"":""Fri, 16 Oct 1992 22:11:00 GMT""}]","2009-10-22"
+"hep-th/9210048",,"Hyun Kyu Lee and Mannque Rho","Rotation Symmetry and Nonabelian Berry Potential","12 pages, HYUPT-92/07",,,,"hep-th hep-ph nucl-th",,"  We study the role of rotational symmetry in the systems where nonabelian
+Berry potentials emerge as a result of integrating out fast degrees of freedom.
+The conserved angular momentum is constructed in the presence of a non-abelian
+Berry potential, which is formulated using Grassmann variables. The
+modifications on conventional angular momentum are discussed in close analogy
+with monopole systems. The diatomic molecular system discussed by Zygelman is
+found to have a similar structure to that of a non-abelian $SU(2)$ charge
+coupled to a 't Hooft - Polyakov monopole. The abelian limit of the Berry
+potential in diatomic systems is shown to be the same as $U(1)$ monopole and in
+a large separation limit, we observe the decoupling associated with a vanishing
+field tensor.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 09:35:00 GMT""}]","2007-05-23"
+"hep-th/9210049","James T. Liu","Paul H. Frampton and James T. Liu","Heterotic Parafermionic Superstring","13 pages, IFP-440-UNC","Phys.Rev.Lett. 70 (1993) 130-133","10.1103/PhysRevLett.70.130",,"hep-th",,"  Superstrings have been postulated based on parafermionic partition functions
+which permit spacetime supersymmetry by generalized Jacobi identities. A
+comprehensive search finds new such identities. Quadrilateral anomaly
+cancellation gives constraints on allowed chiral fermions. Bosonic left-movers
+and $Z_4$ parafermionic right-movers combine in a new heterotic superstring,
+more constrained than the old one, yet equally applicable to physics.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 00:58:14 GMT""}]","2009-10-22"
+"hep-th/9210050",,"Ashoke Sen","Black Holes and Solitons in String Theory","24 pages, phyzzx.tex, TIFR-TH-92-57",,,,"hep-th gr-qc",,"  In this review, I discuss a general method for constructing classical
+solutions of the equations of motion arising in the effective low energy string
+theory, and discuss specific applications of this method. (Based on talks given
+at the Johns Hopkins Workshop held at Goteborg, June 8-10, 1992, and ICTP
+Summer Workshop held at Trieste, July 2-3, 1992)
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 11:23:00 GMT""}]","2007-05-23"
+"hep-th/9210051","F. A. Smirnov","Fedor A. Smirnov","Remarks on deformed and undeformed Knizhnik-Zamolodchikov equations","12 pages. AMS TEX, RIMS-860",,,,"hep-th",,"  Deformed and undeformed KZ equations are considered for $k=0$. It is shown
+that they allow the same number of solutions, one being the asymptotics of
+others. Essential difference in analitical properties of the solutions is
+explained.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 09:32:00 GMT""},{""version"":""v2"",""created"":""Wed, 21 Oct 1992 10:34:00 GMT""}]","2008-02-03"
+"hep-th/9210052","F. A. Smirnov","Fedor A. Smirnov","Form Factors, deformed Knizhnik-Zamolodchikov equations and finite-gap
+  integration","32 pages, AMS TEX, Isaac Newton Institute Preprint N 192006","Commun.Math.Phys. 155 (1993) 459-487","10.1007/BF02096723",,"hep-th",,"  We study the limit of asymptotically free massive integrable models in which
+the algebra of nonlocal charges turns into affine algebra. The form factors of
+fields in that limit are described by KZ equations on level 0. We show the
+limit to be connected with finite-gap integration of classical integrable
+equations.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 09:53:00 GMT""},{""version"":""v2"",""created"":""Thu, 15 Oct 1992 12:57:00 GMT""}]","2009-10-22"
+"hep-th/9210053","Maximilian Kreuzer","J\""urgen Fuchs and Maximilian Kreuzer","On the Landau-Ginzburg description of $(A_1^{(1)})^{\oplus N}$
+  invariants","16 pages, CERN-TH.6669/92","Int.J.Mod.Phys. A9 (1994) 1287-1304","10.1142/S0217751X94000583",,"hep-th",,"  We search for a \Lg\ interpretation of non-diagonal modular invariants of
+tensor products of minimal $n=2$ superconformal models, looking in particular
+at automorphism invariants and at some exceptional cases. For the former we
+find a simple description as \lgo s, which reproduce the correct chiral rings
+as well as the spectra of various Gepner--type models and orbifolds thereof. On
+the other hand, we are able to prove for one of the exceptional cases that this
+conformal field theory cannot be described by an orbifold of a \Lg\ model with
+respect to a manifest linear symmetry of its potential.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 11:38:39 GMT""}]","2015-06-26"
+"hep-th/9210054","Bo-Sture Skagerstam","Bo-Sture K Skagerstam","Localization of Massless Spinning Particles and the Berry Phase","22 pages, ITP 92-09, LaTeX",,,,"hep-th",,"  The components of the position operator, at a fixed time, for a massless and
+spinning particle with given helicity $\lambda$ described in terms of bosonic
+degrees of freedom have an anomalous commutator proportional to $\lambda$. The
+position operator generates translations in momentum space. We show that a
+ray-representation for these translations emerges due to the non-commuting
+components of the position operators and relate this to the Berry-phase for
+photons. The Tomita-Chiao experiment then gives support for this relativistic
+and quantum mechanical description of photons in terms of non-commuting
+position operators.
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 12:42:29 GMT""}]","2007-05-23"
+"hep-th/9210055",,"G. A. Diamandis, B. C. Georgalas, X. Maintas and N.E. Mavromatos","Time-dependent perturbations in two-dimensional String Black Holes","11 pages, two figures,UA-NPPS.9/92; CERN-TH.6671/92","Phys.Lett. B297 (1992) 67-73","10.1016/0370-2693(92)91071-G",,"hep-th",,"  We discuss time-dependent perturbations (induced by matter fields) of a
+black-hole background in tree-level two-dimensional string theory. We analyse
+the linearized case and show the possibility of having black-hole solutions
+with time-dependent horizons. The latter exist only in the presence of
+time-dependent `tachyon' matter fields, which constitute the only propagating
+degrees of freedom in two-dimensional string theory. For real tachyon field
+configurations it is not possible to obtain solutions with horizons shrinking
+to a point. On the other hand, such a possibility seems to be realized in the
+case of string black-hole models formulated on higher world-sheet genera. We
+connect this latter result with black hole evaporation/decay at a quantum
+level.}
+","[{""version"":""v1"",""created"":""Fri, 9 Oct 1992 13:31:30 GMT""}]","2009-10-22"

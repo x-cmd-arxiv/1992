@@ -1,0 +1,160 @@
+"alg-geom/9212001",,"Jean-Pierre Demailly, Laszlo Lempert and Bernard Shiffman","Algebraic approximations of holomorphic maps from Stein domains to
+  projective manifolds","32 pages, plain-TeX. Note: This paper is a revision of our manuscript
+  of December 11, 1992. The present version contains many technical changes in
+  the first three sections. More general results are obtained with a simpler
+  proof","Duke Math. J. 76 (1994), 333-363",,,"alg-geom math.AG",,"  It is shown that every holomorphic map $f$ from a Runge domain $\Omega$ of an
+affine algebraic variety $S$ into a projective algebraic manifold $X$ is a
+uniform limit of Nash algebraic maps $f_\nu$ defined over an exhausting
+sequence of relatively compact open sets $\Omega_\nu$ in $\Omega$. A relative
+version is also given: If there is an algebraic subvariety $A$ (not necessarily
+reduced) in $S$ such that the restriction of $f$ to $A\cap\Omega$ is algebraic,
+then $f_\nu$ can be taken to coincide with $f$ on $A\cap\Omega_\nu$. The main
+application of these results, when $\Omega$ is the unit disk, is to show that
+the Kobayashi pseudodistance and the Kobayashi-Royden infinitesimal metric of a
+quasi-projective algebraic manifold $Z$ are computable solely in terms of the
+closed algebraic curves in $Z$. Similarly, the $p$-dimensional Eisenman metric
+of a quasi-projective algebraic manifold can be computed in terms of the
+Eisenman volumes of its $p$-dimensional algebraic subvarieties. Another
+question addressed in the paper is whether the approximations $f_\nu$ can be
+taken to have their images contained in affine Zariski open subsets of $X$. By
+using complex analytic methods (pluricomplex potential theory and H\""ormander's
+$L^2$ estimates), we show that this is the case if $f$ is an embedding (with
+$\dim S<\dim X$) and if there is an ample line bundle $L$ on $X$ such that
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 12:39:04 GMT""},{""version"":""v2"",""created"":""Thu, 7 Jan 1993 13:21:41 GMT""},{""version"":""v3"",""created"":""Mon, 8 Nov 1993 04:23:15 GMT""}]","2008-02-03"
+"funct-an/9211014","Bill Arveson","William Arveson","Non-commutative spheres and numerical quantum mechanics","9 pages, AMSTeX 2.1",,,,"funct-an math.OA",,"  We discuss some basic issues that arise when one attempts to model quantum
+mechanical systems on a computer, and we describe the mathematical structure of
+the resulting discretized cannonical commutation relations.
+","[{""version"":""v1"",""created"":""Mon, 30 Nov 1992 19:26:17 GMT""},{""version"":""v2"",""created"":""Mon, 18 Jan 1993 01:13:37 GMT""}]","2008-02-03"
+"funct-an/9211015","Bill Arveson","William Arveson","Discretized CCR algebras","14 pages, AMSTeX 2.1",,,,"funct-an math.OA",,"  We discuss how the canonical commutation relations must be modified in order
+to make appropriate numerical models of quantum systems. The C*-algebras
+associated with the discretized CCRs are the non-commutative spheres of
+Bratteli, Elliott, Evans and Kishimoto.
+","[{""version"":""v1"",""created"":""Mon, 30 Nov 1992 19:26:34 GMT""},{""version"":""v2"",""created"":""Mon, 18 Jan 1993 01:03:43 GMT""}]","2008-02-03"
+"hep-lat/9211066","Rajamani Narayanan","Rajamani Narayanan","Running Coupling in pure gauge theories using the Schr\""odinger
+  functional","4 pages, RU-92-54",,,,"hep-lat",,"  Schr\""odinger functional, the propagation kernel for going from some field
+configuration at time $x^0=0$ to some other configuration at $x^0=T$, is used
+to define a running coupling, $\bar g^2(L)$, at a length scale, $L$, in pure
+gauge theories. Using a lattice formulation and finite size scaling techniques,
+this running coupling is calculated non-perturbatively in the continuum for a
+wide range of $L$, that extends from the perturbative scales to
+non-perturbative scales, for the specific case of pure SU(2) gauge theory.
+","[{""version"":""v1"",""created"":""Mon, 30 Nov 1992 23:45:03 GMT""}]","2007-05-23"
+"hep-lat/9212001","Wolfgang Bock","Wolfgang Bock, Asit K. De, Erich Focht and Jan Smit","Chiral fermions in two dimensions?","4 pages, 2 postscript figures (appended), Wash. U","Nucl.Phys.Proc.Suppl. 30 (1993) 666-669","10.1016/0920-5632(93)90298-K","HEP/92-101; IFTA-92-33","hep-lat",,"  Quenched studies of a global U(1) symmetric Wilson-Yukawa model in two
+dimensions show no evidence of a charged fermion in the vortex phase at strong
+Wilson-Yukawa coupling while there is strong indication of a massive neutral
+fermion. However, with the U(1)$_L$ gauge field turned on, we use dimensional
+arguments to suggest that the neutral fermion appears to couple chirally to a
+massive vector boson state.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 15:22:57 GMT""}]","2009-10-22"
+"hep-ph/9211334","Stamatis Vokos","P. Arnold, P. Bedaque, A. Das, and S. Vokos","On the Analytic Structure of the Self-Energy for Massive Gauge Bosons at
+  Finite Temperature","(uses harvmac), 13 pages plus 4 postscript figures (in a separate
+  uuencoded file, or available through e-mail upon request), UW/PT-92-19,
+  UR-1287, ANL-HEP-PR-92-51","Phys.Rev.D47:4698-4704,1993","10.1103/PhysRevD.47.4698",,"hep-ph hep-th",,"  We show that the one-loop self-energy at finite temperature has a unique
+limit as the external momentum $p_\mu\rightarrow 0$ {\it if} the loop involves
+propagators with distinct masses. This naturally arises in theories involving
+particles with different masses as is demonstrated for a toy model of two
+scalars as well as in a $U(1)$ Higgs theory. We show that, in spontaneously
+broken gauge theories, this observation nonetheless does not affect the
+difference between the Debye and plasmon masses, which are often thought of as
+the $(p_0=0, \vec{p}\to 0)$ and $(p_0\to 0,\vec{p}=0)$ limits of the
+self-energy.
+","[{""version"":""v1"",""created"":""Mon, 30 Nov 1992 19:25:58 GMT""}]","2010-02-16"
+"hep-ph/9211335","Michael Martin Nieto","V. Alan Kosteleck\'y, Michael Martin Nieto, and D. Rodney Truax","Supersqueezed States","21 pages, LaTeX","Phys.Rev.A48:1045-1054,1993","10.1103/PhysRevA.48.1045","Indiana Uniersity preprint IUHET-224; Los Alamos preprint
+  LAUR-92-2708","hep-ph",,"  We derive the supersqueeze operator for the supersymmetric harmonic
+oscillator, using Baker-Campbell-Hausdorff relations for the supergroup
+OSP(2/2). Combining this with the previously obtained superdisplacement
+operator, we derive the supersqueezed states. These are the supersymmetric
+generalization of the squeezed states of the harmonic oscillator.
+","[{""version"":""v1"",""created"":""Mon, 30 Nov 1992 21:03:43 GMT""}]","2016-08-14"
+"hep-ph/9211336",,"Pankaj Jain and John P. Ralston","Interpretation of the Color Transparency Experiments","to be published in the proceedings of the DPF92 meeting, Fermilab,
+  1992, 4 pages, 2 figures (not included, available upon request), report #
+  KUHEP-21",,,,"hep-ph",,"  We argue that the experimentally measured color transparency ratio is
+directly related to the interacting hadron wave function at small transverse
+separation, $b^2<1/Q^2$. We show that the present experimental data is
+consistent with pure scaling behavior of the hadron-hadron and lepton-hadron
+scattering inside the nuclear medium.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 03:29:33 GMT""}]","2007-05-23"
+"hep-ph/9211337",,"Pankaj Jain, Douglas W. McKay and Herman J. Munczek","Infrared Corrections to the Top Quark Width","to be published in the proceedings of the DPF92 meeting, Fermilab,
+  1992, 4 pages, report# KUHEP-22",,,,"hep-ph",,"  We present a nonperturbative analysis of the top quark propagator using the
+Schwinger Dyson equation in the ladder approximation including both the
+electroweak as well as the infrared QCD effects.
+  We find that the infrared effects are negligible only for top mass larger
+than about 250 GeV.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 03:34:42 GMT""}]","2007-05-23"
+"hep-ph/9211338",,"Koichi Yamawaki","Tightly Bound Composite Higgs","9 pages, LaTeX",,,"DPNU-92-49","hep-ph",,"  We explain general features of the tightly bound composite Higgs models
+proposed in recent years; walking technicolor, strong ETC technicolor, and a
+top quark condensate, etc.. These models are all characterized by the large
+anomalous dimension due to nontrivial short distance dynamics in the gauged
+Nambu-Jona-Lasinio models (gauge theories plus four-fermion interactions).
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 08:14:59 GMT""}]","2007-05-23"
+"hep-th/9211139","Jens Schnittger","Jens Schnittger and Ulrich Ellwanger","Nonperturbative Conditions for Local Weyl Invariance on a Curved World
+  Sheet","26 pages, HD-THEP-92-28","Theor.Math.Phys. 95 (1993) 643-662; Int.J.Mod.Phys. A9 (1994)
+  1821-1848","10.1007/BF01017149",,"hep-th",,"  We investigate Weyl anomalies on a curved world sheet to second order in a
+weak field expansion. Using a local version of the exact renormalization group
+equations, we obtain nonperturbative results for the tachyon/graviton/dilaton
+system. We discuss the elimination of redundant operators, which play a crucial
+role for the emergence of target space covariance. Performing the operator
+product expansion on a curved world sheet allows us to obtain the
+nonperturbative contributions to the dilaton $\beta$ function. We find the
+$\beta$ functions, after suitable field redefinitions, to be related to a
+target space effective action through a $\kappa$ function involving
+derivatives. Also we can establish a nonperturbative Curci-Paffuti relation
+including the tachyon $\beta$ function.
+","[{""version"":""v1"",""created"":""Mon, 30 Nov 1992 16:38:18 GMT""}]","2009-10-22"
+"hep-th/9211140","Nadia Azmy","A. Polyakov","A View From the Island","10 pages, PUPT-1353",,,,"hep-th hep-ph",,"  This is a brief and subjective description of ideas which formed our present
+field-theoretic understanding of fundamental physics.
+","[{""version"":""v1"",""created"":""Mon, 30 Nov 1992 20:01:50 GMT""}]","2007-05-23"
+"hep-th/9211141","Craig Tracy","Craig A. Tracy and Harold Widom","Level-Spacing Distributions and the Airy Kernel","35 pages, LaTeX document using REVTEX macros","Commun.Math.Phys. 159 (1994) 151-174","10.1007/BF02100489",,"hep-th cond-mat math-ph math.MP nlin.SI solv-int",,"  Scaling level-spacing distribution functions in the ``bulk of the spectrum''
+in random matrix models of $N\times N$ hermitian matrices and then going to the
+limit $N\to\infty$, leads to the Fredholm determinant of the sine kernel
+$\sin\pi(x-y)/\pi (x-y)$. Similarly a scaling limit at the ``edge of the
+spectrum'' leads to the Airy kernel $[{\rm Ai}(x) {\rm Ai}'(y) -{\rm Ai}'(x)
+{\rm Ai}(y)]/(x-y)$. In this paper we derive analogues for this Airy kernel of
+the following properties of the sine kernel: the completely integrable system
+of P.D.E.'s found by Jimbo, Miwa, M{\^o}ri and Sato; the expression, in the
+case of a single interval, of the Fredholm determinant in terms of a
+Painlev{\'e} transcendent; the existence of a commuting differential operator;
+and the fact that this operator can be used in the derivation of asymptotics,
+for general $n$, of the probability that an interval contains precisely $n$
+eigenvalues.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 01:21:00 GMT""}]","2009-07-11"
+"hep-th/9212001","Andrzej Sitarz","Andrzej Sitarz","Noncommutative Geometry and The Ising Model","12 pages, LaTeX, TPJU - 18/92, December 1992",,"10.1088/0305-4470/26/20/017",,"hep-th",,"  The main aim of this work is to present the interpretation of the Ising type
+models as a kind of field theory in the framework of noncommutative geometry.
+We present the method and construct sample models of field theory on discrete
+spaces using the introduced tools of discrete geometry. We write the action for
+few models, then we compare them with various models of statistical physics. We
+construct also the gauge theory with a discrete gauge group.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 11:04:12 GMT""}]","2009-10-22"
+"hep-th/9212002","Haruhiko Terao","Haruhiko Terao","Two Dimensional Black Hole Evapolation in the Light-Cone Gauge","10 pages, KANAZAWA-92-19","Prog.Theor.Phys.Suppl.114:175-184,1993","10.1143/PTPS.114.175",,"hep-th",,"  Quantization of the pure $1+1$ dimensional dilaton gravity is examined in the
+light-cone gauge. It is found that the total action including ghosts generates
+a $c=0$ free conformal field theory without modification of the classical
+action, which is required in the conformal gauge. We also study semiclassical
+equations of the dilaton gravity coupled to $N$ scalar fields. It is shown that
+the black hole singularity is not removed even for $N<24$ in the light-cone
+gauge. This indicates that the semiclassical analysis breaks down for small
+$N$.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 11:56:57 GMT""}]","2008-11-26"
+"hep-th/9212003","Robert Marnelius","Robert Marnelius (G\""oteborg ITP)","Simple BRST quantization of general gauge models","18 pages, Latex","Nucl.Phys. B395 (1993) 647-660","10.1016/0550-3213(93)90051-P","G\""{o}teborg ITP 92-48","hep-th",,"  It is shown that the BRST charge $Q$ for any gauge model with a Lie algebra
+symmetry may be decomposed as $$Q=\del+\del^{\dag}, \del^2=\del^{\dag 2}=0,
+[\del, \del^{\dag}]_+=0$$ provided dynamical Lagrange multipliers are used but
+without introducing other matter variables in $\del$ than the gauge generators
+in $Q$. Furthermore, $\del$ is shown to have the form $\del=c^{\dag a}\phi_a$
+(or $\phi'_ac^{\dag a}$) where $c^a$ are anticommuting expressions in the
+ghosts and Lagrange multipliers, and where the non-hermitian operators $\phi_a$
+satisfy the same Lie algebra as the original gauge generators. By means of a
+bigrading the BRST condition reduces to $\del|ph\hb=\del^{\dag}|ph\hb=0$ which
+is naturally solved by $c^a|ph\hb=\phi_a|ph\hb=0$ (or $c^{\dag
+a}|ph\hb={\phi'_a}^{\dag}|ph\hb=0$). The general solutions are shown to have a
+very simple form.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 13:57:22 GMT""}]","2016-08-14"
+"hep-th/9212005",,"David B. Fairlie and Jan Govaerts","Linearisation of Universal Field Equations","11pp., DTP-92/47, NI-92/011","J.Phys. A26 (1993) 3339-3347","10.1088/0305-4470/26/13/037",,"hep-th",,"  The Universal Field Equations, recently constructed as examples of higher
+dimensional dynamical systems which admit an infinity of inequivalent
+Lagrangians are shown to be linearised by a Legendre transformation. This
+establishes the conjecture that these equations describe integrable systems.
+While this construction is implicit in general, there exists a large class of
+solutions for which an explicit form may be written.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 15:53:00 GMT""}]","2009-10-22"
+"math/9212209","Peter W. Michor","Andreas Cap, Peter W. Michor, Hermann Schichl","A quantum-group-like structure on noncommutative 2-tori",,"Lett. Math. Phys. 28 (1993), 251--255","10.1007/BF00761493","ESI Preprint 6; Michor 99-08","math.QA",,"  In this paper we show that in the case of noncommutative two-tori one gets in
+a natural way simple structures which have analogous formal properties as Hopf
+algebra structures but with a deformed multiplication on the tensor product.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 00:00:00 GMT""}]","2016-09-06"

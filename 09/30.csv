@@ -1,0 +1,188 @@
+"astro-ph/9209006",,"L. Knox and M.S. Turner (U. of Chicago/Fermilab)","Inflation at the Electroweak Scale","14 pages","Phys.Rev.Lett. 70 (1993) 371-374","10.1103/PhysRevLett.70.371","FERMILAB-Pub-92/176-A","astro-ph hep-ph",,"  We present a simple model for slow-rollover inflation where the vacuum energy
+that drives inflation is of the order of $G_F^{-2}$; unlike most models, the
+conversion of vacuum energy to radiation (``reheating'') is moderately
+efficient. The scalar field responsible for inflation is a standard-model
+singlet, develops a vacuum expectation value of the order of $4\times
+10^6\GeV$, has a mass of order $1\GeV$, and can play a role in electroweak
+phenomena.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 02:06:08 GMT""}]","2009-10-22"
+"cond-mat/9209034",,"Alexandr Its, Anatloij Izergin, Vladimr Korepin, Nikita Slavnov","Temperature Correlations of Quantum Spins","6 pages, TEX ITP-SB-92-47, INS #211 ENSLAPP 394",,,,"cond-mat",,"  We consider isotropic XY model in the transverse magnetic field on the one
+dimensional lattice. Another name of the model in Heisenberg XXO model of spin
+1/2.We solved long standing problem of evaluation of temperature correlations.
+We first represent correlation function in the model, by means of completely
+integrable differential equation. This is famous Ablowitz-Ladik lattice
+Nonlinear Schrodinger equation.Correlation function is the $\tau $ function of
+this differential equation. We solved this equation and evaluate asymptotics.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 00:12:26 GMT""}]","2007-05-23"
+"gr-qc/9209012","John D. Brown","J. David Brown and James W. York","Quasilocal Energy and Conserved Charges Derived from the Gravitational
+  Action","35 pages, plain TeX. Two figures available upon request
+  (jdbrown@math.ncsu.edu)","Phys.Rev.D47:1407-1419,1993","10.1103/PhysRevD.47.1407",,"gr-qc hep-th",,"  The quasilocal energy of gravitational and matter fields in a spatially
+bounded region is obtained by employing a Hamilton-Jacobi analysis of the
+action functional. First, a surface stress-energy-momentum tensor is defined by
+the functional derivative of the action with respect to the three-metric on
+${}^3B$, the history of the system's boundary. Energy density, momentum
+density, and spatial stress are defined by projecting the surface stress tensor
+normally and tangentially to a family of spacelike two-surfaces that foliate
+${}^3B$. The integral of the energy density over such a two-surface $B$ is the
+quasilocal energy associated with a spacelike three-surface $\Sigma$ whose
+intersection with ${}^3B$ is the boundary $B$. The resulting expression for
+quasilocal energy is given in terms of the total mean curvature of the spatial
+boundary $B$ as a surface embedded in $\Sigma$. The quasilocal energy is also
+the value of the Hamiltonian that generates unit magnitude proper time
+translations on ${}^3B$ in the direction orthogonal to $B$. Conserved charges
+such as angular momentum are defined using the surface stress tensor and
+Killing vector fields on ${}^3B$. For spacetimes that are asymptotically flat
+in spacelike directions, the quasilocal energy and angular momentum defined
+here agree with the results of Arnowitt-Deser-Misner in the limit that the
+boundary tends to spatial infinity. For spherically symmetric spacetimes, it is
+shown that the quasilocal energy has the correct Newtonian limit, and includes
+a negative contribution due to gravitational binding.
+","[{""version"":""v1"",""created"":""Tue, 29 Sep 1992 19:01:12 GMT""}]","2008-11-26"
+"gr-qc/9209013",,"G. Grignani and G. Nardelli","Poincar\'e Gauge Theories for Lineal Garvity","TeX Manuscript, 30 pages","Nucl.Phys. B412 (1994) 320-344","10.1016/0550-3213(94)90505-3","DFUPG-57-92, UTF 266-92","gr-qc",,"  We have shown that two of the most studied models of lineal gravities -
+Liouville gravity and a ``string-inspired'' model exhibiting the main
+characteristic features of a black-hole solution - can be formulated as gauge
+invariant theories of the Poincar\'e group. The gauge invariant couplings to
+matter (particles, scalar and spinor fields) and explicit solutions for some
+matter field configurations, are provided. It is shown that both the models, as
+well as the couplings to matter, can be obtained as suitable dimensional
+reductions of a 2+1-dimensional ISO(2,1) gauge invariant theory.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 13:23:00 GMT""},{""version"":""v2"",""created"":""Thu, 5 Nov 1992 10:25:00 GMT""}]","2009-10-22"
+"hep-lat/9209026","Alexander Migdal","A.A. Migdal","Bose Condensation and $Z_N$ Symmetry Breaking in the Mixed Model of
+  Induced QCD","16 pages, Latex, no figures, PUPT-1343","Mod.Phys.Lett. A8 (1993) 259-274","10.1142/S021773239300026X",,"hep-lat hep-th",,"  The mixed model of the large $ N $ induced QCD, with $ N_f \ll N $ flavors of
+heavy fermions in fundamental representation, is solved in the local limit. The
+$ Z_N$ symmetry is broken spontaneously in the large $ N $ limit, evading the
+Elitzur ""no-go"" theorem. As a result of this symmetry breaking, there is the
+Bose condensate of the eigenvalues of the scalar field, proportional to $
+\frac{N_f}{N} $. This condensate leads to the mass unit, which goes to zero as
+fractional power of $ \frac{N_f}{N} $, thus defining the new kind of the local
+limit of this lattice theory. There is a strong coupling region below this mass
+scale, which revives the hopes of induction of realistic QCD.
+","[{""version"":""v1"",""created"":""Tue, 29 Sep 1992 21:13:44 GMT""}]","2009-10-22"
+"hep-lat/9209027","Morten Laursen","F. Karsch, M. L. Laursen, T. Neuhaus and B. Plache","Chern-Simons term in the 4-dimensional SU(2) Higgs Model","7 pages plus 4 PS figures","Nucl.Phys.Proc.Suppl. 30 (1993) 715-718","10.1016/0920-5632(93)90309-T","HLRZ-92-69","hep-lat",,"  Using Seiberg's definition for the geometric charge in SU(2) lattice gauge
+theory, we have managed to apply it also to the Chern-Simons term. We checked
+the periodic structure and determined the Chern-Simons density on small
+lattices $L^4$ and $L^3 \times 2,\, 4$ with $L=4,\, 6,\mbox{ and }8$ near the
+critical region in the SU(2) Higgs model. The data indicate that tunneling is
+increased at high temperature.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 15:43:35 GMT""}]","2009-10-22"
+"hep-ph/9209291",,"Howard Georgi","$D$-$\bar D$ Mixing in Heavy Quark Effective Field Theory","10 pages (big mode), #HUTP-92/A049","Phys.Lett.B297:353-357,1992","10.1016/0370-2693(92)91274-D",,"hep-ph",,"  I analyze $D$-$\ol D$ mixing using the techniques of heavy quark effect field
+theory. The analysis suggests that the there may be important cancellations
+among the dispersive effects of different kinds of final states, so that the
+total mixing may be considerably smaller than previous estimates.
+","[{""version"":""v1"",""created"":""Tue, 29 Sep 1992 22:30:03 GMT""}]","2009-09-11"
+"hep-ph/9209292",,"S.A. Abel, S. Sarkar and I.B. Whittingham","Neutralino Dark Matter in a Class of Unified Theories","24 Pages, OUTP-92-10P","Nucl.Phys.B392:83-110,1993","10.1016/0550-3213(93)90198-X",,"hep-ph astro-ph",,"  The cosmological significance of the neutralino sector is studied for a class
+of models in which electroweak symmetry breaking is seeded by a gauge singlet.
+Extensive use is made of the renormalisation group equations to significantly
+reduce the parameter space, by deriving analytic expressions for all the
+supersymmetry-breaking couplings in terms of the universal gaugino mass
+$m_{1/2}$, the universal scalar mass $m_0$ and the coupling $A$. The
+composition of the LSP is determined exactly below the W mass, no
+approximations are made for sfermion masses, and all particle exchanges are
+considered in calculating the annihilation cross-section; the relic abundance
+is then obtained by an analytic approximation. We find that in these models,
+stable neutralinos may make a significant contribution to the dark matter in
+the universe.
+","[{""version"":""v1"",""created"":""Tue, 29 Sep 1992 16:12:01 GMT""}]","2011-02-16"
+"hep-ph/9209293","Eran Yehudai","E. Yehudai","The Vector Equivalence Technique","16 pages, FERMILAB-PUB-256-T",,,,"hep-ph",,"  We present the Vector Equivalence technique. This technique allows a simple
+and systematic calculating of Feynman diagrams involving massive fermions at
+the matrix element level. As its name suggests, the technique allows two
+Lorentz four-vectors to serve as an equivalent of two external fermions. In
+further calculations, traces involving these vectors replace the matrix element
+with the external fermions. The technique can be conveniently used for both
+symbolic and numeric calculations.
+","[{""version"":""v1"",""created"":""Tue, 29 Sep 1992 19:13:37 GMT""}]","2007-05-23"
+"hep-ph/9209294","JiangLiu","Jiang Liu","Particle Width Effect on $CP$-Violating Asymmetries","8 pages","Phys.Rev.D47:1741-1743,1993","10.1103/PhysRevD.47.R1741","UPR-0525T","hep-ph",,"  $CP$-violating asymmetries calculated from the Breit-Wigner approximation for
+unstable particle propagators violate $CPT$. A formalism satisfying $CP$
+invariance and unitarity is presented. Applications are given to $t$ decays.
+For the decay $t\to b\nu_{\tau}\bar{\tau}$ in a class of $CP$-violating models
+the $CP$-violating asymmetry turns out to be $10^{-4}$ times smaller than the
+previously reported results.
+","[{""version"":""v1"",""created"":""Tue, 29 Sep 1992 21:18:05 GMT""}]","2009-12-30"
+"hep-ph/9209295",,"Soo-Jong Rey","Spontaneous CP Violation, Small Instanton and Invisible Axion","10 pages","Phys.Rev.D47:2652-2655,1993","10.1103/PhysRevD.47.R2652","NSF-ITP-92-107, YCTP-P20-92","hep-ph astro-ph",,"  I propose a variant invisible axion model of spontaneous CP violation at the
+electroweak scale without CP domain wall and `strong CP' problems. Both large
+size QCD and small size non-QCD instantons break CP and Peccei-Quinn
+symmetries, and render cosmologically harmful CP domain walls unstable. The
+decaying epoch depends on size of small instanton effects, and is around 100 eV
+if the current neutron electric dipole moment bound is maximally saturated. The
+model satisfies constraints from primordial D and He photo-dissociation and
+black hole formation, while producing cosmologically interesting size of
+gravitational waves and galaxy-scale density perturbations.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 03:37:48 GMT""}]","2009-12-30"
+"hep-ph/9209296",,"G.F. Giudice, A. Masiero, M. Pietroni, A. Riotto","The Supersymmetric Singlet Majoron","24 pages, CERN-TH 6656/92 DFPD 92/TH/43 SISSA-127/92 AP, 2 figures
+  available upon e-mail request","Nucl.Phys. B396 (1993) 243-260","10.1016/0550-3213(93)90265-Q",,"hep-ph",,"  We study the supersymmetrized version of the singlet majoron model and,
+performing an analysis of the renormalization group equation improved
+potential, we find that a spontaneous breaking of $R$-parity can be achieved
+for a wide range of the parameters. Studying the finite temperature effective
+potential, we show that the phase transition leading to $R$-parity breaking can
+be of the first order and can occur at temperatures below the weak scale, thus
+avoiding any constraint coming from the requirement of the preservation of the
+baryon asymmetry in the early Universe.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 08:24:11 GMT""}]","2009-10-22"
+"hep-ph/9209297",,"C.J. Fewster and B.S. Kay","Model Dependence of Baryon Decay Enhancement by Cosmic Strings","20 pages, LaTeX, DAMTP-R92/28","Nucl.Phys.B399:89-110,1993","10.1016/0550-3213(93)90618-Y",,"hep-ph hep-th",,"  Cosmic strings arising from GUTs can catalyse baryon decay processes with
+strong interaction cross sections. We examine the mechanism by which the cross
+section is enhanced and find that it depends strongly on the details of the
+distribution of gauge fields within the string core. We propose a calculational
+scheme for estimating wavefunction amplification factors and also a physical
+understanding of the nature of the enhancement process.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 11:26:41 GMT""}]","2008-11-26"
+"hep-th/9209121",,"Gary Kleppe","Transformation Properties of Linearized de Sitter Gravity Solutions","8 pages, VPI-IHEP-92/12. Macros included. (Resubmitted to correct
+  typos and make minor textual revisions.)",,,,"hep-th gr-qc",,"  The effect of de Sitter transformations on Tsamis and Woodard's solutions to
+the linearized gauge fixed equations of motion of quantum gravity in a de
+Sitter space background is worked out explicitly. It is shown that these
+solutions are closed under the transformations of the de Sitter group. To do
+this it is necessary to use a compensating gauge transformation to return the
+transformed solution to the original gauge.
+","[{""version"":""v1"",""created"":""Tue, 29 Sep 1992 17:32:34 GMT""}]","2007-05-23"
+"hep-th/9209124",,"Gary Kleppe","Regularization Dependence of Quadratic Divergence Cancellations,
+  VPI-IHEP-92/10","14 pages. Macros included. Figures not included, not available
+  through e-mail",,,,"hep-th hep-ph",,"  Certain results related to the cancellation of quadratic divergences, which
+had been obtained using dimensional reduction, are reconsidered using a
+nonlocal regulator. The results obtained are shown to depend strongly on the
+regulator. Specifically, it is shown that a certain result of Al-sarhi, Jack,
+and Jones no longer holds, even if a nontrivial measure factor is used; also
+that there are no values of the top and Higgs mass for which the one-loop
+quadratic divergence in the standard model cancels independently of the
+renormalization scale, whether or not strong interaction effects are ignored.
+","[{""version"":""v1"",""created"":""Tue, 29 Sep 1992 17:46:17 GMT""}]","2007-05-23"
+"hep-th/9209125","John Schwarz","John H. Schwarz","Dilaton-Axion Symmetry","CALT-68-1815, 22pp",,,,"hep-th",,"  The heterotic string compactified on a six-torus is described by a low-energy
+effective action consisting of N=4 supergravity coupled to N=4 super
+Yang-Mills, a theory that was studied in detail many years ago. By explicitly
+carrying out the dimensional reduction of the massless fields, we obtain the
+bosonic sector of this theory. In the Abelian case the action is written with
+manifest global $O(6,6+n)$ symmetry. A duality transformation that replaces the
+antisymmetric tensor field by an axion brings it to a form in which the axion
+and dilaton parametrize an $SL(2,R)/SO(2)$ coset, and the equations of motion
+have $SL(2,R)$ symmetry. This symmetry, which combines Peccei--Quinn
+translations with Montonen--Olive duality transformations, has been exploited
+in several recent papers to construct black hole solutions carrying both
+electric and magnetic charge. Our purpose is to explore whether, as various
+authors have conjectured, an $SL(2,Z)$ subgroup could be an exact symmetry of
+the full quantum string theory. If true, this would be of fundamental
+importance, since this group transforms the dilaton nonlinearly and can relate
+weak and strong coupling.
+","[{""version"":""v1"",""created"":""Tue, 29 Sep 1992 20:45:10 GMT""}]","2007-05-23"
+"hep-th/9209126",,"Zhong-Hua Wang and Han-Ying Guo","Intrinsic Vertex Regularization and Renormalization in $\phi^4$ Field
+  Theory","7p, 4figures not included",,,,"hep-th",,"  Based upon the intrinsic relation between the divergent lower point functions
+and the convergent higher point ones in the renormalizable quantum field
+theories, we propose a new method for regularization and renormalization in
+QFT. As an example, we renormalize the $\phi^{4}$ theory at the one loop order
+by means of this method.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 01:45:11 GMT""}]","2007-05-23"
+"hep-th/9209127","Sarmadi Hossein","M.H. Sarmadi","The Ring Structure of Chiral Operators for Minimal Models Coupled to 2D
+  Gravity","8 pages, IC/92/301",,,,"hep-th",,"  (Talk presented at the 1992 ICTP summer workshop in high energy physics and
+cosmology) The BRST cohomology ring for $(p,q)$ models coupled to gravity is
+discussed. In addition to the generators of the ghost number zero ring, the
+existence of a generator of ghost number $-1$ and its inverse is proven and
+used to construct the entire ring. Some comments are made regarding the algebra
+of the vector fields on the ring and the supersymmetric extension.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 11:16:51 GMT""}]","2007-05-23"
+"hep-th/9209128",,"Vineer Bhansali","How the Little Group Constrains Massless Field Representations in Higher
+  Even Dimensions","Harvard University, 10 pages, in plain TeX, uses harvmac (use big
+  format). Talk presented at the International Colloquium on Group Theoretical
+  Methods in Physics, Salamanca, Spain (June 1992). Submitted to the Procedings",,,"Harvard Preprint No. HUTP-92/A052","hep-th hep-ph",,"  Assuming trivial action of Euclidean translations of the little group, we
+derive a simple correspondence between massless field representations
+transforming under the full generalized even dimensional Lorentz group, and
+highest weight states of the relevant little group. This yields a connection
+between `helicity' and `chirality' in all dimensions, and highlights the
+special nature of the restricted representations under `gauge' transformations.
+","[{""version"":""v1"",""created"":""Wed, 30 Sep 1992 14:55:06 GMT""}]","2007-05-23"

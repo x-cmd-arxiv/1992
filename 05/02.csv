@@ -1,0 +1,42 @@
+"astro-ph/9205001",,"Valerio Faraoni","Nonstationary Gravitational Lenses and the Fermat Principle","12 pages","Astrophys.J.398:425,1992","10.1086/171866",,"astro-ph",,"  We apply Perlick's (1990a) rigorous formulation of the Fermat principle in
+arbitrary spacetimes to prove the correctness of the description of
+gravitational lensing by gravitational waves, given in the literature using the
+scalar and vector formalisms. We obtain an expression for the time delay due to
+such nonstationary lenses; the advantage over previous papers is that Perlick's
+formulation of the Fermat principle is very rigorous and more suitable for
+practical calculations in some cases. It is also shown that ordinary moving
+gravitational lenses must be considered as a stationary case.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1992 16:41:45 GMT""}]","2011-07-19"
+"astro-ph/9205002","Tomoyuki Hanawa","T. Hanawa, R. Matsumoto and K. Shibata","Giant Molecular Cloud Formation through the Parker Instability in a
+  Skewed Magnetic Field","12 pages","Astrophys.J. 393 (1992) L71-L74","10.1086/186454",,"astro-ph",,"  The effect of the magnetic skew on the Parker instability is investigated by
+means of the linear stability analysis for a gravitationally stratified gas
+layer permeated by a horizontal magnetic field. When the magnetic field is
+skewed (i.e., the field line direction is a function of the height), the
+wavelength of the most unstable mode is $ \lambda \; \sim \; 10 H $ where $ H $
+is the pressure scale height. The growth rate of the short wavelength modes is
+greatly reduced when the gradient in the magnetic field direction exceeds 0.5
+radian per scale height. Our results indicate that the Parker instability in a
+skewed magnetic field preferentially forms large scale structures like giant
+molecular clouds.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1992 02:12:56 GMT""}]","2009-10-22"
+"hep-lat/9205003","Herbert Neuberger","Herbert Neuberger","Non--perturbative bounds on the Higgs mass in the minimal standard model","14p",,"10.1016/0920-5632(92)90005-D",,"hep-lat",,"  This is a slightly extended version of the talk delivered at the Topical
+Workshop ``Non perturbative aspects of chiral gauge theories'', Accademia
+Nazionale dei Lincei, Roma, 9-11 March, 1992. Abstract: The Higgs mass in the
+minimal standard model is bounded by triviality and vacuum stability in the
+range 50--100 $GeV$ to 700--900 $GeV$. Recent results will be presented in
+brief and directions for future work will be proposed.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1992 17:55:08 GMT""}]","2009-10-22"
+"hep-th/9205003","Oleg Ogievetsky","O. Ogievetsky and B. Zumino","Reality in the Differential Calculus on q-euclidean Spaces","10 pages","Lett.Math.Phys. 25 (1992) 121-130","10.1007/BF00398308",,"hep-th",,"  The nonlinear reality structure of the derivatives and the differentials for
+the euclidean q-spaces are found. A real Laplacian is constructed and reality
+properties of the exterior derivative are given.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1992 18:48:23 GMT""}]","2009-10-22"
+"hep-th/9205004","Maximilian Kreuzer","Maximilian Kreuzer and Harald Skarke","No Mirror Symmetry in Landau-Ginzburg Spectra!","17 pages","Nucl.Phys. B388 (1992) 113-130","10.1016/0550-3213(92)90547-O",,"hep-th",,"  We use a recent classification of non-degenerate quasihomogeneous polynomials
+to construct all Landau-Ginzburg (LG) potentials for N=2 superconformal field
+theories with c=9 and calculate the corresponding Hodge numbers. Surprisingly,
+the resulting spectra are less symmetric than the existing incomplete results.
+It turns out that models belonging to the large class for which an explicit
+construction of a mirror model as an orbifold is known show remarkable mirror
+symmetry. On the other hand, half of the remaining 15\% of all models have no
+mirror partners. This lack of mirror symmetry may point beyond the class of
+LG-orbifolds.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1992 11:20:01 GMT""}]","2009-10-22"

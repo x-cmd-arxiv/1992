@@ -1,0 +1,42 @@
+"funct-an/9211011","Ken Dykema","Ken Dykema","On certain free product factors via an extended matrix model","19+3 pages, AMSTeX 2.1 (figures in LaTeX 2.09), KD-at-UCB-001","J. Funct. Anal. 112 (1993) p.31-60",,,"funct-an math.OA",,"  Voiculescu's random matrix model for freeness is extended to the non-Gaussian
+case and also the case of constant block diagonal matrices. Thus we are able to
+investigate free products of free group factors with matrix algebras and with
+the hyperfinite II$_1$ factor, showing that $$ L(F_n) * R = L(F_(n+1)) $$ for
+$n \ge 1$, (where $L(F_1)=L(Z)$).
+","[{""version"":""v1"",""created"":""Sat, 28 Nov 1992 20:17:16 GMT""}]","2016-08-31"
+"funct-an/9211012","Ken Dykema","Ken Dykema","Interpolated free group factors","8 pages, AMSTeX 2.1, KD-at-UCB-002","Pacific J. Math. 163 (1994) p.123-135",,,"funct-an math.OA",,"  The interpolated free group factors L(F_r), 1 < r <= \infty, are defined and
+proofs of their properties with respect to compression by projections and
+taking free products are proved. Hence it follows that all the free group
+factor are isomorphic to each other or none of them are. These factors were
+defined and these properties were proved independently by F. Radulescu, and
+those given in this paper are equivalent, but use different techniques.
+Specifically, we develop algebraic techniques that allow us to show that R*R =
+L(F_2), where R is the hyperfinite II_1 factor.
+","[{""version"":""v1"",""created"":""Sat, 28 Nov 1992 21:01:02 GMT""}]","2008-02-03"
+"funct-an/9211013","Ken Dykema","Ken Dykema","Free products of hyperfinite von Neumann algebras and free dimension","16 pages, AMSTeX 2.1, KD-at-UCB-003","Duke J. Math. 69 (1993) p.97-119",,,"funct-an math.OA",,"  The free product of an arbitrary pair of finite hyperfinite von Neumann
+algebras is examined, and the result is determined to be the direct sum of a
+finite dimensional algebra and an interpolated free group factor $L(\freeF_r)$.
+The finite dimensional part depends on the minimal projections of the original
+algebras and the ""dimension"", r, of the free group factor part is found using
+the notion of free dimension. For discrete amenable groups $G$ and $H$ this
+implies that the group von Neumann algebra $L(G*H)$ is an interpolated free
+group factor and depends only on the orders of $G$ and $H$.
+","[{""version"":""v1"",""created"":""Sat, 28 Nov 1992 21:08:43 GMT""}]","2008-02-03"
+"hep-th/9211131","Stanislav Pakuliak","N.L.Khviengia","Large\bf $ w_{1+\infty} $--type constraints in two--matrix and
+  Kontsevich model--different approach","LaTeX, 8p",,,,"hep-th",,"  The technique of $Q$-polinomials are used to derive the $w$- constraints in
+the two-matrix and Kontsevich-like model at finite $N$. These constraints are
+closed and form Lie algebra. They are associated with the matrices, $\lambda
+^n{\partial}_\lambda^m$ with $n,m\geq 0$. In the case of two-matrix model they
+can be reduced to the $W$-constraints of \cite{8}. For the case of
+Kontsevich-like model and two-matrix model with the finite polinomial
+potential, the number of constraints are limited by the power of the finite
+matrix potential i.e. the spin of $w$-s coincide with that power. This
+statement is the natural consequence of the form of constraints.
+","[{""version"":""v1"",""created"":""Sun, 29 Nov 1992 02:20:28 GMT""}]","2007-05-23"
+"hep-th/9211132","Moshe Moshe","Paolo Di Vecchia and Moshe Moshe","On the Double Scaling Limit of O(N) Vector Models in d=2","7, Technion-PH-54-92","Phys.Lett. B300 (1993) 49-52","10.1016/0370-2693(93)90747-6",,"hep-th",,"  Recent interest in large N matrix models in the double scaling limit raised
+new interest also in O(N) vector models. The limit $N \rightarrow \infty$,
+correlated with the limit $g \rightarrow g_c$, results in an expansion in terms
+of filamentary surfaces and explicit calculations can be carried out also in
+dimensions $d\geq 2$. It is shown here that the absence of physical massless
+bound states in two dimensions sets strong constraints on this limit.
+","[{""version"":""v1"",""created"":""Sun, 29 Nov 1992 14:55:27 GMT""}]","2009-10-22"

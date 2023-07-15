@@ -1,0 +1,155 @@
+"astro-ph/9212005","Jorge Pullin","Richard H. Price, Jorge Pullin and Prasun Kundu","The Escape of Gravitational Radiation from the Field of Massive Bodies","RevTeX, 11pp, UU-HEP-92/11","Phys.Rev.Lett.70:1572-1575,1993","10.1103/PhysRevLett.70.1572",,"astro-ph gr-qc",,"  We consider a compact source of gravitational waves of frequency $\omega$, in
+or near a massive spherically symmetric distribution of matter or a black hole.
+Recent calculations have led to apparently contradictory results for the
+influence of the massive body on the propagation of the waves. We show here
+that the results are in fact consistent and in agreement with the ``standard''
+viewpoint in which the high frequency compact source produces the radiation as
+if in a flat background, and the background curvature affects the propagation
+of these waves.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 01:43:39 GMT""}]","2010-11-30"
+"hep-lat/9212031","Don Weingarten","F. Butler, H. Chen, J. Sexton, A. Vaccarino, and D. Weingarten","Hadron Mass Predictions of the Valence Approximation to Lattice QCD","13 pages of Latex + 2 PostScript files attached, IBM/HET 92-3","Phys.Rev.Lett. 70 (1993) 2849-2852","10.1103/PhysRevLett.70.2849",,"hep-lat hep-ph",,"  We evaluate the infinite volume, continuum limits of eight hadron mass ratios
+predicted by lattice QCD with Wilson quarks in the valence (quenched)
+approximation. Each predicted ratio differs from the corresponding observed
+value by less than 6\%.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 18:39:04 GMT""}]","2009-10-22"
+"hep-ph/9212300",,"Jose F. Nieves & Palash B. Pal","The Third Electromagnetic Constant of an Isotropic Medium:","(LaTex, including figures drawn by Latex). One small section and some
+  references added. This is the final version for the journal","Am.J.Phys. 62 (1994) 207","10.1119/1.17598",,"hep-ph cond-mat",,"  In addition to the dielectric and magnetic permeability constants, another
+constant is generally needed to describe the electrodynamic properties of a
+linear isotropic medium. We discuss why the need for the third constant arises
+and what sort of physical situations can give rise to a non-zero value for it.
+This additional constant, which we call the {\em ``Activity Constant''} and
+denote by $\zeta$, can explain optical activity and other phenomena from a
+purely macroscopic and phenomenological point of view.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 18:56:24 GMT""},{""version"":""v2"",""created"":""Thu, 31 Mar 1994 18:44:15 GMT""}]","2009-10-22"
+"hep-ph/9212301","Leandros Perivolaropoulos","Margaret James, Leandros Perivolaropoulos and Tanmay Vachaspati","Detailed Stability Analysis of Electroweak Strings","18 pages plus one figure (not included but available upon request).
+  To appear in Nuclear Physics B","Nucl.Phys. B395 (1993) 534-546","10.1016/0550-3213(93)90046-R",,"hep-ph",,"  We give a detailed stability analysis of the Z-string in the standard
+electroweak model. We identify the mode that determines the stability of the
+string and numerically map the region of parameter space where the string is
+stable. For $\sin^2 \theta_W = 0.23$, we find that the strings are unstable for
+a Higgs mass larger than 23GeV. Given the latest constraints on the Higgs mass
+from LEP, this shows that, if the standard electroweak model is realized in
+Nature, the existing vortex solutions are unstable.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 20:39:38 GMT""}]","2009-10-22"
+"hep-ph/9212302",,"C.A.Dominguez, J.G.Korner and K.Schilcher","Spectral Functions for Heavy-Light Currents and Form Factor Relations in
+  Hqet","LaTeX, 7 pages, UCT-TP 188/92, MZ-TH/92-54","Phys.Lett.B309:152-156,1993","10.1016/0370-2693(93)91519-S",,"hep-ph",,"  We derive relations among form factors describing the current-induced
+transitions: (vacuum) $\rightarrow B,B^{*}, B \pi, B^{*} \pi, B \rho$ and
+$B^{*} \rho$ using heavy quark symmetry. The results are compared to
+corresponding form factor relations following from identities between scalar
+and axial vector, and pseudoscalar and vector spectral functions in the heavy
+quark limit.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 22:18:00 GMT""}]","2010-11-01"
+"hep-ph/9212303","Peter Arnold","Peter Arnold","A Review of the Instability of Hot Electroweak Theory and its Bounds on
+  $m_h$ and $m_t$","8 pages (harvmac), 7 PostScript figures, UW/PT-92-25",,,,"hep-ph",,"  [Talk presented at the International Seminar Quarks `92, Zvenigorod, Russia,
+May 11-17, 1992.] The electroweak vacuum need not be absolutely stable. For
+certain top and Higgs masses in the Minimal Standard Model, it is instead
+metastable with a lifetime exceeding the present age of the Universe. The decay
+of our vacuum may be nucleated at low temperature by quantum tunneling or at
+high temperature in the early Universe by thermal excitation. I briefly review
+the constraints on top and Higgs masses from requiring that the electroweak
+vacuum be sufficiently stable to have survived to the present day.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 22:46:31 GMT""}]","2007-05-23"
+"hep-ph/9212304","Philip Mannheim","Philip D. Mannheim","Linear Potentials and Galactic Rotation Curves","13 pages (1 figure requestable), UCONN-92-3","Astrophys.J. 419 (1993) 150-154","10.1086/173468",,"hep-ph",,"  We derive a simple, closed form expression for the potential of a thin
+exponential disk of stars interacting through gravitational potentials of the
+form $V(r)=-\beta /r+\gamma r/2$, the potential associated with fundamental
+sources in the fourth order conformal invariant theory of gravity which has
+recently been advanced by Mannheim and Kazanas as a candidate alternative to
+the standard second order Einstein theory. Using the model, we obtain a
+reasonable fit (flat to within $\pm3\%$) to the (prototypical) NGC3198 $HI$
+rotation curve data without the need for any non-luminous or dark matter. Our
+study suggests that th observed flatness of rotation curves may only be an
+intermediate phenomenon, and an asymptotic one.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 23:50:54 GMT""}]","2009-10-22"
+"hep-ph/9212305","Mariano Quiros","J.R. Espinosa and M. Quir\'os","Upper Bounds on the Lightest Higgs Boson Mass in General Supersymmetric
+  Standard Models","13 pages, latex, IEM-FT-64/92 (5 postscript figures availables upon
+  request)","Phys.Lett. B302 (1993) 51-58","10.1016/0370-2693(93)90634-T",,"hep-ph",,"  In a general supersymmetric standard model there is an upper bound $m_h$ on
+the tree level mass of the $CP=+1$ lightest Higgs boson which depends on the
+electroweak scale, $\tan \beta$ and the gauge and Yukawa couplings of the
+theory. When radiative corrections are included, the allowed region in the
+$(m_h,m_t)$ plane depends on the scale $\Lambda$, below which the theory
+remains perturbative, and the supersymmetry breaking scale $\Lambda_s$, that we
+fix to $1\ TeV$. In the minimal model with $\Lambda=10^{16}\ GeV$: $m_h<130\
+GeV$ and $m_t<185\ GeV$. In non-minimal models with an arbitrary number of
+gauge singlets and $\Lambda=10^{16}\ GeV$: $m_h<145\ GeV$ and $m_t<185\ GeV$.
+We also consider supersymmetric standard models with arbitrary Higgs sectors.
+For models whose couplings saturate the scale $\Lambda=10^{16}\ GeV$ we find
+$m_h<155\ GeV$ and $m_t<190\ GeV$. As one pushes the saturation scale $\Lambda$
+down to $\Lambda_s$, the bounds on $m_h$ and $m_t$ increase. For instance, in
+models with $\Lambda=10\ TeV$, the upper bounds for $m_h$ and $m_t$ go to $415\
+GeV$ and $385\ GeV$, respectively.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 20:02:36 GMT""}]","2009-10-22"
+"hep-th/9212135",,"A.R.Its, A.G.Izergin, V.E.Korepin, N.A.Slavnov","Temperature Correlations of Quantum Spins","7 pages","Phys.Rev.Lett. 70 (1993) 1704-1708; Erratum-ibid. 70 (1993) 2357","10.1103/PhysRevLett.70.1704","ITP-sb-92-47,ENSLAPP 394","hep-th",,"  Isotropic XY is considered. It describes interaction of quantum spins on
+1-dimesional lattice. Alternatevly one can call the model XXO Hiesenberg
+antiferromagnet. We solved long standing problem of evaluation of temperature
+corelations. We proved that correlation function of the model is $\tau $
+function of Ablowitz-Ladik PDE. We explicitly evaluated asymptotics.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 16:44:21 GMT""}]","2009-10-22"
+"hep-th/9212136","Martin Oloughlin","T. Banks and M. O'Loughlin","Nonsingular Lagrangians for Two Dimensional Black Holes","27 pages, three figures, RU-92-61. (Replaced version contains some
+  corrections to incorrect equations. The zero temperature extremal geometry
+  (the conjectured end-point of the Hawking evaporation) is not as stated in
+  the previous version, but rather is a nonsingular analogue of the zero
+  temperature $M^2 = Q^2$ Reissner-Nordstrom space-time.)","Phys.Rev.D48:698-706,1993","10.1103/PhysRevD.48.698",,"hep-th",,"  We introduce a large class of modifications of the standard lagrangian for
+two dimensional dilaton gravity, whose general solutions are nonsingular black
+holes. A subclass of these lagrangians have extremal solutions which are
+nonsingular analogues of the extremal Reissner-Nordstrom spacetime. It is
+possible that quantum deformations of these extremal solutions are the endpoint
+of Hawking evaporation when the models are coupled to matter, and that the
+resulting evolution may be studied entirely within the framework of the
+semiclassical approximation. Numerical work to verify this conjecture is in
+progress. We point out however that the solutions with non-negative mass always
+contain Cauchy horizons, and may be sensitive to small perturbations.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 22:33:12 GMT""},{""version"":""v2"",""created"":""Thu, 3 Jun 1993 18:43:52 GMT""}]","2014-11-18"
+"hep-th/9212138","Feng Yu","Feng Yu","D>2 Topological String","10p, (plain LaTex)",,,,"hep-th",,"  A $D>2$ topological string is presented by coupling the $2d$ topological
+gravity with the twisted version of the $N=2$ superconformal matter with
+$c=3k/(k-2)$. The latter is shown to admit $k+1$ chiral primary fields from the
+$SL(2,R)_{k}/U(1)$ unitary irreducible representations. The analysis of
+topological contact interactions along with the consistency requirement lead to
+recursion relations of correlation functions, that are convertable to the
+Virasoro constraints on the perturbed partition function. It is further
+expected to satisfy the nonlinear $\hat{W}^{(k-2)}_{\infty}$ constraints
+associated with the graded algebra $SL(k,2)$, and thus the model is completely
+solvable at arbitrary genus of the surface.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 06:50:54 GMT""},{""version"":""v2"",""created"":""Thu, 24 Dec 1992 03:27:18 GMT""}]","2008-02-03"
+"hep-th/9212139","E. Elizalde","E. Elizalde, S. Naftulin and S.D. Odintsov","One Loop Counterterms in 2D Dilaton-Maxwell Quantum Gravity","9 pages, LaTeX file, HUPD-92-19","Z.Phys.C59:617-620,1993","10.1007/BF01562553",,"hep-th",,"  The renormalization structure of two-dimensional quantum gravity is
+investigated, in a covariant gauge. One-loop divergences of the effective
+action are calculated. All the surface divergent terms are taken into account,
+thus completing previous one-loop calculations of the theory. It is shown that
+the on-shell effective action contains only surface divergences. The off-shell
+renormalizability of the theory is discussed and classes of renormalizable
+dilaton and Maxwell potentials are found.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 10:35:06 GMT""}]","2009-09-17"
+"hep-th/9212140","Ignatios Antoniadis","I. Antoniadis and S.D. Odintsov","Conformal dynamics of quantum gravity with torsion","10 pages, CPTH-A213.1292 -- HUPD-9216","Mod.Phys.Lett.A8:979-986,1993","10.1142/S0217732393002452",,"hep-th gr-qc",,"  The trace anomaly induced dynamics of the conformal factor is investigated in
+four-dimensional quantum gravity with torsion. The constraints for the coupling
+constants of torsion matter interaction are obtained in the infrared stable
+fixed point of the effective scalar theory.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 10:23:46 GMT""}]","2009-09-17"
+"hep-th/9212141",,"Leonardo Castellani","U_q(N) Gauge Theories","7pp., plain TeX, DFTT-74/92","Mod.Phys.Lett. A9 (1994) 2835-2848","10.1142/S0217732394002689",,"hep-th",,"  Improving on an earlier proposal, we construct the gauge theories of the
+quantum groups $U_q(N)$. We find that these theories are consistent also with
+an ordinary (commuting) spacetime. The bicovariance conditions of the quantum
+differential calculus are essential in our construction. The gauge potentials
+and the field strengths are $q$-commuting ``fields"", and satisfy
+$q$-commutation relations with the gauge parameters. The transformation rules
+of the potentials are given explicitly, and generalize the ordinary
+infinitesimal gauge variations. The $q$-lagrangian invariant under the $U_q(N)$
+variations has the Yang-Mills form $\Fmn^i \Fmn^j g_{ij}$, the ``quantum
+metric'' $g_{ij}$ being a generalization of the Killing metric.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 11:26:00 GMT""}]","2015-06-26"
+"hep-th/9212143",,"Patrick Dorey","Hidden geometrical structures in integrable models","15 pages, preprint NI92018. (one minor elucidation in the last
+  section)",,,,"hep-th",,"  The bootstrap equations for the ADE series of purely elastic scattering
+theories have turned out to be intimately connected with the geometry of root
+systems and the Coxeter element. An informal review of some of this material is
+given, mentioning also a couple of other contexts -- the Pasquier models, and
+the simply-laced affine Toda field theories -- where similar structures are
+encountered. The relevance of twisted Coxeter elements is indicated, and a
+construction of these elements inspired by the twisted foldings of the affine
+Toda models is described.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 15:45:00 GMT""},{""version"":""v2"",""created"":""Wed, 23 Dec 1992 17:36:00 GMT""}]","2008-02-03"
+"hep-th/9212147","A. Khare","A. Khare and U.P. Sukhatme","New Shape Invariant Potentials in Supersymmetric Quantum Mechanics","8pages, TeX","J.Phys. A26 (1993) L901-L904","10.1088/0305-4470/26/18/003","IP/BBSR/92-93","hep-th",,"  Quantum mechanical potentials satisfying the property of shape invariance are
+well known to be algebraically solvable. Using a scaling ansatz for the change
+of parameters, we obtain a large class of new shape invariant potentials which
+are reflectionless and possess an infinite number of bound states. They can be
+viewed as q-deformations of the single soliton solution corresponding to the
+Rosen-Morse potential. Explicit expressions for energy eigenvalues,
+eigenfunctions and transmission coefficients are given. Included in our
+potentials as a special case is the self-similar potential recently discussed
+by Shabat and Spiridonov.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 11:28:33 GMT""}]","2009-10-22"

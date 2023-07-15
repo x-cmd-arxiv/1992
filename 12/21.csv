@@ -1,0 +1,106 @@
+"gr-qc/9212013","Malcolm MacCallum","M.A.H. MacCallum","Inhomogeneous and anisotropic cosmologies","30pp","NATO Adv.Study Inst.Ser.C.Math.Phys.Sci.393:131-159,1993",,,"gr-qc",,"  This is a review of cosmological models prepared for the Pont d'Oye workshop
+on the origin of structure in the universe. The classes of models are discussed
+in turn, and then some of their uses are considered.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 15:49:52 GMT""}]","2011-03-28"
+"gr-qc/9212014","Malcolm MacCallum","M.A.H. MacCallum","Anisotropic and inhomogeneous cosmologies","21 pp","The Renaissance of General Relativity and Cosmology (A survey to
+  celebrate the 65th birthday of Dennis Sciama), ed. G. Ellis, A. Lanza and
+  J.C. Miller, Cambridge University Press (1993), pp. 213-233",,,"gr-qc",,"  This review was given at the 65th birthday meeting of D.W. Sciama, The
+Renaissance of General Relativity and Cosmology, to be published by Cambridge
+University Press. It presents progress in the understanding of non-standard
+relativistic cosmologies during Sciama's career, organized by the areas of
+application rather than the mathematical types of the models.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 15:59:48 GMT""}]","2008-02-12"
+"hep-lat/9212027","Andreas E. Gocksch","S. Aoki and A. Gocksch","The Spectrum of the Kazakov Migdal-Model","11 pages, UTHEP-250","Nucl.Phys. B404 (1993) 173-186","10.1016/0550-3213(93)90477-7",,"hep-lat hep-th",,"  Gross has found an exact expression for the density of eigenvalues in the
+simplest version of the Kazakov-Migdal model of induced QCD. In this paper we
+compute the spectrum of small fluctuations around Gross's semi-circular
+solution. By solving Migdal's wave equation we find a string-like spectrum
+which, in four dimensions, corresponds to the infinite tower of mesons in
+strong coupling lattice QCD with adjoint matter. In one dimension our formula
+reproduces correctly the well known spectrum of the hermitean matrix model with
+a harmonic oscillator potential. We comment on the relevance of our results to
+the possibility of the model describing extended objects in more than one
+dimension.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1992 16:26:26 GMT""}]","2009-10-22"
+"hep-lat/9212028","Ohta","Shigemi Ohta","Large scale numerical simulation of the three-state Potts model","4 pages (latex file and 3 eps figure files, needs espcrc2 and epsf
+  styles), RIKEN-AF-NP-145",,"10.1016/0920-5632(93)90339-8",,"hep-lat",,"  The three-state Potts model is numerically investigated on three-dimensional
+simple cubic lattices of up to \(128^3\) volume, concentrating on the
+neighborhood of the first-order phase transition separating the ordered and
+disordered phases. The ordered phase is found to allow admixture of disordered
+domains induced by a long-range attraction acting between the two different
+non-favored spins. This phenomenon gives an explanation of why the first-order
+phase transitions associated with the global \(Z_3\) symmetry are so weak.
+(Talk given at the International Symposium ""Lattice 92"" in Amsterdam, September
+15-19, 1992)
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 06:06:55 GMT""}]","2009-10-22"
+"hep-ph/9212288",,"John Bagnasco and Michael Dine","Some Two-Loop Corrections to the Finite Temperature Effective Potential
+  in the Electroweak Theory","13 pages, figures available on request, SCIPP 92/43","Phys.Lett.B303:308-314,1993","10.1016/0370-2693(93)91437-R",,"hep-ph",,"  Perturbation theory at finite temperature suffers from well-known infrared
+problems. In the standard model, as a result, one cannot calculate the
+effective potential for arbitrarily small values of $\phi$, the Higgs
+expectation value. Because the Higgs field is now known not to be extremely
+light, it is necessary to determine whether perturbation theory is a reliable
+guide to properties of the weak phase transition. In this note, we evaluate the
+most singular contributions to the potential at two loops as well as the
+leading strong interaction contributions. Above the critical temperature, the
+strong interaction corrections are reasonably small, while the weak corrections
+are about 10\%, even for rather small values of the Higgs field. At the
+critical temperature, the weak corrections have a more substantial effect,
+rendering the transition significantly more first order, but not significantly
+changing the upper bound on the Higgs mass required for baryogenesis.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 00:38:00 GMT""}]","2011-07-19"
+"hep-ph/9212289","Aneesh V. Manohar","Zachary Guralnik and Aneesh V. Manohar","QCD Mass Inequalities in the Heavy Quark Limit","10 pages, 0 figures, uses harvmac","Phys.Lett.B302:103-107,1993","10.1016/0370-2693(93)90642-U","CERN-TH.6766/92, UCSD/PTH 92-45","hep-ph",,"  QCD inequalities are derived for the masses of mesons and baryons containing
+a single heavy quark using the heavy quark effective field theory. A rigorous
+lower bound is obtained for the $\bar\Lambda$ parameters of the heavy quark
+effective theory that parameterize $1/m$ corrections, $\bar\Lambda$ > 237 MeV
+for mesons, and $\bar \Lambda > 657$ MeV for baryons. The inequalities on
+$\bar\Lambda$ imply the inequalities $m_c < 1627$ MeV and $m_b < 5068$ MeV for
+the mass parameters of the heavy quark effective field theory.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 10:31:17 GMT""}]","2011-01-25"
+"hep-ph/9212290","Ahmady Mohammad","M.R. Ahmady, V. Elias and N.C.A. Hill","On-Mass-Shell Renormalization of the $\langle \bar{t}t \rangle$
+  Contribution to the $\Delta I = 1/2$ $s \leftrightarrow d$ Self-Energy
+  Transition","7 pages, 2 figures not included",,,,"hep-ph",,"  In $\langle \bar{t}t \rangle$-scenarios for dynamical electroweak symmetry
+breaking, the presence of a very large t-quark condensate necessarily generates
+an $s \leftrightarrow d$ self-energy transition which will contribute
+exclusively to $\Delta I = 1/2$ strangeness-changing matrix elements. This
+contribution is calculated and compared to the purely perturbative
+contribution, which is well-known to be far too small to have an appreciable
+effect on $\Delta I = 1/2$ strangeness-changing matrix elements after
+mass-shell renormalization subtractions are taken into account. The ratio
+between the t-quark condensate's contribution and the standard-model
+perturbative contribution to the mass-shell renormalized $s \leftrightarrow d$
+self-energy transition is shown to be of order $\mid m_t \langle \bar{t} t
+\rangle \mid / M_W ^4$, suggesting that the large t-quark condensate proposed
+for electroweak symmetry breaking may also be responsible for the $\Delta
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 11:59:05 GMT""}]","2007-05-23"
+"hep-ph/9212309","Dam Thanh Son","V.A.Rubakov, D.T.Son and P.G.Tinyakov","An Example of Semiclassical Instanton-Like Scattering: (1+1) Dimensional
+  Sigma Model","28 pages, LaTeX preprint TPI-MINN-92/66-T","Nucl.Phys. B404 (1993) 65-90","10.1016/0550-3213(93)90473-3",,"hep-ph",,"  A solution to the classical field equations in the massless (1+1)-dimensional
+O(3) sigma model is found, which describes a multi-particle instanton-like
+transition at high energy. In the limit of small number of initial particles,
+the number of final particles is shown to be also small, and the probability of
+the transition is suppressed by $\exp(-2S_0)$, where $S_0$ is the instanton
+action. This solution, however, does not correspond to the maximum transition
+probability among all states with given number of incoming particles and
+energy. Unless the limit $g^2 n_{initial}\to0$ is exponentially sensitive to
+the structure of the initial state, our results imply that well above the
+sphaleron energy, the instanton-induced cross section becomes again suppressed
+by the instanton exponent, and the number of final paricles is again small.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 10:32:09 GMT""}]","2007-05-23"
+"hep-th/9212120",,"J.G. Russo","Classical Solutions in Two-Dimensional String Theory and Gravitational
+  Collapse","7 pages, UTTG-31-92","Phys.Rev.D47:4188-4191,1993","10.1103/PhysRevD.47.R4188",,"hep-th",,"  A general solution to the $D=2$ 1-loop beta functions equations including
+tachyonic back reaction on the metric is presented. Dynamical black hole
+(classical) solutions representing gravitational collapse of tachyons are
+constructed. A discussion on the correspondence with the matrix-model approach
+is given.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1992 23:47:33 GMT""}]","2009-12-30"
+"hep-th/9212121",,"V.I.Man'ko G.Marmo, S.Solimeno, F.Zaccaria","Physical nonlinear aspects of classical and quantum q-oscillators","24 pages","Int. J. Mod. Phys. A8 (1993) 3577","10.1142/S0217751X93001454",,"hep-th",,"  The classical limit of quantum q-oscillators suggests an interpretation of
+the deformation as a way to introduce non linearity. Guided by this idea, we
+considered q-fields, the partition fumction, and compute a consequence on
+specific heat and second order correlation function of the q-oscillator which
+may serve for experimental checks for the non linearity.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 15:03:00 GMT""}]","2015-06-26"
+"hep-th/9212123","Mikhail Saveliev","David I. Olive, Mikhail V. Saveliev, Jonathan W. R. Underwood","On a Solitonic Specialisation for the General Solutions of Some
+  Two-Dimensional Completely Integrable Systems","9 pages, no figure","Phys.Lett. B311 (1993) 117-122","10.1016/0370-2693(93)90543-Q","Imperial/TP/92-93/13, NI92014, SWAT/4","hep-th",,"  Following a prescription of \cite{4} for a solitonic specialization of the
+general solutions to the (abelian) periodic Toda field theories, we discuss a
+construction of the soliton solutions for a wide class of two-dimensional
+completely integrable systems arising in the framework of the group-algebraic
+approach, including the \lq\lq non-abelian"" version of the affine Toda theory.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 15:45:08 GMT""}]","2009-10-22"

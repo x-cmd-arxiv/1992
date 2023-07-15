@@ -1,0 +1,115 @@
+"gr-qc/9208006","Salman Habib","Salman Habib","Stochastic Inflation:The Quantum Phase Space Approach","43 pages","Phys.Rev. D46 (1992) 2408-2427","10.1103/PhysRevD.46.2408","LA-UR-92-1148","gr-qc",,"  In this paper a quantum mechanical phase space picture is constructed for
+coarse-grained free quantum fields in an inflationary Universe. The appropriate
+stochastic quantum Liouville equation is derived. Explicit solutions for the
+phase space quantum distribution function are found for the cases of power law
+and exponential expansions. The expectation values of dynamical variables with
+respect to these solutions are compared to the corresponding cutoff regularized
+field theoretic results (we do not restrict ourselves only to $\VEV{\F^2}$).
+Fair agreement is found provided the coarse-graining scale is kept within
+certain limits. By focusing on the full phase space distribution function
+rather than a reduced distribution it is shown that the thermodynamic
+interpretation of the stochastic formalism faces several difficulties (e.g.,
+there is no fluctuation-dissipation theorem). The coarse-graining does not
+guarantee an automatic classical limit as quantum correlations turn out to be
+crucial in order to get results consistent with standard quantum field theory.
+Therefore, the method does {\em not} by itself constitute an explanation of the
+quantum to classical transition in the early Universe. In particular, we argue
+that the stochastic equations do not lead to decoherence.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 19:53:53 GMT""}]","2009-10-22"
+"hep-lat/9208012","Urs M. Heller","J. Fingberg, U. M. Heller and F. Karsch","Scaling and Asymptotic Scaling in the SU(2) Gauge Theory","27 pages with 9 postscript figures included. Plain TeX file (needed
+  macros are included). BI-TP 92-26, FSU-SCRI-92-103, HLRZ-92-39 (Quote of
+  UKQCD string tension, and accordingly Figs. 5 and 7a, plus a few typo's
+  corrected.)","Nucl.Phys. B392 (1993) 493-517","10.1016/0550-3213(93)90682-F",,"hep-lat",,"  We determine the critical couplings for the deconfinement phase transition in
+$SU(2)$ gauge theory on $N_\tau \times N_\sigma^3$ lattices with $N_\tau = 8$
+and 16 and $N_\sigma$ varying between 16 and 48. A comparison with string
+tension data shows scaling of the ratio $T_c / \sqrt{\sigma}$ in the entire
+coupling regime $\beta =2.30-2.75$, while the individual quantities still
+exhibit large scaling violations. We find $T_c / \sqrt{\sigma}=0.69(2)$. We
+also discuss in detail the extrapolation of $T_c / Lambda_{\rm{\bar{M}
+\bar{S}}}$ and $\sqrt{\sigma} / Lambda_{\rm{\bar{M}\bar{S}}}$ to the continuum
+limit. Our result, which is consistent with the above ratio, is $T_c /
+Lambda_{\rm{\bar{M}\bar{S}}} = 1.23(11)$ and $\sqrt{\sigma} /
+Lambda_{\rm{\bar{M}\bar{S}}} = 1.79(12)$. We also comment upon corresponding
+results for $SU(3)$ gauge theory and four flavour QCD.
+","[{""version"":""v1"",""created"":""Fri, 14 Aug 1992 15:11:03 GMT""},{""version"":""v2"",""created"":""Thu, 3 Sep 1992 16:10:28 GMT""}]","2009-10-22"
+"hep-ph/9208225","Gorazd Cvetic","G. Cveti\v{c} (Santa Maria Univ., Valparaiso, Chile), C.
+  Grosse-Knetter and R. K\""ogerler (Fakult\""at f\""ur Physik, Universit\""at
+  Bielefeld, Bielefeld, Germany)","Two- and Three Vector Boson Production in e+ e- Collisions within the
+  BESS Model","38 pages; 21 (scanned jpg) figures; v2 uses LaTeX (instead of TeXis),
+  so that arXiv can compile it and make it accessible; published in IJMP, A9,
+  5313 (1994)","Int. J. Mod. Phys. A9 (1994) 5313","10.1142/S0217751X94002132",,"hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The BESS model is the Higgsless alternative to the standard model of
+electroweak interaction with nonlinear realized spontaneous symmetry breaking.
+Since it is non-renormalizable new couplings (not existing in the SM) are
+induced at each loop order. On the basis of the one loop induced gauge boson
+self-couplings we calculated the cross sections for the two and three gauge
+boson production processes in $e^+e^-$ collisions. Measurements of these cross
+sections in a planned $e^+e^-$ linear collider at $\sqrt s = 500 GeV$ (NLC)
+will supply a good empirical test of the gauge boson self interactions and thus
+should enable to discriminate between SM and its alternatives (BESS).
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 18:15:10 GMT""},{""version"":""v2"",""created"":""Sat, 26 Nov 2011 18:06:32 GMT""}]","2015-06-25"
+"hep-ph/9208226",,"J. R. Espinosa and M. Quir\'os","Higgs boson bounds in non-minimal supersymmetric standard models","8 pages, (Talk presented at the XXVI INTERNATIONAL CONFERENCE ON HIGH
+  ENERGY PHYSICS, August 6-12, 1992, Dallas), latex, IEM-FT-60/92, 3 figures
+  (available by Fax upon request)",,"10.1016/0370-2693(92)91846-2",,"hep-ph",,"  In the minimal supersymmetric standard model (MSSM), when radiative
+corrections are included, the mass of the $CP=+1$ lightest Higgs boson is
+bounded by $\sim 110\ GeV$ for $m_t < 150\ GeV$ and a scale of supersymmetry
+breaking $\sim\ 1\ TeV$. In non-minimal supersymmetric standard models (NMSSM)
+upper bounds on the mass of the corresponding scalar Higgs boson arise if the
+theory is required to remain perturbative up to scales $\gg G_F^{-1/2}$. We
+have computed those bounds for two illustrative NMSSM: i) A model with an
+arbitrary number of gauge singlets; ii) A model with three $SU(2)_L$ triplets
+with $Y=0,\pm 1$. We have integrated numerically the corresponding
+renormalization group equations (RGE), including the top and bottom quark
+Yukawa couplings, and added one-loop radiative corrections. For $m_t > 91\ GeV$
+the absolute bounds are $\sim 140\ GeV$ for both models.
+","[{""version"":""v1"",""created"":""Fri, 14 Aug 1992 14:16:31 GMT""}]","2009-10-22"
+"hep-th/9208037",,"Paolo Aschieri and Leonardo Castellani","Bicovariant differential geometry of the quantum group GL_q(3)","16 p., LaTeX, DFTT-44/92","Phys.Lett. B293 (1992) 299-308","10.1016/0370-2693(92)90887-A",,"hep-th",,"  We construct a bicovariant differential calculus on the quantum group
+$GL_q(3)$, and discuss its restriction to $[SU(3) \otimes U(1)]_q$. The
+$q$-algebra of Lie derivatives is found, as well as the Cartan-Maurer
+equations. All the quantities characterizing the non-commutative geometry of
+$GL_q(3)$ are given explicitly.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 18:49:00 GMT""}]","2009-10-22"
+"hep-th/9208038",,"J. Erler and M. Spalinski","Modular Groups for Twisted Narain Models","23 pages","Int.J.Mod.Phys. A9 (1994) 4407-4430","10.1142/S0217751X94001758",,"hep-th",,"  We demonstrate how to find modular discrete symmetry groups for $Z_N$
+orbifolds. The $Z_7$ orbifold is treated in detail as a non-trivial example of
+a $(2,2)$ orbifold model. We give the generators of the modular group for this
+case which, surprisingly, does not contain $\sltz^3$ as had been speculated.
+The treatment models with discrete Wilson lines is also discussed. We consider
+examples which demonstrate that discrete Wilson lines affect the modular group
+in a non-trivial manner. In particular, we show that it is possible for a
+Wilson line to break $SL(2,{\bf Z})$.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 17:22:13 GMT""}]","2015-06-26"
+"hep-th/9208039",,"Eric Smith","Trivial Spectrum of Free 1+1 Light-Cone Strings","9 pages, UTTG 17-92","Phys.Lett. B305 (1993) 344-347","10.1016/0370-2693(93)91065-U",,"hep-th",,"  The BRST cohomology of 1+1 strings in a free light-cone gauge contains only
+the two-dimensional tachyon, and excludes all excited states of both matter and
+ghosts, including the special states that arise in the continuum conformal
+gauge quantization and in the $c = 1$ matrix models. This exclusion takes place
+at a very basic level, and therefore may signal some serious problems or at
+least unresolved issues involved in this gauge choice.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 18:54:01 GMT""}]","2009-10-22"
+"hep-th/9208040","Cobi Sonnenschein","O. Aharony, O. Ganor, J. Sonnenschein and S. Yankielowicz","On the twisted G/H topological models","27 pages","Nucl.Phys.B399:560-580,1993","10.1016/0550-3213(93)90509-N","TAUP-1990-92","hep-th",,"  The twisted G/H models are constructed as twisted supersymmetric gauged WZW
+models. We analyze the case of $G=SU(N)$, $H=SU(N_1)\times ...\times
+SU(N_n)\times U(1)^r$ with $rank\ G =\ rank\ H$, and discuss possible
+generalizations. We introduce a non-abelian bosonization of the $(1,0)$ ghost
+system in the adjoint of $H$ and in G/H. By computing chiral anomalies in the
+latter picture we write the quantum action as a decoupled sum of ``matter"",
+gauge and ghost sectors. The action is also derived in the unbosonized version.
+We invoke a free field parametrization and extract the space of physical states
+by computing the cohomology of $Q$ , the sum of the BRST gauge-fixing charge
+and the twisted supersymmetry charge. For a given $G$ we briefly discuss the
+relation between the various G/H models corresponding to different choices of
+$H$. The choice $H=G$ corresponds to the topological G/G theory.
+","[{""version"":""v1"",""created"":""Thu, 13 Aug 1992 23:55:00 GMT""}]","2009-09-29"
+"hep-th/9208041","George Savvidy K","G.Savvidy and K.Savvidy","String fine tuning","14 pages, missing two figures added","Int.J.Mod.Phys. A8 (1993) 3993-4012","10.1142/S0217751X93001624",,"hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We develop further a new geometrical model of a discretized string, proposed
+in [1] and establish its basic physical properties. The model can be considered
+as the natural extention of the usual Feynman amplitude of the random walks to
+random surfaces. Both amplitudes coinside in the case, when the surface
+degenarates into a single particle world line. We extend the model to open
+surfaces as well. The boundary contribution is proportional to the full length
+of the boundary and the coefficient of proportionality can be treated as a
+hopping parameter of the quarks. In the limit, when this parameter tends to
+infinity, the theory is essentialy simlplified. We prove that the contribution
+of a given triangulation to the partition function is finite and have found the
+explicit form for the upper bound. The question of the convergence of the full
+partition function remains open. In this model the string tension may vanish at
+the critical point, if the last one exists, and possess a nontrivial scaling
+limit. The model contains hidden fermionic variables and can be considered as
+an independent model of hadrons.
+","[{""version"":""v1"",""created"":""Fri, 14 Aug 1992 09:29:38 GMT""},{""version"":""v2"",""created"":""Fri, 10 Feb 2023 16:17:02 GMT""}]","2023-02-13"

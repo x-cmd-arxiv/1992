@@ -1,0 +1,45 @@
+"hep-ph/9204216","Rajesh Parwani","Rajesh R. Parwani","Resummation in a Hot Scalar Field Theory","26 pages (figures not included)","Phys.Rev.D45:4695,1992; Erratum-ibid.D48:5965,1993;
+  Phys.Rev.D48:5965,1993","10.1103/PhysRevD.45.4695 10.1103/PhysRevD.48.5965",,"hep-ph",,"  A resummed perturbative expansion is used to obtain the self-energy in the
+high-temperature \(g^2\phi^4\) field theory model up to order $g^4$. From this
+the zero momentum pole of the effective propagator is evaluated to determine
+the induced thermal mass and damping rate for the bosons in the plasma to order
+$g^3$. The calculations are performed in the imaginary time formalism and a
+simple diagrammatic analysis is used to identify the relevant diagrams at each
+order. Results are compared with similar real-time calculations found in the
+literature.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 04:03:55 GMT""}]","2014-11-17"
+"hep-th/9204023","Sergey Krivonos","E.Ivanov and S.Krivonos","Superfield Realizations of $N=2$ Super-$W_3$","8 pages","Phys.Lett. B291 (1992) 63-70; Erratum-ibid. B301 (1993) 454","10.1016/0370-2693(92)90119-O",,"hep-th",,"  We present a manifestly $N=2$ supersymmetric formulation of $N=2$ super-$W_3$
+algebra (its classical version) in terms of the spin 1 and spin 2
+supercurrents. Two closely related types of the Feigin-Fuchs representation for
+these supercurrents are found: via two chiral spin $\frac{1}{2}$ superfields
+generating $N=2$ extended $U(1)$ Kac-Moody algebras and via two free chiral
+spin 0 superfields. We also construct a one-parameter family of $N=2$ super
+Boussinesq equations for which $N=2$ super-$W_3$ provides the second
+hamiltonian structure.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 10:25:27 GMT""}]","2009-10-22"
+"hep-th/9204024","Jal Panvel","J. Panvel","Higher Order Conformal Invariance of String Backgrounds Obtained by
+  O(d,d) Transformations","8 pages","Phys.Lett. B284 (1992) 50-54","10.1016/0370-2693(92)91923-W",,"hep-th",,"  Proposals that $O(d,d)$ boosts of trivial backgrounds lead to non-trivial
+conformally invariant backgrounds are checked to two loop order. We find that
+conformal invariance can be achieved by adding simple higher order corrections
+to the metric and dilaton.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 14:41:15 GMT""}]","2009-10-22"
+"hep-th/9204040",,"S. Ferrara, P. Fr\`e, P. Soriani","On the Moduli Space of the $T^6/Z_3$ Orbifold and Its Modular Group","15 pages","Class.Quant.Grav.9:1649-1662,1992","10.1088/0264-9381/9/7/002",,"hep-th",,"  We describe the duality group $\Gamma=SU(3,3,Z)$ for the Narain lattice of
+the $T^6/Z_3$ orbifold and its action on the corresponding moduli space. A
+symplectic embedding of the momenta and winding numbers allows us to connect
+the orbifold lattice to the special geometry of the moduli space. As an
+application, a formal expression for an automorphic function, which is a
+candidate for a non--perturbative superpotential, is given.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 14:53:17 GMT""}]","2010-04-06"
+"hep-th/9204041",,"P. Fre', L. Girardello, A. Lerda and P. Soriani","Topological First-Order Systems with Landau-Ginzburg Interactions","37 pages","Nucl.Phys. B387 (1992) 333-372","10.1016/0550-3213(92)90164-7",,"hep-th",,"  We consider the realization of N=2 superconformal models in terms of free
+first-order $(b,c,\beta,\gamma)$-systems, and show that an arbitrary
+Landau-Ginzburg interaction with quasi-homogeneous potential can be introduced
+without spoiling the (2,2)-superconformal invariance. We discuss the
+topological twisting and the renormalization group properties of these
+theories, and compare them to the conventional topological Landau-Ginzburg
+models. We show that in our formulation the parameters multiplying deformation
+terms in the potential are flat coordinates. After properly bosonizing the
+first-order systems, we are able to make explicit calculations of topological
+correlation functions as power series in these flat coordinates by using
+standard Coulomb gas techniques. We retrieve known results for the minimal
+models and for the torus.
+","[{""version"":""v1"",""created"":""Fri, 10 Apr 1992 15:19:22 GMT""}]","2009-10-22"

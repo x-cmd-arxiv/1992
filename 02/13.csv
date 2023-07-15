@@ -1,0 +1,55 @@
+"alg-geom/9202008","Walter D. Neumann","Walter D. Neumann and Le Van Thanh","On irregular links at infinity of algebraic plane curves","6 pages, Plain TeX, Dec 20, 1991",,,,"alg-geom math.AG",,"  We give two proofs of a conjecture of the first author (Inv. Math. 98, 1989)
+that a reduced algebraic plane curve is regular at infinity if and only if its
+link at infinity is a regular toral link. This conjecture has also been proved
+by Ha H.~V. using Lojasiewicz numbers at infinity. Our first proof uses the
+polar invariant and the second proof uses linear systems of plane curve
+singularities. The second approach (based on a paper in preparation) also
+proves a stronger conjecture (loc. cit.) describing topologically the regular
+link at infinity associated with an irregular link at infinity.
+","[{""version"":""v1"",""created"":""Wed, 12 Feb 1992 16:17:39 GMT""}]","2008-02-03"
+"alg-geom/9202009","Wilberd van der Kallen","V. B. Mehta and Wilberd van der Kallen","On a Grauert-Riemenschneider vanishing theorem for Frobenius split
+  varieties in characteristic p","4 pages, LaTeX","Inventiones Mathematicae 108 (1992), 11-13","10.1007/BF02100595",,"alg-geom math.AG",,"  This paper is about sheaf cohomology for varieties (schemes) in
+characteristic $p>0$. We assume the presence of a Frobenius splitting. (See
+V.B. Mehta and A. Ramanathan, Frobenius splitting and cohomology vanishing for
+Schubert varieties, Annals of Math. 122 (1985), 27--40). The main result is
+that a non-zero higher direct image under a proper map of the ideal sheaf of a
+compatibly Frobenius split subvariety can not have a support whose inverse
+image is contained in that subvariety. Earlier vanishing theorems for Frobenius
+split varieties were based on direct limits and Serre's vanishing theorem, but
+our theorem is based on inverse limits and Grothendieck's theorem on formal
+functions. The result implies a Grauert--Riemenschneider type theorem.
+","[{""version"":""v1"",""created"":""Thu, 13 Feb 1992 08:59:31 GMT""}]","2009-10-22"
+"alg-geom/9202010",,"John B. Little","Another Relation Between Approaches to the Schottky Problem","9 pages, Plain TeX",,,,"alg-geom math.AG",,"  The recent extensive work on different approaches to the Schottky problem has
+produced marked progress on several fronts. At the same time, it has become
+apparent that there exist very close connections between the various
+characterizations of Jacobian varieties described in Mumford's classic lectures
+{\it Curves and Their Jacobians\/}. Until now, the approach via double
+translation manifolds has seemed to be quite different from other approaches to
+the Schottky problem. The purpose of this paper is to bring this last approach
+``into the fold'' as it were, and to show precisely how it relates to
+characterizations of Jacobians based on trisecants and flexes of the Kummer
+variety, and the K.P. equation.
+","[{""version"":""v1"",""created"":""Thu, 13 Feb 1992 13:22:00 GMT""}]","2008-02-03"
+"hep-th/9202040","Jose M. Figueroa-O'Farrill","Jose M. Figueroa-O'Farrill and Eduardo Ramos","The Classical Limit of W-Algebras","(14 pages)","Phys.Lett. B282 (1992) 357-364","10.1016/0370-2693(92)90652-K",,"hep-th",,"  We define and compute explicitly the classical limit of the realizations of
+$W_n$ appearing as hamiltonian structures of generalized KdV hierarchies. The
+classical limit is obtained by taking the commutative limit of the ring of
+pseudodifferential operators. These algebras---denoted $w_n$---have free field
+realizations in which the generators are given by the elementary symmetric
+polynomials in the free fields. We compute the algebras explicitly and we show
+that they are all reductions of a new algebra $w_{\rm KP}$, which is proposed
+as the universal classical $W$-algebra for the $w_n$ series. As a deformation
+of this algebra we also obtain $w_{1+\infty}$, the classical limit of
+$W_{1+\infty}$.
+","[{""version"":""v1"",""created"":""Wed, 12 Feb 1992 16:46:38 GMT""}]","2009-10-22"
+"hep-th/9202041",,"Michael Lassig","Exact Critical Exponents of the Staircase Model","7 pages",,,,"hep-th",,"  The staircase model is a recently discovered one-parameter family of
+integrable two-dimensional continuum field theories. We analyze the novel
+critical behavior of this model, seen as a perturbation of a minimal conformal
+theory M_p: the leading thermodynamic singularities are simultaneously governed
+by all fixed points M_p, M_{p-1}, ..., M_3. The exponents of the magnetic
+susceptibility and the specific heat are obtained exactly. Various corrections
+to scaling are discussed, among them a new type specific to crossover phenomena
+between critical fixed points.
+","[{""version"":""v1"",""created"":""Wed, 12 Feb 1992 20:24:20 GMT""}]","2007-05-23"
+"hep-th/9202042",,"Marcio J.Martins","The two-dimensional O(3) nonlinear $\sigma$-model at finite temperature","(5 pages)","Phys.Lett. B278 (1992) 167-170","10.1016/0370-2693(92)90728-M",,"hep-th",,"  We present a direct derivation of the thermodynamic integral equations of the
+O(3) nonlinear $\sigma$-model in two dimensions.
+","[{""version"":""v1"",""created"":""Thu, 13 Feb 1992 13:25:00 GMT""}]","2009-10-22"

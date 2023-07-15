@@ -1,0 +1,107 @@
+"cond-mat/9208026","Boldizsar Janko","Boldizsar Janko and Joel D. Shore (Laboratory of Atomic and Solid
+  State Physics, Cornell University, Ithaca, New York)","Electromagnetic response of a static vortex line in a type-II
+  superconductor : a microscopic study","14 pages (RevTex)","Phys. Rev. B1. vol.46, p. 9270 (1992)","10.1103/PhysRevB.46.9270",,"cond-mat",,"  The electromagnetic response of a pinned Abrikosov fluxoid is examined in the
+framework of the Bogoliubov-de Gennes formalism. The matrix elements and the
+selection rules for both the single photon (emission - absorption) and two
+photon (Raman scattering) processes are obtained. The results reveal striking
+asymmetries: light absorption by quasiparticle pair creation or single
+quasiparticle scattering can occur only if the handedness of the incident
+radiation is opposite to that of the vortex core states. We show how these
+effects will lead to nonreciprocal circular birefringence, and also predict
+structure in the frequency dependence of conductivity and in the differential
+cross section of the Raman scattering.
+","[{""version"":""v1"",""created"":""Mon, 31 Aug 1992 17:38:15 GMT""}]","2009-10-22"
+"cond-mat/9208027","Alexander V. Balatsky","A. V. Balatsky and B. L. Altshuler","Persistent spin and mass currents and Aharonov-Casher effect","10 pages",,"10.1103/PhysRevLett.70.1678",,"cond-mat",,"  Spin-orbit interaction produces persistent spin and mass currents in the ring
+via the Aharonov-Casher effect. The experiment in $^3He-A_1$ phase, in which
+this effect leads to the excitation of mass and spin supercurrent is proposed.
+","[{""version"":""v1"",""created"":""Mon, 31 Aug 1992 20:46:17 GMT""}]","2009-10-22"
+"cond-mat/9209001",,"Zhong-Shui Ma and Zhao-Bin Su","The Constraint for the Lowest Landau Level and the Effective Field
+  Theory Approach for the Fractional Quantum Hall System","12p. Latex",,,"AS-ITP-92-44","cond-mat",,"  By applying the Dirac quantization method, we build the constraint that all
+electrons are in the lowest Landau level into the Chern-Simons field theory
+approach for the fractional quantum Hall system and show that the constraint
+can be transmuted from hierarchy to hierarchy. For a finite system, we derive
+that the action for each hierarchy can be split into two parts: a surface part
+provides the action for the edge excitations while the remaining part is
+precisely the bulk action for the next hierarchy. And the action for the edge
+could be decoupled from the bulk only at the hierarchy filling.
+","[{""version"":""v1"",""created"":""Mon, 31 Aug 1992 17:36:43 GMT""}]","2007-05-23"
+"hep-th/9208080","Norisuke Sakai","Y. Matsumura, N. Sakai, Y. Tanii and T. Uchino","Correlation Functions in Two-Dimensional Dilaton Gravity","14 pages, TIT/HEP-204, STUPP-92-131","Mod. Phys. Lett. A8 (1993) 1507","10.1142/S0217732393001239",,"hep-th",,"  The Liouville approach is applied to the quantum treatment of the dilaton
+gravity in two dimensions. The physical states are obtained from the BRST
+cohomology and correlation functions are computed up to three-point functions.
+For the $N=0$ case (i.e., without matter), the cosmological term operator is
+found to have the discrete momentum that plays a special role in the $c=1$
+Liouville gravity. The correlation functions for arbitrary numbers of operators
+are found in the $N=0$ case, and are nonvanishing only for specific
+``chirality'' configurations.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 02:23:18 GMT""}]","2015-06-26"
+"hep-th/9208081","Norisuke Sakai","Norisuke Sakai","c = 1 Two Dimensional Quantum Gravity","A talk given at the International Symposium on Quantum Physics and
+  the Universe, Waseda University, August 19-22, 1992 (revised adding a
+  reference in ref.8 and two references in ref.9) 16pages, TIT/HEP--205",,"10.1016/0083-6656(93)90098-5",,"hep-th",,"  The continuum (Liouville) approach to the two-dimensional (2-D) quantum
+gravity is reviewed with particular attention to the $c=1$ conformal matter
+coupling, and new results on a related problem of dilaton gravity are reported.
+After finding the physical states, we examine the procedure to compute
+correlation functions. The physical states in the relative cohomology show up
+as intermediate state poles of the correlation functions. The states in the
+absolute cohomology but not in the relative cohomology arise as auxiliary
+fields in string field theory. The Liouville approach is applied also to the
+quantum treatment of the dilaton gravity. The physical states are obtained from
+the BRST cohomology and correlation functions are computed in the dilaton
+gravity.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 02:23:40 GMT""},{""version"":""v2"",""created"":""Fri, 4 Sep 1992 11:51:50 GMT""}]","2009-10-22"
+"hep-th/9209001","Changhyun Ahn","Changhyun Ahn","Explicit Construction of Spin 4 Casimir Operator in the Coset Model $
+  \hat{SO} (5)_{1} \times \hat{SO} (5)_{m} / \hat{SO} (5)_{1+m} $","11 pages","J.Phys. A27 (1994) 231-238","10.1088/0305-4470/27/1/017",,"hep-th",,"  We generalize the Goddard-Kent-Olive (GKO) coset construction to the
+dimension 5/2 operator for $ \hat{so} (5) $ and compute the fourth order
+  Casimir invariant in the coset model $\hat{SO} (5)_{1} \times \hat{SO}
+(5)_{m} / \hat{SO} (5)_{1+m} $ with the generic unitary minimal $ c < 5/2 $
+series that can be viewed as perturbations of the $ m \rightarrow \infty $
+limit, which has been investigated previously in the realization of $ c= 5/2 $
+free fermion model.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 06:35:28 GMT""}]","2009-10-22"
+"hep-th/9209002","Jose M. Figueroa-O'Farrill","J.M. Figueroa-O'Farrill, E. Ramos, and S. Stanciu","A geometrical interpretation of classical W-transformations","8 pages, Plain TeX, (the only changes are the Bonn preprint number
+  and a minor notational correction in the third section),
+  BONN-HE-92-27,KUL-TF-92/34","Phys.Lett. B297 (1992) 289-292","10.1016/0370-2693(92)91264-A",,"hep-th",,"  We give a simple geometrical interpretation of classical $\W$-transformations
+as deformations of constant energy surfaces by canonical transformations on a
+two-dimensional phase space.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 09:28:29 GMT""},{""version"":""v2"",""created"":""Mon, 7 Sep 1992 20:58:43 GMT""}]","2009-10-22"
+"hep-th/9209003","Bunji Sakita","Satoshi Iso, Dimitra Karabali and B. Sakita","Fermions in the Lowest Landau Level: Bosonization, $W_{\infty}$ Algebra,
+  Droplets, Chiral Boson","16 pages","Phys.Lett. B296 (1992) 143-150","10.1016/0370-2693(92)90816-M","CCNY-HEP-92/6","hep-th",,"  We present field theoretical descriptions of massless (2+1) dimensional
+nonrelativistic fermions in an external magnetic field, in terms of a fermionic
+and bosonic second quantized language. An infinite dimensional algebra,
+$W_{\infty}$, appears as the algebra of unitary transformations which preserve
+the lowest Landau level condition and the particle number. In the droplet
+approximation it reduces to the algebra of area-preserving diffeomorphisms,
+which is responsible for the existence of a universal chiral boson Lagrangian
+independent of the electrostatic potential. We argue that the bosonic droplet
+approximation is the strong magnetic field limit of the fermionic theory. The
+relation to the $c=1$ string model is discussed.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 13:42:34 GMT""},{""version"":""v2"",""created"":""Tue, 8 Sep 1992 20:10:50 GMT""}]","2009-10-22"
+"hep-th/9209004","Guido Haak","G. Haak","Group Theoretical Symmetries and Generalized Baecklund Transformations
+  for Integrable Systems","17 pages (LaTeX)","J.Math.Phys. 35 (1994) 2378-2389","10.1063/1.530508",,"hep-th",,"  We present a notion of symmetry for 1+1-dimensional integrable systems which
+is consistent with their group theoretic description and reproduces in special
+cases the known Baecklund transformation for the generalized Korteweg-deVries
+hierarchies. We also apply it to the relativistic invariance of the
+Leznov-Saveliev systems.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 13:25:09 GMT""}]","2009-10-22"
+"math/9209219","Peter W. Michor","Dimitri Alekseevsky, Peter W. Michor","Characteristic classes for $G$-structures",,"Diff. Geom. Appl. 3 (1993), 323-329",,"Michor 99-08","math.DG",,"  Let $G\subset GL(V)$ be a linear Lie group with Lie algebra $\frak g$ and let
+$A(\frak g)^G$ be the subalgebra of $G$-invariant elements of the associative
+supercommutative algebra $A(\frak g)= S(\frak g^*)\otimes \La(V^*)$. To any
+$G$-structure $\pi:P\to M$ with a connection $\omega$ we associate a
+homomorphism $\mu_\omega:A(\frak g)^G\to \Omega(M)$. The differential forms
+$\mu_\omega(f)$ for $f\in A(\frak g)^G$ which are associated to the
+$G$-structure $\pi$ can be used to construct Lagrangians. If $\omega$ has no
+torsion the differential forms $\mu_\omega(f)$ are closed and define
+characteristic classes of a $G$-structure. The induced homomorphism
+$\mu'_\omega:A(\g)^G\to H^*(M)$ does not depend on the choice of the
+torsionfree connection $\omega$ and it is the natural generalization of the
+Chern Weil homomorphism.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 00:00:00 GMT""}]","2016-09-06"
+"math/9209220","Philip Boyland","Philip Boyland","Weak disks of Denjoy minimal sets",,,,"Stony Brook IMS 1992/13","math.DS",,"  This paper investigates the existence of Denjoy minimal sets and, more
+generally, strictly ergodic sets in the dynamics of iterated homeomorphisms. It
+is shown that for the full two-shift, the collection of such invariant sets
+with the weak topology contains topological balls of all finite dimensions. One
+implication is an analogous result that holds for diffeomorphisms with
+transverse homoclinic points. It is also shown that the union of Denjoy minimal
+sets is dense in the two-shift and that the set of unique probability measures
+supported on these sets is weakly dense in the set of all shift-invariant,
+Borel probability measures.
+","[{""version"":""v1"",""created"":""Tue, 1 Sep 1992 00:00:00 GMT""}]","2016-09-06"

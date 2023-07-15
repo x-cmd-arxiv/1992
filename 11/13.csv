@@ -1,0 +1,164 @@
+"gr-qc/9211016","Patrick Brady","W. G. Anderson, P. R. Brady, and R. Camporesi","Vacuum Polarisation and the Black Hole Singularity","12 pages, RevTex","Class.Quant.Grav.10:497-504,1993","10.1088/0264-9381/10/3/009","Alberta-Thy-24-92","gr-qc",,"  In order to investigate the effects of vacuum polarisation on mass inflation
+singularities, we study a simple toy model of a charged black hole with cross
+flowing radial null dust which is homogeneous in the black hole interior. In
+the region $r^2 \ll e^2$ we find an approximate analytic solution to the
+classical field equations. The renormalized stress-energy tensor is evaluated
+on this background and we find the vacuum polarisation backreaction corrections
+to the mass function $m(r)$. Asymptotic analysis of the semiclassical mass
+function shows that the mass inflation singularity is much stronger in the
+presence of vacuum polarisation than in the classical case.
+","[{""version"":""v1"",""created"":""Fri, 13 Nov 1992 02:35:06 GMT""}]","2010-04-06"
+"hep-lat/9211036","Carleton DeTar","C. Bernard, T. A. DeGrand, C. DeTar, S. Gottlieb, A. Krasnitz, R. L.
+  Sugar and D. Toussaint (MILC Collaboration)","Baryon Density Correlations in the Quark Plasma, MIMD Lattice
+  Calculation","LaTeX document. Requires Elsevier espcrc2 style macro. 4 pages with 4
+  Postscript figures bundled in a Unix shar file. Lattice '92 talk by C. DeTar","Nucl.Phys.Proc.Suppl.30:319-322,1993","10.1016/0920-5632(93)90217-T",,"hep-lat",,"  As part of an ongoing effort to characterize the high temperature phase of
+QCD, we measure the quark baryon density in the vicinity of a fixed test quark
+and compare it with similar measurements at low temperature and at the
+crossover temperature. Such an observable has also been studied by the Vienna
+group. We find an extremely weak correlation at high temperature, suggesting
+that small color singlet clusters are unimportant in the thermal ensemble. We
+also find that at T = 0.75 T_c the induced quark number shows a surprisingly
+large component attributable to baryonic screening. A simulation of a simple
+flux tube model produces results that suggest a plausible scenario: As the
+crossover temperature is approached from below, baryonic states proliferate.
+Above the crossover temperature the mean size of color singlet clusters grows
+explosively, resulting in an effective electrostatic deconfinement.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 22:52:01 GMT""}]","2008-11-26"
+"hep-lat/9211037","Ron Horgan","I T Drummond and R R Horgan","Improved Langevin Methods for Spin Systems","16, DAMTP-92-72","Phys.Lett. B302 (1993) 271-278","10.1016/0370-2693(93)90396-Y",,"hep-lat",,"  We investigate methods for variance reduction and the elimination of
+systematic error in a Fourier accelerated Langevin scheme for general spin
+models. We present results for the $SU(3)\times SU(3)/SU(3)$ model in
+two-dimensions that are consistent wit h those from multi-grid methods. We
+argue that the timing for the Langevin method makes it comparable to multi-grid
+for a given level of error.
+","[{""version"":""v1"",""created"":""Fri, 13 Nov 1992 14:52:51 GMT""},{""version"":""v2"",""created"":""Mon, 16 Nov 1992 12:35:28 GMT""}]","2009-10-22"
+"hep-lat/9211038","Gerrit Schierholz","R. Altmeyer, M. G\""ockeler, R. Horsley, E. Laermann and G. Schierholz","The Spin Content of the Nucleon","(contribution to Lattice 1992), 4 pages + 1 encapsulated postscript
+  figure, HLRZ 92-81 (In the earlier version the topological charge density was
+  incorrectly normalized. ERRARE HUMANUM EST!)","Nucl.Phys.Proc.Suppl. 30 (1993) 483-486","10.1016/0920-5632(93)90255-5",,"hep-lat",,"  The fraction of the nucleon spin that is carried by the quarks, $\Delta
+\Sigma$, is computed in lattice QCD with dynamical staggered fermions. We
+obtain the value $\Delta \Sigma = 0.18 \pm 0.02$.
+","[{""version"":""v1"",""created"":""Fri, 13 Nov 1992 15:41:12 GMT""},{""version"":""v2"",""created"":""Mon, 16 Nov 1992 15:36:31 GMT""},{""version"":""v3"",""created"":""Thu, 17 Dec 1992 14:09:54 GMT""}]","2009-10-22"
+"hep-lat/9211039","S. Collins","UKQCD Collaboration (presented by Sara Collins)","Gauge Invariant Smearing and Matrix Correlators using Wilson Fermions at
+  beta=6.2","at lattice `92. 4 pages latex + 3 postscript figures. Edinburgh
+  preprint: 92/515",,,,"hep-lat",,"  We present an investigation of gauge invariant smearing for Wilson fermions
+on a $24^3 \times 48$ lattice at $\beta = 6.2$. We demonstrate a smearing
+algorithm that allows a substantial improvement in the determination of the
+baryon spectrum obtained using propagators smeared at both source and sink, at
+only a small computational cost. We investigate the matrix of correlators
+constructed from local and smeared operators, and are able to expose excited
+states of both the mesons and baryons.
+","[{""version"":""v1"",""created"":""Fri, 13 Nov 1992 11:21:34 GMT""}]","2019-08-27"
+"hep-lat/9211040","Alan Simpson","UKQCD Collaboration, presented by Alan D. Simpson","Quenched Light Hadron Spectroscopy: Comparing the Wilson and
+  O(a)-Improved Fermion Actions","at Lattice '92, 4 pages, Edinburgh Preprint: 92/519","Nucl.Phys.Proc.Suppl. 30 (1993) 385-388","10.1016/0920-5632(93)90233-V",,"hep-lat",,"  We have studied the light hadron spectrum and decay constants for quenched
+QCD at beta=6.2 on a 24^3x48 lattice. We compare the results obtained using a
+nearest-neighbour O(a)-improved (""clover"") fermion action with those obtained
+using the standard Wilson fermion action on the same gauge configurations. For
+pseudoscalar meson masses in the range 330-800 MeV, we find no significant
+difference between the results for the two actions. The scales obtained from
+the string tension and mesonic sector are consistent, but higher than those
+derived from baryon masses. The ratio of the pseudoscalar decay constant to the
+vector meson mass is roughly independent of quark mass as observed
+experimentally.
+","[{""version"":""v1"",""created"":""Fri, 13 Nov 1992 12:13:09 GMT""}]","2019-06-05"
+"hep-ph/9211241",,"A. Dolgov","Antimatter in the Universe","17 pages + 2 figures",,"10.1007/BF02316703","UM-TH-92-29","hep-ph",,"  Cosmological models which predict a large amount of antimatter in the
+Universe are reviewed. Observational signatures and searches for cosmic
+antimatter are briefly considered. A short discussion of new long range forces
+which might be associated with matter and antimatter is presented.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 16:05:00 GMT""}]","2009-10-22"
+"hep-ph/9211242",,"M.B. Voloshin","Some Properties of Amplitudes at Multi Boson Thresholds in Spontaneously
+  Broken Scalar Theory","11 pages including 3 figures, LaTeX, TPI-MINN-92/61-T","Phys.Rev. D47 (1993) 3525-3529","10.1103/PhysRevD.47.3525",,"hep-ph",,"  It is shown that in a $\lambda \phi^4$ theory of one real scalar field with
+spontaneous breaking of symmetry a calculation of the amplitudes of production
+by a virtual field $\phi$ of $n$ on-mass-shell bosons all being exactly at rest
+is equivalent in any order of the loop expansion to a Euclidean space
+calculation of the mean field of a kink-type configuration. Using this
+equivalence it is found that all the $1 \to n$ amplitudes have no absorptive
+part at the thresholds to any order of perturbation theory. This implies
+non-trivial relations between multi-boson threshold production amplitudes. In
+particular the on-mass-shell amplitude of the process $2 \to 3$ should vanish
+at the threshold in all loops. It is also shown that the factor $n!$ in the $1
+\to n$ amplitudes at the threshold is not eliminated by loop effects.
+","[{""version"":""v1"",""created"":""Fri, 13 Nov 1992 00:41:34 GMT""}]","2009-10-22"
+"hep-ph/9211243",,"R.V. Gavai, R.M. Godbole and K. Sridhar","Looking for the gluonic EMC effect in associated $J/\psi$ + $\gamma $
+  production","10 pages, 4 Figures (not included, available only by p-mail), LaTeX,
+  CERN-TH.6679/92, TIFR/TH/92-59, BU-TH-92/3, Minor revision. Replaced version
+  has the style file equation.sty appended for easy processing, which is the
+  only change","Phys.Lett.B299:157-164,1993","10.1016/0370-2693(93)90897-Q",,"hep-ph",,"  We study the associated production of $ J/\psi\ + \gamma $ in fixed-target
+experiments with nuclear targets as well as at the relativistic heavy-ion
+collider (RHIC). We find that this process affords a very clean probe of
+$\rho_g$, the ratio of gluon density in a heavy nucleus to that of a proton.
+The combined $x$ range thus available can be used to discriminate between the
+predictions of different models of the EMC effect for $\rho_g$.
+","[{""version"":""v1"",""created"":""Fri, 13 Nov 1992 08:01:32 GMT""},{""version"":""v2"",""created"":""Wed, 18 Nov 1992 08:25:56 GMT""}]","2011-07-19"
+"hep-ph/9211244",,"P. Ball, V.M. Braun, H.G. Dosch","Semileptonic Inclusive B--Decays and the Determination of $|V_{ub}|$
+  from QCD Sum Rules","21 pages + 6 postscript figures, appended as uuencoded file, uses
+  REVTEX, HD-THEP-92-35","Phys.Rev.D48:2110-2120,1993","10.1103/PhysRevD.48.2110",,"hep-ph",,"  We calculate the electron spectrum of semileptonic decays of B-mesons into
+non-charmed hadrons. The shape of the spectrum obtained from QCD sum rules is
+in general agreement with quark model calculations. At high electron energies
+the decrease of the spectrum is less steep than predicted by Altarelli et al.
+Our analysis yields a total decay rate $\Gamma(B\to X_u e\bar\nu) = (6.8\pm
+2.0) 10^{13} |V_{ub}|^2 {s}^{-1}$. For the spectrum integrated over electron
+energies in the interval $2.4{ GeV}\leq E_e \leq 2.6\mbox{\ GeV}$ in the
+laboratory frame we obtain $\Gamma(B\to X_u e \bar\nu)= (5.0\pm 1.6) 10^{12}
+|V_{ub}|^2 {s}^{-1}$. Estimating all sorts of theoretical uncertainties, we
+obtain $|V_{ub}| = 0.003\pm 0.001$ for the $b \to u$ weak transition matrix
+element from the new CLEO-data.
+","[{""version"":""v1"",""created"":""Fri, 13 Nov 1992 13:35:21 GMT""},{""version"":""v2"",""created"":""Thu, 7 Jan 1993 15:16:58 GMT""}]","2008-11-26"
+"hep-th/9211055","Ignatios Antoniadis","I. Antoniadis","Dynamics of the conformal factor in 4D gravity","Invited talk at the Spring Workshop on String Theory, Trieste, April
+  8-10, 1992, 16 pages, Ecole Polytechnique preprint CPTH-C207.1192",,,,"hep-th gr-qc",,"  We argue that 4D gravity is drastically modified at distances larger than the
+horizon scale, due to the large infrared quantum fluctuations of the conformal
+part of the metric. The infrared dynamics of the conformal factor is generated
+by an effective action, induced by the trace anomaly of matter in curved space,
+analogous to the Polyakov action in two dimensions. The resulting effective
+scalar theory is renormalizable, and possesses a non-trivial, infrared stable
+fixed point, characterized by an anomalous scaling dimension of the conformal
+factor. We argue that this theory describes a large distance scale invariant
+phase of 4D gravity and provides a framework for a dynamical solution of the
+cosmological constant problem.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 19:49:52 GMT""}]","2007-05-23"
+"hep-th/9211056","Jerome Gauntlett","Jerome P. Gauntlett, Jeffrey A. Harvey and James T. Liu","Magnetic Monopoles in String Theory","24 pages (Corrected title)","Nucl.Phys.B409:363-381,1993","10.1016/0550-3213(93)90584-C","EFI-92-67, IFP-434-UNC","hep-th",,"  Magnetic monopole solutions to heterotic string theory are discussed in
+toroidal compactifications to four spacetime dimensions. Particular emphasis is
+placed on the relation to previously studied fivebrane solutions in ten
+dimensions and on the possibility of constructing exact monopole solutions
+related to symmetric fivebranes.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 19:14:48 GMT""},{""version"":""v2"",""created"":""Fri, 13 Nov 1992 14:39:21 GMT""}]","2010-11-01"
+"hep-th/9211057",,"J. Russo","Black hole formation in $c=1$ String Field Theory","9 pages, UTTG-27-92 (references added + a few corrections)","Phys.Lett. B300 (1993) 336-342","10.1016/0370-2693(93)91342-K",,"hep-th",,"  A suggestion on how black holes may appear in Das-Jevicki Collective field
+theory is given. We study the behaviour of a `test' particle when energy is
+sent into the system. A perturbation moving near the potential barrier can
+create a large-distance black hole geometry where the seeming curvature
+singularity is at the position of the barrier. In the simplest `static' case
+the exact $D=2$ black hole metric emerges.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 22:39:10 GMT""},{""version"":""v2"",""created"":""Tue, 17 Nov 1992 23:29:28 GMT""}]","2009-10-22"
+"hep-th/9211058","Mark Bowick","Mark Bowick, Paul Coddington, Leping Han, Geoff Harris and Enzo
+  Marinari","The Phase Structure of Strings with Extrinsic Curvature","Latex file of 19 pages (plus 10 figures not included); Lecture given
+  by Mark Bowick at the Erice Workshop on ""String Quantum Gravity and Physics
+  at the Planck Energy Scale"", June 92 and at the First Iberian Meeting on
+  Gravity, Evora, Portugal, September 92",,,"Syracuse preprint SU-HEP-4241-526","hep-th",,"  We examine a model of non-self-avoiding, fluctuating surfaces as a candidate
+continuum string theory of surfaces in three dimensions. This model describes
+Dynamically Triangulated Random Surfaces embedded in three dimensions with an
+extrinsic curvature dependent action. We analyze, using Monte Carlo
+simulations, the dramatic crossover behaviour of several observables which
+characterize the geometry of these surfaces. We then critically discuss whether
+our observations are indicative of a phase transition.
+","[{""version"":""v1"",""created"":""Thu, 12 Nov 1992 23:03:00 GMT""}]","2007-05-23"
+"hep-th/9211059","Neil Marcus","Neil Marcus (U of Tel-Aviv)","A tour through N=2 strings","24 Pages (LaTeX) (Revision: History updated, reference fixed.), Rome
+  String Theory Workshop 1992 (Talk presented at the Rome conference on
+  ``String theory, quantum gravity and the unification of fundamental
+  interactions'', Sept 1992.)",,,"TAUP-2002-92","hep-th",,"  I give an overview of open, closed and heterotic N=2 strings. At the tree
+level I derive the effective field theories of all the strings, and discuss the
+group theory of the N=2 open string and the interaction between its open and
+closed sectors. At one loop N=2 string loop amplitudes and partition functions
+have incurable infra-red divergences, and show puzzling disagreements on the
+dimension of spacetime when compared to their effective field theories. I show
+that the closed-string three-point amplitude can be written directly in terms
+of a Schwinger parameter, so explicitly exhibiting the inconsistency. I finally
+discuss the possibility that the puzzles posed by the loop amplitudes could be
+solved if the N=2 theories were Lorentz invariant and supersymmetric, and I
+speculate on possible modifications of the string calculations.
+","[{""version"":""v1"",""created"":""Fri, 13 Nov 1992 12:33:29 GMT""},{""version"":""v2"",""created"":""Mon, 16 Nov 1992 10:14:19 GMT""}]","2008-02-03"
+"hep-th/9211060","Ctirad Klimcik","Ctirad Klim\v{c}\'ik and Eliza Klim\v{c}\'ik","On Macroscopic Energy Gap for $q$-Quantum Mechanical Systems","6 pages, TeX, PRA-HEP-92/15","J.Phys. A26 (1993) L289-L292","10.1088/0305-4470/26/5/020",,"hep-th",,"  The q-deformed harmonic oscillator within the framework of the recently
+introduced Schwenk-Wess $q$-Heisenberg algebra is considered. It is shown, that
+for ""physical"" values $q\sim1$, the gap between the energy levels decreases
+with growing energy. Comparing with the other (real) $q$-deformations of the
+harmonic oscillator, where the gap instead increases, indicates that the
+formation of the macroscopic energy gap in the Schwenk-Wess $q$-Quantum
+Mechanics may be avoided.
+","[{""version"":""v1"",""created"":""Fri, 13 Nov 1992 08:12:24 GMT""}]","2016-08-14"

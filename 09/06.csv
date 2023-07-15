@@ -1,0 +1,50 @@
+"cond-mat/9209005","Hartmut Monien","H. Monien (Institute for Theoretical Physics, Universty of California,
+  Santa Barbara, CA 93106)","Aspects of Spin Dynamics in the Cuprate Superconductors","figure available upon request, 11 pages",,,,"cond-mat",,"  One of the interesting aspects of the CuO superconductors is that
+superconductivity is happening so close to the antiferromagnetic state. The
+nuclear magnetic resonance and the recent neutron scattering experiments
+clearly indicate that magnetic correlations persist in to the heavily doped
+regime. In this paper we will discuss some of the details of the coupling of
+the nuclear magnetic spin to the conduction electron spins. Furthermore we will
+show that a simple band structure can explain the recent neutron scattering
+data in the \LaSrCuO material for the optimal concentration of $x\approx 0.15$
+if the lifetime effects are included.
+","[{""version"":""v1"",""created"":""Sat, 5 Sep 1992 20:37:53 GMT""}]","2007-05-23"
+"cond-mat/9209006","Hartmut Monien","A. J. Millis (AT&T Bell Laboratories, Murray Hill, NJ) and H. Monien
+  (Institute for Theoretical Physics, UCSB, Santa Barbara, CA)","Spin Gaps and Spin Dynamics in La_{2-x}Sr_xCuO_4 and YBa_2Cu_3O7_\delta","figures available upon request, 12 pages","Phys.Rev.Lett.70:2810-2814,1993; ERRATUM-ibid.71:210,1993","10.1103/PhysRevLett.70.2810",,"cond-mat",,"  A magnetic susceptibility which decreases with decreasing temperature is
+observed in all $CuO_2$ based superconductors with less than optimal doping. We
+propose that in $La_{2-x} Sr_x CuO_4$ this is due to antiferromagnetic ordering
+which is prevented by the low spatial dimensionality while in $YBa_2 Cu_3
+O_{6.6}$ it is due to the interplay between antiferromagnetic fluctuations
+within a plane and singlet pairing of electrons between nearest neighbor
+planes.
+","[{""version"":""v1"",""created"":""Sat, 5 Sep 1992 20:41:01 GMT""}]","2009-01-23"
+"hep-ph/9209217","Berndt Mueller","B. Mueller and M.H. Thoma","Vacuum Polarization and the Electric Charge of the Positron","9 pages, 1 figure attached as PostScript file, DUKE-TH-92-38. Revised
+  version","Phys.Rev.Lett.69:3432-3434,1992","10.1103/PhysRevLett.69.3432",,"hep-ph",,"  We show that higher-order vacuum polarization would contribute a measureable
+net charge to atoms, if the charges of electrons and positrons do not balance
+precisely. We obtain the limit $|Q_e+Q_{\bar e}| < 10^{-18} e$ for the sum of
+the charges of electron and positron. This also constitutes a new bound on
+certain violations of PCT invariance.
+","[{""version"":""v1"",""created"":""Sat, 5 Sep 1992 16:36:04 GMT""},{""version"":""v2"",""created"":""Tue, 10 Nov 1992 19:08:18 GMT""}]","2008-11-26"
+"hep-th/9209018",,"Rolf Schimmrigk","The Construction of Mirror Symmetry","58 pages, Latex file, HD-THEP-92-13",,,,"hep-th",,"  The construction of mirror symmetry in the heterotic string is reviewed in
+the context of Calabi-Yau and Landau-Ginzburg compactifications. This framework
+has the virtue of providing a large subspace of the configuration space of the
+heterotic string, probing its structure far beyond the present reaches of
+solvable models. The construction proceeds in two stages: First all
+singularities/catastrophes which lead to ground states of the heterotic string
+are found. It is then shown that not all ground states described in this way
+are independent but that certain classes of these LG/CY string vacua can be
+related to other, simpler, theories via a process involving fractional
+transformations of the order parameters as well as orbifolding. This
+construction has far reaching consequences. Firstly it allows for a systematic
+identification of mirror pairs that appear abundantly in this class of string
+vacua, thereby showing that the emerging mirror symmetry is not accidental.
+This is important because models with mirror flipped spectra are a priori
+independent theories, described by distinct CY/LG models. It also shows that
+mirror symmetry is not restricted to the space of string vacua described by
+theories based on Fermat potentials (corresponding to minimal tensor models).
+Furthermore it shows the need for a better set of coordinates of the
+configuration space or else the structure of this space will remain obscure.
+While the space of LG vacua is {\it not} completely mirror symmetric, results
+described in the last part suggest that the space of Landau--Ginburg {\it
+orbifolds} possesses this symmetry.
+","[{""version"":""v1"",""created"":""Sun, 6 Sep 1992 10:13:52 GMT""}]","2007-05-23"

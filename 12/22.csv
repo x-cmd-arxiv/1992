@@ -1,0 +1,283 @@
+"alg-geom/9212004","David R. Morrison","Antonella Grassi and David R. Morrison","Automorphisms and the K\""ahler cone of certain Calabi-Yau manifolds","8 pp., AmS-TeX v.2","Duke Math. J. 71 (1993), 831-838",,"DUK-M-92-13","alg-geom math.AG",,"  For the Calabi-Yau threefolds $X$ constructed by C. Schoen as fiber products
+of generic rational elliptic surfaces, we show that the action of the
+automorphism group of $X$ on the K\""ahler cone of $X$ has a rationally
+polyhedral fundamental domain. The second author has conjectured that this
+statement will hold in general, the example presented here being the first
+non-trivial case in which the statement has been checked. The conjecture was
+motivated by the desire to use a construction of E. Looijenga to compactify
+certain moduli spaces which arise in the study of conformal field theory and
+``mirror symmetry.''
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 01:42:23 GMT""}]","2008-02-03"
+"cond-mat/9212030","Subir Sachdev","Subir Sachdev and Jinwu Ye","Gapless Spin-Fluid Ground State in a Random Quantum Heisenberg Magnet","13 pages, REVTEX, 2 figures available by request from
+  subir@cmphys.eng.yale.edu","Phys.Rev.Lett.70:3339,1993","10.1103/PhysRevLett.70.3339","YCTP-92-1299","cond-mat",,"  We examine the spin-$S$ quantum Heisenberg magnet with Gaussian-random,
+infinite-range exchange interactions. The quantum-disordered phase is accessed
+by generalizing to $SU(M)$ symmetry and studying the large $M$ limit. For large
+$S$ the ground state is a spin-glass, while quantum fluctuations produce a
+spin-fluid state for small $S$. The spin-fluid phase is found to be generically
+gapless - the average, zero temperature, local dynamic spin-susceptibility
+obeys $\bar{\chi} (\omega ) \sim \log(1/|\omega|) + i (\pi/2) \mbox{sgn}
+(\omega)$ at low frequencies. This form is identical to the phenomenological
+`marginal' spectrum proposed by Varma {\em et. al.\/} for the doped cuprates.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 23:52:03 GMT""}]","2009-01-23"
+"hep-lat/9212029","Karl Jansen","Karl Jansen, Julius Kuti and Chuan Liu","Strongly Interacting Higgs Sector in the Minimal Standard Model?","UCSD/PTH 92-40","Phys.Lett. B309 (1993) 127-132",,,"hep-lat",,"  The triviality Higgs mass bound is studied {\it without} lattice regulator in
+the spontaneously broken phase of the four dimensional O(4) symmetric scalar
+field theory with quartic self-interaction. A higher derivative term is
+introduced in the kinetic energy of the Lagrangian to keep quantum fluctuations
+finite while preserving all the symmetries of the model. When viewed as a {\it
+finite} field theory in continuum space-time, some excitations of the Higgs
+field have to be quantized with indefinite metric in the Hilbert space. It is
+shown that the associated ghost particles, which exhibit unusual resonance
+properties, correspond to a complex conjugate pair of Pauli-Villars regulator
+masses in the euclidean path integral formulation. The phase diagram of the
+O(4) model is determined in a Monte Carlo simulation which interpolates between
+the hypercubic lattice regulator and the higher derivative regulator in
+continuum space-time. The same method can be used to calculate the triviality
+Higgs mass bound without lattice artifacts. In a large-N analysis, when
+compared with a hypercubic lattice, we find a relative increase in the
+triviality bound of the higher derivative regulator suggesting a strongly
+interacting Higgs
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 19:52:49 GMT""}]","2007-05-23"
+"hep-lat/9212030","Karl Jansen","Karl Jansen","Chiral Fermions, Anomalies and Chern-Simons Currents on the Lattice","(Talk presented at Lattice'92), UCSD/PTH 92-39","Nucl. Phys. Proc. Suppl. 30 (1993) 601","10.1016/0920-5632(93)90283-C",,"hep-lat",,"  I discuss the zeromode spectrum of lattice chiral fermions in the domain wall
+model suggested recently. In particular I give the critical momenta where the
+fermions cease to be chiral and show that the spectrum is directly related to
+the behaviour of the Chern-Simons current on the lattice. First results for the
+domain wall model on the finite lattice indicate that the relevant features of
+the model in the infinite system survive for the finite lattice.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 20:01:19 GMT""}]","2009-10-22"
+"hep-ph/9212291","Carsten Grosse-Knetter","R. Boenisch (Universitaet Muenchen), C. Grosse-Knetter and R.
+  Koegerler (Universitaet Bielefeld)","Bounds on Bess Model Parameters from Vector-Boson Production in e+e-
+  Collisions","December 1992, 8 pages LaTeX, 6 figures (not included but available
+  on request), BI-TP 92/59, LMU-92/15","Z.Phys. C59 (1993) 109-117","10.1007/BF01555845",,"hep-ph",,"  The BESS model is the Higgs-less alternative to the standard model of
+electroweak interaction, based on nonlinearly realized spontaneous symmetry
+breaking. Since it is nonrenormalizable, new couplings (not existing in the SM)
+are induced at each loop order. On the basis of the one loop induced
+vector-boson self-couplings we study the two- and three-vector-boson-production
+processes in $e^+e^-$ collisions at $\sqrt{s}=500 GeV$, the expected energy of
+the next $ e^+e^-$ linear collider (NLC). Assuming that NLC results will agree
+with the SM predictions within given accuracy we identify the bounds for the
+free parameters of the BESS model.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 21:51:24 GMT""}]","2009-10-22"
+"hep-ph/9212292",,"Reinhard Oehme","On the Analytic Structure of Hadronic Amplitudes in QCD","14 pages, Latex, EFI 92-54",,,,"hep-ph",,"  Analytic properties of hadronic amplitudes are discussed within the framework
+of QCD as formulated on the basis of the BRST algebra. Local, composite fields
+are introduced for hadrons. Given confinement, it is shown that hadronic
+amplitudes have no thresholds or structure singularities (anomalous thresholds)
+which are directly related to the underlying quark-gluon structure. In
+contrast, general amplitudes of QCD must have singularities in channels with
+non-zero color quantum number, which can be related to unphysical states.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 16:25:25 GMT""}]","2007-05-23"
+"hep-ph/9212293",,"S.P. Misra","Phase Transitions in Quantum Field Theory","46 pages + 3 figures (on request), IP/BBSR/92-60, some references
+  updated and corrections made",,,,"hep-ph",,"  We discuss here phase transitions in quantum field theory in the context of
+vacuum realignment through an explicit construction. Vacuum destabilisation may
+occur through a scalar attaining a nonzero expectation value, or through a
+condensate mechanism as in superconductivity and for chiral symmetry breaking,
+or by some other mechanism not taken here. Phase transition is defined as
+vacuum realignment with a discontinuity in some observables which correspond to
+the classical order parameters. The method is nonperturbative and variational,
+using equal time algebra and an ansatz for the construction of the physical
+vacuum.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 17:47:38 GMT""},{""version"":""v2"",""created"":""Sun, 14 Mar 1993 17:44:25 GMT""}]","2008-02-03"
+"hep-ph/9212294",,"Jizhi Wu and Richard Arnowitt","Very Large Intermediate Breaking Scale In The Gepner Three Generation
+  Model","19 pages, Plain Tex (Three Figures not included)","Nucl.Phys.B421:125-134,1994","10.1016/0550-3213(94)90227-5","CTP-TAMU-32/91","hep-ph hep-th",,"  A detailed study of the intermediate symmetry breaking scale, via the
+renormalization group equations, for a three generation heterotic string model
+arising from the N=2 superconformal construction is reported. The numerical
+study shows that the model admits a very large intermediate breaking scale
+$\op{>}{\sim}1.0\times10^{16}$ GeV. The role of the gauge singlets in this
+model is studied, and it is found that these fields play a crucial role in
+determining the directions and the scale of the intermediate symmetry breaking.
+The importance of the mixing in generation space is also studied. The
+generation mixing terms are found to have special effects in the intermediate
+symmetry breaking. Remarkably these terms can produce some {\it new} Yukawa
+couplings (not present at the Planck scale) through loops. These couplings are
+in general very small compared to the ones with non-vanishing tree level values
+and thus offer a {\it new} mechanism to solve the lepton/quark mass hierarchy
+problem.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 20:33:46 GMT""}]","2008-11-26"
+"hep-ph/9212295","Elizabeth E. Jenkins","Elizabeth Jenkins","Heavy Meson Masses in Chiral Perturbation Theory with Heavy Quark
+  Symmetry","(28 pages, 2 figures included using uufiles, uses harvmac),
+  CERN-TH.6765/92","Nucl.Phys.B412:181-200,1994","10.1016/0550-3213(94)90499-5",,"hep-ph",,"  The $SU(3)$ and hyperfine mass splittings of mesons containing a single heavy
+quark are computed to one-loop order in chiral perturbation theory with heavy
+quark spin symmetry. Electromagnetic contributions of order $\alpha_em$ are
+included. The observed values of the mass splittings are consistent with the
+one-loop chiral perturbation theory calculation. The $d-u$ hyperfine splitting
+$(D^{* +} - D^+) - (D^{*0} - D^0)$ is equal to $(m_d - m_u)/ m_s$ times the
+$s-d$ hyperfine splitting $(D_s^{* +} - D_s^+) - (D^{*+} - D^+)$ upto
+electromagnetic contributions. The small observed value of the $s-d$ hyperfine
+splitting implies that the $d-u$ hyperfine splitting is completely dominated by
+electromagnetic mass contributions.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 21:37:20 GMT""}]","2008-11-26"
+"hep-ph/9212296",,"C.S. Lam","Multiloop String-Like Formulas for QED","25 pages in Plain Tex, plus four figures in a postscript file;
+  McGill/92-53","Phys.Rev. D48 (1993) 873-886","10.1103/PhysRevD.48.873",,"hep-ph hep-th",,"  Multiloop gauge-theory amplitudes written in the Feynman-parameter
+representation are poised to take advantage of two important developments of
+the last decade: the spinor-helicity technique and the superstring
+reorganization. The former has been considered in a previous article; the
+latter will be elaborated in this paper. We show here how to write multiloop
+string-like formulas in the Feynman-parameter representation for any process in
+QED, including those involving other non-electromagnetic interactions. The
+general connection between the Feynman-parameter approach and the
+superstring/first-quantized approach is discussed. In the special case of a
+one-loop multi-photon amplitude, these formulas reduce to the ones obtained by
+the superstring and the first quantized methods. The string-like formulas
+exhibits a simple gauge structure which makes the Ward-Takahashi identity
+apparent, and enables the integration-by-parts technique of Bern and Kosower to
+be applied, so that gauge-invariant parts can be extracted diagram-by-diagram
+with the seagull vertex neglected.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 21:25:51 GMT""},{""version"":""v2"",""created"":""Wed, 23 Dec 1992 20:00:44 GMT""}]","2009-10-22"
+"hep-ph/9212297",,"L. Durand, K. Honjo, R. Gandhi, I. Sarcevic and H. Pi","Jets and Jet Multiplicities in High Energy Photon-Nucleon Inetraction:","12 pages + 4 figs, MAD/TH/92-8, submitted to Phys. Rev. D(Rapid
+  Communications), figs. available on request from honjo@wishep.bitnet","Phys.Rev.D47:R4815,1993; Erratum-ibid.D48:3410,1993;
+  Phys.Rev.D48:3410,1993","10.1103/PhysRevD.47.R4815 10.1103/PhysRevD.48.3410",,"hep-ph",,"  We discuss the theory of jet events in high-energy photon-proton interactions
+using a model which gives a good description of the data available on total
+inelastic $\gamma p$ cross sections up to $\sqrt{s}$=210 GeV. We show how to
+calculate the jet cross sections and jet multiplicities and give predictions
+for these quantities for energies appropriate for experiments at the HERA $ep$
+collider and for very high energy cosmic ray observations.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 22:14:34 GMT""}]","2014-11-17"
+"hep-ph/9212298",,"K. Honjo, L. Durand, R. Gandhi, I. Sarcevic and H. Pi","High Energy Photon-Nucleon and Photon-Nucleus Cross Sections","34 pages, 6 figs. available on request from honjo@wishep. bitnet,
+  MAD/TH/91-57, submitted to Phys. Rev. D","Phys.Rev.D48:1048-1060,1993","10.1103/PhysRevD.48.1048",,"hep-ph",,"  We re\,examine the theory of hadronic photon-nucleon interactions at the
+quark-gluon level. The possibility of multiple parton collisions in a single
+photon-nucleon collision requires an eikonal treatment of the high-energy
+scattering process. We give a general formulation of the theory in which the
+$\gamma p$ cross section is expressed as a sum over properly eikonalized cross
+sections for the interaction of the virtual hadronic components of the photon
+with the proton, with each cross section weighted by the probability with which
+that component appears in the photon, and then develop a detailed model which
+includes contributions from light vector mesons and from excited virtual states
+described in a quark-gluon basis. The parton distribution functions which
+appear can be related approximately to those in the pion, while a weighted sum
+gives the distribution functions for the photon. We use the model to make
+improved QCD-based predictions for the total inelastic photon-nucleon and
+photon-nucleus cross sections at energies relevant for HERA experiments and
+cosmic ray observations. We emphasize the importance in this procedure of
+including a soft-scattering background such that the calculated cross sections
+join smoothly with low-energy data.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 23:28:31 GMT""}]","2014-11-17"
+"hep-ph/9212299",,"S.A. Abel, W.N. Cottingham and I.B. Whittingham","Spontaneous Baryogenesis in Supersymmetric Models","13 pages (2 figures on request), plain LaTeX","Nucl.Phys.B410:173-187,1993","10.1016/0550-3213(93)90578-D",,"hep-ph",,"  In this paper we extend the results of previous work on spontaneous
+baryogenesis to general models involving CP violation in the Higgs sector. We
+show how to deal with Chern-Simons terms appearing in the effective potential
+arising from phase changes in the vacuum expectation values of the Higgs
+fields. In particular, this enables us to apply this mechanism to general
+supersymmetric models including the minimal supersymmetric standard model, and
+the extended model with a gauge singlet. A comparison is made between this
+approach, and that in which one solves the equations of motion for Higgs
+winding modes. As anticipated in earlier work, the effect of the latter
+approach is found to be small.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 14:02:39 GMT""}]","2010-11-01"
+"hep-th/9212122",,"V.I.Man'ko","Geometrical phase,generalized quasienergy and Floquet operator as
+  invariants","4 pages,Latex,DSF-T-92/26,INFN-NA-IV-92/26",,,,"hep-th",,"  For time-periodical quantum systems generalized Floquet operator is found to
+be integral of motion.Spectrum of this invariant is shown to be quasienergy
+spectrum.Analogs of invariant Floquet operators are found for nonperiodical
+systems with several characteristic times.Generalized quasienergy states are
+introduced for these systems. Geometrical phase is shown to be integral of
+motion.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 16:07:00 GMT""}]","2007-05-23"
+"hep-th/9212124",,"Luca Mezincescu and Rafael I. Nepomechie","Introduction to the Thermodynamics of Spin Chains","24 pages (1 figure not included, but available on request) (To appear
+  in the Proceedings of the NSERC-CAP Workshop on Quantum Groups, Integrable
+  Models and Statistical Systems, Kingston, Canada 13 -17 July 1992)",,,"UMTG-170","hep-th cond-mat",,"  We review how to obtain the thermodynamic Bethe Ansatz (TBA) equations for
+the antiferromagnetic Heisenberg ring in an external magnetic field. We review
+how to solve these equations for low temperature and small field, and calculate
+the specific heat and magnetic susceptibility.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 21:47:05 GMT""}]","2007-05-23"
+"hep-th/9212125",,"Luca Mezincescu, Rafael I. Nepomechie, P. K. Townsend, and A. M.
+  Tsvelik","Low-Temperature Thermodynamics of $A^{(2)}_2$ and su(3)-invariant Spin
+  Chains","31 pages, UMTG-169","Nucl.Phys. B406 (1993) 681-707","10.1016/0550-3213(93)90006-B",,"hep-th cond-mat",,"  We formulate the thermodynamic Bethe Ansatz (TBA) equations for the closed
+(periodic boundary conditions) $A^{(2)}_2$ quantum spin chain in an external
+magnetic field, in the (noncritical) regime where the anisotropy parameter
+$\eta$ is real. In the limit $\eta \to 0$, we recover the TBA equations of the
+antiferromagnetic su(3)-invariant chain in the fundamental representation. We
+solve these equations for low temperature and small field, and calculate the
+specific heat and magnetic susceptibility.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 21:47:40 GMT""}]","2009-10-22"
+"hep-th/9212126","Eric Raiten","Hans Dykstra, Joe Lykken and Eric Raiten","Exact Path Integrals by Equivariant Cohomology","LATEX","Phys.Lett. B302 (1993) 223-229","10.1016/0370-2693(93)90388-X","11 pages, UMHEP--384, FERMI-PUB-92/383-T","hep-th",,"  It is a common belief among field theorists that path integrals can be
+computed exactly only in a limited number of special cases, and that most of
+these cases are already known. However recent developments, which generalize
+the WKBJ method using equivariant cohomology, appear to contradict this folk
+wisdom. At the formal level, equivariant localization would seem to allow exact
+computation of phase space path integrals for an arbitrary partition function!
+To see how, and if, these methods really work in practice, we have applied them
+in explicit quantum mechanics examples. We show that the path integral for the
+1-d hydrogen atom, which is not WKBJ exact, is localizable and computable using
+the more general formalism. We find however considerable ambiguities in this
+approach, which we can only partially resolve. In addition, we find a large
+class of quantum mechanics examples where the localization procedure breaks
+down completely.
+","[{""version"":""v1"",""created"":""Mon, 21 Dec 1992 22:19:44 GMT""}]","2009-10-22"
+"hep-th/9212127","Richard Brower","Richard C. Brower, Nevidita Deo, Sanjay Jain and Chung-I Tan","Symmetry Breaking in the Double-Well Hermitian Matrix Models","23 pages and 4 figures, Preprint No. CERN-TH.6611/92, Brown HET-863,
+  HUTP -- 92/A035, LPTHE-Orsay: 92/29","Nucl.Phys.B405:166-190,1993","10.1016/0550-3213(93)90430-W",,"hep-th",,"  We study symmetry breaking in $Z_2$ symmetric large $N$ matrix models. In the
+planar approximation for both the symmetric double-well $\phi^4$ model and the
+symmetric Penner model, we find there is an infinite family of broken symmetry
+solutions characterized by different sets of recursion coefficients $R_n$ and
+$S_n$ that all lead to identical free energies and eigenvalue densities. These
+solutions can be parameterized by an arbitrary angle $\theta(x)$, for each
+value of $x = n/N < 1$. In the double scaling limit, this class reduces to a
+smaller family of solutions with distinct free energies already at the torus
+level. For the double-well $\phi^4$ theory the double scaling string equations
+are parameterized by a conserved angular momentum parameter in the range $0 \le
+l < \infty$ and a single arbitrary $U(1)$ phase angle.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 01:45:04 GMT""}]","2019-08-15"
+"hep-th/9212128","Kenji Ikegami","K. Ikegami, T. Kimura and R. Mochizuki","Treatment of Constraints in Stochastic Quantization Method and
+  Covariantized Langevin Equation","20 pages (Plain TeX), 4 figures(not included, sorry!), CHIBA-EP-57","Nucl.Phys. B395 (1993) 371-387","10.1016/0550-3213(93)90221-A",,"hep-th",,"  We study the treatment of the constraints in stochastic quantization method.
+We improve the treatment of the stochastic consistency condition proposed by
+Namiki et al. by suitably taking account of the Ito calculus. Then we obtain an
+improved Langevin equation and the Fokker-Planck equation which naturally leads
+to the correct path integral quantization of the constrained system as the
+stochastic equilibrium state. This treatment is applied to $O(N)$ non-linear
+$\sigma$ model and it is shown that singular terms appearing in the improved
+Langevin equation cancel out the $\delta^n(0)$ divergences in one loop order.
+We also ascertain that the above Langevin equation, rewritten in terms of
+independent variablesis, actually equivalent to the one in the
+general-coordinate-transformation-covariant and vielbein-rotation-invariant
+formalism.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 05:03:19 GMT""}]","2009-10-22"
+"hep-th/9212129","Romesh Kaul","R. K. Kaul","Complete Solution of SU(2) Chern-Simons Theory","Plain TeX, 11 pages, (4 Figures not included) Preprint IMSc--92/56",,,,"hep-th",,"  Explicit and complete topological solution of SU(2) Chern-Simons theory on
+S^3 is presented.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 09:23:14 GMT""}]","2007-05-23"
+"hep-th/9212130","Riuji Mochizuki","R. Mochizuki and K. Yoshida","(D+1)-Dimensional Formulation for D-Dimensional Constrained Systems","10 pages (Plain TeX), CHIBA-EP-58-Rev","Prog.Theor.Phys. 88 (1992) 1233-1238","10.1143/ptp/88.6.1233",,"hep-th",,"  D-dimensional constrained systems are studied with stochastic Lagrangian
+and\break Hamiltonian. It is shown that stochastic consistency conditions are
+second class constraints and Lagrange multiplier fields can be determined in
+(D+1)-dimensional canonical formulation. The Langevin equations for the
+constrained system are obtained as Hamilton's equations of motion where
+conjugate momenta play a part of noise fields.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 08:08:52 GMT""}]","2017-02-01"
+"hep-th/9212131","Kenji Ikegami","R. Mochizuki and K. Yoshida","Large N Limit on Langevin Equation: Two-Dimensional Nonlinear Sigma
+  Model","8 pages (Plain TeX), CHIBA-EP-63-Rev","Prog.Theor.Phys. 89 (1993) 275-280","10.1143/ptp/89.1.275",,"hep-th",,"  We study the stochastic quantization of two-dimensional nonlinear sigma model
+in the large $N$ limit. Our main tool is the {\it effective} Langevin equation
+with which we investigate nonperturbative phenomena and derive the results
+which are same as the path integral approach gives.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 08:23:59 GMT""}]","2017-02-01"
+"hep-th/9212132","Riuji Mochizuki","K. Ikegami, R. Mochizuki and K. Yoshida","Dynamical Symmetry Breaking on Langevin Equation : Nambu $\cdot$
+  Jona-Lasinio Model","12 pages (Plain TeX), 7 figures(not included, sorry!), CHIBA-EP-64","Prog.Theor.Phys. 89 (1993) 197-204","10.1143/ptp/89.1.197",,"hep-th",,"  In order to investigate dynamical symmetry breaking, we study
+Nambu$\cdot$Jona-Lasinio model in the large-N limit in the stochastic
+quantization method. Here in order to solve Langevin equation, we impose
+specified initial conditions and construct ``effective Langevin equation'' in
+the large-N limit and give the same non-perturbative results as path-integral
+approach gives. Moreover we discuss stability of vacuum by means of ``effective
+potential''.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 08:26:58 GMT""}]","2017-02-01"
+"hep-th/9212133","Ctirad Klimcik","C. Klimcik","Grassmann Integral Topological Invariants","18 pages, plain TeX, 8 Figures (upon request), PRA-HEP-92/7",,,,"hep-th",,"  Partition functions of some two-dimensional statistical models can be
+represented by means of Grassmann integrals over loops living on
+two-dimensional torus. It is shown that those Grassmann integrals are
+topological invariants, which depend only on the winding numbers of the loops.
+The fact makes possible to evaluate the partition functions of the models and
+the statistical mean values of certain topological characteristics (indices) of
+the configurations, which behave as the (topological) order parameters.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 11:15:32 GMT""}]","2007-05-23"
+"hep-th/9212134","Dayi Omer Faruk","O.F. Dayi","A General Solution of the Master Equation for a Class of First Order
+  Systems","11 pages, IC/92/428","Mod.Phys.Lett. A8 (1993) 811-818","10.1142/S0217732393000842",,"hep-th",,"  Inspired by the formulation of the Batalin-Vilkovisky method of quantization
+in terms of ``odd time'', we show that for a class of gauge theories which are
+first order in the derivatives, the kinetic term is bilinear in the fields, and
+the interaction part satisfies some properties, it is possible to give the
+solution of the master equation in a very simple way. To clarify the general
+procedure we discuss its application to Yang-Mills theory, massive (abelian)
+theory in the Stueckelberg formalism, relativistic particle and to the
+self-interacting antisymmetric tensor field.
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 15:07:05 GMT""}]","2009-10-22"
+"hep-th/9212137","Rodolfo Gambini","D. Armand Ugon, R. Gambini, P. Mora","Knot Invariants for Intersecting Loops","22 pages","Phys.Lett. B305 (1993) 214-222","10.1016/0370-2693(93)90110-4",,"hep-th",,"  We generalize the braid algebra to the case of loops with intersections. We
+introduce the Reidemeister moves for 4 and 6-valent vertices to have a theory
+of rigid vertex equivalence. By considering representations of the extended
+braid algebra, we derive skein relations for link polynomials, which allow us
+to generalize any link Polynomial to the intersecting case. We perturbatively
+show that the HOMFLY Polynomials for intersecting links correspond to the
+vacuum expectation value of the Wilson line operator of the Chern Simon's
+Theory. We make contact with quantum gravity by showing that these polynomials
+are simply related with some solutions of the complete set of constraints with
+cosmological constant
+","[{""version"":""v1"",""created"":""Tue, 22 Dec 1992 11:35:46 GMT""}]","2009-10-22"

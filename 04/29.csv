@@ -1,0 +1,119 @@
+"cond-mat/9204015",,"Joel D. Shore, Mark Holzer, and James P. Sethna","Logarithmically slow domain growth in nonrandomly frustrated systems:
+  Ising models with competing interactions","88 pages (including 23 figures)","Phys. Rev. B 46, 11376 (1992)","10.1103/PhysRevB.46.11376",,"cond-mat",,"  It is known that in systems which contain randomness explicitly in their
+Hamiltonians (e.g., due to impurities), the characteristic size L of the
+ordered domains can grow only logarithmically with time t following a quench
+below the transition temperature. However, in systems without such imposed
+randomness, much faster power law growth has generally been predicted.
+Motivated by the slow dynamics present in glasses, we have been looking for
+counterexamples, i.e., for models without randomness which nonetheless order
+logarithmically slowly. Here, we discuss two closely related models for which
+we have simple physical arguments that such slow growth occurs. The basis of
+these arguments is the claim that the free energy barriers to domain growth in
+these models are proportional to L. Thus, the barriers grow as the domains
+coarsen. We present the results of Monte Carlo simulations, which lend strong
+support to our claims of growing barriers and logarithmically slow dynamics.
+Finally, we discuss how quickly the system orders when it is cooled
+continuously through the transition (rather than quenched).
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 16:24:17 GMT""}]","2009-10-22"
+"cond-mat/9204016",,"Joel D. Shore, James P. Sethna, Mark Holzer, and Veit Elser","Logarithmically slow domain growth in nonrandomly frustrated systems---
+  A summary of the major results","8 pages (including 4 figures)",,,,"cond-mat",,"  Here, we summarize the most important results of our study of logarithmically
+slow growth of domains following a quench in two models without randomness in
+their Hamiltonians.
+  This is a slightly updated version of a paper to appear in the Proceedings of
+the 1st Annual Tohwa University International Symposium, Fukuoka, Japan
+(American Institute of Physics, 1992). It is meant to serve as a brief summary
+of cond-mat/9204015 for those who do not wish to read all the details contained
+therein (and don't want to hassle with 2 MBytes of tex/ps files).
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 22:20:49 GMT""}]","2016-08-31"
+"cond-mat/9204017","Zachary Ha","Z.N.C. Ha and F.D.M. Haldane","On Models with Inverse-Square Exchange","26 pages",,"10.1103/PhysRevB.46.9359",,"cond-mat",,"  A one-dimensional quantum N-body system of either fermions or bosons with
+$SU(n)$ colors interacting via inverse-square exchange is presented in this
+article. A class of eigenstates of both the continuum and lattice version of
+the model Hamiltonians is constructed in terms of the Jastrow-product type wave
+function. The class of states we construct in this paper corresponds to the
+ground state and the low energy excitations of the model that can be described
+by the effective harmonic fluid Hamiltonian. By expanding the energy about the
+ground state we find the harmonic fluid parameters (i.e. the charge, spin
+velocities, etc.), explicitly. The correlation exponent and the compressibility
+of are also found. As expected the general harmonic relation(i.e.
+$v_S=(v_Nv_J)^{1/2}$) is satisfied among the charge and spin velocities.
+","[{""version"":""v1"",""created"":""Wed, 29 Apr 1992 00:39:07 GMT""}]","2009-10-22"
+"hep-ph/9204236","Volker Koch","V. Koch, E.V. Shuryak, G.E. Brown, and A. D. Jackson","The Propagation of Quarks in the Spatial Direction in Hot QCD","23 pages","Phys.Rev.D46:3169,1992; Erratum-ibid.D47:2157,1993;
+  Phys.Rev.D47:2157,1993","10.1103/PhysRevD.46.3169 10.1103/PhysRevD.47.2157",,"hep-ph",,"  The dynamics of {\it light} fermions propagating in a spatial direction at
+high temperatures can be described effectively by a two--dimensional
+Schr\""odinger equation with {\it heavy} effective mass $m_{\rm eff} = \pi T$.
+Starting from QED, we discuss the transition from three-- to two--dimensional
+positronium discussing the latter in detail including relativistic effects. In
+the case of QCD the problem is similar to that of heavy quarkonium. Our
+effective potential contains the usual Coulomb and confining parts as well as a
+perturbative spin--spin interaction. The resulting $\bar q q$ ``wave functions""
+reproduce recent lattice data for the $\rho$ and $\pi$ channels. The physical
+meaning of such `confinement' is related to the non--trivial magnetic
+interaction of color currents in the quark--gluon plasma. Our results do not
+contradict the idea that the normal electric interaction of color charges is
+screened and produces no bound states in the usual sense.
+","[{""version"":""v1"",""created"":""Wed, 29 Apr 1992 15:33:23 GMT""}]","2014-11-17"
+"hep-th/9204091","Washington Taylor","Washington Taylor IV","Virasoro Representations on (Diff S1)/S1 Coadjoint Orbits","36 pages",,,,"hep-th",,"  A new set of realizations of the Virasoro algebra on a bosonic Fock space are
+found by explicitly computing the Virasoro representations associated with
+coadjoint orbits of the form (Diff S1) / S1. Some progress is made in
+understanding the unitary structure of these representations. The characters of
+these representations are exactly the bosonic partition functions calculated
+previously by Witten using perturbative and fixed-point methods. The
+representations corresponding to the discrete series of unitary Virasoro
+representations with c <= 1 are found to be reducible in this formulation,
+confirming a conjecture by Aldaya and Navarro-Salas.
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 17:28:42 GMT""}]","2007-05-23"
+"hep-th/9204092",,"Leonid Dickey","Additional symmetries of KP, Grassmannian, and the string equation","11 pages","Mod. Phys. Lett. A8 (1993) 1259-1272","10.1142/S0217732393002749",,"hep-th",,"  It is well-known that solutions to the string equation are generated by
+elements of Sato's Grassmannian which are invariant under action of some
+differential operator. Here it is shown that this operator is nothing else than
+the infinitesimal operator of the group of additional symmetries of the KdV
+flow. This is done for KdV hierarchies of arbitrary orders. Virasoro
+constraints are obtained in a slightly more general form than they are usually
+written.
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 19:17:00 GMT""}]","2015-06-26"
+"hep-th/9204093",,"C.N. Pope","Review of W Strings","13 pages",,,,"hep-th",,"  We review some of the recent developments in the construction of $W$-string
+theories. These are generalisations of ordinary strings in which the
+two-dimensional ``worldsheet'' theory, instead of being a gauging of the
+Virasoro algebra, is a gauging of a higher-spin extension of the Virasoro
+algebra---a $W$ algebra. Despite the complexity of the (non-linear) $W$
+algebras, it turns out that the spectrum can be computed completely and
+explicitly for more or less any $W$ string. The result is equivalent to a set
+of spectra for Virasoro strings with unusual central charge and intercepts.
+","[{""version"":""v1"",""created"":""Tue, 28 Apr 1992 20:08:05 GMT""}]","2007-05-23"
+"hep-th/9204094","Paul Fendley","P. Fendley and H. Saleur","N=2 Supersymmetry, Painleve III and Exact Scaling Functions in 2D
+  Polymers","20 pages (with 2 figures included)","Nucl.Phys. B388 (1992) 609-626","10.1016/0550-3213(92)90556-Q",,"hep-th",,"  We discuss in this paper various aspects of the off-critical $O(n)$ model in
+two dimensions. We find the ground-state energy conjectured by Zamolodchikov
+for the unitary minimal models, and extend the result to some non-unitary
+minimal cases. We apply our results to the discussion of scaling functions for
+polymers on a cylinder. We show, using the underlying N=2 supersymmetry, that
+the scaling function for one non-contractible polymer loop around the cylinder
+is simply related to the solution of the Painleve III differential equation. We
+also find the ground-state energy for a single polymer on the cylinder. We
+check these results by numerically simulating the polymer system. We also
+analyze numerically the flow to the dense polymer phase. We find there
+surprising results, with a $c_{\hbox{eff}}$ function that is not monotonous and
+seems to have a roaming behavior, getting very close to the values 81/70 and
+7/10 between its UV and IR values of 1.
+","[{""version"":""v1"",""created"":""Wed, 29 Apr 1992 02:21:18 GMT""}]","2009-10-22"
+"hep-th/9204095","Cobi Sonnenschein","O. Aharony, O. Ganor, N. Sochen J. Sonnenschein and S. Yankielowicz","Physical States in G/G Models and 2d Gravity","42 pages","Nucl.Phys.B399:527-559,1993","10.1016/0550-3213(93)90508-M",,"hep-th",,"  An analysis of the BRST cohomology of the G/G topological models is performed
+for the case of $A_1^{(1)}$. Invoking a special free field parametrization of
+the various currents, the cohomology on the corresponding Fock space is
+extracted. We employ the singular vector structure and fusion rules to
+translate the latter into the cohomology on the space of irreducible
+representations. Using the physical states we calculate the characters and
+partition function, and verify the index interpretation. We twist the
+energy-momentum tensor to establish an intriguing correspondence between the
+${SL(2)\over SL(2)}$ model with level $k={p\over q}-2$ and $(p,q)$ models
+coupled to gravity.
+","[{""version"":""v1"",""created"":""Wed, 29 Apr 1992 13:12:59 GMT""},{""version"":""v2"",""created"":""Fri, 1 May 1992 09:37:27 GMT""}]","2019-08-15"
+"hep-th/9204096",,"John Ellis, N.E. Mavromatos and D.V. Nanopoulos","On the W-hair of String Black Holes and the Singularity Problem","19 pages",,,,"hep-th",,"  We argue that the infinitely many gauge symmetries of string theory provide
+an infinite set of conserved (gauge) quantum numbers (W-hair) which
+characterise black hole states and maintain quantum coherence, even during
+exotic processes like black hole evaporation/decay. We study ways of measuring
+the W-hair of spherically-symmetric four-dimensional objects with event
+horizons, treated as effectively two-dimensional string black holes.
+Measurements can be done either through the s-wave scattering of light
+particles off the string black-hole background, or through interference
+experiments of Aharonov-Bohm type. We also speculate on the role of the
+extended W-symmetries possessed by the topological field theories that describe
+the region of space-time around a singularity.
+","[{""version"":""v1"",""created"":""Wed, 29 Apr 1992 14:16:26 GMT""}]","2007-05-23"

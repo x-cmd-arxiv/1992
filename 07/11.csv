@@ -1,0 +1,111 @@
+"cond-mat/9207012","Thomas Pruschke","M. Jarrell and Thomas Pruschke","Magnetic and Dynamic Properties of the Hubbard Model in Infinite
+  Dimensions","32 pages",,"10.1007/BF02198153",,"cond-mat",,"  An essentially exact solution of the infinite dimensional Hubbard model is
+made possible by using a self-consistent mapping of the Hubbard model in this
+limit to an effective single impurity Anderson model. Solving the latter with
+quantum Monte Carlo procedures enables us to obtain exact results for the one
+and two-particle properties of the infinite dimensional Hubbard model. In
+particular we find antiferromagnetism and a pseudogap in the single-particle
+density of states for sufficiently large values of the intrasite Coulomb
+interaction at half filling. Both the antiferromagnetic phase and the
+insulating phase above the N\'eel temperature are found to be quickly
+suppressed on doping. The latter is replaced by a heavy electron metal with a
+quasiparticle mass strongly dependent on doping as soon as $n<1$. At half
+filling the antiferromagnetic phase boundary agrees surprisingly well in shape
+and order of magnitude with results for the three dimensional Hubbard model.
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 19:42:48 GMT""},{""version"":""v2"",""created"":""Sun, 12 Jul 1992 14:45:24 GMT""}]","2009-10-22"
+"hep-ph/9207232","Zoltan Trocsanyi","Zoltan Kunszt and Zolt\'an Tr\'ocs\'anyi","QCD Corrections to Photon Production in Association with Hadrons in
+  $e^+e^-$ Annihilation","23 pages, 11 figures, 1 table (available by request), LaTeX,
+  ETH-TH/92-26","Nucl.Phys. B394 (1993) 139-168","10.1016/0550-3213(93)90104-W",,"hep-ph",,"  A detailed investigation of the theoretical ambiguities present in the QCD
+description of photon production in $e^+e^-$ annihilation is given. It is
+pointed out that in a well-defined perturbative analysis it is necessary to
+subtract the quark-photon collinear singularities. This subtraction requires
+the introduction of an unphysical parameter in the perturbative part of the
+cross section. The subtracted term is factored into non-perturbative
+fragmentation function. The dependence on the unphysical parameter cancels in
+the sum of non-perturbative and perturbative parts. It is pointed out that for
+$E_{\gamma}\le \sqrt{s}/(2(1+\epsilon_c))$ the non-perturbative contributions
+are suppressed. Using a general purpose next-to-leading order Monte Carlo
+program, we calculate various physical quantities that were measured in LEP
+experiments recently.
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 17:37:43 GMT""}]","2009-10-22"
+"hep-ph/9207233","Martin Savage","Martin J. Savage, Michael Luke, and Mark B. Wise","The Rare Decays $\piee$, $\etaee$ and \etamumu$ in Chiral Perturbation
+  Theory","(6 pages, 1 figure available on request, uses harvmac.tex), UCSD/PTH
+  92-23, CALT-68-1803","Phys.Lett. B291 (1992) 481-483","10.1016/0370-2693(92)91407-Z",,"hep-ph",,"  We calculate the decay rates for $\piee$, $\etaee$ and $\etamumu$ in chiral
+perturbation theory. The linear combination of counterterms necessary to render
+these amplitudes finite is fixed by the recently measured branching fraction
+for $\etamumu$. We find $\Br(\piee ) = 7\pm 1\times 10^{-8}$ and $\Br(\etaee
+)=5\pm 1\times 10^{-9}$.
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 19:29:34 GMT""}]","2009-10-22"
+"hep-ph/9207234",,"M. Drees and M. M. Nojiri","The Neutralino Relic Density in Minimal N=1 Supergravity","53 pages(8figs are not included), Latex file; DESY 92-101,
+  SLAC-PUB-5860","Phys.Rev.D47:376-408,1993","10.1103/PhysRevD.47.376",,"hep-ph",,"  We compute the cosmic relic (dark matter) density of the lightest
+supersymmetric particle (LSP) in the framework of minimal $N=1$ Supergravity
+models with radiative breaking of the electroweak gauge symmetry. To this end,
+we re--calculate the cross sections for all possible annihilation processes for
+a general, mixed neutralino state with arbitrary mass. Our analysis includes
+effects of all Yukawa couplings of third generation fermions, and allows for a
+fairly general set of soft SUSY breaking parameters at the Planck scale. We
+find that a cosmologically interesting relic density emerges naturally over
+wide regions of parameter space. However, the requirement that relic
+neutralinos do not overclose the universe does not lead to upper bounds on SUSY
+breaking parameters that are strictly valid for all combinations of parameters
+and of interest for existing or planned collider experiments; in particular,
+gluino and squark masses in excess of 5 TeV cannot strictly be excluded. On the
+other hand, in the ``generic'' case of a gaugino--like neutralino whose
+annihilation cross sections are not ``accidentally'' enhanced by a nearby Higgs
+or $Z$ pole, all sparticles should lie within the reach of the proposed $pp$
+and $e^+e^-$ supercolliders. We also find that requiring the LSP to provide all
+dark matter predicted by inflationary models imposes a strict lower bound of 40
+GeV on the common scalar mass $m$ at the Planck scale, while the lightest
+sleptons would have to be heavier
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 23:15:00 GMT""}]","2008-11-26"
+"hep-th/9207034","Steve Giddings","Steven B. Giddings and Andrew Strominger","Quantum Theories of Dilaton Gravity","20 pages (Major additions made, including 5 pages on the relation
+  between conformal invariance and background independence.)","Phys.Rev.D47:2454-2460,1993","10.1103/PhysRevD.47.2454","UCSBTH-92-28","hep-th",,"  Quantization of two-dimensional dilaton gravity coupled to conformal matter
+is investigated. Working in conformal gauge about a fixed background metric,
+the theory may be viewed as a sigma model whose target space is parameterized
+by the dilaton $\phi$ and conformal factor $\rho$. A precise connection is
+given between the constraint that the theory be independent of the background
+metric and conformal invariance of the resulting sigma model. Although the
+action is renormalizable, new coupling constants must be specified at each
+order in perturbation theory in order to determine the quantum theory. These
+constants may be viewed as initial data for the beta function equations. It is
+argued that not all choices of this data correspond to physically sensible
+theories of gravity, and physically motivated constraints on the data are
+discussed. In particular a recently constructed subclass of initial data which
+reduces the full quantum theory to a soluble Liouville-like theory has energies
+unbounded from below and thus is unphysical. Possibilities for modifying this
+construction so as to avoid this difficulty are briefly discussed.
+","[{""version"":""v1"",""created"":""Sat, 11 Jul 1992 01:49:39 GMT""},{""version"":""v2"",""created"":""Sat, 3 Oct 1992 23:22:20 GMT""}]","2009-09-17"
+"math/9207201",,"Marco Abate and Giorgio Patrizio","Holomorphic curvature of Finsler metrics and complex geodesics",,,,,"math.CV",,"  In his famous 1981 paper, Lempert proved that given a point in a strongly
+convex domain the complex geodesics (i.e., the extremal disks) for the
+Kobayashi metric passing through that point provide a very useful fibration of
+the domain. In this paper we address the question whether, given a smooth
+complex Finsler metric on a complex manifold, it is possible to give purely
+differential geometric properties of the metric ensuring the existence of such
+a fibration in complex geodesics of the manifold. We first discuss at some
+length the notion of holomorphic sectional curvature for a complex Finsler
+metric; then, using the differential equation of complex geodesics we obtained
+in a previous paper, we show that for every pair (point, tangent vector) there
+is a (only a segment if the metric is not complete) complex geodesic passing
+through the point tangent to the given vector iff the Finsler metric is
+K\""ahler, has constant holomorphic sectional curvature -4 and satisfies a
+simmetry condition on the curvature tensor. Finally, we show that a complex
+Finsler metric of constant holomorphic sectional curvature -4 satisfying the
+given simmetry condition on the curvature is necessarily the Kobayashi metric.
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 21:29:53 GMT""}]","2009-09-25"
+"math/9207202",,"Evgeny A. Poletsky","Sequences of analytic disks",,,,,"math.CV",,"  The subject considered in this paper has, at least, three points of interest.
+Suppose that we have a sequence of one-dimensional analytic varieties in a
+domain in $\Bbb C^n$. The cluster of this sequence consists from all points in
+the domains such that every neighbourhood of such points intersects with
+infinitely many different varieties. The first question is: what analytic
+properties does the cluster inherit from varieties? We give a sufficient
+criterion when the cluster contains an analytic disk, but it follows from
+examples of Stolzenberg and Wermer that, in general, clusters can contain no
+analytic disks. So we study algebras of continuous function on clusters, which
+can be approximated by holomorphic functions or polynomials, and show that this
+algebras possess some analytic properties in all but explicitly pathological
+and uninteresting cases. Secondly, we apply and results about clusters to
+polynomial hulls and maximal functions, finding remnants of analytic structures
+there too. And, finally, due to more and more frequent appearances of analytic
+disks as tools in complex analysis, it seems to be interesting to look at their
+sequences to establish terminology, basic notation and properties.
+","[{""version"":""v1"",""created"":""Fri, 10 Jul 1992 21:22:51 GMT""}]","2009-09-25"

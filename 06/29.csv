@@ -1,0 +1,46 @@
+"hep-lat/9206024",,"Simon Hands (CERN), Aleksandar Kocic (CERN) and John Kogut (Illinois)","The Four-Fermi Model in Three Dimensions at Non-Zero Density and
+  Temperature","21 pages, sorry, no figures","Nucl.Phys. B390 (1993) 355-378","10.1016/0550-3213(93)90460-7","CERN-TH.6553/92, ILL-(TH)-92-13","hep-lat",,"  The Four Fermi model with discrete chiral symmetry is studied in three
+dimensions at non-zero chemical potential and temperature using the Hybrid
+Monte Carlo algorithm. The number of fermion flavors is chosen large $(N_f=12)$
+to compare with analytic results. A first order chiral symmetry restoring
+transition is found at zero temperature with a critical chemical potential
+$\mu_c$ in good agreement with the large $N_f$ calculations. The critical index
+$\nu$ of the correlation length is measured in good agreement with analytic
+calculations. The two dimensional phase diagram (chemical potential vs.
+temperature) is mapped out quantitatively. Finite size effects on relatively
+small lattices and non-zero fermion mass effects are seen to smooth out the
+chiral transition dramatically.
+","[{""version"":""v1"",""created"":""Mon, 29 Jun 1992 12:56:20 GMT""}]","2009-10-22"
+"hep-ph/9206259","Andrei Linde","Andrei Linde","Progress in the Theory of the Electroweak Phase Transition","24 pages, LaTeX, SU-ITP-92-18",,,,"hep-ph",,"  Recent progress in the theory of the electroweak phase transition is
+discussed. For the Higgs boson mass smaller than the masses of W and Z bosons,
+the phase transition is of the first order. However, its strength is
+approximately 2/3 times less than what follows from the one-loop approximation.
+This rules out baryogenesis in the minimal version of the electroweak theory
+with light Higgs bosons. The possibility of the strongly first order phase
+transition in the theory with superheavy Higgs bosons is considered.
+  We show that if the Yang-Mills field at high temperature acquires a magnetic
+mass $\sim g^2 T$, then no linear terms appear in the effective potential in
+all orders of perturbation theory and the symmetry in gauge theories at high
+temperatures is actually restored. Even though the last statement was never
+questioned by most of the authors, it was extremely difficult to come to a
+reliable conclusion about it due to the infrared problem in thermodynamics of
+non-Abelian gauge fields.
+  The phase transition occurs due to production and expansion of critical
+bubbles. A general analytic expression for the probability of the bubble
+formation is obtained, which may be used for study of tunneling in a wide class
+of theories.
+","[{""version"":""v1"",""created"":""Mon, 29 Jun 1992 02:51:07 GMT""}]","2007-05-23"
+"hep-ph/9206260",,"Robert H. Brandenberger (Brown) and Anne-Christine Davis (DAMTP,
+  Cambridge)","Electroweak Baryogenesis with a Second Order Phase Transition","7 pages, use phyzzx, BROWN-HET-865",,,,"hep-ph astro-ph",,"  If stable electroweak strings are copiously produced during the electroweak
+phase transition, they may contribute significantly to the presently observed
+baryon to entropy ratio of the universe. This analysis establishes the
+feasibility of implementing an electroweak baryogenesis scenario without a
+first order phase transition.
+","[{""version"":""v1"",""created"":""Mon, 29 Jun 1992 13:31:28 GMT""}]","2007-05-23"
+"hep-th/9206106","Michel Talon","M. Dubois-Violette, M. Henneaux, M. Talon, CM. Viallet","General Solution of the Consistency Equation","11 pages, Latex file, PAR-LPTHE 92/19","Phys.Lett. B289 (1992) 361-367","10.1016/0370-2693(92)91232-X",,"hep-th",,"  We produce the general solution of the Wess-Zumino consistency condition for
+gauge theories of the Yang-mills type, for any ghost number and form degree. We
+resolve the problem of the cohomological independence of these solutions. In
+other words we fully describe the local version of the cohomology of the BRS
+operator, modulo the differential on space--time. This in particular includes
+the presence of external fields and non--trivial topologies of space--time.
+","[{""version"":""v1"",""created"":""Mon, 29 Jun 1992 14:27:33 GMT""}]","2009-10-22"

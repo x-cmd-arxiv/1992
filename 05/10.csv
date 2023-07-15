@@ -1,0 +1,10 @@
+"hep-lat/9205009","Clive Baillie","C.F. Baillie","Ising Model Coupled to Three-Dimensional Quantum Gravity","11 pages","Phys.Rev. D46 (1992) 2480-2485","10.1103/PhysRevD.46.2480",,"hep-lat",,"  We have performed Monte Carlo simulations of the Ising model coupled to
+three-dimensional quantum gravity based on a summation over dynamical
+triangulations. These were done both in the microcanonical ensemble, with the
+number of points in the triangulation and the number of Ising spins fixed, and
+in the grand canoncal ensemble. We have investigated the two possible cases of
+the spins living on the vertices of the triangulation (``diect'' case) and the
+spins living in the middle of the tetrahedra (``dual'' case). We observed phase
+transitions which are probably second order, and found that the dual
+implementation more effectively couples the spins to the quantum gravity.
+","[{""version"":""v1"",""created"":""Sat, 9 May 1992 18:14:08 GMT""}]","2009-10-22"

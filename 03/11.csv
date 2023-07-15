@@ -1,0 +1,69 @@
+"hep-ph/9203208",,"E. Gates L. Krauss J. Terning","Monopole annihilation at the electroweak scale---Not!","15 pp","Phys.Lett. B284 (1992) 309-316","10.1016/0370-2693(92)90437-9",,"hep-ph",,"  We examine the issue of monopole annihilation at the electroweak scale
+induced by flux tube confinement, concentrating first on the simplest
+possibility---one which requires no new physics beyond the standard model.
+Monopoles existing at the time of the electroweak phase transition may trigger
+$W$ condensation which can confine magnetic flux into flux tubes. However we
+show on very general grounds, using several independent estimates, that such a
+mechanism is impotent. We then present several general dynamical arguments
+constraining the possibility of monopole annihilation through any confining
+phase near the electroweak scale.
+","[{""version"":""v1"",""created"":""Tue, 10 Mar 1992 16:00:00 GMT""}]","2009-10-22"
+"hep-ph/9203209",,"R. Holman, T.W.B. Kibble and Soo-Jong Rey","How Efficient Is The Langacker-Pi Mechanism of Monopole Annihilation?","10 pages","Phys.Rev.Lett. 69 (1992) 241-244","10.1103/PhysRevLett.69.241",,"hep-ph",,"  We investigate the dynamics of monopole annihilation by the Langacker-Pi
+mechanism. We find taht considerations of causality, flux-tube energetics and
+the friction from Aharonov-Bohm scatteering suggest that the monopole
+annihilation is most efficient if electromagnetism is spontaneously broken at
+the lowest temperature ($T_{em} \approx 10^6 GeV$) consistent with not having
+the monopoles dominate the energy density of the universe.
+","[{""version"":""v1"",""created"":""Wed, 11 Mar 1992 04:21:00 GMT""}]","2009-10-22"
+"hep-th/9203027",,"C.K. Zachos","Altering the Symmetry of Wavefunctions in Quantum Algebras and
+  Supersymmetry","6 pages","Mod.Phys.Lett.A7:1595-1600,1992","10.1142/S0217732392001270",,"hep-th",,"  The statistics-altering operators present in the limit $q=-1$ of
+multiparticle SU_q(2)-invariant subspaces parallel the action of such operators
+which naturally occur in supersymmetric theories. We illustrate this
+heuristically by comparison to a toy $N=2$ superymmetry algebra, and ask
+whether there is a supersymmetry structure underlying SU(2)_q at that limit. We
+remark on the relevance of such alternating-symmetry multiplets to the
+construction of invariant hamiltonians.
+","[{""version"":""v1"",""created"":""Tue, 10 Mar 1992 20:03:15 GMT""}]","2009-10-02"
+"hep-th/9203028","Andrea Pasquinucci","Andrea Pasquinucci","A note on the Zakharov-Shabat topological model","9 pages","Mod. Phys. Lett. A7 (1992) 2299-2306","10.1142/S0217732392002068",,"hep-th",,"  In this note I discuss some features of the topological theory obtained from
+the Zakharov-Shabat (or general sl(2,C)) hierarchy, and comment on some
+possible physical and/or mathematical interpretations of it.
+","[{""version"":""v1"",""created"":""Tue, 10 Mar 1992 20:26:42 GMT""}]","2015-06-26"
+"hep-th/9203029","Kurt Haller","Kurt Haller and Edwin Lombridas","Canonical Quantization of $(2+1)$ Dimensional Qed with Topological Mass
+  Term","27 pages","Phys.Rev. D46 (1992) 1737-1749","10.1103/PhysRevD.46.1737",,"hep-th",,"  We discuss the canonical quantization of Quantum Electrodynamics in $2+1$
+dimensions, with a Chern-Simons topological mass term and gauge-covariant
+coupling to a Dirac spinor field. A gauge-fixing term is used which generates a
+canonical momentum for $A_0$, so that there are no primary constraints on
+operator-valued fields. Gauss's Law and the gauge condition, $A_0=0$, are
+implemented by embedding the formulation in an appropriate physical subspace,
+in which state vectors remain naturally, in the course of time evolution. The
+photon propagator is derived from the canonical theory. The electric and
+magnetic fields are separated into parts that reflect the presence of massive
+photons, and other parts that are rigidly attached to charged fermions and do
+not consist of any observable, propagating particle excitations. The effect of
+rotations on charged particle states is analyzed, and the relation between the
+canonical and the Belinfante ``symmetric'' angular momentum is discussed. It is
+shown that the rotation operator can be consistently formulated so that charged
+particles behave like fermions, and do not acquire any arbitrary phases during
+rotations, even when they are dressed in the electromagnetic fields required
+for them to obey Gauss's law.
+","[{""version"":""v1"",""created"":""Tue, 10 Mar 1992 21:52:08 GMT""}]","2009-10-22"
+"hep-th/9203030","Matthias Staudacher","Ivan K. Kostov and Matthias Staudacher","Multicritical Phases of the O(n) Model on a Random Lattice","28 pages, 4 figures (not included)","Nucl.Phys. B384 (1992) 459-483","10.1016/0550-3213(92)90576-W",,"hep-th",,"  We exhibit the multicritical phase structure of the loop gas model on a
+random surface. The dense phase is reconsidered, with special attention paid to
+the topological points $g=1/p$. This phase is complementary to the dilute and
+higher multicritical phases in the sense that dense models contain the same
+spectrum of bulk operators (found in the continuum by Lian and Zuckerman) but a
+different set of boundary operators. This difference illuminates the well-known
+$(p,q)$ asymmetry of the matrix chain models. Higher multicritical phases are
+constructed, generalizing both Kazakov's multicritical models as well as the
+known dilute phase models. They are quite likely related to multicritical
+polymer theories recently considered independently by Saleur and Zamolodchikov.
+Our results may be of help in defining such models on {\it flat} honeycomb
+lattices; an unsolved problem in polymer theory. The phase boundaries
+correspond again to ``topological'' points with $g=p/1$ integer, which we study
+in some detail. Two qualitatively different types of critical points are
+discovered for each such $g$. For the special point $g=2$ we demonstrate that
+the dilute phase $O(-2)$ model does {\it not} correspond to the Parisi-Sourlas
+model, a result likely to hold as well for the flat case. Instead it is proven
+that the first {\it multicritical} $O(-2)$ point possesses the Parisi-Sourlas
+supersymmetry.}
+","[{""version"":""v1"",""created"":""Tue, 10 Mar 1992 22:22:23 GMT""}]","2009-10-22"

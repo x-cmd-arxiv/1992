@@ -1,0 +1,309 @@
+"cond-mat/9212001","David Senechal","D. Senechal","The Mass Gap of the Nonlinear Sigma Model through the Finite Temperature
+  Effective Action","10 pages (RevTeX 3.0), 3 PostScript figures (errors fixed) appended,
+  preprint CRPS-92-01",,"10.1103/PhysRevB.47.8353",,"cond-mat",,"  The $O(3)$ nonlinear $\sigma$ model is studied in the disordered phase, using
+the techniques of the effective action and finite temperature field theory. The
+nonlinear constraint is implemented through a Lagrange multiplier. The finite
+temperature effective potential for this multiplier is calculated at one loop.
+The existence of a nontrivial minimum for this potential is the signal of a
+disordered phase in which the lowest excited state is a massive triplet. The
+mass gap is easily calculated as a function of temperature in dimensions 1, 2
+and 3. In dimension 1, this gap is known as the Haldane gap, and its
+temperature dependence is compared with experimental results.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 20:24:00 GMT""},{""version"":""v2"",""created"":""Wed, 9 Dec 1992 23:10:58 GMT""}]","2009-10-22"
+"gr-qc/9212001","Sean Hayward","Sean A. Hayward","Cosmic Censorship in 2-Dimensional Dilaton Gravity","10 pages","Class.Quant.Grav.10:985-994,1993","10.1088/0264-9381/10/5/015",,"gr-qc",,"  The global structure of 2-dimensional dilaton gravity is studied, attending
+in particular to black holes and singularities. A gravitational energy is
+defined and shown to be positive at spatial singularities and negative at
+temporal singularities. Trapped points are defined, and it is shown that
+spatial singularities are trapped and temporal singularities are not. Thus a
+local form of cosmic censorship holds for positive energy. In an analogue of
+gravitational collapse to a black hole, matter falling into an initially flat
+space creates a spatial curvature singularity which is cloaked in a spatial or
+null apparent horizon with non-decreasing energy and area.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 13:28:05 GMT""}]","2010-04-06"
+"hep-lat/9212002","Kenton Yee","Ken Yee","Dirac Strings and the Nonperturbative Photon Propagator in Compact QED","13 pages(3 Figures). single postscript file 217k",,,"LSUHEP-11-92","hep-lat cond-mat",,"  A ``3D'' Mathematica@-generated picture of monopoles and Dirac strings in
+$D=2+1$ compact QED is given. In the Villain approximation, the monopole part
+of the partition function factorizes from the Dirac string part, which
+generates the photon propagator. Numerical experiments in exact compact QED
+confirm this result: photon mass pole $M_\gamma$, originally nonzero, is
+insensitive to monopole prohibition but almost vanishes if Dirac strings are
+prohibited.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 04:50:18 GMT""},{""version"":""v2"",""created"":""Thu, 3 Dec 1992 18:45:15 GMT""}]","2008-02-03"
+"hep-lat/9212003",,"M. Caselle, A. D'Adda and S. Panzeri","Kazakov-Migdal Induced Gauge Theory and the Coupling of 2D Quantum
+  Gravity to D=1 Matter","Talk given By M.Caselle at LATTICE 92, 7 pages, plain latex, DFTT
+  65/92","Nucl. Phys. Proc. Suppl. 30 (1993) 808","10.1016/0920-5632(93)90331-Y",,"hep-lat",,"  Recently Kazakov and Migdal proposed a new approach to the large $N$ limit of
+SU(N) gauge theories which could hopefully describe the asymptotically free
+fixed point of QCD in 4 dimensions. In this contribution we review the exact
+solution of their model in the case of a $d=1$ compactified lattice and its
+connection with the partition function of the vortex-free sector of the d=1
+compactified bosonic string. Some new results on the addition of a linear term
+in the K-M model and on the SU(N) restriction of the general U(N) model are
+also presented.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 07:31:00 GMT""}]","2009-10-22"
+"hep-ph/9212201",,"Sally Dawson","QCD Corrections to Higgs Boson Production","4 pages",,,,"hep-ph",,"  We discuss the ${\cal O}(\alpha_s)$
+  QCD radiative corrections to Higgs boson production in the limit in which the
+top quark is much heavier than the Higgs boson. The subleading corrections, of
+${\cal O} (\alpha_s M_H^2/M_{\rm top}^2)$, are presented for the decay
+$H\rightarrow \gamma\gamma$ and shown to be small.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 16:29:14 GMT""}]","2007-05-23"
+"hep-ph/9212202",,"Huazhong Zhang","Global Constraints of Gauss' Law and the Solution to the Strong CP
+  Problem","to be published in the Proceeding of DPF92 Meeting, Fermilab, Nov.
+  1992, latex 3 pages",,,"JSUHEP921001","hep-ph",,"  This is a brief review on the work done recently. It is shown that the global
+constraints of Gauss' law ensure that the vacuum angle must be quantized in
+gauge theories with magnetic monopoles. Our quantization rule is given as
+$\theta=0$, or $\theta=2\pi N/n~ (n\neq 0)$ with integer n being the relevant
+topological charge of the magnetic monopole and N is an unfixed integer in this
+approach. This theoretically confirms further the conclusion originally
+proposed by the author$^1$ that the strong CP problem can be solved due to the
+existence of magnetic monopoles, the fact that the strong CP-violation can be
+only so small or vanishing may imply the existence of magnetic monopoles, and
+the universe is open.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 16:31:12 GMT""}]","2007-05-23"
+"hep-ph/9212203",,"M. Ciuchini, E. Franco, G. Martinelli and L. Reina","$\epsilon^{\prime}/\epsilon$ at the next-to-leading order in QCD and QED","19 pages, 6 figures included, LaTeX","Phys.Lett.B301:263-271,1993","10.1016/0370-2693(93)90699-I","Rome Prep. 911","hep-ph",,"  We present a new calculation of the CP violation parameter
+$\epsilon^{\prime}/ \epsilon$. The results reported in this paper have been
+obtained by using the $\Delta S=1$ effective Hamiltonian computed at the
+next-to-leading order, including QCD and QED penguins. The matrix elements of
+the relevant operators have been taken from lattice QCD, at a scale $\mu=2$
+GeV. At this relatively large scale, the perturbative matching between the
+relevant operators and the corresponding coefficients is quite reliable.
+  The effect of the next-to-leading corrections is to lower the prediction
+obtained at the leading order, thus favouring the experimental result of E731.
+We analyze different contributions to the final result and compare the leading
+and next-to-leading cases.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 22:24:05 GMT""}]","2010-11-01"
+"hep-ph/9212204","John Bahcall","John N. Bahcall and H. A. Bethe","Do Solar Neutrino Experiments Imply New Physics?","7 pages (figures not included), Institute for Advanced Study number
+  AST 92/51. For a hard copy with the figures, write: best@iassns.bitnet","Phys.Rev.D47:1298-1301,1993","10.1103/PhysRevD.47.1298",,"hep-ph astro-ph",,"  None of the 1000 solar models in a full Monte Carlo simulation is consistent
+with the results of the chlorine or the Kamiokande experiments. Even if the
+solar models are forced artifically to have a \b8 neutrino flux in agreeement
+with the Kamiokande experiment, none of the fudged models agrees with the
+chlorine observations. The GALLEX and SAGE experiments, which currently have
+large statistical uncertainties, differ from the predictions of the standard
+solar model by $2 \sigma$ and $3 \sigma$, respectively.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 20:20:00 GMT""}]","2009-12-30"
+"hep-ph/9212205","C. L. Lee","C. L. Y. Lee (Caltech)","An Analysis of the Decay $B \rightarrow D^* X \ell \bar\nu_\ell$ with
+  Predictions from Heavy Quark and Chiral Symmetry","15 pages, uses jytex.tex and tables.tex; 3 figures not included but
+  available on request","Phys.Rev. D48 (1993) 2121-2128","10.1103/PhysRevD.48.2121","Caltech preprint CALT-68-1841","hep-ph",,"  This paper considers the implications of the heavy quark and chiral
+symmetries for the semi-leptonic decay $B \rightarrow D^* X \ell \bar
+\nu_\ell$. The general kinematic analysis for decays of the form {\sl
+pseudoscalar meson $\rightarrow$ vector meson $+$ pseudoscalar meson $+$ lepton
+$+$ anti-lepton} is presented. This formalism is applied to the above exclusive
+decay which allows the differential decay rate to be expressed in a form that
+is ideally suited for the experimental determination of the different form
+factors for the process through angular distribution measurements. Heavy quark
+and chiral symmetry predictions for the form factors are presented, and the
+differential decay rate is calculated in the kinematic region where chiral
+perturbation theory is valid.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 23:42:55 GMT""}]","2009-10-22"
+"hep-ph/9212206","Yuval Kluger","F. Cooper, J. M. Eisenberg, Y. Kluger, E. Mottola, and B. Svetitsky","Particle production in the central rapidity region","38 pages (LaTex, 9 Figures available upon request)","Phys.Rev.D48:190-208,1993","10.1103/PhysRevD.48.190","LA-UR-92-3856","hep-ph",,"  We study pair production from a strong electric field in boost-invariant
+coordinates as a simple model for the central rapidity region of a heavy-ion
+collision. We derive and solve the renormalized equations for the time
+evolution of the mean electric field and current of the produced particles,
+when the field is taken to be a function only of the fluid proper time $\tau =
+\sqrt{t^2-z^2}$. We find that a relativistic transport theory with a Schwinger
+source term modified to take Pauli blocking (or Bose enhancement) into account
+gives a good description of the numerical solution to the field equations. We
+also compute the renormalized energy-momentum tensor of the produced particles
+and compare the effective pressure, energy and entropy density to that expected
+from hydrodynamic models of energy and momentum flow of the plasma.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 23:49:58 GMT""}]","2008-11-26"
+"hep-ph/9212207",,"V.P. Gudkov, X.-G. He and B. McKellar","On the CP-odd Nucleon Potential","12 pages, RevTex, UM-P-92/114, OZ-92/37","Phys.Rev.C47:2365-2368,1993","10.1103/PhysRevC.47.2365",,"hep-ph",,"  The CP-odd nucleon potential for different models of CP violation in the one
+meson exchange approximation is studied. It is shown that the main contribution
+is due to the $\pi$-meson exchange which leads to a simple one parameter CP-odd
+nucleon potential.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 02:39:18 GMT""}]","2008-11-26"
+"hep-ph/9212208","Masaharu Tanabashi","Kei-ichi Kondo, Masaharu Tanabashi and Koichi Yamawaki","Renormalization in the Gauged Nambu--Jona-Lasinio Model","72 pages, 12 figures (not included), LaTeX file, KEK-TH-344/KEK
+  preprint 92-86/CHIBA-EP-65/DPNU-92-23","Prog.Theor.Phys. 89 (1993) 1249-1302","10.1143/ptp/89.6.1249",,"hep-ph",,"  Based on the Cornwall-Jackiw-Tomboulis effective potential, we extensively
+study nonperturbative renormalization of the gauged Nambu-Jona-Lasinio model in
+the ladder approximation with standing gauge coupling. Although the pure
+Nambu-Jona-Lasinio model is not renormalizable, presence of the gauge
+interaction makes it possible that the theory is renormalized as an interacting
+continuum theory at the critical line in the ladder approximation. Extra higher
+dimensional operators (``counter terms'') are not needed for the theory to be
+renormalized. By virtue of the effective potential approach, the
+renormalization (``symmetric renormalization'') is performed in a
+phase-independent manner both for the symmetric and the spontaneously broken
+phases of the chiral symmetry. We explicitly obtain $\beta$ function having a
+nontrivial ultraviolet fixed line for the renormalized coupling as well as the
+bare one. In both phases the anomalous dimension is very large ($ \ge 1$)
+without discontinuity across the fixed line. Operator product expansion is
+explicitly constructed, which is consistent with the large anomalous dimension
+owing to the appearance of the nontrivial extra power behavior in the Wilson
+coefficient for the unit operator. The symmetric renormalization breaks down at
+the critical gauge coupling, which is cured by the generalized renormalization
+scheme (``$\tM$-dependent renormalization''). Also emphasized is the formal
+resemblance to the four-fermion theory in less than four dimensions which is
+renormalizable in $1/N$ expansion.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 03:47:31 GMT""}]","2017-02-01"
+"hep-ph/9212209","Girish Joshi","B. E. Hanlon and G. C. Joshi","A Non-Commutative Geometric Approach to Left-Right Symmetric Weak
+  Interactions","17 pages, UM-P-92/38","Lett.Math.Phys. 27 (1993) 105-116","10.1007/BF00750678",,"hep-ph",,"  By combining the generalized exterior algebra of forms over a noncommutative
+algebra with the gauging of discrete directions and the associated Higgs
+fields, we consider the construction of the bosonic sector of left-right
+symmetric models of the form $SU(2)_{L}\otimes SU(2)_{R}\otimes U(1)$. We see
+that within this formalism maximal use can be made of the gauge connection
+associated with the non-commutative graded algebra.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 03:23:56 GMT""}]","2009-10-22"
+"hep-ph/9212210","Jean Letessier","J. Letessier, A. Tounsi, U. Heinz, J. Sollfrank and J. Rafelski","Strangeness Conservation in Hot Nuclear Fireballs","35 pages, 11 postscript figures, report PAR/LPTHE/92--27","Phys.Rev.D51:3408-3435,1995","10.1103/PhysRevD.51.3408",,"hep-ph hep-lat",,"  A constraint between thermal fireball parameters arises from the requirement
+that the balance of strangeness in a fireball is (nearly) zero. We study the
+impact of this constraint on (multi-)strange (anti-)baryon multiplicities and
+compare the hadron gas and quark-gluon plasma predictions. We explore the
+relation between the entropy content and particle multiplicities and show that
+the data are compatible with the quark-gluon plasma hypothesis, but appear to
+be inconsistent with the picture of an equilibrated hadron gas fireball. We
+consider the implications of the results on the dynamics of evolution and decay
+of the particle source.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 09:39:17 GMT""}]","2009-10-09"
+"hep-th/9212004","H. J. Otto","H. Dorn and H.-J. Otto","Remarks on the continuum formulation of noncritical strings","13 pages, Latex, HU Berlin-IEP 92/7",,,,"hep-th",,"  We discuss various aspects of the calculation of correlation functions in
+conformal theories coupled to quantized 2-dimensional gravity. The main
+emphasis lies on the construction of a continuation in the number of insertions
+of the cosmological constant operator for $arbitrary$ dimension of the target
+space. Following closely our paper \cite{DO2} we add a more extended
+introduction and discussion of the peculiarities in 1-dimensional target space
+as well as some further remarks about the 4-point function.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 16:22:11 GMT""}]","2007-05-23"
+"hep-th/9212006","Osorio & Vazquez-Mozo","L. Alvarez-Gaume and M.A. Vazquez-Mozo","Topics in String Theory and Quantum Gravity","133 pages, 22 figures (not included, available upon request), LaTeX",,,"CERN-TH.6736/92, FTUAM-38/92","hep-th",,"  These are the lecture notes for the Les Houches Summer School on Quantum
+Gravity held in July 1992. The notes present some general critical assessment
+of other (non-string) approaches to quantum gravity, and a selected set of
+topics concerning what we have learned so far about the subject from string
+theory. Since these lectures are long (133 A4 pages), we include in this
+abstract the table of contents, which should help the user of the bulletin
+board in deciding whether to latex and print the full file.
+  1-FIELD THEORETICAL APPROACH TO QUANTUM GRAVITY: Linearized gravity;
+Supergravity; Kaluza-Klein theories; Quantum field theory and classical
+gravity; Euclidean approach to Quantum Gravity; Canonical quantization of
+gravity; Gravitational Instantons.
+  2-CONSISTENCY CONDITIONS: ANOMALIES: Generalities about anomalies; Spinors in
+2n dimensions; When can we expect to find anomalies?; The Atiyah-Singer Index
+Theorem and the computation of anomalies; Examples: Green-Schwarz cancellation
+mechanism and Witten's SU(2) global anomaly.
+  3-STRING THEORY I. BOSONIC STRING: Bosonic string; Conformal Field Theory;
+Quantization of the bosonic string; Interaction in string theory and the
+characterization of the moduli space; Bosonic strings with background fields.
+Stringy corrections to Einstein equations; Toroidal compactifications.
+$R$-duality; Operator formalism
+  4-STRING THEORY II. FERMIONIC STRINGS: Fermionic String; Heterotic String;
+Strings at finite temperature; Is string theory finite?
+  5-OTHER DEVELOPMENTS AND CONCLUSIONS: String ``Phenomenology''; Black Holes
+and Related Subjects
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 17:01:17 GMT""}]","2007-05-23"
+"hep-th/9212007","Ryu Sasaki","P. P. Kulish and R. Sasaki","Covariance Properties of Reflection Equation Algebras","31 pages, 8 figures (not included)","Prog.Theor.Phys.89:741-762,1993","10.1143/PTP.89.741","YITP/U-92-32; DUCPT-92-53","hep-th nlin.SI solv-int",,"  The reflection equations (RE) are a consistent extension of the Yang-Baxter
+equations (YBE) with an addition of one element, the so-called reflection
+matrix or $K$-matrix. For example, they describe the conditions for
+factorizable scattering on a half line just like the YBE give the conditions
+for factorizable scattering on an entire line. The YBE were generalized to
+define quadratic algebras, \lq Yang-Baxter algebras\rq\ (YBA), which were used
+intensively for the discussion of quantum groups. Similarly, the RE define
+quadratic algebras, \lq the reflection equation algebras\rq\ (REA), which enjoy
+various remarkable properties both new and inherited from the YBA. Here we
+focus on the various properties of the REA, in particular, the quantum group
+comodule properties, generation of a series of new solutions by composing known
+solutions, the extended REA and the central elements, etc.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 17:34:35 GMT""}]","2014-11-18"
+"hep-th/9212008","Gentil Oliveira Pires","C. Pinheiro and G. O. Pires","Extending the Barnes-Rivers Operators to D=3 Topological Gravity","Latex 10 pages",,,,"hep-th",,"  The spin-projector operators for symmetric rank-2 tensors are reassessed in
+connection with the issue of topologically massive gravity. The original
+proposal by Barnes and Rivers is generalised to account for D-dimensional
+Einstein gravity and 3-dimensional Chern-Simons massive gravitation.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 22:48:28 GMT""}]","2007-05-23"
+"hep-th/9212009",,"Carl M. Bender, Stephen Pinsky and Brett Van de Sande","Spontaneous Symmetry Breaking of phi4(1+1) in Light Front Field Theory","17 pages, OHSTPY-HEP-TH-92-023","Phys.Rev. D48 (1993) 816-821","10.1103/PhysRevD.48.816",,"hep-th",,"  We study spontaneous symmetry breaking in phi^4_(1+1) using the light-front
+formulation of the field theory. Since the physical vacuum is always the same
+as the perturbative vacuum in light-front field theory the fields must develop
+a vacuum expectation value through the zero-mode components of the field. We
+solve the nonlinear operator equation for the zero-mode in the one-mode
+approximation. We find that spontaneous symmetry breaking occurs at
+lambda_critical = 4 pi(3+sqrt 3), which is consistent with the value
+lambda_critical = 54.27 obtained in the equal time theory. We calculate the
+value of the vacuum expectation value as a function of the coupling constant in
+the broken phase both numerically and analytically using the delta expansion.
+We find two equivalent broken phases. Finally we show that the energy levels of
+the system have the expected behavior within the broken phase.
+","[{""version"":""v1"",""created"":""Tue, 1 Dec 1992 22:01:00 GMT""}]","2019-08-17"
+"hep-th/9212010","Yutaka Matsuo","Y. Matsuo","Some Additional Solutions of Conformal Turbulence","7 pages, UT-620","Mod.Phys.Lett. A8 (1993) 619-624","10.1142/S0217732393000647",,"hep-th",,"  We made a careful study of Polyakov's Diofantian equations for 2D turbulence
+and found several additional CFTs which meet his criterion. This fact implies
+that we need further conditions for CFT in order to determine the exponent of
+the energy spectrum function.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 00:44:17 GMT""}]","2015-06-26"
+"hep-th/9212011",,"M.I. Dobroliubov, I.I. Kogan, G.W. Semenoff and N. Weiss","Induced QCD Without Local Confinement","13 pages, PUPT 1358, UBCTP92-032","Phys.Lett. B302 (1993) 283-290","10.1016/0370-2693(93)90398-2",,"hep-th hep-lat",,"  We examine some properties of the filled Wilson loop observables in the
+Kazakov-Migdal model of induced QCD. We show that they have a natural
+interpretation in a modification of the original model in which the $Z_N$ gauge
+symmetry is broken explicitly by a Wilson kinetic term for the gauge fields. We
+argue that there are two large N limits of this theory, one leads to ordinary
+Wilson lattice gauge theory coupled to a dynamical scalar field and the other
+leads to a version of the Kazakov-Migdal model in which the large N solution
+found by Migdal can still be used. We discuss the properties of the string
+theory which emerges.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 01:05:00 GMT""}]","2009-10-22"
+"hep-th/9212012","Girish Joshi","B.A.Harris and G.C.Joshi","A Self-Consistent Formulation of Quantum Field Theory on $S_{4}$","Pages 43 (one figure available on request) , Preprint UM-91-0336",,,,"hep-th",,"  Recent developments in quantum gravity suggest that wormholes may influence
+the observed values of the constants of nature. The Euclidean formulation of
+quantum gravity predicts that wormholes induce a probability distribution in
+the space of possible fundamental constants. This distribution may computed by
+evaluating the functional integral about the stationary points of the action.
+In particular, the effective action on a large spherical space may lead to the
+vanishing of the cosmological constant and possibly determine the values of
+other constants of nature. The ability to perform calculations involving
+interacting quantum fields, particularly non-Abelian models, on a four-sphere
+is vital if one is to investigate this possibility. In this paper we present a
+self-consistent formulation of field theory on a four-sphere using the angular
+momentum space representation of $SO(5)$. We give a review of field theory on a
+sphere and then show how a matrix element prescription in angular momentum
+space overcomes previous limitations in calculational techniques.
+  The standard one-loop graphs of QED are given as examples.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 03:17:59 GMT""}]","2007-05-23"
+"hep-th/9212013",,"Leonardo Castellani","On the quantum Poincare' group","16 pp., DFTT-57/92",,,,"hep-th",,"  The inhomogeneous quantum groups $IGL_q(n)$ are obtained by means of a
+particular projection of $GL_q(n+1)$. The bicovariant differential calculus on
+$GL_q(n)$ is likewise projected into a consistent bicovariant calculus on
+$IGL_q(n)$. Applying the same method to $GL_q(n,\Cb)$ leads to a bicovariant
+calculus for the complex inhomogeneous quantum groups $IGL_q(n,\Cb)$. The
+quantum Poincare' group and its bicovariant geometry are recovered by
+specializing our results to $ISL_q(2,\Cb)$.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 07:45:00 GMT""}]","2007-05-23"
+"hep-th/9212014","Mihai Marcu","T. Filk, M. Marcu and B. Scheffold","Monte Carlo Simulations of 2-Dimensional Quantum Gravity Coupled to $c =
+  1$ Matter","4 pages, LaTeX, uses espcrc2.sty, uses emtex for figures -- if no
+  emtex available, just ignore error messages, Freiburg THEP-92/26 and Tel Aviv
+  TAUP 2007-92, November 1992. Replaced version: we added the name of one of
+  our collaborators, which had mistakenly omitted","Nucl.Phys.Proc.Suppl. 30 (1993) 783-786","10.1016/0920-5632(93)90325-Z",,"hep-th hep-lat",,"  We present results of a high precision Monte Carlo simulation of dynamically
+triangulated random surfaces (up to $\approx$ 34,000 triangles) coupled to one
+scalar field ($c=1$). The mean square extent has been measured for different
+actions to test the universality of the leading term as a function of the size
+of the surfaces. Furthermore, the integrated 2-point correlation function for
+vertex operators is compared with conformal field theory and matrix model
+predictions.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 09:23:47 GMT""},{""version"":""v2"",""created"":""Sun, 13 Dec 1992 08:22:24 GMT""}]","2009-10-22"
+"hep-th/9212015","Amihay Hanany","Gregory Falkovich and Amihay Hanany","Spectra of Conformal Turbulence","14 pages, WIS-92/88/Nov-PH",,,,"hep-th cond-mat",,"  A set of different conformal solutions corresponding to a constant flux of
+squared vorticity is considered. Requiring constant fluxes of all inviscid
+vorticity invariants (higher powers of the vorticity), we come to the
+conclusion that the general turbulence spectrum should be given by Kraichnan's
+expression $E(k)\propto k\sp{-3}$. This spectrum, in particular, can be
+obtained as a limit of some subsequences of the conformal solutions.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 12:48:44 GMT""}]","2007-05-23"
+"hep-th/9212016","Peter West","Peter West","On the spectrum, no ghost theorem and modular invariance of $W_3$
+  strings","23 pages, KCL-TH-92-7","Int.J.Mod.Phys. A8 (1993) 2875-2894","10.1142/S0217751X93001168",,"hep-th",,"  A spectrum generating algebra is constructed and used to find all the
+physical states of the $W_3$ string with standard ghost number. These states
+are shown to have positive norm and their partition function is found to
+involve the Ising model characters corresponding to the weights 0 and 1/16. The
+theory is found to be modular invariant if , in addition, one includes states
+that correspond to the Ising character of weight 1/2. It is shown that these
+additional states are indeed contained in the cohomology of $Q$.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 15:19:00 GMT""}]","2015-06-26"
+"math/9212201",,"Sy D. Friedman (MIT)","Jensen's \Sigma^* theory and the combinatorial content of V=L",,,,"Logic E-prints December 02, 1992","math.LO",,"  The purpose of this article is to indicate how a reformulation of Jensen's
+$\Sigma^*$ theory (developed for the study of core models) can be used to
+provide a more satisfactory treatment of uniformization, hulls and Skolem
+functions for the $J_\alpha$'s. Then we use this approach to fine structure to
+formulate a principle intended to capture the combinatorial content of the
+axiom $V=L.$
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9212202",,"Sy D. Friedman (MIT)","A large Pi-1-2 set absolute for set forcing",,,,"Logic E-prints December 02, 1992","math.LO",,"  Let k be a definable L-cardinal. Then there is a set of reals X,
+class-generic over L, such that L(X) and L have the same cardinals, X has size
+k in L(X) and some pi-1-2 formula defines X in all set-generic extensions of
+L(X). Two corollaries, both assuming the consistency of an inaccessible: It is
+consistent for the Perfect Set Property to hold for boldface sigma-1-2 sets,
+yet fail for some lightface pi-1-2 set. It is consistent that the Perfect Set
+Property holds for boldface sigma-1-2 sets yet some lightface pi-1-2
+wellordering of some set of reals has length aleph-1000.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9212001",,"V.F.Dmitriev","The Nuclear Response in Delta-Isobar Region in the ($^3\!$He,t) Reaction","29 pages including 8 figures, IU/NTC 92-34",,"10.1103/PhysRevC.48.357",,"nucl-th",,"  The excitation of a $\Delta$-isobar in a finite nucleus in charge--exchange
+($^3\!$He,t) reaction is discussed in terms of a nuclear response function. The
+medium effects modifying a $\Delta$- and a pion propagation were considered for
+a finite size nucleus. The Glauber approach has been used for distortion of a
+$^3\!$He and a triton in the initial and the final states. The effects
+determining the peak positions and its width are discussed. Large displacement
+width for the $\Delta$ - h excitations and considerable contribution of
+coherent pion production were found for the reaction on $^{12}$C.
+","[{""version"":""v1"",""created"":""Wed, 2 Dec 1992 15:35:00 GMT""}]","2009-10-22"

@@ -1,0 +1,114 @@
+"cond-mat/9209022","Alessandro Pelizzola","Alessandro Pelizzola and Corrado Topi","Generalized Coherent States for Dynamical Superalgebras","42 pages",,,,"cond-mat",,"  Coherent states for a general Lie superalgebra are defined following the
+method originally proposed by Perelomov. Algebraic and geometrical properties
+of the systems of states thus obtained are examined, with particular attention
+to the possibility of defining a K\""ahler structure over the states
+supermanifold and to the connection between this supermanifold and the
+coadjoint orbits of the dynamical supergroup. The theory is then applied to
+some compact forms of contragradient Lie superalgebras.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 14:54:00 GMT""}]","2007-05-23"
+"cond-mat/9209023","Alessandro Pelizzola","Carla Buzano and Alessandro Pelizzola","Multicritical Points And Reentrant Phenomenon In The BEG Model","14 pages, figures available upon request",,"10.1016/0378-4371(92)90141-C","POLFIS-TH.05.92","cond-mat",,"  The Blume - Emery - Griffiths model is investigated by use of the cluster
+variation method in the pair approximation. We determine the regions of the
+phase space where reentrant phenomenon takes place. Two regions are found,
+depending on the sign of the reduced quadrupole - quadrupole coupling strength
+$\xi$. For negative $\xi$ we find Para-Ferro-Para and Ferro-Para-Ferro-Para
+transition sequences; for positive $\xi$, a Para$_-$-Ferro-Para$_+$ sequence.
+Order parameters, correlation functions and specific heat are given in some
+typical cases. By-products of this work are the equations for the critical and
+tricritical lines.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 14:54:00 GMT""}]","2009-10-22"
+"cond-mat/9209024","Vladimir Privman","Vladimir Privman","Discrete to Continuous-Time Crossover due to Anisotropy in
+  Diffusion-Limited Two-Particle Annihilation Reactions","13 pages, TeX (plain) + 2 figures, Postscript","J.Statist.Phys.72:845-854,1993","10.1007/BF01048035",,"cond-mat",,"  Diffusion-limited reaction A+A->inert with anisotropic hopping on the d=1
+lattice, is solved exactly for a simultaneous updating, discrete time-step
+dynamics. Diffusion-dominated processes slow down as the anisotropy increases.
+For large times or large anisotropy, one can invoke the appropriate continuum
+limits. In these limits the effects of the anisotropy on variation of particle
+density can be absorbed in time rescaling. However, in other regimes, when the
+discreteness of the time steps is nonnegligible, the anisotropy effects are
+nontrivial, although they are always quite small numerically.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 13:36:32 GMT""}]","2014-10-13"
+"hep-lat/9209020","Mark Bowick","Mark Bowick, Paul Coddington, Leping Han, Geoffrey Harris and Enzo
+  Marinari","The Phase Diagram of Fluid Random Surfaces with Extrinsic Curvature","29 pages. There are also 19 figures available from the authors but
+  not included here - sorry","Nucl.Phys. B394 (1993) 791-821","10.1016/0550-3213(93)90230-M","ROM2F-92-48; SU-HEP-4241-517; SCCS-357","hep-lat hep-th",,"  We present the results of a large-scale simulation of a Dynamically
+Triangulated Random Surface with extrinsic curvature embedded in
+three-dimensional flat space. We measure a variety of local observables and use
+a finite size scaling analysis to characterize as much as possible the regime
+of crossover from crumpled to smooth surfaces.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 14:45:00 GMT""}]","2009-10-22"
+"hep-ph/9209250","Greg Anderson","Greg W. Anderson, Stuart Raby, Savas Dimopoulos, and Lawrence Hall","Precise predictions for mt, Vcb and tan","(beta), 13 pages pages of text plus figures and captions.
+  OHSTPY-HEP-92-018, LBL-332817, UCB-PTH-92/28, Stanford-92-25","Phys.Rev.D47:3702-3706,1993","10.1103/PhysRevD.47.R3702",,"hep-ph",,"  The fermion mass and mixing angle predictions of a recently proposed
+framework are investigated for large b and $\tau$ Yukawa couplings. A new
+allowed region of parameters is found for this large $\tan \beta$ case. The two
+predictions which are substantially altered, $m_t$ and $\tan \beta$, are
+displayed, including the dependence on the inputs $|V_{cb}|$, $m_c$, $m_b$ and
+$\alpha_s$. A simple restriction on this framework yields an additional
+prediction, for $|V_{cb}|$. If the b,t, and $\tau$ Yukawas are equal at the GUT
+scale then $|\Vcb|$ is predicted and the top quark mass is constrained to lie
+in the range $\mt = 179. \pm 4.$ GeV.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 02:25:00 GMT""}]","2010-11-01"
+"hep-ph/9209251",,"Rohini M. Godbole, Probir Roy and Xerxes Tata","Tau Signals of R-parity breaking at LEP 200","27 pages in PHYZZX, six figures (not included, available on request).
+  TIFR/TH/92-29,UH-511-751-92,CERN-TH.6613/92","Nucl.Phys. B401 (1993) 67-92","10.1016/0550-3213(93)90298-4",,"hep-ph",,"  The detectability at LEP 200 of explicit $R$-parity breaking by tau-number
+$(L_\tau)$ violating operators is considered. The assumption of
+$L_\tau$-violation is motivated by the relative lack of constraints on such
+couplings but similar considerations apply to explicit $L_e$- or
+$L_\mu$-violation. The $LSP$, now unstable, and not necessarily neutral, decays
+via $L_\tau$-violating modes. Only signals from the production and decays of
+$LSP$ pairs are considered, thereby avoiding any dependence on the sparticle
+mass spectrum. Rather spectacular signals are predicted: spherical events with
+$m$ leptons (usually containing at least one $\tau$) and $n$ jets $(m,n \leq
+4)$, the most characteristic of which are like-sign $\tau\tau$ events. These
+signals are enumerated for each $LSP$ candidate and quantitative estimates are
+provided for the favoured case when the $LSP$ is a neutralino. Other new
+physics signals, which can mimic these signatures, are also briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 12:11:45 GMT""}]","2009-10-22"
+"hep-ph/9209252",,"T.S. Evans","A New Time Contour for Equilibrium Real-Time Thermal Field Theories (7
+  characters altered for email)","9, LaTeX (article style), Imperial/TP/91-92/36","Phys.Rev.D47:4196-4198,1993","10.1103/PhysRevD.47.R4196",,"hep-ph",,"  A new time contour is used to derive real-time thermal field theory. Unlike
+previous path integral approaches, no contributions to the generating
+functional are dropped.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 14:39:00 GMT""},{""version"":""v2"",""created"":""Tue, 22 Sep 1992 17:11:00 GMT""}]","2009-12-30"
+"hep-ph/9209253",,"T.S. Evans","Thermal Bosonic Green Functions Near Zero Energy (6 characters removed
+  for email)","14, LaTeX (article style), Imperial/TP/91-92/37","Can.J.Phys.71:241-247,1993","10.1139/p93-038",,"hep-ph",,"  The properties of the various types of bosonic Green functions at finite
+temperature in the zero energy limit are considered in the light of recent
+work.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 14:40:00 GMT""},{""version"":""v2"",""created"":""Tue, 22 Sep 1992 17:12:00 GMT""}]","2015-06-25"
+"hep-th/9209063",,"M. Temple-Raston and D. Alexander","Differential cross-sections and escape plots for low energy $SU(2)$ BPS
+  magnetic monopole dynamics","21 pages, TeX (3 figs., 1 Table, and 2 colour plates available upon
+  request), Con-92-3","Nucl.Phys. B397 (1993) 195-213","10.1016/0550-3213(93)90341-L",,"hep-th",,"  We compute the low-energy classical differential scattering cross-section for
+BPS $SU(2)$ magnetic monopoles using the geodesic approximation to the actual
+dynamics and 16K parallel processors on a CM2. Numerical experiments suggest
+that the quantum BPS magnetic monopole differential cross-section is
+well-approximated by the classical BPS magnetic monopole differential
+cross-section. In particular, the expected quantum interference effects for
+bosons at scattering angle $\theta=\pi/2$ (CoM frame) are contradicted
+numerically. We argue that this is due to the topology of the classical
+configuration space for these solitons. We also study the scattering and
+bounded classical motions of BPS dyons and their global structure in phase
+space by constructing `escape plots'. The escape plots contain a surprising
+amount of structure, and suggest that the classical dynamics of two BPS $SU(2)$
+magnetic monopoles is chaotic and that there are closed and bounded two dyon
+motions with isolated energies.
+","[{""version"":""v1"",""created"":""Thu, 17 Sep 1992 17:17:00 GMT""}]","2009-10-22"
+"hep-th/9209064",,"Xiang Shen","Quantum Dilaton Gravity in the Light-cone Gauge","16 pages, Use phyzzx, CERN-TH.6633/92","Mod.Phys.Lett.A8:697-710,1993","10.1142/S0217732393000714",,"hep-th",,"  Recently, models of two-dimensional dilaton gravity have been shown to admit
+classical black-hole solutions that exhibit Hawking radiation at the
+semi-classical level. These classical and semi-classical analyses have been
+performed in conformal gauge. We show in this paper that a similar analysis in
+the light--cone gauge leads to the same results. Moreover, quantization of
+matter fields in light--cone gauge can be naturally extended to include
+quantizing the metric field {\it \`a la} KPZ. We argue that this may provide a
+new framework to address many issues associated to black-hole physics.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 10:59:09 GMT""}]","2010-11-01"
+"hep-th/9209065",,"E. Bergshoeff, H.J. Boonstra and M. de Roo","Realisations of $W_3$ Symmetry","14 pages, LATEX, UG-6/92","Phys.Lett. B292 (1992) 307-314","10.1016/0370-2693(92)91180-H",,"hep-th",,"  We perform a systematic investigation of free-scalar realisations of the
+Za\-mo\-lod\-chi\-kov $W_3$ algebra in which the operator product of two
+spin-three generators contains a non-zero operator of spin four which has
+vanishing norm. This generalises earlier work where such an operator was
+required to be absent. By allowing this spin-four null operator we obtain
+several realisations of the $W_3$ algebra both in terms of two scalars as well
+as in terms of an arbitrary number $n$ of free scalars. Our analysis is
+complete for the case of two-scalar realisations.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 13:36:00 GMT""}]","2009-10-22"
+"hep-th/9209068",,"Supriya Kar, Alok Kumar and Gautam Sengupta","Hidden Isometry in a Chiral Gauged WZW Model","11 pages, IP/BBSR/92-67, IISC/CTS/92-8",,,,"hep-th",,"  It is shown that the asymmetric chiral gauging of the WZW models give rise to
+consistent string backgrounds. The target space structure of the ${[{SL(2,\Re)/
+{SO(1,1)}}]}_L \bigotimes {[{SL(2,\Re)/U(1)}]}_R$ model is analyzed and the
+presence of a hidden isometry in this background is demonstrated. A nonlinear
+coordinate transformation is obtained which transforms the asymmetric model to
+the symmetric one, analyzed recently by two of the present authors.
+","[{""version"":""v1"",""created"":""Fri, 18 Sep 1992 15:14:24 GMT""}]","2007-05-23"

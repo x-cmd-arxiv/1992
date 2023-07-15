@@ -1,0 +1,138 @@
+"hep-ph/9205221","Boris Blok","B. Blok and M. Shifman","Nonfactorizable Amplitudes in Weak Nonleptonic Decays of Heavy Mesons","22 pages, report NSF-92-76, TPI-MINN-92/22-T","Nucl.Phys.B389:534-548,1993","10.1016/0550-3213(93)90330-R",,"hep-ph",,"  We discuss nonfactorizable $1/N_c$ contributions in the amplitudes of
+non-leptonic exclusive decays of the type $B\rightarrow D\pi$ ($N_c$ is the
+number of colors). In a certain kinematical limit rather reliable estimates are
+possible. It is demonstrated that the nonfactorizable parts are of the same
+order as the factorizable $1/N_c$ parts of the ampiltudes, and have the
+opposite sign. Thus, an approximate rule of discarding $1/N_c$ corrections in
+the nonleptonic exclusive decays emerges dynamically. It is shown that this
+rule is not exact and the degree of compensation is different in different
+channels.
+  Our predictions make use of the fact that a key matrix element that measures
+deviations from factorization can be determined using the heavy quark effective
+theory.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 01:45:00 GMT""}]","2010-11-01"
+"hep-ph/9205222","Ferenc Csikor","F. Csikor and Z.Fodor","Constraints on Mirror Fermion Mixing Angles from Anomalous Magnetic
+  Moment Data","10 pages, 2 figures (not included), Latex file; ITP-BUDAPEST REPORT
+  NO. 487","Phys.Lett. B287 (1992) 358-362","10.1016/0370-2693(92)90996-H",,"hep-ph",,"  The new contributions to the electron (muon) anomalous magnetic moment
+arising in mirror fermion theories have been calculated. Imposing the
+experimental constraint lowers the current upper bound on the ordinary - mirror
+lepton mixing angles by a factor of 50 making predictions for mirror lepton
+production at HERA undetectably small. A way out is to allow for different
+mixing angles of the L and R field components. Choosing very small right mixing
+angles compatibility with the anomalous magnetic moment measurement may be
+easily maintained, while choosing left mixing angles close to the upper limits
+yields still reasonable HERA cross-sections.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 07:40:25 GMT""}]","2009-10-22"
+"hep-th/9205040","Patrick Dorey","Patrick Dorey","Partition Functions, Intertwiners and the Coxeter Element","18 pages","Int.J.Mod.Phys. A8 (1993) 193-208","10.1142/S0217751X93000084","Saclay preprint SPhT/92-053","hep-th",,"  The partition functions of Pasquier models on the cylinder, and the
+associated intertwiners, are considered. It is shown that earlier results due
+to Saleur and Bauer can be rephrased in a geometrical way, reminiscent of
+formulae found in certain purely elastic scattering theories. This establishes
+the positivity of these intertwiners in a general way and elucidates
+connections between these objects and the finite subgroups of SU(2). It also
+offers the hope that analogous geometrical structures might lie behind the
+so-far mysterious results found by Di Francesco and Zuber in their search for
+generalisations of these models.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 16:01:45 GMT""}]","2015-06-26"
+"hep-th/9205041",,"Albrecht Klemm and Stefan Theisen","Considerations of One-Modulus Calabi-Yau Compactifications: Picard-Fuchs
+  Equations, K\""ahler Potentials and Mirror Maps","25 pages (+ 6 figures not included, available in postscript)","Nucl.Phys.B389:153-180,1993","10.1016/0550-3213(93)90289-2","TUM-TH-143-92, KA-THEP-03/92","hep-th",,"  We consider Calabi-Yau compactifications with one K\""ahler modulus. Following
+the method of Candelas et al. we use the mirror hypothesis to solve the quantum
+theory exactly in dependence of this modulus by performing the calculation for
+the corresponding complex structure deformation on the mirror manifold. Here
+the information is accessible by techniques of classical geometry. It is
+encoded in the Picard-Fuchs differential equation which has to be supplemented
+by requirements on the global properties of its solutions.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 17:37:13 GMT""}]","2010-11-01"
+"hep-th/9205042",,"Peter Suranyi","A New Field Theoretic Approach to Criticality","22 pages","Nucl.Phys. B408 (1993) 535-550","10.1016/0550-3213(93)90378-3",,"hep-th hep-lat",,"  A reorganized perturbation expansion with a propagator of soft infrared
+behavior is used to study the critical behavior of the mass gap. The condition
+of relativistic covariance fixes the form of the soft propagator. Finite
+approximants to the correlation critical exponent can be obtained in every
+order of the modified, soft perturbation expansion. Alternatively, a convergent
+series of exponents in large orders of the soft perturbation expansion is
+provided by the renormalization group in all spatial dimensions, $1\leq
+D\leq3$. The result of the $\epsilon$-expansion is recovered in the
+$D\rightarrow 3 $ limit.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 19:44:53 GMT""}]","2009-10-22"
+"hep-th/9205043","Joe Polchinski","Joseph Polchinski and Zhu Yang","High Temperature Partition Function of the Rigid String","7 pages","Phys.Rev.D46:3667-3669,1992","10.1103/PhysRevD.46.3667","UTTG-08-92, UR-1254, ER-40685-706","hep-th",,"  We find that the high temperature limit of the free energy per unit length
+for the rigid string agrees dimensionally with that of the QCD string (unlike
+the Nambu-Goto string). The sign, and in fact the phase, do not agree. While
+this may be a clue to a string theory of QCD, we note that the problem of the
+fourth derivative action makes it impossible for the rigid string to be a
+correct description.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 04:46:55 GMT""}]","2009-10-09"
+"hep-th/9205044","Kuramoto","T. Kuramoto","Quantum Hamiltonian Reduction of Super Kac-Moody Algebra II","16 pages","Nucl.Phys. B411 (1994) 821-838","10.1016/0550-3213(94)90472-3","YNUE-PH-92-01","hep-th",,"  The quantum Hamiltonian reduction on the OSp(1,2) super Kac-Moody algebra is
+described in the BRST formalism. Using a free field representation of the KM
+currents, the super Kac-Moody algebra is shown to be reduced to a
+superconformal one via the Hamiltonian reduction. This reduction is manifestly
+supersymmetric because of supersymmetric constraints imposed on the algebra.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 06:18:42 GMT""}]","2009-10-22"
+"hep-th/9205045",,"Silvia Penati and Daniela Zanon","Supersymmetric, Integrable Toda Field Theories: The B(1,1) Model","14 pages","Phys.Lett. B288 (1992) 297-305","10.1016/0370-2693(92)91107-K","IFUM 421/FT","hep-th",,"  We study the two-dimensional supersymmetric Toda theory based on the Lie
+superalgebra $B(1,1) \equiv Osp(3|2)$ and construct its quantum W-currents. We
+also investigate the fermionic affinization of this model: we show that despite
+the non-unitary form of the Lagrangian the $B^{(1)}(1,1)$ theory has a real
+particle mass spectrum which is not renormalized at one-loop. We construct the
+first higher--spin conserved current, prove its conservation to all-loop order,
+compute one-loop corrections to the corresponding charge and check consistency
+between charge and mass renormalization.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 12:17:00 GMT""}]","2009-10-22"
+"hep-th/9205046","Dieter L\""ust","C. Kounnas and D. Luest","Cosmological String Backgrounds from Gauged WZW Models","11 pages","Phys.Lett.B289:56-60,1992","10.1016/0370-2693(92)91361-C","CERN-TH.6494/92","hep-th",,"  We discuss the four-dimensional target-space interpretation of bosonic
+strings based on gauged WZW models, in particular of those based on the
+non-compact coset space $SL(2,{\bf R})\times SO(1,1)^2 /SO(1,1)$. We show that
+these theories lead, apart from the recently broadly discussed black-hole type
+of backgrounds, to cosmological string backgrounds, such as an expanding
+Universe. Which of the two cases is realized depends on the sign of the level
+of the corresponding Kac-Moody algebra. We discuss various aspects of these new
+cosmological string backgrounds.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 13:35:37 GMT""},{""version"":""v2"",""created"":""Mon, 18 May 1992 10:55:54 GMT""}]","2009-10-07"
+"hep-th/9205047","E. Elizalde","E. Elizalde and S.D. Odintsov (Department E.C.M., Faculty of Physics,
+  University of Barcelona, Spain)","Renormalization group equations in curved space-time with non-trivial
+  Topology","7 Pages","Europhys.Lett.19:261-266,1992","10.1209/0295-5075/19/4/003","UB-ECM-PF 92/7","hep-th",,"  Renormalization group equations for massless GUT's in curved space-time with
+non-trivial topology are formulated. The asymptotics of the effective action
+both at high and low energies are obtained. It is shown that the Casimir energy
+contribution at high curvature (early Universe) becomes non-essential in the
+effective action.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 15:28:03 GMT""}]","2009-10-22"
+"hep-th/9205048","E. Elizalde","E. Elizalde and S.D.Odintsov (Department E.C.M., Faculty of Physics,
+  University of Barcelona, Spain)","Higher derivative quantum gravity with torsion in the conformally
+  Self-Dual Limit","10 pages","Int.J.Mod.Phys.D2:51-58,1993","10.1142/S0218271893000040","UB-ECM-PF 92/12","hep-th",,"  The path integral for higher-derivative quantum gravity with torsion is
+considered. Applying the methods of two-dimensional quantum gravity, this path
+integral is analyzed in the limit of conformally self-dual metrics. A scaling
+law for fixed-volume geometry is obtained.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 15:30:12 GMT""}]","2009-09-17"
+"hep-th/9205049","E. Elizalde","E. Elizalde and S.D. Odintsov (Department E.C.M., Faculty of Physics,
+  University of Barcelona, Spain)","Spontaneous compactification in 2D induced quantum gravity","11 PAGES","Mod.Phys.Lett.A7:2369-2376,1992","10.1142/S0217732392003797","UB-ECM-PF 92/6","hep-th",,"  Spontaneous compactification ---on a $R^1\times S^1$ background--- in 2D
+induced quantum gravity (considered as a toy model for more fundamental quantum
+gravity) is analyzed in the gauge-independent effective action formalism. It is
+shown that such compactification is stable, in contradistinction to
+multidimensional quantum gravity on a $R^D\times S^1 \ (D>2)$ background
+---which is known to be one-loop unstable.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 15:26:23 GMT""}]","2009-09-17"
+"hep-th/9205050","E. Elizalde","E. Elizalde and S.D. Odintsov (Department E.C.M., Faculty of Physics,
+  University of Barcelona, Spain)","Effective potential and stability of the rigid membrane","15 PAGES","Phys.Rev.D47:2497-2503,1993","10.1103/PhysRevD.47.2497","EB-ECM-PF 92/11","hep-th",,"  The calculation of the effective potential for fixed-end and toroidal rigid
+$p$-branes is performed in the one-loop as well as in the $1/d$ approximations.
+The analysis of the involved zeta-functions (of inhomogeneous Epstein type)
+which appear in the process of regularization is done in full detail.
+Assymptotic formulas (allowing only for exponentially decreasing errors of
+order $\leq 10^{-3}$) are found which carry all the dependences on the basic
+parameters of the theory explicitly. The behaviour of the effective potential
+(specified to the membrane case $p=2$) is investigated, and the extrema of this
+effective potential are obtained.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 15:29:17 GMT""}]","2009-09-17"
+"hep-th/9205051",,"Ramzi R. Khuri","A Multimonopole Solution in String Theory","10 pages","Phys.Lett. B294 (1992) 325-330","10.1016/0370-2693(92)91528-H",,"hep-th",,"  A multimonopole solution in Yang-Mills field theory is obtained by a
+modification of the 't Hooft ansatz for a four-dimensional instanton. Although
+this solution has divergent action near each source, it can be used to
+construct an exact finite action multimonopole solution of heterotic string
+theory, in which the divergences from the Yang-Mills sector are precisely
+cancelled by those from the gravity sector.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 18:17:34 GMT""},{""version"":""v2"",""created"":""Fri, 15 May 1992 19:13:21 GMT""}]","2009-10-22"
+"hep-th/9205052",,"Ramzi R. Khuri","Scattering of String Monopoles","9 pages","Phys.Lett. B294 (1992) 331-336","10.1016/0370-2693(92)91529-I",,"hep-th",,"  In the low-velocity limit, multi-soliton solutions trace out geodesics in the
+static solution manifold with distance defined by a metric on moduli space. For
+the recently constructed multimonopole solutions of heterotic string theory, we
+obtain a flat metric to leading order in the impact parameter. This result
+agrees with the trivial scattering predicted by a test monopole calculation.
+","[{""version"":""v1"",""created"":""Thu, 14 May 1992 18:22:07 GMT""},{""version"":""v2"",""created"":""Fri, 15 May 1992 19:15:28 GMT""}]","2009-10-22"
+"math/9205208","Shelah Office","Martin Goldstern, Saharon Shelah","Many simple cardinal invariants",,"Arch. Math. Logic 32 (1993), 203--221",,"Shelah [GoSh:448]","math.LO",,"  For g < f in omega^omega we define c(f,g) be the least number of uniform
+trees with g-splitting needed to cover a uniform tree with f-splitting. We show
+that we can simultaneously force aleph_1 many different values for different
+functions (f,g). In the language of Blass: There may be aleph_1 many distinct
+uniform Pi^0_1 characteristics.
+","[{""version"":""v1"",""created"":""Fri, 15 May 1992 00:00:00 GMT""}]","2016-09-06"

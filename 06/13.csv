@@ -1,0 +1,77 @@
+"alg-geom/9206005","Valery Alexeev","Valery Alexeev","Two Two-dimensional Terminations","25 pages, 4 figures, LaTeX 2.09",,,,"alg-geom math.AG",,"  Varieties with log terminal and log canonical singularities are considered in
+the Minimal Model Program, see \cite{...} for introduction. In
+\cite{shokurov:hyp} it was conjectured that many of the interesting sets,
+associated with these varieties have something in common: they satisfy the
+ascending chain condition, which means that every increasing chain of elements
+terminates. Philosophically, this is the reason why two main hypotheses in the
+Minimal Model Program: existence and termination of flips should be true and
+are possible to prove.
+  In this paper we prove that the following two sets satisfy the ascending
+chain condition:
+  1. The set of minimal log discrepancies for $K_X+B$ where $X$ is a surface
+with log canonical singularities.
+  2. The set of groups $(b_1,...b_s)$ such that there is a surface $X$ with log
+canonical and numerically trivial $K_X+\sum b_jB_j$. The order on such groups
+is defined in a natural way.
+","[{""version"":""v1"",""created"":""Fri, 12 Jun 1992 20:13:52 GMT""}]","2015-06-30"
+"cond-mat/9206004","Jorge Vinals","Martin-D. Lacasse (1), Jorge Vinals (2), Martin Grant(1) ((1) Centre
+  for the Physics of Materials and Department of Physics, McGill University,
+  Rutherford Building, Montr\'eal, Qu\'ebec, Canada (2) Supercomputer
+  Computations Research Institute, Florida State University, Tallahassee,
+  Florida)","New Dynamic Monte Carlo Renormalization Group Method",,"Phys.Rev. B47 (1993) 5646","10.1103/PhysRevB.47.5646","FSU-SCRI-92-97","cond-mat",,"  The dynamical critical exponent of the two-dimensional spin-flip Ising model
+is evaluated by a Monte Carlo renormalization group method involving a
+transformation in time. The results agree very well with a finite-size scaling
+analysis performed on the same data. The value of $z = 2.13 \pm 0.01$ is
+obtained, which is consistent with most recent estimates.
+","[{""version"":""v1"",""created"":""Sat, 13 Jun 1992 00:20:57 GMT""}]","2009-10-22"
+"hep-ph/9206220",,"Michael Dine","Electroweak Baryogenesis: An Overview (Where are We Now?)","17 pages (figures not included), SCIPP 92/21 Some tex macros fixed.
+  Apologies to those who tried earlier",,,,"hep-ph",,"  It now seems plausible that the observed baryon asymmetry may have been
+produced at the electroweak phase transition. We review the considerations
+which lead to this conclusion, focusing on the obstacles to making reliable
+estimates. These arise from incomplete knowledge of baryon-violating rates near
+the phase transition, our limited understanding of the phase transition itself,
+and incomplete understanding of the mechanisms which actually lead to an
+asymmetry.
+","[{""version"":""v1"",""created"":""Fri, 12 Jun 1992 19:52:00 GMT""},{""version"":""v2"",""created"":""Tue, 16 Jun 1992 00:31:00 GMT""}]","2008-02-03"
+"hep-th/9206055","Tom Banks","T. Banks and M. O'Loughlin","Classical and Quantum Production of Cornucopions At Energies Below
+  $10^{18}$ GeV",,"Phys.Rev. D47 (1993) 540-553","10.1103/PhysRevD.47.540",,"hep-th hep-ph",,"  We argue that the paradoxes associated with infinitely degenerate states,
+which plague relic particle scenarios for the endpoint of black hole
+evaporation, may be absent when the relics are horned particles. Most of our
+arguments are based on simple observations about the classical geometry of
+extremal dilaton black holes, but at a crucial point we are forced to speculate
+about classical solutions to string theory in which the infinite coupling
+singularity of the extremal dilaton solution is shielded by a condensate of
+massless modes propagating in its infinite horn. We use the nonsingular $c=1$
+solution of (1+1) dimensional string theory as a crude model for the properties
+of the condensate. We also present a brief discussion of more general relic
+scenarios based on large relics of low mass.
+","[{""version"":""v1"",""created"":""Fri, 12 Jun 1992 19:26:31 GMT""},{""version"":""v2"",""created"":""Wed, 23 Sep 1992 13:24:41 GMT""}]","2009-10-22"
+"hep-th/9206056","Mark Srednicki","Mark Srednicki","Is Purity Eternal?","12 pages, in Plain Tex; section 3 on Lorentz covariance expanded and
+  improved in response to year-long correspondence with the referee, but the
+  conclusions are unchanged; UCSBTH-92-22","Nucl.Phys. B410 (1993) 143-154","10.1016/0550-3213(93)90576-B",,"hep-th gr-qc",,"  Phenomenological and formal restrictions on the evolution of pure into mixed
+states are discussed. In particular, it is argued that, if energy is conserved,
+loss of purity is incompatible with the weakest possible form of Lorentz
+covariance.
+","[{""version"":""v1"",""created"":""Fri, 12 Jun 1992 22:48:07 GMT""},{""version"":""v2"",""created"":""Thu, 8 Jul 1993 22:47:12 GMT""}]","2009-10-22"
+"hep-th/9206057","Tetsuo Deguchi","Tetsuo Deguchi and Yasuhiro Akutsu","Colored Vertex Models, Colored IRF Models and Invariants of Trivalent
+  Colored Graphs","39 pages, January 1992",,"10.1143/JPSJ.62.19",,"hep-th",,"  We present formulas for the Clebsch-Gordan coefficients and the Racah
+coefficients for the root of unity representations ($N$-dimensional
+representations with $q^{2N}=1$) of $U_q(sl(2))$. We discuss colored vertex
+models and colored IRF (Interaction Round a Face) models from the color
+representations of $U_q(sl(2))$. We construct invariants of trivalent colored
+oriented framed graphs from color representations of $U_q(sl(2))$.
+","[{""version"":""v1"",""created"":""Sat, 13 Jun 1992 06:35:44 GMT""}]","2009-10-22"
+"hep-th/9206058","Husain Viqar","Viqar Husain","Ashtekar variables, self-dual metrics and w-infinity","8 pages (plain tex), (revised and expanded)","Class.Quant.Grav.10:543-550,1993","10.1088/0264-9381/10/3/014","IC/92/103","hep-th",,"  The self-duality equations for the Riemann tensor are studied using the
+Ashtekar Hamiltonian formulation for general relativity. These equations may be
+written as dynamical equations for three divergence free vector fields on a
+three dimensional surface in the spacetime. A simplified form of these
+equations, describing metrics with a one Killing field symmetry are written
+down, and it shown that a particular sector of these equations has a
+Hamiltonian form where the Hamiltonian is an arbitrary function on a
+two-surface. In particular, any element of the $w_\infty$ algebra may be chosen
+as a the Hamiltonian. For a special choice of this Hamiltonian, an infinite set
+of solutions of the self-duality equations are given. These solutions are
+parametrized by elements of the $w_\infty$ algebra, which in turn leads to an
+explicit form of four dimensional complex self-dual metrics that are in one to
+one correspondence with elements of this algebra.
+","[{""version"":""v1"",""created"":""Sat, 13 Jun 1992 14:25:37 GMT""},{""version"":""v2"",""created"":""Thu, 18 Jun 1992 15:33:43 GMT""},{""version"":""v3"",""created"":""Tue, 15 Sep 1992 13:23:30 GMT""}]","2010-04-06"

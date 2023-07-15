@@ -1,0 +1,70 @@
+"hep-ph/9203225",,"Peter Cho","Chiral perturbation theory for hadrons containing a heavy quark: the
+  sequel","12 pages (2 figures not included)","Phys.Lett.B285:145-152,1992","10.1016/0370-2693(92)91314-Y",,"hep-ph",,"  Charm and bottom mesons and baryons are incorporated into a low energy chiral
+Lagrangian. Interactions of the heavy hadrons with light octet Goldstone bosons
+are studied in a framework which represents a synthesis of chiral perturbation
+theory and the heavy quark effective theory. The differential decay rate for
+the semileptonic process $\LBzero \to \Sigma_c^{++} + e^- + \bar{\nu}_e +
+\pi^-$ is calculated at the zero recoil point using this hybrid formalism.
+","[{""version"":""v1"",""created"":""Mon, 30 Mar 1992 20:23:14 GMT""}]","2010-11-01"
+"hep-ph/9203226","Shigemot","M. Kenmoku, E. Kitajima, Y. Okamoto and K. Shigemoto","Rotation Curves of Spiral Galaxies and Large Scale Structure of Universe
+  under Generalized Einstein Action","16 pages","Int. J. Mod. Phys. D2 (1993) 123-134","10.1142/S0218271893000118",,"hep-ph",,"  We consider an addition of the term which is a square of the scalar curvature
+to the Einstein-Hilbert action. Under this generalized action, we attempt to
+explain i) the flat rotation curves observed in spiral galaxies, which is
+usually attributed to the existence of dark matter, and ii) the contradicting
+observations of uniform cosmic microwave background and non-uniform galaxy
+distributions against redshift. For the former, we attain the flatness of
+velocities, although the magnitudes remain about half of the observations. For
+the latter, we obtain a solution with oscillating Hubble parameter under
+uniform mass distributions. This solution leads to several peaks of galaxy
+number counts as a function of redshift with the first peak corresponding to
+the Great Wall.
+","[{""version"":""v1"",""created"":""Tue, 31 Mar 1992 11:53:46 GMT""},{""version"":""v2"",""created"":""Mon, 6 Apr 1992 09:01:32 GMT""}]","2009-10-22"
+"hep-th/9203079",,"Abhay Ashtekar, Carlo Rovelli and Lee Smolin","Weaving a classical geometry with quantum threads","9 pages, no figures","Phys.Rev.Lett.69:237-240,1992","10.1103/PhysRevLett.69.237",,"hep-th",,"  Results that illuminate the physical interpretation of states of
+nonperturbative quantum gravity are obtained using the recently introduced loop
+variables. It is shown that: i) While local operators such as the metric at a
+point may not be well-defined, there do exist {\it non-local} operators, such
+as the area of a given 2-surface, which can be regulated diffeomorphism
+invariantly and which are finite {\it without} renormalization; ii)there exist
+quantum states which approximate a given flat geometry at large scales, but
+such states exhibit a discrete structure at the Planck scale; iii) these
+results are tied together by the fact that the spectra of the operators that
+measure the areas of surfaces are quantized in integral units of the Planck
+area.
+","[{""version"":""v1"",""created"":""Mon, 30 Mar 1992 17:01:00 GMT""}]","2011-04-20"
+"hep-th/9203080",,"H. Nishino, S.J. Gates, Jr, and S.V. Ketov","Supersymmetric Self-Dual Yang-Mills and Supergravity as Background of
+  Green-Schwarz Superstring","11 pages","Phys.Lett. B307 (1993) 331-338","10.1016/0370-2693(93)90229-B",,"hep-th",,"  We present the Green-Schwarz $\s\-$model coupled to the $N=1$ {\it
+{supersymmetric}} Yang-Mills and supergravity in a four-dimensional space-time
+with the indefinite signature $(+,+,-,-)$. We first confirm the
+$\k\-$invariance of the Green-Schwarz action, and show that all the
+$\b\-$functions for the backgrounds vanish consistently after the use of their
+superfield equations. Subsequently, we inspect the supersymmetric {\it
+self-duality} conditions, that have been developed in our previous paper on the
+Yang-Mills and supergravity backgrounds. Remarkably, the Majorana-Weyl spinor
+dictating the {\it supersymmetric self-duality} conditions is consistent with
+the couplings of Green-Schwarz superstring. Such Green-Schwarz superstring is
+supposed to be the underlying theory of the {\it supersymmetric self-dual}
+Yang-Mills theory, which is conjectured to generate {\it all} exactly soluble
+supersymmetric systems in lower dimensions.
+","[{""version"":""v1"",""created"":""Mon, 30 Mar 1992 16:24:00 GMT""}]","2012-08-27"
+"hep-th/9203081",,"S.V. Ketov, S.J. Gates, Jr. and H. Nishino","Majorana-Weyl Spinors and Self-Duality Gauge Fields in 2+2 Dimensions","15 pages","Phys.Lett. B307 (1993) 323-330","10.1016/0370-2693(93)90228-A",,"hep-th",,"  The properties of Dirac gamma matrices in a four-dimensional space-time with
+the $(2,2)$ signature are studied. The basic spinors are classified, and the
+existence of Majorana-Weyl spinors is noted. Supersymmetry in $2 + 2$
+dimensions is discussed, and the existence of the {\it real chiral} scalar
+supermultiplet is discovered. Supersymmetric {\it self-dual} Yang-Mills
+theories and {\it self-dual} supergravity model in $2 + 2$ dimensions, that are
+apparently relevant to integrable systems, are formulated for the first time.
+","[{""version"":""v1"",""created"":""Mon, 30 Mar 1992 17:48:00 GMT""}]","2012-08-27"
+"hep-th/9203082",,"Dan Kabat and Miguel Ortiz","Eikonal Quantum Gravity and Planckian Scattering","26 pages","Nucl.Phys.B388:570-592,1992","10.1016/0550-3213(92)90627-N",,"hep-th",,"  Various approaches to high energy forward scattering in quantum gravity are
+compared using the eikonal approximation. The massless limit of the eikonal is
+shown to be equivalent to other approximations for the same process,
+specifically the semiclassical calculation due to G. 't Hooft and the
+topological field theory due to H. and E. Verlinde. This comparison clarifies
+these previous results, as it is seen that the amplitude arises purely from a
+linearised gravitational interaction. The interpretation of poles in the
+scattering amplitude is also clarified.
+","[{""version"":""v1"",""created"":""Mon, 30 Mar 1992 18:52:10 GMT""}]","2008-11-26"
+"hep-th/9203083","Jim Horne","James H. Horne and Gary T. Horowitz","Rotating Dilaton Black Holes","14 pages","Phys.Rev.D46:1340-1346,1992","10.1103/PhysRevD.46.1340",,"hep-th",,"  It is shown that an arbitrarily small amount of angular momentum can
+qualitatively change the properties of extremal charged black holes coupled to
+a dilaton. In addition, the gyromagnetic ratio of these black holes is computed
+and an exact rotating black string solution is presented.
+","[{""version"":""v1"",""created"":""Mon, 30 Mar 1992 17:14:10 GMT""},{""version"":""v2"",""created"":""Fri, 3 Apr 1992 22:53:08 GMT""}]","2008-11-26"

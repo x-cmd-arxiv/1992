@@ -1,0 +1,203 @@
+"alg-geom/9212003","Gary Kennedy","Susan Jane Colley and Gary Kennedy","The enumeration of simultaneous higher-order contacts between plane
+  curves","32 pages, AmS-TeX v2.1 (Revised statement and proof of one lemma;
+  other minor changes.)",,,,"alg-geom math.AG",,"  Using the Semple bundle construction, we derive an intersection-theoretic
+formula for the number of simultaneous contacts of specified orders between
+members of a generic family of degree $d$ plane curves and finitely many fixed
+curves. The contacts counted by the formula occur at nonsingular points of both
+the members of the family and the fixed curves.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 21:07:44 GMT""},{""version"":""v2"",""created"":""Wed, 30 Jun 1993 03:44:02 GMT""}]","2008-02-03"
+"cond-mat/9212011",,"M.C. Marchetti (Syracuse University) and D.R. Nelson (Harvard
+  University)","Translational Correlations in the Vortex Array at the Surface of a
+  Type-II Superconductor","23 pages, 1 figure (not included), harvmac.tex macro needed (e-mail
+  requests to marchetti@suhep.phy.syr.edu SU-CM-92-018",,"10.1103/PhysRevB.47.12214",,"cond-mat",,"  We discuss the statistical mechanics of magnetic flux lines in a
+finite-thickness slab of type-II superconductor. The long wavelength properties
+of a flux-line liquid in a slab geometry are described by a hydrodynamic free
+energy that incorporates the boundary conditions on the flux lines at the
+sample's surface as a surface contribution to the free energy. Bulk and surface
+weak disorder are modeled via Gaussian impurity potentials. This free energy is
+used to evaluate the two-dimensional structure factor of the flux-line tips at
+the sample surface. We find that surface interaction always dominates in
+determining the decay of translational correlations in the asymptotic
+long-wavelength limit. On the other hand, such large length scales have not
+been probed by the decoration experiments. Our results indicate that the
+translational correlations extracted from the analysis of the Bitter patterns
+are indeed representative of behavior of flux lines in the bulk.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 19:45:00 GMT""}]","2009-10-22"
+"cond-mat/9212012","Malte Henkel","Laurent Frachebourg and Malte Henkel","Exact Correlation Function at the Lifshitz Points of the Spherical Model","Latex 23 pages, (2 figures not included) -- a Latex bug was fixed for
+  v2","Physica A195:577,1993","10.1016/0378-4371(93)90175-4","Geneva preprint UGVA-DPT 1992/12-796","cond-mat hep-lat hep-th math-ph math.MP","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The spin-spin correlation function of the spherical model being precisely at
+an anisotropic Lifshitz point of arbitrary order is calculated exactly. The
+results are in agreement with scaling. The scaling function is shown to be
+universal. The direction-dependent long-range correlations may change from
+ferromagnetic to antiferromagnetic behaviour and back as the dimension is
+varied. The form of the scaling function is compared to predictions following
+from local scale invariance for strongly anisotropic critical systems.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 11:54:00 GMT""},{""version"":""v2"",""created"":""Fri, 23 Sep 2011 09:38:40 GMT""}]","2011-09-26"
+"cond-mat/9212013",,"Sumathi Rao and Diptiman Sen","Bosonic Mean Field Theory of the Spiral Phases of Heisenberg
+  Antiferromagnets on a Chain","plain.tex, TIFR/TH/92-66, IISc/CTS/92-12","Phys.Rev. B48 (1993) 12763-12767","10.1103/PhysRevB.48.12763",,"cond-mat",,"  We develop a novel bosonic mean field theory to describe the spiral phases of
+a Heisenberg antiferromagnet on a one-dimensional chain, in terms of three
+bosons at each site. The ground state is disordered and for large values of the
+spin $S$, two different and exponentially small energy gaps are found. The
+spin-spin correlation function is computed and is shown to decay exponentially
+at large distances. Our mean field theory is also shown to be exact in a
+large-$N$ generalization.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 14:35:11 GMT""},{""version"":""v2"",""created"":""Wed, 6 Jan 1993 13:37:07 GMT""}]","2009-10-22"
+"cond-mat/9212014","Robert Lacaze","O. Golinelli, Th. Jolicoeur, R. Lacaze","Dynamical Properties of a Haldane Gap Antiferromagnet","14 pages, SphT/92-135 plain tex with Postscript figures included.
+  Postscipt file available by anonymous ftp at amoco.saclay.cea.fr by get
+  pubs.spht/92-135.ps local_file (290 kb) or get pubs.spht/92-135.ps.Z
+  local_file.Z (compressed - 120 kb)","J.Phys.Condens.Matter 5 (1993) 1399-1410","10.1088/0953-8984/5/9/024",,"cond-mat hep-lat",,"  We study the dynamic spin correlation function of a spin one
+antiferromagnetic chain with easy-plane single-ion anisotropy. We use exact
+diagonalization by the Lancz\H os method for chains of lengths up to N=16
+spins. We show that a single-mode approximation is an excellent description of
+the dynamical properties. A variational calculation allows us to clarify the
+nature of the excitations. The existence of a two-particle continuum near zero
+wavevector is clearly seen both in finite-size effects and in the dynamical
+structure factor. The recent neutron scattering experiments on the
+quasi-one-dimensional antiferromagnet NENP are fully explained by our results.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 15:00:16 GMT""}]","2009-10-22"
+"gr-qc/9212005",,"Harald H. Soleng","Dark Matter and Non-Newtonian Gravity From General Relativity on a
+  Stringy Background","10 pages, LATEX",,,"UPR-0547-T","gr-qc",,"  An exact solution of Einstein's field equations for a static spherically
+symmetric medium with a radially boost invariant energy-momentum tensor is
+presented. In the limit of an equation of state corresponding to a distribution
+of radially directed strings there is a $1/r$ correction to Newton's force law.
+At large distances and small accelerations this law coincides with the
+phenomenological force law invented by Milgrom in order to explain the flat
+rotation curves of galaxies without introducing dark matter. The present model
+explaines why the critical acceleration of Milgrom is of the same order of
+magnitude as the Hubble parameter.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 15:41:16 GMT""}]","2007-05-23"
+"hep-lat/9212007","Markus Plagge","Markus Plagge","INvestigation Of The Biconjugate Gradient Algorithm For The Inversion Of
+  Fermion Matrices","18 Pages",,,"MS-TPI-92-027","hep-lat",,"  An algorithm for the numerical inversion of large matrices, the biconjugate
+gradient algorithm (BGA), is investigated in view of its use for Monte Carlo
+simulations of fermionic field theories. It is compared with the usual
+conjugate gradient algorithm (CGA) and the minimal residue algorithm (MRA)
+within a Higgs-Yukawa model including mirror fermions. For this model it can be
+shown that BGA represents an improvement under certain circumstances where the
+other two slow down.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 16:08:47 GMT""}]","2007-05-23"
+"hep-lat/9212008","Arifa Ali Khan","Arifa Ali Khan (HLRZ Juelich)","Renormalization Group Flow in non-compact QED with two charged staggered
+  Fermions","4 pages, 4 PostScript figures appended, uses espcrc2.sty and macro
+  psfig.tex. Talk presented at Lattice '92","Nucl.Phys.Proc.Suppl. 30 (1993) 733-736","10.1016/0920-5632(93)90313-U",,"hep-lat",,"  We have investigated a system with two sets of staggered fermions with
+charges 1 and -1/2 coupling to a non-compact U(1) gauge field in 4 dimensions.
+The model exhibits breaking of chiral symmetries of both fermions at different
+values of beta. Chiral condensates, renormalized fermion masses and
+renormalized charges have been measured. The renormalized charges show
+agreement with one-loop perturbation theory. We examine surfaces of constant
+renormalized charges in the space of bare parameters.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 16:59:57 GMT""}]","2009-10-22"
+"hep-ph/9212237","Bern","Z. Bern, L. Dixon and D.A. Kosower","The Five Gluon Amplitude and One-Loop Integrals","(talk presented at DPF92), LaTeX, 6 pages, CERN-Th.6733/92,
+  SLAC-PUB-6012, UCLA/92/TEP/47",,,,"hep-ph",,"  We review the conventional field theory description of the string motivated
+technique. This technique is applied to the one-loop five-gluon amplitude. To
+evaluate the amplitude a general method for computing dimensionally regulated
+one-loop integrals is outlined including results for one-loop integrals
+required for the pentagon diagram and beyond. Finally, two five-gluon helicity
+amplitudes are given.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 00:28:01 GMT""}]","2007-05-23"
+"hep-ph/9212238","Alkofer","R. Alkofer and H. Reinhardt","The chiral anomaly and electromagnetic pion decay in effective quark
+  models","6 pages, UNITUE-THEP-19/1992",,,,"hep-ph",,"  Within renormalizable theories the triangle diagram correctly reproduces the
+lifetime of the neutral pion $\pi ^0$. However, effective relativistic quark
+models which contain a second scale besides the quark mass seem unable to give
+the correct value for this quantity. In the Instanton Liquid Model this second
+scale is the mean instanton radius, in the NJL model it is the cutoff. The role
+of the cutoff within a path integral derivation of the chiral anomaly is
+clarified and the importance of higher order terms contributing to the $\pi ^0$
+decay width and other anomalous processes is pointed out.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 16:30:21 GMT""}]","2007-05-23"
+"hep-ph/9212239",,"Edward Farhi, Valentin V. Khoze and Robert Singleton Jr","Minkowski Space Non-Abelian Classical Solutions with Non-Integer Winding
+  Number Change","42 p. Plain TeX, 11 Fig. (included), CTP# 2138","Phys.Rev.D47:5551-5564,1993","10.1103/PhysRevD.47.5551",,"hep-ph hep-th",,"  Working in a spherically symmetric ansatz in Minkowski space we discover new
+solutions to the classical equations of motion of pure $SU(2)$ gauge theory.
+These solutions represent spherical shells of energy which at early times move
+inward near the speed of light, excite the region of space around the origin at
+intermediate times and move outward at late times. The solutions change the
+winding number in bounded regions centered at the origin by non-integer
+amounts. They also produce non-integer topological charge in these regions. We
+show that the previously discovered solutions of Luscher and Schechter also
+have these properties.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 22:08:19 GMT""}]","2010-11-19"
+"hep-ph/9212240","Bludman","Sidney A. Bludman","Cosmological and Astrophysical Bounds on Neutrino Masses and Lifetimes","4 pages, Latex",,,"UPR-530-T","hep-ph",,"  The best upper bounds on the masses of stable and unstable light neutrinos
+derive from the upper bound on the total mass density, as inferred from the
+lower limit $t_0> 13$ Gyr on the dynamical age of the Universe: If the Universe
+is matter-dominated, $m_\nu<35(23)\times$ max$ [1, (t_0/\tau_\nu)^{1/2}]$ eV,
+according as a cosmological constant is (is not) allowed. The best constraints
+on the radiative decay of light neutrinos derive from the failure to observe
+prompt gamma rays accompanying the neutrinos from Supernova 1987A: For any
+$m_{\nu} > 630$ eV, this provides a stronger bound on the neutrino transition
+moment than that obtained from red giants or white dwarfs. For $m_\nu > 250$ eV
+or $\tau_\nu < t_{rec}\sim 7\times 10^{12}$ sec, the upper limit on the
+radiative branching ratio is even smaller than that obtained from the limits on
+$\mu$-distortion of the cosmic background radiation. Our results improve on
+earlier cosmological and radiative decay constraints by an overall factor
+twenty, and allow neutrinos more massive than 35 eV, only if they decay
+overwhelmingly into singlet majorons or other new particles.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 23:18:45 GMT""}]","2007-05-23"
+"hep-ph/9212241","Bludman","S.A. Bludman, N. Hata, D.C. Kennedy, P.G. Langacker","Theoretical Implications of the Combined Solar Neutrino Observations","(2 pages), UPR-531-T, Latex, 4 figures upon request. Revised version
+  replacing hep-ph/9212241 which was missing macro esprc2.tex","Nucl.Phys.Proc.Suppl.31:156,1993","10.1016/0920-5632(93)90128-S",,"hep-ph",,"  Constraints on the core temperature of the Sun and on neutrino-oscillation
+parameters are obtained by comparing the combined Homestake, Kamiokande, SAGE
+and GALLEX solar neutrino data with Standard Solar Models (SSM) and with
+non-standard solar models parameterized by a phenomenological central
+temperature ($T_c$). If the Sun is 2\% cooler or 3\% warmer than predicted by
+SSMs, the MSW parameters we determine are consistent with different grand
+unified theories.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 23:34:44 GMT""},{""version"":""v2"",""created"":""Thu, 10 Dec 1992 01:39:11 GMT""}]","2009-04-13"
+"hep-ph/9212242","Nils A. Tornqvist","N.A. Tornqvist","Polarization and Handedness in Tau -> 3 Pi + Neutrino Decay Produced in
+  e+e- Annihilations","5 pages, no figures, standard LATEX, Talk at SPIN92 conference
+  Nagoya, Japan 9-14.Nov 1992",,,"Helsinki preprint HU-TFT-92-50","hep-ph",,"  We discuss the concept of handedness applied to $\tau$ production in $e^+e^-$
+annihilations with $\tau$ decaying into $a_1\nu_\tau \to 3\pi\nu_\tau$. The
+$a_1\to 3\pi$ decay is particularly interesting since it (together with $h_1\to
+3\pi$) is the lightest hadronic decay in which the helicity of the initial
+state can be determined from the distribution of the final particle momenta.
+Thus it is the first example of a helicity self-analysing strong decay, as
+$\Lambda\to N\pi$ is for weak decays. Apart from providing a new method for
+determining the $\tau$ polarization from the parity conserving part in the weak
+decay, this reaction provides a very instructive and useful demonstration of
+the handedness asymmetry as a measure of parton polarization. Thus we believe
+that experience gained from analyses of handedness in $\tau\to 3\pi\nu_\tau$
+decay will be very useful when looking for the similar asymmetry of jet
+handedness which can measure quark or gluon polarization.
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 09:37:53 GMT""}]","2007-05-23"
+"hep-th/9212048",,"Ph Ruelle, E Thiran and J Weyers","Implications of an arithmetical symmetry of the commutant for modular
+  invariants","17 pages, plain TeX, DIAS-STP-92-26","Nucl.Phys.B402:693-708,1993","10.1016/0550-3213(93)90125-9",,"hep-th",,"  We point out the existence of an arithmetical symmetry for the commutant of
+the modular matrices S and T. This symmetry holds for all affine simple Lie
+algebras at all levels and implies the equality of certain coefficients in any
+modular invariant. Particularizing to SU(3)_k, we classify the modular
+invariant partition functions when k+3 is an integer coprime with 6 and when it
+is a power of either 2 or 3. Our results imply that no detailed knowledge of
+the commutant is needed to undertake a classification of all modular
+invariants.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 17:27:26 GMT""}]","2010-11-01"
+"hep-th/9212049","Ramy Brustein","Ram Brustein and Paul Steinhardt","Challenges for Superstring Cosmology","14 pages, 2 figures available as eps files on request","Phys.Lett.B302:196-201,1993","10.1016/0370-2693(93)90384-T","UPR-541T","hep-th astro-ph gr-qc",,"  We consider whether current notions about superstring theory below the Planck
+scale are compatible with cosmology. We find that the anticipated form for the
+dilaton interaction creates a serious roadblock for inflation and makes it
+unlikely that the universe ever reaches a state with zero cosmological constant
+and time-independent gravitational constant.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 17:09:00 GMT""}]","2009-09-15"
+"hep-th/9212051","Judy Mack","S. Okubo","Triple Products and Yang-Baxter Equation (I): Octonionic and
+  Quaternionic Triple Systems","29 pages","J.Math.Phys. 34 (1993) 3273-3291","10.1063/1.530076","UR-1293","hep-th",,"  We can recast the Yang-Baxter equation as a triple product equation. Assuming
+the triple product to satisfy some algebraic relations, we can find new
+solutions of the Yang-Baxter equation. This program has been completed here for
+the simplest triple systems which we call octonionic and quaternionic. The
+solutions are of rational type.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 20:46:00 GMT""}]","2009-10-22"
+"hep-th/9212052","Judy Mack","S. Okubo","Triple Products and Yang-Baxter Equation (II): Orthogonal and Symplectic
+  Ternary Systems","38 pages","J.Math.Phys. 34 (1993) 3292-3315","10.1063/1.530077","Preprint UR-1294","hep-th",,"  We generalize the result of the preceeding paper and solve the Yang-Baxter
+equation in terms of triple systems called orthogonal and symplectic ternary
+systems. In this way, we found several other new solutions.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 20:53:00 GMT""}]","2009-10-22"
+"hep-th/9212053","Balakrishna Shankar","B. S. Balakrishna","Double Scaling Limit of Scalar Theories on the Lattice","8 pages, COLO-HEP/295, AZPH-TH/92-43",,,,"hep-th hep-lat",,"  Scalar field theories regularized on a $D$ dimensional lattice are found to
+exhibit double scaling for a class of critical behaviors labeled by an integer
+$m\geq 2$. The continuum theory reached in the double scaling limit defines a
+universality class and is of a massless scalar with only a $m+1$ point
+self-interaction, but in the presence of a constant source. The upper critical
+dimension for this to occur is the same as that for renormalizability of the
+$m+1$ point interaction.
+","[{""version"":""v1"",""created"":""Tue, 8 Dec 1992 21:41:36 GMT""}]","2007-05-23"
+"hep-th/9212054","Netah","Rolf Schimmrigk","Marginal Flows between Mirror Pairs of Landau-Ginzburg String Vacua:
+  Thickening Moduli Space via c=0 Theories","10 pages",,,"HD-THEP-92-53","hep-th",,"  A recently introduced method for constructing marginal singular flows between
+distinct Landau--Ginzburg theories at fixed central charge is reviewed. The
+flows are constructed in an enlarged moduli space obtained by adding theories
+with zero central charge. This mechanism is used to construct flows between
+mirror pairs of string vacua described by N$=$2 superconformal Landau--Ginzburg
+fixed points. In contrast to previous methods this new construction of mirror
+theories does not depend on particular symmetries of the original theory.
+  (Based in part on a talk presented at the Trieste Summer
+  Workshop on Superstrings and Related Topics, July 1992)
+","[{""version"":""v1"",""created"":""Wed, 9 Dec 1992 10:34:29 GMT""}]","2007-05-23"

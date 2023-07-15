@@ -1,0 +1,129 @@
+"cond-mat/9207028","N. David Mermin","N. David Mermin","Crystallography Without Periodicity","16 pages",,,,"cond-mat hep-th",,"  Text of a talk given at the International Colloquium on Group Theoretic
+Methods in Physics, Salamanca, July, 1992. Another futile attempt to persuade
+the world that space groups can be fun.
+","[{""version"":""v1"",""created"":""Fri, 31 Jul 1992 22:00:57 GMT""}]","2007-05-23"
+"gr-qc/9207011","Sai Iyer","Sai Iyer and A R Prasanna","Centrifugal force in Kerr geometry","6 pages, LateX macros",,"10.1088/0264-9381/10/1/003","PRL-TH-92/33","gr-qc",,"  We have obtained the correct expression for the centrifugal force acting on a
+particle at the equatorial circumference of a rotating body in the locally
+non-rotating frame of the Kerr geometry. Using this expression for the
+equilibrium of an element on the surface of a slowly rotating Maclaurin
+spheroid, we obtain the expression for the ellipticity (as discussed earlier by
+Abramowicz and Miller) and determine the radius at which the ellipticity is
+maximum.
+","[{""version"":""v1"",""created"":""Fri, 31 Jul 1992 16:09:17 GMT""}]","2009-10-22"
+"hep-lat/9207033","Urs M. Heller","R.V. Gavai, U. M. Heller, F. Karsch, T. Neuhaus and B. Plache","A Lower Bound on $T_{SR}/{m_{\rm H}}$ in the O(4) Model on Anisotropic
+  Lattices","16 pages with 4 ps figures included. LaTeX file. BI-TP 92/27,
+  FSU-SCRI-92-101, HLRZ-92-40, TIFR/TH/92-42","Phys.Lett. B294 (1992) 84-90","10.1016/0370-2693(92)91644-O",,"hep-lat",,"  Results of an investigation of the $O(4)$ spin model at finite temperature
+using anisotropic lattices are presented. In both the large $N$ approximation
+and numerical simulations using the Wolff cluster algorithm we find that the
+ratio of the symmetry restoration temperature $T_{\rm SR}$ to the Higgs mass
+$m_{\rm H}$ is independent of the anisotropy $\xi$. From the numerical
+simulations we obtain a lower bound of $T_{\rm SR} / m_{\rm H} \simeq 0.58 \pm
+0.02$ at a value for the Higgs mass $m_{\rm H}a_s \simeq 0.5$, which is lowered
+further by about $10\%$ at $m_{\rm H}a_s \simeq 1$. Requiring certain timelike
+correlation functions to coincide with their spacelike counterparts, quantum
+and scaling corrections to the anisotropy are determined and are found to be
+small, i.e., the anisotropy is found to be close to the ratio of spacelike and
+timelike lattice spacings.
+","[{""version"":""v1"",""created"":""Fri, 31 Jul 1992 16:37:58 GMT""}]","2009-10-22"
+"hep-lat/9207034","Herbert Neuberger","G. Bathas and H. Neuberger","Chiral Yukawa models in the planar limit","8p, one postscript figure appended, RU-92-20","Phys.Lett. B293 (1992) 417-422","10.1016/0370-2693(92)90906-K",,"hep-lat hep-ph",,"  We consider the most general renormalizable chiral Yukawa model with
+$SU(3)_{\rm color}$ replaced by $SU(N_c)$, $SU(2)_{\rm L}$ replaced by $SU(N_w
+)$ and $U(1)_{Y}$ replaced by $U(1)^{N_w -1}$ in the limit $N_c
+\rightarrow\infty$, $N_w \rightarrow\infty$ with the ratio
+$\rho=\sqrt{{N_w}\over{N_c}} \ne 0,\infty$ held fixed. Since for $N_w \ge 3$
+only one renormalizable Yukawa coupling per family exists and there is no
+mixing between families the limit is appropriate for the description of the
+effects of a heavy top quark when all the other fermions are taken to be
+massless. A rough estimate of the triviality bound on the Yukawa coupling is
+equivalent to $m_t \le 1~TeV$.
+","[{""version"":""v1"",""created"":""Fri, 31 Jul 1992 20:29:35 GMT""}]","2009-10-22"
+"hep-lat/9207035","Andreas Gocksch","Andreas Gocksch and Yue Shen","The Phase Diagram of the $N=2$ Kazakov-Migdal Model","5 pages, BNL-47829","Phys.Rev.Lett. 69 (1992) 2747-2749","10.1103/PhysRevLett.69.2747",,"hep-lat hep-th",,"  We have determined the phase diagram of the simplest version of a lattice
+model introduced in the recent work of Kazakov and Migdal. If $m_0$ and
+$\lambda$ are the bare mass and self coupling of the scalar field in the model
+respectively, we find a line of first order phase transitions in the ($m_0,
+\lambda$) plane ending in a critical point where $\lambda$ is nonzero. Kazakov
+and Migdal speculate that their model of scalar field theory could induce QCD.
+Our work indicates that for $N=2$ there is no continuum limit for the
+Kazakov-Migdal model except at the critical end point. Whether or not a
+nontrivial continuum limit exists in the vicinity of the critical point
+requires careful study of the renormalization group properties of the model.
+","[{""version"":""v1"",""created"":""Fri, 31 Jul 1992 22:13:59 GMT""}]","2009-10-22"
+"hep-ph/9207277","Carsten Grosse-Knetter","C. Grosse-Knetter and D. Schildknecht (Universitaet Bielefeld,
+  Fakutaet fuer Physik, W-4800 Bielefeld, 1 Germany)","Production of Three Vector Bosons in e+e- Annihilation as a Test of W+-,
+  Z, gamma Self-Interactions","BI-TP 92/30, July 1992 (Enlarged Version October 1992) One section
+  added to the old version. Figures (unchanged) no more included but available
+  by request","Phys. Lett. B302 (1993) 309","10.1016/0370-2693(93)90401-3",,"hep-ph",,"  We study the vector-boson production processes e+e- --> WWZ and e+e-
+-->WWgamma which are directly affected by the trilinear and quadrilinear self
+couplings of the W, Z and gamma. Our analysis is based upon a single-parameter
+effective-Lagrangian model for these self interactions which contains the
+standard model as a special case. Consequences for the phenomenology at an e+e-
+collider of 500 GeV (NLC) are discussed, and fits of the free parameter around
+its standard model value are carried out.
+","[{""version"":""v1"",""created"":""Fri, 31 Jul 1992 20:28:41 GMT""},{""version"":""v2"",""created"":""Tue, 11 Aug 1992 23:10:13 GMT""},{""version"":""v3"",""created"":""Mon, 16 Nov 1992 19:00:58 GMT""}]","2009-10-22"
+"hep-ph/9207278",,"Howard Georgi","Generalized Dimensional Analysis","5 pages, LATEX","Phys.Lett.B298:187-189,1993","10.1016/0370-2693(93)91728-6",,"hep-ph",,"  I describe a version of so-called naive dimensional analysis, a rule for
+estimating the sizes of terms in an effective theory below the scale of chiral
+symmetry breaking induced by a strong gauge interaction. The rule is simpler
+and more general than the original, which it includes as a special case. I also
+give a simple qualitative interpretation of the rule.
+","[{""version"":""v1"",""created"":""Fri, 31 Jul 1992 16:51:05 GMT""}]","2009-09-11"
+"hep-ph/9207279","Hitoshi Murayama","J. Hisano, H. Murayama, and T. Yanagida","Nucleon Decay in the Minimal Supersymmetric $SU(5)$ Grand Unification","45 pages","Nucl.Phys.B402:46-84,1993","10.1016/0550-3213(93)90636-4","TU-400","hep-ph",,"  We make a detailed analysis on the nucleon decay in the minimal
+supersymmetric $SU(5)$ grand unified model. We find that a requirement of the
+unification of three gauge coupling constants leads to a constraint on a mass
+$M_{H_C}$ of color-triplet Higgs multiplet as $2 \times 10^{13}~\GeV \leq
+M_{H_C} \leq 2 \times 10^{17}~\GeV$, taking both weak- and GUT-scale threshold
+effects into account. Contrary to the results in the previous analyses, the
+present experimental limits on the nucleon decay turn out to be consistent with
+the SUSY particles lighter than 1~TeV even without a cancellation between
+matrix elements contributed from different generations, if one adopts a
+relatively large value of $M_{H_C}$ ($\ge2\times 10^{16}~\GeV$). We also show
+that the Yukawa coupling constant of color-triplet Higgs multiplet does not
+necessarily blow up below the gravitational scale ($2.4\times10^{18}~\GeV$)
+even with the largest possible value of $M_{H_C}$. We point out that the
+no-scale model is still viable, though it is strongly constrained.
+","[{""version"":""v1"",""created"":""Sat, 1 Aug 1992 04:52:54 GMT""},{""version"":""v2"",""created"":""Tue, 4 Aug 1992 10:34:06 GMT""}]","2009-09-29"
+"hep-th/9207115","Abhi","Abhijit K. Kshirsagar","Towards a path integral for the pure-spin connection formulation of
+  gravity","8 pages in plain-TeX.-----IUCAA_TH/92","Class.Quant.Grav.10:1859-1864,1993","10.1088/0264-9381/10/9/025",,"hep-th",,"  A proposal for the path-integral of pure-spin-connection formulation of
+gravity is described, based on the two-form formulation of Capovilla et. al. It
+is shown that the resulting effective-action for the spin-connection, upon
+functional integration of the two-form field $\Sigma$ and the auxiliary matrix
+field $\psi$ is {\it non-polynomial}, even for the case of vanishing
+cosmological constant and absence of any matter couplings. Further, a
+diagramatic evaluation is proposed for the contribution of the matrix-field to
+the pure spin connection action.
+","[{""version"":""v1"",""created"":""Fri, 31 Jul 1992 16:54:11 GMT""}]","2010-04-06"
+"hep-th/9207116",,"M.P. Bellon, J-M. Maillard, G. Rollet, C-M. Viallet","Deformations of Dynamics Associated to the Chiral Potts Model","11 pages, PAR--LPTHE 92--17, latex with amssymbols (change to amssymb
+  if you have newlatex)","Int.J.Mod.Phys. B6 (1992) 3575-3584","10.1142/S021797929200164X",,"hep-th",,"  We describe deformations of non-linear (birational) representations of
+discrete groups generated by involutions, having their origin in the theory of
+the symmetric five-state Potts model. One of the deformation parameters can be
+seen as the number $q$ of states of a chiral Potts models. This analogy becomes
+exact when $q$ is a Fermat number. We analyze the stability of the
+corresponding dynamics, with a particular attention to orbits of finite order.
+","[{""version"":""v1"",""created"":""Fri, 31 Jul 1992 17:06:47 GMT""}]","2015-06-26"
+"hep-th/9207117","Vipul Periwal","R.C. Myers and V. Periwal","Chiral gravity in two dimensions","19 pages, iassns-hep-92-19/McGill/92-26","Nucl.Phys. B397 (1993) 239-259","10.1016/0550-3213(93)90343-N",,"hep-th",,"  It is shown that conformal matter with $c_{\ssc L}\not=c_{\ssc R}$ can be
+consistently coupled to two-dimensional `frame' gravity. The theory is
+quantized, following David, and Distler and Kawai, using the derivation of
+their {\it ansatz} due to Mavromatos and Miramontes, and D'Hoker and Kurzepa.
+New super-selection rules are found by requiring SL(2,{\bf C}) invariance of
+correlation functions on the plane. There is no analogue of the $c=1$ barrier
+found in non-chiral non-critical strings. A non-critical heterotic string is
+constructed---it has 744 states in its spectrum, transforming in the adjoint
+representation of $(E_8)^3.$ Correlation functions are calculated in this
+example.
+","[{""version"":""v1"",""created"":""Fri, 31 Jul 1992 17:38:06 GMT""}]","2009-10-22"
+"hep-th/9207118","Itzhak Bars","Itzhak Bars","Heterotic String Models in Curved Spacetime","USC-92/HEP-B4, 10 pages","Phys.Lett.B293:315-320,1992","10.1016/0370-2693(92)90889-C",,"hep-th hep-ph",,"  We explore the possibility of string theories in only four spacetime
+dimensions without any additional compactified dimensions. We show that,
+provided the theory is defined in curved spacetime that has a cosmological
+interpration, it is possible to construct consistent heterotic string theories
+based on a few non-compact current algebra cosets. We classify these models.
+The gauge groups that emerge fall within a remarkably narrow range and include
+the desirable low energy flavor symmetry of $SU(3)\times SU(2)\times U(1)$. The
+quark and lepton states, which come in color triplets and $SU(2)$ doublets, are
+expected to emerge in several families.
+","[{""version"":""v1"",""created"":""Sat, 1 Aug 1992 06:04:18 GMT""}]","2008-11-26"
+"math/9208203","Peter W. Michor","Andreas Cap, Peter W. Michor","Towards the Chern-Weil homomormism in non-commutative differential
+  geometry",,"Int. J. Mod. Physics. A (Proc. Suppl.), 3A (1993), 210-213",,"Michor 99-08","math.QA",,"  In this short review article we sketch some developments which should
+ultimately lead to the analogy of the Chern-Weil homomorphism for principal
+bundles in the realm of non-commutative differential geometry. Principal
+bundles there should have Hopf algebras as structure `cogroups'. Since the
+usual machinery of Lie algebras, connection forms, etc\., just is not available
+in this setting, we base our approach on the Fr\""olicher--Nijenhuis bracket.
+","[{""version"":""v1"",""created"":""Sat, 1 Aug 1992 00:00:00 GMT""}]","2016-09-06"

@@ -1,0 +1,26 @@
+"funct-an/9205002",,"Gianni Dal Maso, Anneliese Defranceschi, Enrico Vitali","Integral representation for a class of $C^1$-convex functionals","51 pages",,,,"funct-an math.FA",,"  In view of the applications to the asymptotic analysis of a family of
+obstacle problems, we consider a class of convex local functionals $F(u,A)$,
+defined for all functions $u$ in a suitable vector valued Sobolev space and for
+all open sets $A$ in ${\bf R}^n$. Sufficient conditions are given in order to
+obtain an integral representation of the form $F(u,A)=\int_A f(x,u(x))\,d\mu +
+\nu(A)$, where $\mu$ and $\nu$ are Borel measures and $f$ is convex in the
+second variable.
+","[{""version"":""v1"",""created"":""Mon, 11 May 1992 11:50:10 GMT""}]","2008-02-03"
+"hep-ph/9205216","Juan Garcia-Bellido","Juan Garcia-Bellido","Dark Matter with Variable Masses","14pp., LaTeX, no figures, preprint IEM-FT-54/92","Int.J.Mod.Phys.D2:85-95,1993","10.1142/S0218271893000076",,"hep-ph",,"  String effective theories contain a dilaton scalar field which couples to
+gravity, matter and radiation. In general, particle masses will have different
+dilaton couplings. We can always choose a conformal frame in which baryons have
+constant masses while (non--baryonic) dark matter have variable masses, in the
+context of a scalar--tensor gravity theory. We are interested in the
+phenomenology of this scenario. Dark matter with variable masses could have a
+measurable effect on the dynamical motion of the halo of spiral galaxies, which
+may affect cold dark matter models of galaxy formation. As a consequence of
+variable masses, the energy--momentum tensor is not conserved; there is a
+dissipative effect, due to the dilaton coupling, associated with a ``dark
+entropy"" production. In particular, if axions had variable masses they could be
+diluted away, thus opening the ``axion window"". Assuming that dark matter with
+variable masses dominates the cosmological evolution during the matter era, it
+will affect the primordial nucleosynthesis predictions on the abundances of
+light elements. Furthermore, the dilaton also couples to radiation in the form
+of a variable gauge coupling. Experimental bounds will constrain the parameters
+of this model.
+","[{""version"":""v1"",""created"":""Mon, 11 May 1992 10:17:41 GMT""}]","2010-11-30"

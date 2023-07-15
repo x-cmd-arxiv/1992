@@ -1,0 +1,25 @@
+"hep-th/9201016",,"Leonardo Castellani","Bicovariant Differential Calculus on the Quantum D=2 Poincare Group","17 pages","Phys.Lett. B279 (1992) 291-298","10.1016/0370-2693(92)90395-K",,"hep-th",,"  We present a bicovariant differential calculus on the quantum Poincare group
+in two dimensions. Gravity theories on quantum groups are discussed.
+","[{""version"":""v1"",""created"":""Thu, 9 Jan 1992 17:50:00 GMT""},{""version"":""v2"",""created"":""Wed, 26 Feb 1992 17:34:00 GMT""}]","2009-10-22"
+"hep-th/9201017","Nathan Seiberg","Nathan Seiberg and Stephen Shenker","A Note on Background (In)dependence","16 pages","Phys.Rev.D45:4581-4587,1992","10.1103/PhysRevD.45.4581",,"hep-th",,"  In general quantum systems there are two kinds of spacetime modes, those that
+fluctuate and those that do not. Fluctuating modes have normalizable
+wavefunctions. In the context of 2D gravity and ``non-critical'' string theory
+these are called macroscopic states. The theory is independent of the initial
+Euclidean background values of these modes. Non-fluctuating modes have
+non-normalizable wavefunctions and correspond to microscopic states. The theory
+depends on the background value of these non-fluctuating modes, at least to all
+orders in perturbation theory. They are superselection parameters and should
+not be minimized over. Such superselection parameters are well known in field
+theory. Examples in string theory include the couplings $t_k$ (including the
+cosmological constant) in the matrix models and the mass of the two-dimensional
+Euclidean black hole. We use our analysis to argue for the finiteness of the
+string perturbation expansion around these backgrounds.
+","[{""version"":""v1"",""created"":""Thu, 9 Jan 1992 20:18:07 GMT""},{""version"":""v2"",""created"":""Mon, 27 Jan 1992 22:20:32 GMT""}]","2009-09-15"
+"hep-th/9201018",,"Waichi Ogura","Discrete and Continuum Virasoro Constraints in Two-Cut Hermitian Matrix
+  Models","25 pages","Prog.Theor.Phys. 89 (1993) 1311-1330","10.1143/ptp/89.6.1311",,"hep-th",,"  Continuum Virasoro constraints in the two-cut hermitian matrix models are
+derived from the discrete Ward identities by means of the mapping from the
+$GL(\infty )$ Toda hierarchy to the nonlinear Schr\""odinger (NLS) hierarchy.
+The invariance of the string equation under the NLS flows is worked out. Also
+the quantization of the integration constant $\alpha$ reported by Hollowood et
+al. is explained by the analyticity of the continuum limit.
+","[{""version"":""v1"",""created"":""Thu, 9 Jan 1992 23:18:54 GMT""},{""version"":""v2"",""created"":""Mon, 13 Jan 1992 20:35:36 GMT""}]","2017-02-01"

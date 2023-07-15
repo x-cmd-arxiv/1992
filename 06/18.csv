@@ -1,0 +1,117 @@
+"alg-geom/9206008",,"Ron Donagi","The fibers of the Prym map","71 pages, LATEX, (This is a reformatted version. It should print
+  better than its predecessor.)",,,,"alg-geom math.AG",,"  In this work we use the bigonal, trigonal and tetragonal constructions to
+describe the fibers of the Prym map P : R_{g} ---->A_{g-1} inthe cases when it
+is dominant, i.e. for g < 7. The most interesting cases are g = 5, where the
+fiber is a double cover of the Fano surface of lines on a cubic threefold, and
+g=6, where the map is generically finite (of degree 27) with Galois group
+WE_{6}, so that the general fiber has the structure of the 27 lines on a cubic
+surface. For g > 6, the map is known to be generically injective. The
+tetragonal construction gives many counterexamples to injectivity, and we
+conjecture that all noninjectivity is due to the tetragonal construction.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 22:18:39 GMT""},{""version"":""v2"",""created"":""Tue, 23 Jun 1992 19:54:38 GMT""}]","2008-02-03"
+"astro-ph/9206002","David Thomas","David Thomas, David N. Schramm, Keith A. Olive, Brian D. Fields","Primordial Nucleosynthesis and the Abundances of Beryllium and Boron","Plain TeX, 28 pages, 8 figures (not included, but available from
+  authors). UMN-TH-1020/92","Astrophys.J.406:569-579,1993","10.1086/172469",,"astro-ph",,"  The ability to now make measurements of Be and B as well as put constraints
+on \lisix\ abundances in metal-poor stars has led to a detailed reexamination
+of Big Bang Nucleosynthesis in the $A\groughly6$ regime. The nuclear reaction
+network has been significantly expanded with many new rates added. It is
+demonstrated that although a number of $A>7$ reaction rates are poorly
+determined, even with extreme values chosen, the standard homogeneous model is
+unable to produce significant yields (Be/H and B/H $<10^{-17}$ when $A\le7$
+abundances fit) above $A=7$ and the \liseven/\lisix\ ratio always exceeds 500.
+We also preliminarily explore inhomogeneous models, such as those inspired by a
+first order quark-hadron phase transition, where regions with high
+neutron/proton ratios can allow some leakage up to $A>7$. However models that
+fit the $A\le7$ abundances still seem to have difficulty in obtaining
+significant $A>7$ yields.
+","[{""version"":""v1"",""created"":""Thu, 18 Jun 1992 15:03:50 GMT""}]","2009-09-15"
+"cond-mat/9206005",,"Alexander Moroz","Dimensional Reduction of a Generalized Flux Problem","19 pages, preprint ETH-TH 92/09 (to appear in Mod. Phys. Lett. B)","Mod.Phys.Lett. B6 (1992) 717-728","10.1142/S021798499200079X",,"cond-mat hep-lat hep-th",,"  A generalized flux problem with Abelian and non-Abelian fluxes is considered.
+In the Abelian case we shall show that the generalized flux problem for
+tight-binding models of noninteracting electrons on either $2n$ or $2n+1$
+dimensional lattice can always be reduced to a $n$ dimensional hopping problem.
+A residual freedom in this reduction enables to identify equivalence classes of
+hopping Hamiltonians which have the same spectrum. In the non-Abelian case the
+reduction is not possible in general unless the flux tensor factorizes into an
+Abelian one times an element of the corresponding algebra.
+","[{""version"":""v1"",""created"":""Thu, 18 Jun 1992 11:02:52 GMT""}]","2009-10-22"
+"hep-ph/9206228","Waikwok Kwong","J. M. Gelb, Waikwok Kwong, and S. P. Rosen","Implications of New Gallex Results for the MSW Solution of the Solar
+  Neutrino Problem","7 pages (plus 3 figures available upon request) UTAPHY-HEP-2","Phys.Rev.Lett. 69 (1992) 1864-1866","10.1103/PhysRevLett.69.1864",,"hep-ph astro-ph",,"  We compare the implications for 7Be and pp neutrinos of the two MSW fits to
+the new GALLEX solar neutrino measurements . Small mixing angle solutions tend
+to suppress the former as electron-neutrinos, but not the latter, and large
+angle solutions tend to reduce both by about a factor of 2. The consequences
+for BOREXINO and similar solar neutrino--electron scattering experiments are
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 17:16:00 GMT""}]","2009-10-22"
+"hep-ph/9206229","Mark Hindmarsh","Mark Hindmarsh","Semilocal Topological Defects","28pp, DAMTP-HEP-92-24","Nucl.Phys.B392:461-492,1993","10.1016/0550-3213(93)90681-E",,"hep-ph hep-th",,"  Semilocal defects are those formed in field theories with spontaneously
+broken symmetries, where the vacuum manifold $M$ is fibred by the action of the
+gauge group in a non-trivial way. Studied in this paper is the simplest such
+class of theories, in which $M\simeq S^{2N-1}$, fibred by the action of a local
+$U(1)$ symmetry. Despite $M$ having trivial homotopy groups up to $\pi_{2N-2}$,
+this theory exhibits a fascinating variety of defects: vortices, or semilocal
+strings; monopoles (on which the strings terminate); and (when $N=2$) textures,
+which may be stabilised by their associated magnetic field to produce a
+skyrmion.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 17:52:40 GMT""}]","2011-07-19"
+"hep-ph/9206230","Jose Goity","J.L. Goity","Chiral Perturbation Theory for SU(3) Breaking in Heavy Meson Systems","21 pages","Phys.Rev.D46:3929-3936,1992","10.1103/PhysRevD.46.3929","CEBAF-TH-92-16","hep-ph",,"  The SU(3) breaking effects due to light quark masses on heavy meson masses,
+decay constants ($F_{D}, F_{D_{s}}$) and the form factor for semileptonic
+$\overline{B}\rightarrow D^{(\ast)} l\bar{\nu}_{l}$ transitions are formulated
+in chiral perturbation theory, using a heavy meson effective Lagrangian and
+expanding in inverse powers of the heavy meson mass. To leading order in this
+expansion, the leading chiral logarithms and the required counterterms are
+determined. At this level, a non-analytic correction to the mass splittings of
+${\cal O}(p^3)$ appears, similar the the one found in light baryons. The
+correction to $F_{D_{s}}/F_{D}$ is roughly estimated to be of the order of
+$10\%$ and, therefore, experimentally accessible, while the correction to the
+form factor is likely to be substantially smaller. We explicitly check that the
+heavy quark symmetry is preserved by the chiral loops.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 22:22:00 GMT""}]","2014-11-17"
+"hep-ph/9206231","Ernest Ma","Ernest Ma","Accidental Approximate Generation Universality and its Possible
+  Verification","6 pages (2 figures, not included)","Proc. of Beyond the Standard Model III, p.485 (1993)",,"UCRHEP-T93 (June 1992)","hep-ph",,"  The universality of $e-\mu-\tau$ interactions may only be an accidental
+approximate symmetry analogous to that of flavor SU(2) and SU(3). This was
+specifically realized by an extension of the standard model proposed in 1981.
+Two key predictions are that the $\tau$ lifetime should be longer and that the
+$\rho$ parameter measured at the Z peak should have an additional negative
+contribution. These are consistent with present precision electroweak
+measurements. A future decisive test of this model would be the discovery of
+new W and Z bosons with nearly degenerate masses of a few TeV.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 20:26:59 GMT""}]","2007-05-23"
+"hep-ph/9206232",,"Robert H. Brandenberger (Brown), Anne-Christine Davis (DAMTP,
+  Cambridge), Andrew M. Matheson (Brown) and Mark Trodden (Cambridge)","Superconducting Cosmc Strings and Primordial Magnetic Fields","BROWN-HET-830, 14 pages, use phyzzx","Phys.Lett. B293 (1992) 287-293","10.1016/0370-2693(92)90885-8",,"hep-ph astro-ph",,"  We consider grand unified theories with superconducting cosmic strings and
+which admit the mechanism for generating primordial magnetic fields recently
+discussed by Vachaspati. We show that these models are severely constrained by
+cosmological arguments. Quite generically, either stable springs or vortons
+will form. Provided the mass per unit length of the strings is sufficiently
+large, these stable configurations will overclose the Universe.
+","[{""version"":""v1"",""created"":""Thu, 18 Jun 1992 06:49:44 GMT""}]","2009-10-22"
+"hep-th/9206068","Rue-Ron Hsu","Rue-Ron Hsu, Green Huang and Wei-Fu Lin","Uniqueness of the Axionic Kerr Black Hole","11 pages",,,,"hep-th",,"  Under the axisymmetry and under the invarance of simultaneous inversion of
+time and azimuthal angle, we show that the axionic Kerr black hole is the ${\it
+unique}$ stationary solution of the minimal coupling theory of gravity and the
+Kalb-Ramond field, which has a regular event horizon, is asymptotically flat
+and has a finite axion field strength at event horizon.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 23:46:13 GMT""}]","2007-05-23"
+"hep-th/9206070","Larus Thorlacius","J. Russo, L. Susskind and L. Thorlacius","The Endpoint of Hawking Evaporation","14 pages, 2 figures (not included)","Phys.Rev.D46:3444-3449,1992","10.1103/PhysRevD.46.3444","SU-ITP-92-17","hep-th",,"  The formation and semi-classical evaporation of two-dimensional black holes
+is studied in an exactly solvable model. Above a certain threshold energy flux,
+collapsing matter forms a singularity inside an apparent horizon. As the black
+hole evaporates the apparent horizon recedes and meets the singularity in a
+finite proper time. The singularity emerges naked and future evolution of the
+geometry requires boundary conditions to be imposed there. There is a natural
+choice of boundary conditions which match the evaporated black hole solution
+onto the linear dilaton vacuum. Below the threshold energy flux no horizon
+forms and boundary conditions can be imposed where infalling matter is
+reflected from a time-like naked singularity. All information is recovered at
+spatial infinity in this case.
+","[{""version"":""v1"",""created"":""Wed, 17 Jun 1992 21:56:53 GMT""}]","2009-10-07"
+"hep-th/9206071","Kenji Hamada","K. Hamada","Quantum Theory of Dilaton Gravity in 1+1 Dimensions","15 pages. phyzzx. UT-Komaba 92-7","Phys.Lett.B300:322-329,1993","10.1016/0370-2693(93)91340-S",,"hep-th",,"  We discuss the quantum theory of 1+1 dimensional dilaton gravity, which is an
+interesting model with analogous features to the spherically symmetric
+gravitational systems in 3+1 dimensions. The functional measures over the
+metrics and the dilaton field are explicitly evaluated and the diffeomorphism
+invariance is completely fixed in conformal gauge by using the technique
+developed in the two dimensional quantum gravity. We argue the relations to the
+ADM formalism. The physical state conditions reduce to the usual Wheeler-DeWitt
+equations when the dilaton $\df^2 ~ (=\e^{-2\phi}) $ is large enough compared
+with $\kappa =(N-51/2)/12$, where $N $ is the number of matter fields. This
+corresponds to the large mass limit in the black hole geometry. A singularity
+appears at $\df^2 =\kappa (>0) $. The final stage of the black hole evaporation
+corresponds to the region $\df^2 \sim \kappa $, where the Liouville term
+becomes important, which just comes from the measure of the metrics. If $\kappa
+< 0 $, the singularity disappears.
+","[{""version"":""v1"",""created"":""Thu, 18 Jun 1992 09:44:58 GMT""}]","2011-07-19"

@@ -1,0 +1,42 @@
+"hep-th/9201024","Henrik Aratyn","H. Aratyn, L.A. Ferreira, J.F. Gomes, A.H. Zimerman","A New Deformation of W-Infinity and Applications to the Two-loop WZNW
+  and Conformal Affine Toda Models","8 pages","Phys.Lett. B293 (1992) 67-71","10.1016/0370-2693(92)91481-N",,"hep-th",,"  We construct a centerless W-infinity type of algebra in terms of a generator
+of a centerless Virasoro algebra and an abelian spin-1 current. This algebra
+conventionally emerges in the study of pseudo-differential operators on a
+circle or alternatively within KP hierarchy with Watanabe's bracket.
+Construction used here is based on a special deformation of the algebra
+$w_{\infty}$ of area preserving diffeomorphisms of a 2-manifold. We show that
+this deformation technique applies to the two-loop WZNW and conformal affine
+Toda models, establishing henceforth $W_{\infty}$ invariance of these models.
+","[{""version"":""v1"",""created"":""Mon, 13 Jan 1992 21:19:46 GMT""}]","2009-10-22"
+"hep-th/9201025","Jurgen Laartz","M.Forger, J.Laartz, U.Schaeper","Current Algebra of Classical Non-Linear Sigma Models","6 pages","Commun. Math. Phys. 146 (1992) 397-402","10.1007/BF02102634",,"hep-th",,"  The current algebra of classical non-linear sigma models on arbitrary
+Riemannian manifolds is analyzed. It is found that introducing, in addition to
+the Noether current $j_\mu$ associated with the global symmetry of the theory,
+a composite scalar field $j$, the algebra closes under Poisson brackets.
+","[{""version"":""v1"",""created"":""Mon, 13 Jan 1992 22:22:55 GMT""}]","2009-10-22"
+"hep-th/9201026",,"Jean-Loup Gervais, and Yutaka Matsuo","Classical A_n--W-Geometry","(60 pages )","Commun.Math.Phys. 152 (1993) 317-368","10.1007/BF02098302",,"hep-th",,"  This is a detailed development for the $A_n$ case, of our previous article
+entitled ""W-Geometries"" to be published in Phys. Lett. It is shown that the
+$A_n$--W-geometry corresponds to chiral surfaces in $CP^n$. This is comes out
+by discussing 1) the extrinsic geometries of chiral surfaces (Frenet-Serret and
+Gauss-Codazzi equations) 2) the KP coordinates (W-parametrizations) of the
+target-manifold, and their fermionic (tau-function) description, 3) the
+intrinsic geometries of the associated chiral surfaces in the Grassmannians,
+and the associated higher instanton- numbers of W-surfaces. For regular points,
+the Frenet-Serret equations for $CP^n$--W-surfaces are shown to give the
+geometrical meaning of the $A_n$-Toda Lax pair, and of the conformally-reduced
+WZNW models, and Drinfeld-Sokolov equations. KP coordinates are used to show
+that W-transformations may be extended as particular diffeomorphisms of the
+target-space. This leads to higher-dimensional generalizations of the WZNW and
+DS equations. These are related with the Zakharov- Shabat equations. For
+singular points, global Pl\""ucker formulae are derived by combining the
+$A_n$-Toda equations with the Gauss-Bonnet theorem written for each of the
+associated surfaces.
+","[{""version"":""v1"",""created"":""Tue, 14 Jan 1992 15:30:05 GMT""}]","2009-10-22"
+"hep-th/9201027",,"J. M. Isidro, J. M. F. Labastida and A. V. Ramallo","Coset Constructions in Chern-Simons Gauge Theory","15 pages","Phys.Lett. B282 (1992) 63-72","10.1016/0370-2693(92)90480-R",,"hep-th",,"  Coset constructions in the framework of Chern-Simons topological gauge
+theories are studied. Two examples are considered: models of the types
+${U(1)_p\times U(1)_q\over U(1)_{p+q}}\cong U(1)_{pq(p+q)}$ with $p$ and $q$
+coprime integers, and ${SU(2)_m\times SU(2)_1\over SU(2)_{m+1}}$. In the latter
+case it is shown that the Chern-Simons wave functionals can be identified with
+t he characters of the minimal unitary models, and an explicit representation
+of the knot (Verlinde) operators acting on the space of $c<1$ characters is
+obtained.
+","[{""version"":""v1"",""created"":""Tue, 14 Jan 1992 13:03:00 GMT""}]","2009-10-22"

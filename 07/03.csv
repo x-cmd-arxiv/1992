@@ -1,0 +1,129 @@
+"cond-mat/9207004",,"Vladimir Privman and Mustansir Barma","Random Sequential Adsorption on a Line: Mean-Field Theory of Diffusional
+  Relaxation","18 pages","J. Chem. Phys. 97, 6714-6719 (1992)","10.1063/1.463677",,"cond-mat",,"  We develop a new fast-diffusion approximation for the kinetics of deposition
+of extended objects on a linear substrate, accompanied by diffusional
+relaxation. This new approximation plays the role of the mean-field theory for
+such processes and is valid over a significantly larger range than an earlier
+variant, which was based on a mapping to chemical reactions. In particular,
+continuum-limit off-lattice deposition is described naturally within our
+approximation. The criteria for the applicability of the mean-field theory are
+derived. While deposition of dimers, and marginally, trimers, is affected by
+fluctuations, we find that the k-mer deposition kinetics is asymptotically
+mean-field like for all k=4,5,..., where the limit k->infinity, when properly
+defined, describes deposition-diffusion kinetics in the continuum.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 10:15:31 GMT""}]","2010-10-12"
+"hep-lat/9207002","Kenton Yee","Ken Yee","Gauge Dependence of Effective Quark Mass and Matrix Elements in
+  Gaugefixed Large $N$ Strong Coupling Lattice QCD","38 pages","Nucl.Phys.B397:564-590,1993","10.1016/0550-3213(93)90186-S","BNL-47712","hep-lat",,"  In conjunction with recent numerical \hbox{$\lambda~\partial_0 A_0 +
+\nabla\cdot\vec{A} =0$} ``$\lambda$-gauge'' results reported in a companion
+paper, we construct an $N\to\infty$ Wilson loop picture of
+$\lambda$-gaugefixing in which (I)the $\lambda$-gauge expectation value of a
+link chain $C$ is the weighted sum over Wilson loops made by joining to $C$ all
+selfavoiding chains $\widetilde{C}$ closing $C$. (II)Weights
+$A_{\widetilde{C}}$, containing all the $\lambda$-dependence, are given by the
+$\beta=0$ $\lambda$-gauge expectation value of $\widetilde{C}$.
+(III)$A_{\widetilde{C}}$ equals path-products of coefficients from the trace
+expansion of the gaugefixing Boltzmann weight. From (II) and (III) we deduce
+formulas for $\beta =0$ quark matrix elements. We find that $M_q^{(\lambda)}$
+decreases with increasing $\lambda$; the quark propagator dispersion relation
+is not covariant when $\lambda\ne 1$; and $\Delta I=1/2$ matching coefficients
+are $\lambda$-independent. These strong coupling features are qualitatively
+consistent with numerical $\beta=5.7$ and $6.0$ results briefly described here
+for comparison purposes but mainly presented in a companion paper.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 03:45:37 GMT""}]","2011-07-19"
+"hep-ph/9207205",,"V. Barger, Kingman Cheung, R. J. N. Phillips and A. L. Stange","What $e^+e^-$ collider could make a ``no-lose'' search for MSSM Higgs
+  bosons?","MAD/PH/704 11 pages, plus 2 postscript figures available on request","Phys.Rev.D47:3041-3044,1993","10.1103/PhysRevD.47.3041",,"hep-ph",,"  The lightest CP-even Higgs boson $h$ in the minimum supersymmetric standard
+model (MSSM) has a mass upper bound depending on the top quark and squark
+masses. An $e^+e^-$ collider with enough energy and luminosity to produce $h+Z$
+at measurable rates up to the maximum $h$ mass would cover the entire MSSM
+parameter space, if $h+A$ production was also searched for. We explore the
+energy and/or luminosity needed for various top quark and squark masses. For
+$m_t=150$\,GeV and 1\,TeV SUSY mass scale, a 230\,GeV collider with
+10\,fb$^{-1}$ luminosity would suffice.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 16:38:00 GMT""}]","2009-09-15"
+"hep-ph/9207206","Waikwok Kwong","Waikwok Kwong and S. P. Rosen (Univ. of Texas at Arlington)","Nonet Symmetry and Two-Body Decays of Charmed Mesons","9 pages, UTAPHY-HEP-3","Phys.Rev. D47 (1993) 3962-3966","10.1103/PhysRevD.47.3962",,"hep-ph",,"  The decay of charmed mesons into pseudoscalar (P) and vector (V) mesons is
+studied in the context of nonet symmetry. We have found that it is badly broken
+in the PP channels and in the P sector of the PV channels as expected from the
+non-ideal mixing of the \eta and the \eta'. In the VV channels, it is also
+found that nonet symmetry does not describe the data well. We have found that
+this discrepancy cannot be attributed entirely to SU(3) breaking at the usual
+level of 20--30%. At least one, or both, of nonet and SU(3) symmetry must be
+very badly broken. The possibility of resolving the problem in the future is
+also discussed.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 20:32:00 GMT""}]","2009-10-22"
+"hep-ph/9207207","Cliff Burgess","C.P. Burgess and James M. Cline","Majorons from Double Beta Decay","5 pages, McGill/92-27",,,,"hep-ph",,"  Wrong preprint number changed on previous version.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 21:02:58 GMT""},{""version"":""v2"",""created"":""Sat, 29 Aug 1992 14:21:50 GMT""},{""version"":""v3"",""created"":""Tue, 29 Sep 1992 14:41:11 GMT""},{""version"":""v4"",""created"":""Wed, 30 Sep 1992 21:40:36 GMT""}]","2008-02-03"
+"hep-ph/9207208","Soo-Jong Rey","R. Holman, T.W. Kephart and Soo-Jong REY","Semiclassical Gravity and Invisible Axions","13 pages, NSF-ITP-92-85","Phys.Rev.Lett.71:320-323,1993","10.1103/PhysRevLett.71.320",,"hep-ph astro-ph hep-th",,"  We show that charged Eguchi-Hanson instantons provide a concrete and
+calculable new source of intrinsic Peccei-Quinn symmetry breaking by quantum
+gravity. The size of this breaking is shown to depend sensitively on the short
+distance details of a given theory, but is generically suppressed by fermion
+zero modes. Demanding that these gravitational effects not affet the axion
+solution to the strong CP problem, we find that at least two sets of quarks
+with differing Peccei-Quinn charges are required. In addition, these effects
+obviate the cosmological axion domain wall problem but leave unchanged problems
+associated with coherent axion oscillations.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 01:14:00 GMT""}]","2010-11-01"
+"hep-ph/9207209","Jose Valle","Z Berezhiani, A Yu Smirnov and J W F Valle","Observable Majoron Emission in Neutrinoless Double Beta Decay","(latex file, macro matex) 11pp (2 Figures that can be requested)","Phys.Lett.B291:99-105,1992","10.1016/0370-2693(92)90126-O",,"hep-ph",,"  We consider a class of simplest Majoron models where neutrino- majoron
+couplings can be in the range $g \sim 10^{-5}-10^{-3}$ leading to the
+observability of neutrinoless double beta decay with majoron emission. The
+majoron is a singlet of the electroweak gauge symmetry, thus avoiding conflict
+with the LEP data on Z decay, which rules out the triplet and doublet majoron
+models.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 15:51:00 GMT""}]","2008-11-26"
+"hep-ph/9207210",,"W. R. Greenberg and G. A. Miller","Multiple-Scattering Series For Color Transparency","26 pages, U.Wa. preprint 40427-23-N92","Phys.Rev.D47:1865-1878,1993","10.1103/PhysRevD.47.1865",,"hep-ph",,"  Color transparency CT depends on the formation of a wavepacket of small
+spatial extent. It is useful to interpret experimental searches for CT with a
+multiple scattering scattering series based on wavepacket-nucleon scattering
+instead of the standard one using nucleon-nucleon scattering. We develop
+several new techniques which are valid for differing ranges of energy. These
+techniques are applied to verify some early approximations; study new forms of
+the wave-packet-nucleon interaction; examine effects of treating wave packets
+of non-zero size; and predict the production of $N^*$'s in electron scattering
+experiments.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 15:15:19 GMT""}]","2008-11-26"
+"hep-ph/9207211",,"B.K. Jennings and G.A. Miller","Realistic Hadronic Matrix Element Approach to Color Transparency","12 pages, U.Wa. 40427-24-N92,TRIUMF TR-pp-92-48","Phys.Rev.Lett. 69 (1992) 3619-3622","10.1103/PhysRevLett.69.3619",,"hep-ph",,"  Color transparency occurs if a small-sized wave packet, formed in a high
+momentum transfer process, escapes the nucleus before expanding. The time
+required for the expansion depends on the masses of the baryonic components of
+the wave packet. Measured proton diffractive dissociation and electron deep
+inelastic scattering cross sections are used to examine and severely constrain
+the relevant masses. These constraints allow significant color transparency
+effects to occur at experimentally accessible momentum transfers.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 15:32:30 GMT""}]","2009-10-22"
+"hep-th/9207007","Fabian Essler","Fabian H.L. Essler and Vladimir E. Korepin","A New Solution of the Supersymmetric TJ Model by Means of the Quantum
+  Inverse Scattering Method","25 pages, using the jytex macro package, ITP-SB-92-12",,,,"hep-th",,"  We construct the enveloping fundamental spin model of the t-J hamiltonian
+using the Quantum Inverse Scattering Method (QISM), and present all three
+possible Algebraic Bethe Ans\""atze. Two of the solutions have been previously
+obtained in the framework of Coordinate Space Bethe Ansatz by Sutherland and by
+Schlottmann and Lai, whereas the third solution is new. The formulation of the
+model in terms of the QISM enables us to derive explicit expressions for higher
+conservation laws.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 01:45:36 GMT""}]","2007-05-23"
+"hep-th/9207008",,"Alberto Blasi and Nicola Maggiore","Infrared and Ultraviolet Finiteness of Topological BF Theory in Two
+  Dimensions","26 pages, GEF-TH-11/1992","Class.Quant.Grav.10:37-56,1993","10.1088/0264-9381/10/1/007",,"hep-th",,"  The two--dimensional topological BF model is considered in the Landau gauge
+in the framework of perturbation theory. Due to the singular behaviour of the
+ghost propagator at long distances, a mass term to the ghost fields is
+introduced as infrared regulator. Relying on the supersymmetric algebraic
+structure of the resulting massive theory, we study the infrared and
+ultraviolet renormalizability of the model, with the outcome that it is
+perturbatively finite.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 09:40:00 GMT""}]","2010-04-06"
+"hep-th/9207009",,"Katsushi Ito, Jens Ole Madsen and Jens Lyng Petersen","Free Field Representations of Extended Superconformal Algebras","37 pages, Latex","Nucl.Phys. B398 (1993) 425-458","10.1016/0550-3213(93)90117-8","NBI-HE-92-42","hep-th",,"  We study the classical and quantum $G$ extended superconformal algebras from
+the hamiltonian reduction of affine Lie superalgebras, with even subalgebras
+$G\oplus sl(2)$. At the classical level we obtain generic formulas for the
+Poisson bracket structure of the algebra. At the quantum level we get free
+field (Feigin-Fuchs) representations of the algebra by using the BRST formalism
+and the free field realization of the affine Lie superalgebra. In particular we
+get the free field representation of the $sl(2)\oplus sp(2N)$ extended
+superconformal algebra from the Lie superalgebra $osp(4|2N)$. We also discuss
+the screening operators of the algebra and the structure of singular vectors in
+the free field representation.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 15:18:00 GMT""}]","2009-10-22"
+"hep-th/9207010",,"Katsushi Ito, Jens Ole Madsen and Jens Lyng Petersen","Free Field Representations and Screening Operators for the $N=4$ Doubly
+  Extended Superconformal Algebras","15 pages, Latex","Phys.Lett. B292 (1992) 298-306","10.1016/0370-2693(92)91179-D","NBI-HE-92-43","hep-th",,"  We present explicit free field representations for the $N=4$ doubly extended
+superconformal algebra, $\tilde{\cal{A}}_{\gamma}$. This algebra generalizes
+and contains all previous $N=4$ superconformal algebras. We have found
+$\tilde{\cal{A}}_{\gamma}$ to be obtained by hamiltonian reduction of the Lie
+superalgebra $D(2|1;\alpha)$. In addition, screening operators are explicitly
+given and the associated singular vectors identified. We use this to present a
+natural conjecture for the Kac determinant generalizing a previous conjecture
+by Kent and Riggs for the singly extended case. The results support and
+illuminate several aspects of the characters of this algebra previously
+obtained by Taormina and one of us.
+","[{""version"":""v1"",""created"":""Fri, 3 Jul 1992 15:21:00 GMT""}]","2009-10-22"

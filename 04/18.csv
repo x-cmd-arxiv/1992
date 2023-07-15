@@ -1,0 +1,27 @@
+"hep-lat/9204007","Maarten Golterman","Claude Bernard and Maarten Golterman","Chiral Perturbation Theory for the Quenched Approximation of QCD","14 pages","Phys.Rev. D46 (1992) 853-857","10.1103/PhysRevD.46.853",,"hep-lat",,"  [This version is a minor revision of a previously submitted preprint. Only
+references have been changed.] We describe a technique for constructing the
+effective chiral theory for quenched QCD. The effective theory which results is
+a lagrangian one, with a graded symmetry group which mixes Goldstone bosons and
+fermions, and with a definite (though slightly peculiar) set of Feynman rules.
+The straightforward application of these rules gives automatic cancellation of
+diagrams which would arise from virtual quark loops. The techniques are used to
+calculate chiral logarithms in $f_K/f_\pi$, $m_\pi$, $m_K$, and the ratio of
+$\langle{\bar s}s\rangle$ to $\langle{\bar u}u\rangle$. The leading
+finite-volume corrections to these quantities are also computed. Problems for
+future study are described.
+","[{""version"":""v1"",""created"":""Fri, 17 Apr 1992 20:48:13 GMT""},{""version"":""v2"",""created"":""Tue, 28 Apr 1992 18:00:22 GMT""}]","2009-10-22"
+"hep-th/9204056",,"Gerald Dunne and Roman Jackiw","Chern-Simons Solitons, Toda Theories and the Chiral Model",,"Commun.Math.Phys. 150 (1992) 519-535","10.1007/BF02096959",,"hep-th",,"  The two-dimensional self-dual Chern--Simons equations are equivalent to the
+conditions for static, zero-energy solutions of the $(2+1)$-dimensional gauged
+nonlinear Schr\""odinger equation with Chern--Simons matter-gauge dynamics. In
+this paper we classify all finite charge $SU(N)$ solutions by first
+transforming the self-dual Chern--Simons equations into the two-dimensional
+chiral model (or harmonic map) equations, and then using the Uhlenbeck--Wood
+classification of harmonic maps into the unitary groups. This construction also
+leads to a new relationship between the $SU(N)$ Toda and $SU(N)$ chiral model
+solutions.
+","[{""version"":""v1"",""created"":""Fri, 17 Apr 1992 18:05:45 GMT""}]","2009-10-22"
+"hep-th/9204057",,"Gerald Dunne and Roman Jackiw","""Peireles Substitution"" and Chern-Simons Quantum Mechanics",,"Nucl.Phys.Proc.Suppl. 33C (1993) 114-118","10.1016/0920-5632(93)90376-H",,"hep-th",,"  An elementary derivation is given for the ``Peierles substitution'' used in
+projecting dynamics in a strong magnetic field onto the lowest Landau level.
+The projection of wavefunctions and the ordering prescription for the projected
+Hamiltonian is explained.
+","[{""version"":""v1"",""created"":""Fri, 17 Apr 1992 18:07:58 GMT""}]","2009-10-22"

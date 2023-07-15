@@ -1,0 +1,94 @@
+"cond-mat/9204008","Michael Flatte","Michael E. Flatte","Image of the Energy Gap Anisotropy in the Vibrational Spectum of a High
+  Temperature Superconductor","12 pages + 2 figures (included)",,"10.1103/PhysRevLett.70.658",,"cond-mat",,"  We present a new method of determining the anisotropy of the gap function in
+layered high-Tc superconductors. Careful inelastic neutron scattering
+measurements at low temperature of the phonon dispersion curves in the (100)
+direction in La_(1.85)Sr_(.15)CuO_4 would determine whether the gap is
+predominately s-wave or d-wave. We also propose an experiment to determine the
+gap at each point on a quasi-two-dimensional Fermi surface.
+","[{""version"":""v1"",""created"":""Tue, 21 Apr 1992 18:03:45 GMT""}]","2009-10-22"
+"cond-mat/9204009","James P. Sethna","James P. Sethna","Order Parameters, Broken Symmetry, and Topology","Lectures Given at the Santa Fe Complexity Institute Summer School,
+  1991. Jeffrey Goldstone's name corrected","1991 Lectures in Complex Systems, eds. L. Nadel and D. Stein, SFI
+  Studies in the Sciences of Complexity, Proc. Vol. XV, Addison Wesley, 1992,
+  p. 243",,,"cond-mat","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We introduce the theoretical framework we use to study the bewildering
+variety of phases in condensed--matter physics. We emphasize the importance of
+the breaking of symmetries, and develop the idea of an order parameter through
+several examples. We discuss elementary excitations and the topological theory
+of defects.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 14:30:27 GMT""},{""version"":""v2"",""created"":""Wed, 28 May 2003 02:39:36 GMT""},{""version"":""v3"",""created"":""Tue, 16 Jun 2009 01:00:12 GMT""}]","2009-09-25"
+"cond-mat/9204010","James P. Sethna","James P. Sethna, Ming Huang","Meissner Effect and Constraints","Lectures Given at the Santa Fe Complexity Institute Summer School,
+  1991. Figures added","1991 Lectures in Complex Systems, eds. L. Nadel and D. Stein, SFI
+  Studies in the Sciences of Complexity, Proc. Vol. XV, Addison Wesley, 1992,
+  p. 267",,,"cond-mat",,"  We notice some beautiful geometrical defects found in liquid crystals, and
+explain them by imposing a constraint. We study the way constraints can occur,
+and introduce the concept of massive fields. We develop the theory of magnetic
+field expulsion in superconductors as an example. We notice strong analogies
+with the formation of grain boundaries in crystals, and realize that we do not
+understand crystals very deeply
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 14:31:14 GMT""},{""version"":""v2"",""created"":""Wed, 28 May 2003 02:50:23 GMT""}]","2008-02-03"
+"hep-lat/9204010","Erwin Gerstenmayer","W. Beirl, E. Gerstenmayer, H. Markum","Influence of the Measure on Simplicial Quantum Gravity in Four
+  Dimensions","12pgs","Phys.Rev.Lett.69:713-716,1992","10.1103/PhysRevLett.69.713",,"hep-lat",,"  We investigate the influence of the measure in the path integral for
+Euclidean quantum gravity in four dimensions within the Regge calculus. The
+action is bounded without additional terms by fixing the average lattice
+spacing. We set the length scale by a parameter $\beta$ and consider a scale
+invariant and a uniform measure. In the low $\beta$ region we observe a phase
+with negative curvature and a homogeneous distribution of the link lengths
+independent of the measure. The large $\beta$ region is characterized by
+inhomogeneous link lengths distributions with spikes and positive curvature
+depending on the measure.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 13:25:01 GMT""}]","2016-08-31"
+"hep-ph/9204224","Myron Bander","Myron Bander and H. R. Rubinstein","Proton $\beta% decay in large magnetic fields","12 pages","Phys.Lett. B311 (1993) 187-192","10.1016/0370-2693(93)90553-T",,"hep-ph",,"  A delicate interplay between the anomalous magnetic moments of the proton and
+neutron makes, in magnetic fields $B\ge 2\times 10^{14}$ T, the neutron stable
+and for fields $B\ge 5\times 10^{14}$ T the proton becomes unstable to a decay
+into a neutron via $\beta$ emission. Limits on the field strengths for which
+these arguments hold are presented and are related to questions of vacuum
+stability in the presence of such fields. Possible astrophysical consequences
+are discussed.
+","[{""version"":""v1"",""created"":""Tue, 21 Apr 1992 16:16:44 GMT""}]","2009-10-22"
+"hep-ph/9204230","Rahul Basu","Rahul Basu, Debajyoti Choudhury","Confinement in a Chromoelectric Vacuum","11 pages, Latex file",,,,"hep-ph",,"  A chromoelectric vacuum that confines both gluon and quark degrees of freedom
+(in the sense that they do not exist as asymptotic states) is constructed.
+However some degrees of freedom still exist as asymptotic states thereby
+allowing colour singlets to propagate.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 14:30:39 GMT""}]","2007-05-23"
+"hep-th/9204064","Omar Foda Rba5","Brian Davies, Omar Foda, Michio Jimbo, Tetsuji Miwa and Atsushi
+  Nakayashiki","Diagonalization of the XXZ Hamiltonian by Vertex Operators","65 pages","Commun.Math.Phys. 151 (1993) 89-154","10.1007/BF02096750",,"hep-th",,"  We diagonalize the anti-ferroelectric XXZ-Hamiltonian directly in the
+thermodynamic limit, where the model becomes invariant under the action of
+affine U_q( sl(2) ).
+  Our method is based on the representation theory of quantum affine algebras,
+the related vertex operators and KZ equation, and thereby bypasses the usual
+process of starting from a finite lattice, taking the thermodynamic limit and
+filling the Dirac sea. From recent results on the algebraic structure of the
+corner transfer matrix of the model, we obtain the vacuum vector of the
+Hamiltonian. The rest of the eigenvectors are obtained by applying the vertex
+operators, which act as particle creation operators in the space of
+eigenvectors.
+  We check the agreement of our results with those obtained using the Bethe
+Ansatz in a number of cases, and with others obtained in the scaling limit ---
+the $su(2)$-invariant Thirring model.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 00:43:20 GMT""}]","2016-09-06"
+"hep-th/9204067","Ken-ichiro Aoki","Kenichro Aoki and Eric D'Hoker","W--Gravity and Generalized Lax Equations for (super) Toda Theory","9pp","Nucl.Phys. B387 (1992) 576-588","10.1016/0550-3213(92)90207-R",,"hep-th",,"  We generalize the Lax pair and B\""acklund transformations for Toda and N=1
+super Toda equations to the case of arbitrary worldsheet background geometry.
+We use the fact that the Toda equations express constant curvature conditions,
+which arise naturally from flatness conditions equivalent to the W--gravity
+equations of motion.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 01:07:16 GMT""}]","2009-10-22"
+"hep-th/9204069","Peter Peldan","Peter Peldan","Ashtekar's Variables for Arbitrary Gauge Group","6pp","Phys.Rev.D46:2279-2282,1992","10.1103/PhysRevD.46.R2279",,"hep-th gr-qc",,"  A generally covariant gauge theory for an arbitrary gauge group with
+dimension $\geq 3$, that reduces to Ashtekar's canonical formulation of gravity
+for SO(3,C), is presented. The canonical form of the theory is shown to contain
+only first class constraints.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 11:45:15 GMT""}]","2010-01-06"
+"hep-th/9204070",,"A.Smailagic, E.Spallucci","Gravitational and Schwinger model anomalies: how far can the analogy go?","16 pages, no figure, phyzzx macro, square.tex has been deleted from
+  the previous version","Phys.Lett. B284 (1992) 17-22","10.1016/0370-2693(92)91918-Y",,"hep-th",,"  We describe the most general treatment of all anomalies both for chiral and
+massless Dirac fermions, in two-dimensional gravity. It is shown that for this
+purpose two regularization dependent parameters are present in the effective
+action. Analogy to the \sc\ model is displayed corresponding to a specific
+choice of the second parameter, thus showing that the gravitational model
+contains \a\ relations having no analogy in the \sc\ model.
+","[{""version"":""v1"",""created"":""Wed, 22 Apr 1992 13:52:00 GMT""},{""version"":""v2"",""created"":""Fri, 24 Apr 1992 09:53:00 GMT""}]","2009-10-22"
+"math/9204213",,"Edward Odell, Thomas Schlumprecht","The Distorion Problem",,,,"Banach Archive 4/21/92","math.FA",,"  We prove that Hilbert space is distortable and, in fact, arbitrarily
+distortable. This means that for all lambda >1 there exists an equivalent norm
+|.| on l_2 such that for all infinite dimensional subspaces Y of l_2 there
+exist x,y in Y with ||x||_2 = ||y||_2 =1 yet |x| >lambda |y|.
+  We also prove that if X is any infinite dimensional Banach space with an
+unconditional basis then the unit sphere of X and the unit sphere of l_1 are
+uniformly homeomorphic if and only if X does not contain l_infty^n's uniformly.
+","[{""version"":""v1"",""created"":""Tue, 21 Apr 1992 19:29:09 GMT""}]","2016-09-06"

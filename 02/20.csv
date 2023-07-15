@@ -1,0 +1,84 @@
+"alg-geom/9202019","Rick Miranda","Frank DeMeyer, Tim Ford, and Rick Miranda","The cohomological Brauer group of a toric variety","12 pages, AMS-Latex Version 1.0",,,,"alg-geom math.AG",,"  Toric varieties are a special class of rational varieties defined by
+equations of the form {\it monomial = monomial}. For a good brief survey of the
+history and role of toric varieties see [10]. Any toric variety $X$ contains a
+cover by affine open sets described in terms of arrangements (called fans) of
+convex bodies in $\Bbb R^r$. The coordinate rings of each of these affine open
+sets is a graded ring generated over the ground field by monomials. As a
+consequence, toric varieties provide a good context in which cohomology can be
+calculated. The purpose of this article is to describe the second \'etale
+cohomology group with coefficients in the sheaf of units of any toric variety
+$X$. This is the so-called cohomological Brauer group of $X$.
+","[{""version"":""v1"",""created"":""Wed, 19 Feb 1992 16:50:13 GMT""}]","2008-02-03"
+"alg-geom/9202020",,"G. Niesi, L. Robbiano","Disproving Hibi's Conjecture with CoCoA or Projective Curves with bad
+  Hilbert Functions","10 pages, plain TeX",,,,"alg-geom math.AG",,"  In this paper we show how to combine different techniques from Commutative
+Algebra and a systematic use of a Computer Algebra System (in our case mainly
+CoCoA) in order to explicitly construct Cohen-Macaulay domains, which are
+standard $k$-algebras and whose Hilbert function is ``bad"". In particular we
+disprove a well-known conjecture by Hibi.
+","[{""version"":""v1"",""created"":""Thu, 20 Feb 1992 14:58:00 GMT""}]","2008-02-03"
+"hep-th/9202066","Vincent G. J. Rodgers","V.G.J. Rodgers","QCD Instantons and 2D Surfaces","13 pages","Mod.Phys.Lett. A7 (1992) 1001-1008","10.1142/S0217732392000896",,"hep-th",,"  Some time ago, Atiyah showed that there exists a natural identification
+between the k-instantons of a Yang-Mills theory with gauge group $G$ and the
+holomorphic maps from $CP_1$ to $\Omega G$. Since then, Nair and Mazur, have
+associated the $\Theta $ vacua structure in QCD with self-intersecting Riemann
+surfaces immersed in four dimensions. From here they concluded that these 2D
+surfaces correspond to the non-perturbative phase of QCD and carry the
+topological information of the $\Theta$ vacua. In this paper we would like to
+elaborate on this point by making use of Atiyah's identification. We will argue
+that an effective description of QCD may be more like a $WZW$ model coupled to
+the induced metric of an immersion of a 2-D Riemann surface in $R^4$. We make
+some further comments on the relationship between the coadjoint orbits of the
+Kac-Moody group on $G$ and instantons with axial symmetry and monopole charge.
+","[{""version"":""v1"",""created"":""Wed, 19 Feb 1992 21:09:39 GMT""}]","2015-06-26"
+"hep-th/9202067",,"Mirjam Cvetic","Stringy Domain Walls and Other Stringy Topological Defects","16 pages",,,,"hep-th",,"  We point out that the moduli sector of the $(2,2)$ string compactification
+with its nonperturbatively preserved non-compact symmetries is a framework to
+study global topological defects. Based on the target space modular invariance
+of the nonperturbative superpotential of the four-dimensional $N=1$
+supersymmetric string vacua, topologically stable stringy domain walls are
+found. Explicit supersymmetric solutions for the modulus field and the metric,
+which saturate the Bogomol'nyi bound, are presented. They interpolate between
+{\it non-degenerate} vacua. As a corollary, this defines a new notion of vacuum
+degeneracy of supersymmetric vacua. Nonsupersymmetric stringy domain walls are
+discussed as well. The moduli sectors with more than one modulus and the
+non-compact continous symmetry preserved allow for global monopole-type and
+texture-type configurations.
+","[{""version"":""v1"",""created"":""Wed, 19 Feb 1992 21:26:39 GMT""}]","2007-05-23"
+"hep-th/9202068","Robert Mann","R.B. Mann, M.S. Morris and S.F. Ross","Properties of Asymptotically Flat Two-Dimensional Black Holes","28 pages","Class.Quant.Grav.10:1477-1494,1993","10.1088/0264-9381/10/8/010",,"hep-th",,"  We investigate properties of two-dimensional asymptotically flat black holes
+which arise in both string theory and in scale invariant theories of gravity.
+By introducing matter sources in the field equations we show how such objects
+can arise as the endpoint of gravitational collapse. We examine the motion of
+test particles outside the horizons, and show that they fall through in a
+finite amount of proper time and an infinite amount of coordinate time. We also
+investigate the thermodynamic and quantum properties, which give rise to a
+fundamental length scale. The 't Hooft prescription for cutting off eigenmodes
+of particle wave functions is shown to be source dependent, unlike the
+four-dimensional case. The relationship between these black holes and those
+considered previously in $(1+1)$ dimensions is discussed.
+","[{""version"":""v1"",""created"":""Wed, 19 Feb 1992 21:28:47 GMT""}]","2010-04-06"
+"hep-th/9202069","Gustav Delius","G.W. Delius, M.T. Grisaru and D. Zanon","Quantum Conserved Currents in Affine Toda Theories","19 pages","Nucl.Phys.B385:307-328,1992","10.1016/0550-3213(92)90103-I",,"hep-th",,"  We study the renormalization and conservation at the quantum level of
+higher-spin currents in affine Toda theories with particular emphasis on the
+nonsimply-laced cases. For specific examples, namely the spin-3 current for the
+$a_3^{(2)}$ and $c_2^{(1)}$ theories, we prove conservation to all-loop order,
+thus establishing the existence of factorized S-matrices. For these theories,
+as well as the simply-laced $a_2^{(1)}$ theory, we compute one-loop corrections
+to the corresponding higher-spin charges and study charge conservation for the
+three-particle vertex function. For the $a_3^{(2)}$ theory we show that
+although the current is conserved, anomalous threshold singularities spoil the
+conservation of the corresponding charge for the on-shell vertex function,
+implying a breakdown of some of the bootstrap procedures commonly used in
+determining the exact S-matrix.
+","[{""version"":""v1"",""created"":""Thu, 20 Feb 1992 11:54:02 GMT""}]","2011-07-19"
+"hep-th/9202070","H. G. Kausch","H. G. Kausch and G. M. T. Watts","Duality in Quantum Toda theory and W-algebras","25 pages","Nucl.Phys. B386 (1992) 166-192","10.1016/0550-3213(92)90179-F",,"hep-th",,"  We consider Quantum Toda theory associated to a general Lie algebra. We prove
+that the conserved quantities in both conformal and affine Toda theories
+exhibit duality interchanging the Dynkin diagram and its dual, and inverting
+the coupling constant. As an example we discuss the conformal Toda theories
+based on $B_2,B_3$ and $G_2$ and the related affine theories.
+","[{""version"":""v1"",""created"":""Thu, 20 Feb 1992 12:21:00 GMT""}]","2009-10-22"
+"hep-th/9202071",,"Giorgio Immirzi (Universita' di Perugia & INFN Perugia, Italy)","The reality conditions for the new canonical variables of General
+  Relativity","11 p","Class.Quant.Grav.10:2347-2352,1993","10.1088/0264-9381/10/11/017",,"hep-th",,"  We examine the constraints and the reality conditions that have to be imposed
+in the canonical theory of 4--d gravity formulated in terms of Ashtekar
+variables. We find that the polynomial reality conditions are consistent with
+the constraints, and make the theory equivalent to Einstein's, as long as the
+inverse metric is not degenerate; when it is degenerate, reality conditions
+cannot be consistently imposed in general, and the theory describes complex
+general relativity.
+","[{""version"":""v1"",""created"":""Thu, 20 Feb 1992 14:47:00 GMT""}]","2010-04-06"

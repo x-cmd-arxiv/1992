@@ -1,0 +1,250 @@
+"alg-geom/9210002","Mikhail Kapranov","M.Kapranov","Chow quotients of Grassmannian I","88 pages,plain TeX",,,,"alg-geom math.AG",,"  We introduce a certain compactification of the space of projective
+configurations i.e. orbits of the group $PGL(k)$ on the space of $n$ - tuples
+of points in $P^{k-1}$ in general position. This compactification differs
+considerably from Mumford's geometric invariant theory quotient. It is obtained
+by considering limit position (in the Chow variety) of the closures of generic
+orbits. The same result will be obtained if we study orbits of the maximal
+torus on the Grassmannian $G(k,n)$. We study in detail the closures of the
+torus orbits and their ""visible contours"" which are Veronese varieties in the
+Grassmannian. For points on $P^1$ our construction gives the Grothemdieck -
+Knudsen moduli space of stable $n$ -punctured curves of genus 0. The ""Chow
+quotient"" interpretation of this space permits us to represent it as a blow up
+of a projective space.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 16:36:17 GMT""}]","2008-02-03"
+"cond-mat/9210005",,"B.A.Berg, T.Celik and U.Hansmann","Multicanonical Study of the 3D Ising Spin Glass","FSU-SCRI-92-121; 7 pages; sorry, no figures included","Nucl.Phys.Proc.Suppl. 34 (1993) 664-665","10.1209/0295-5075/22/1/012",,"cond-mat hep-lat",,"  We simulated the Edwards-Anderson Ising spin glass model in three dimensions
+via the recently proposed multicanonical ensemble. Physical quantities such as
+energy density, specific heat and entropy are evaluated at all temperatures. We
+studied their finite size scaling, as well as the zero temperature limit to
+explore the ground state properties.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 18:45:54 GMT""}]","2009-10-22"
+"gr-qc/9210004","James B. Hartle","James B. Hartle","The Spacetime Approach to Quantum Mechanics","22pages, revtex 4, added figures, publication data corrected","Vistas Astron. 37 (1993) 569","10.1016/0083-6656(93)90097-4","UCSBTH-92-12","gr-qc hep-th quant-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Feynman's sum-over-histories formulation of quantum mechanics is reviewed as
+an independent statement of quantum theory in spacetime form. It is different
+from the usual Schr\""odinger-Heisenberg formulation that utilizes states on
+spacelike surfaces because it assigns probabilities to different sets of
+alternatives. Sum-over-histories quantum mechanics can be generalized to deal
+with spacetime alternatives that are not ""at definite moments of time"". An
+example in field theory is the set of alternative ranges of values of a field
+averaged over a spacetime region. An example in particle mechanics is the set
+of the alternatives defined by whether a particle never crosses a fixed
+spacetime region or crosses it at least once. The general notion of a set of
+spacetime alternatives is a partition (coarse-graining) of the histories into
+an exhaustive set of exclusive classes. With this generalization the
+sum-over-histories formulation can be said to be in fully spacetime form with
+dynamics represented by path integrals over spacetime histories and
+alternatives defined as spacetime partitions of these histories. When
+restricted to alternatives at definite moments of times this generalization is
+equivalent to Schr\""odinger-Heisenberg quantum mechanics. However, the quantum
+mechanics of more general spacetime alternatives does not have an equivalent
+Schr\""odinger-Heisenberg formulation. We suggest that, in the quantum theory of
+gravity, the general notion of ""observable"" is supplied by diffeomorphism
+invariant partitions of spacetime metrics and matter field configurations. By
+generalizing the usual alternatives so as to put quantum theory in fully
+spacetime form we may be led to a covariant generalized quantum mechanics of
+spacetime free from the problem of time.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 23:50:56 GMT""},{""version"":""v2"",""created"":""Mon, 12 Oct 1992 22:13:01 GMT""},{""version"":""v3"",""created"":""Sun, 12 Jan 2014 01:36:44 GMT""},{""version"":""v4"",""created"":""Fri, 20 Jul 2018 20:45:55 GMT""}]","2018-07-24"
+"gr-qc/9210005","Terry Goldman","T. Goldman, J. P\'erez-Mercader, Fred Cooper and Michael Martin Nieto","The Dark Matter Problem in Light of Quantum Gravity","13 pages, LaTeX, (3 figues, not included)",,"10.1016/0370-2693(92)91132-S","LA-UR-92-2642","gr-qc astro-ph hep-ph",,"  We show how, by considering the cumulative effect of tiny quantum
+gravitational fluctuations over very large distances, it may be possible to:
+($a$) reconcile nucleosynthesis bounds on the density parameter of the Universe
+with the predictions of inflationary cosmology, and ($b$) reproduce the
+inferred variation of the density parameter with distance. Our calculation can
+be interpreted as a computation of the contribution of quantum gravitational
+degrees of freedom to the (local) energy density of the Universe.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 03:47:44 GMT""}]","2009-10-22"
+"hep-lat/9210010","Massimo Campostrini","Massimo Campostrini, Paolo Rossi, and Ettore Vicari","Scaling and asymptotic scaling in two-dimensional $CP^{N-1}$ models","5 pages + 12 figures (PostScript), report no. IFUP-TH 46/92","Nucl. Phys. Proc. Suppl. 30 (1993) 819","10.1016/0920-5632(93)90333-2",,"hep-lat",,"  Two-dimensional $CP^{N-1}$ models are investigated by Monte Carlo methods on
+the lattice, for values of $N$ ranging from 2 to 21. Scaling and rotation
+invariance are studied by comparing different definitions of correlation length
+$\xi$. Several lattice formulations are compared and shown to enjoy scaling for
+$\xi$ as small as $2.5$. Asymptotic scaling is investigated using as bare
+coupling constant both the usual $\beta$ and $\beta_E$ (related to the internal
+energy); the latter is shown to improve asymptotic scaling properties. Studies
+of finite size effects show their $N$-dependence to be highly non-trivial, due
+to the increasing radius of the $\bar z z$ bound states at large $N$.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 09:34:47 GMT""}]","2009-10-22"
+"hep-lat/9210011","Massimo Campostrini","Massimo Campostrini and Paolo Rossi","$1/N$ Expansion of Two-Dimensional Models in the Scaling Region","6 pages, report no. IFUP-TH 49/92","Nucl. Phys. Proc. Suppl. 30 (1993) 827","10.1016/0920-5632(93)90335-4",,"hep-lat",,"  The main technical and conceptual features of the lattice $1/N$ expansion in
+the scaling region are discussed in the context of a two-parameter
+two-dimensional spin model interpolating between $CP^{N-1}$ and $O(2N)$
+$\sigma$ models, with standard and improved lattice actions. We show how to
+perform the asymptotic expansion of effective propagators for small values of
+the mass gap and how to employ this result in the evaluation of physical
+quantities in the scaling regime. The lattice renormalization group $\beta$
+function is constructed explicitly and exactly to $O({1/N})$.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 09:44:29 GMT""}]","2009-10-22"
+"hep-lat/9210012",,"Massimo Campostrini, Paolo Rossi, and Ettore Vicari (Dipartimento di
+  Fisica dell'Universit\`a and Istituto Nazionale di Fisica Nucleare, I-56126
+  Pisa, Italy)","Topological susceptibility and string tension in CP(N-1) models","Talk presented at the Lattice '92 Conference, Amsterdam. 6 pages,
+  sorry, no figures included, if required we can send them by mail","Nucl. Phys. Proc. Suppl. 30 (1993) 830","10.1016/0920-5632(93)90336-5",,"hep-lat",,"  We investigate the features of ${\rm CP}^{N-1}$ models concerning confinement
+and topology. In order to study the approach to the large-$N$ asymptotic
+regime, we determine the topological susceptibility and the string tension for
+a wide range of values of $N$, in particular $N=4,10,21,41$. Quantitative
+agreement with the large-$N$ predictions is found for the ${\rm CP}^{20}$ and
+the ${\rm CP}^{40}$ models. Problems related to the measure of the topological
+susceptibility and the string tension on the lattice are discussed.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 10:05:10 GMT""}]","2009-10-22"
+"hep-ph/9210220","Andreas Wirzba","A. Wirzba","The Cheshire Cat Bag Model: Color Anomaly and $\eta'$ Properties","7 pages, LaTeX, Nordita - 92/68 N","Nucl.Phys. A553 (1993) 675c-680c","10.1016/0375-9474(93)90677-P",,"hep-ph nucl-th",,"  We show that color can leak from a QCD bag if we allow for pseudoscalar
+isoscalar singlet ($\eta'$) coupling at the surface. To enforce total
+confinement of color an additional boundary term is suggested. New relations
+between the $\eta'$ mass and decay constant and the QCD gluon condensates are
+derived and compared with the empirical parameters.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 14:42:00 GMT""}]","2007-05-23"
+"hep-th/9210033","Joost Zegwaard","Joost Zegwaard","The weaving of curved geometries","9 pages, THU-92/28","Phys.Lett. B300 (1993) 217-222","10.1016/0370-2693(93)90356-M",,"hep-th",,"  In the physical interpretation of states in non-perturbative loop quantum
+gravity the so-called weave states play an important role. Until now only
+weaves representing flat geometries have been introduced explicitly. In this
+paper the construction of weaves for non-flat geometries is described; in
+particular, weaves representing the Schwarzschild solution are constructed.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 18:06:32 GMT""}]","2009-10-22"
+"hep-th/9210034","James Anglin","J.R. Anglin","Thermal Equilibrium from the Hu-Paz-Zhang Master Equation","10 pages, McGill/92--46",,,,"hep-th gr-qc",,"  The exact master equation for a harmonic oscillator coupled to a heat bath,
+derived recently by Hu, Paz and Zhang, is simplified by taking the
+weak-coupling, late-time limit. The unique time-independent solution to this
+simplified master equation is the canonical ensemble at the temperature of the
+bath. The frequency of the oscillator is effectively lowered by the interaction
+with the bath.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 18:48:08 GMT""}]","2007-05-23"
+"hep-th/9210035","James Anglin","J.R. Anglin","Influence Functionals and the Accelerating Detector","32 pages","Phys.Rev. D47 (1993) 4525-4537","10.1103/PhysRevD.47.4525","McGill/92--45","hep-th gr-qc",,"  The influence functional is derived for a massive scalar field in the ground
+state, coupled to a uniformly accelerating DeWitt monopole detector in $D+1$
+dimensional Minkowski space. This confirms the local nature of the Unruh
+effect, and provides an exact solution to the problem of the accelerating
+detector without invoking a non-standard quantization. A directional detector
+is presented which is efficiently decohered by the scalar field vacuum, and
+which illustrates an important difference between the quantum mechanics of
+inertial and non-inertial frames. From the results of these calculations, some
+comments are made regarding the possibility of establishing a quantum
+equivalence principle, so that the Hawking effect might be derived from the
+Unruh effect.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 20:42:49 GMT""}]","2009-10-22"
+"hep-th/9210036","Daniel Cangemi","Daniel Cangemi and Roman Jackiw","Geometric Gravitational Forces on Particles Moving in a Line","10 pages, CTP#2147","Phys.Lett. B299 (1993) 24-29","10.1016/0370-2693(93)90878-L",,"hep-th gr-qc",,"  In two-dimensional space-time, point particles can experience a geometric,
+dimension-specific gravity force, which modifies the usual geodesic equation of
+motion and provides a link between the cosmological constant and the vacuum
+$\theta$-angle. The description of such forces fits naturally into a gauge
+theory of gravity based on the extended Poincar\'e group, {\it i.e.\/}
+``string-inspired'' dilaton gravity.
+","[{""version"":""v1"",""created"":""Wed, 7 Oct 1992 21:40:30 GMT""}]","2009-10-22"
+"hep-th/9210037",,"L. Feher, John Harnad, I. Marshall","Generalized Drinfeld-Sokolov Reductions and KdV Type Hierarchies","43 pages","Commun.Math.Phys. 154 (1993) 181-214","10.1007/BF02096838","UdeM-LPN-TH-92-103/CRM-1832","hep-th math.QA",,"  Generalized Drinfeld-Sokolov (DS) hierarchies are constructed through local
+reductions of Hamiltonian flows generated by monodromy invariants on the dual
+of a loop algebra. Following earlier work of De Groot et al, reductions based
+upon graded regular elements of arbitrary Heisenberg subalgebras are
+considered. We show that, in the case of the nontwisted loop algebra
+$\ell(gl_n)$, graded regular elements exist only in those Heisenberg
+subalgebras which correspond either to the partitions of $n$ into the sum of
+equal numbers $n=pr$ or to equal numbers plus one $n=pr+1$. We prove that the
+reduction belonging to the grade $1$ regular elements in the case $n=pr$ yields
+the $p\times p$ matrix version of the Gelfand-Dickey $r$-KdV hierarchy,
+generalizing the scalar case $p=1$ considered by DS. The methods of DS are
+utilized throughout the analysis, but formulating the reduction entirely within
+the Hamiltonian framework provided by the classical r-matrix approach leads to
+some simplifications even for $p=1$.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 01:11:43 GMT""}]","2009-10-22"
+"hep-th/9210038","K. Maeda","T. Fujiwara, Y. Igarashi, J. Kubo, K. Maeda","A new insight into BRST anomalies in string theory","19 pages","Nucl.Phys. B391 (1993) 211-228","10.1016/0550-3213(93)90147-H",,"hep-th",,"  Using the generalized hamiltonian method of Batalin, Fradkin and Vilkovisky,
+we investigate the algebraic structure of anomalies in the Polyakov string
+theory that appear as the Schwinger terms in super-commutation relations
+between BRST charge and total hamiltonian. We obtain the most general form of
+the anomalies in the extended phase space, without any reference to a two
+dimensional metric. This pregeometri- cal result, refered to as the genelarized
+Virasoro anomaly, independent of the gauge and the regularization under a minor
+assumption, is a non-perturbative result, and valid for any space-time
+dimension. In a configuration space, in which the two dimensional metric can be
+identified, we can geometrize the result without assuming the weak
+gravitational field, showing that the most general anomaly exactly exhibits the
+Weyl anomaly.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 09:12:04 GMT""}]","2009-10-22"
+"hep-th/9210040","Wolfgang Eholzer","W. Eholzer","Fusion Algebras Induced by Representations of the Modular Group","(one change informula (4.15), some minor changes) 13 pages (plain
+  TeX), to be published in Int.Jour.Mod.Phys.A","Int.J.Mod.Phys. A8 (1993) 3495-3507","10.1142/S0217751X93001405","BONN-HE-92-30","hep-th",,"  Using the representation theory of the subgroups SL_2(Z_p) of the modular
+group we investigate the induced fusion algebras in some simple examples. Only
+some of these representations lead to 'good' fusion algebras. Furthermore, the
+conformal dimensions and the central charge of the corresponding rational
+conformal field theories are calculated. Two series of representations which
+can be realized by unitary theories are presented. We show that most of the
+fusion algebras induced by admissible representations are realized in well
+known rational models.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 12:53:55 GMT""},{""version"":""v2"",""created"":""Fri, 27 Nov 1992 07:37:13 GMT""}]","2016-09-06"
+"hep-th/9210041","Cobi Sonnenschein","J. Sonnenschein","Physical States in Topological Coset Models","17 pages",,,,"hep-th",,"  Recent results about topological coset models are summarized. The action of a
+topological ${G\over H}$ coset model ($rank\ H = rank\ G$) is written down as a
+sum of ``decoupled"" matter, gauge and ghost sectors.
+  The physical states are in the cohomology of a BRST-like operator that
+relates these secotrs. The cohomology on a free field Fock space as well as on
+an irreducible representation of the ``matter"" Kac-Moody algebra are extracted.
+We compare the results with those of $(p,q)$ minimal models coupled to gravity
+and with $(p,q)$ $W_N$ strings for the case of $A_1^{(1)}$ at level $k={p\over
+q}-2$ and $A_1^{(N-1)}$ at level $k={p\over q}-N$ respectively.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 13:33:27 GMT""}]","2007-05-23"
+"hep-th/9210042","W. Kim Baskerville","W.K.Baskerville and S.Majid","The Braided Heisenberg Group","33 pages","J.Math.Phys. 34 (1993) 3588-3606","10.1063/1.530047",,"hep-th",,"  We compute the braided groups and braided matrices $B(R)$ for the solution
+$R$ of the Yang-Baxter equation associated to the quantum Heisenberg group. We
+also show that a particular extension of the quantum Heisenberg group is dual
+to the Heisenberg universal enveloping algebra $U_{q}(h)$, and use this result
+to derive an action of $U_{q}(h)$ on the braided groups. We then demonstrate
+the various covariance properties using the braided Heisenberg group as an
+explicit example. In addition, the braided Heisenberg group is found to be
+self-dual. Finally, we discuss a physical application to a system of n braided
+harmonic oscillators. An isomorphism is found between the n-fold braided and
+unbraided tensor products, and the usual `free' time evolution is shown to be
+equivalent to an action of a primitive generator of $U_{q}(h)$ on the braided
+tensor product.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 13:56:40 GMT""}]","2009-10-22"
+"hep-th/9210043","J. Goeree","T. Tjin","Finite $W$ symmetry in finite dimensional integrable systems","9 pages, ITFA-25/92",,,,"hep-th",,"  By generalizing the Drinfeld-Sokolov reduction a large class of $W$ algebras
+can be constructed. We introduce 'finite' versions of these algebras by Poisson
+reducing Kirillov Poisson structures on simple Lie algebras. A closed and
+coordinate free formula for the reduced Poisson structure is given. These
+finitely generated algebras play the same role in the theory of $W$ algebras as
+the simple Lie algebras in the theory of Kac-Moody algebras and will therefore
+presumably play an important role in the representation theory of $W$ algebras.
+We give an example leading to a quadratic $sl_2$ algebra. The finite
+dimensional unitary representations of this algebra are discussed and it is
+shown that they have Fock realizations. It is also shown that finite
+dimensional generalized Toda theories are reductions of a system describing a
+free particle on a group manifold. These finite Toda systems have the
+non-linear finite $W$ symmetry discussed above. Talk given at the `workshop on
+low dimensional topology and physics', Cambridge, September 1992.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 15:37:29 GMT""}]","2007-05-23"
+"hep-th/9210044","Shahn Majid","Shahn Majid","The Quantum Double as Quantum Mechanics","36 pages. Revised to include full details for the simplest example
+  based on sl_2. Accepted to appear in J. Geometry and Physics",,,"DAMTP/92-48","hep-th math.QA",,"  We introduce $*$-structures on braided groups and braided matrices. Using
+this, we show that the quantum double $D(U_q(su_2))$ can be viewed as the
+quantum algebra of observables of a quantum particle moving on a hyperboloid in
+q-Minkowski space (a three-sphere in the Lorentz metric), and with the role of
+angular momentum played by $U_q(su_2)$. This provides a new example of a
+quantum system whose algebra of observables is a Hopf algebra. Furthermore, its
+dual Hopf algebra can also be viewed as a quantum algebra of observables, of
+another quantum system. This time the position space is a q-deformation of
+$SL(2,\R)$ and the momentum group is $U_q(su_2^*)$ where $su_2^*$ is the
+Drinfeld dual Lie algebra of $su_2$. Similar results hold for the quantum
+double and its dual of a general quantum group.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 14:56:59 GMT""},{""version"":""v2"",""created"":""Thu, 29 Apr 1993 14:41:03 GMT""}]","2008-02-03"
+"math/9210205","Haskell P. Rosenthal","Haskell P. Rosenthal","A characterization of Banach spaces containing $c_0$",,,,"Banach Archive 10/8/92","math.FA",,"  A subsequence principle is obtained, characterizing Banach spaces containing
+$c_0$, in the spirit of the author's 1974 characterization of Banach spaces
+containing $\ell^1$.
+  Definition: A sequence $(b_j)$ in a Banach space is called {\it strongly
+summing\/} (s.s.) if $(b_j)$ is a weak-Cauchy basic sequence so that whenever
+scalars $(c_j)$ satisfy $\sup_n \|\sum_{j=1}^n c_j b_j\| <\infty$, then $\sum
+c_j$ converges.
+  A simple permanence property: if $(b_j)$ is an (s.s.) basis for a Banach
+space $B$ and $(b_j^*)$ are its biorthogonal functionals in $B^*$, then
+$(\sum_{j=1}^n b_j^*)_{n=1}^ \infty$ is a non-trivial weak-Cauchy sequence in
+$B^*$; hence $B^*$ fails to be weakly sequentially complete. (A weak-Cauchy
+sequence is called {\it non-trivial\/} if it is {\it non-weakly convergent\/}.)
+  Theorem. Every non-trivial weak-Cauchy sequence in a (real or complex) Banach
+space has either an {\rm (s.s.)} subsequence, or a convex block basis
+equivalent to the summing basis.
+  Remark : The two alternatives of the Theorem are easily seen to be mutually
+exclusive.
+  Corollary 1. A Banach space $B$ contains no isomorph of $c_0$ if and only if
+every non-trivial weak-Cauchy sequence in $B$ has an {\rm (s.s.)} subsequence.
+  Combining the $c_0$ and $\ell^1$ Theorems, we obtain
+  Corollary 2. If $B$ is a non-reflexive Banach space such that $X^*$ is weakly
+sequentially complete for all linear subspaces $X$ of $B$, then $c_0$ embeds in
+$X$; in fact, $B$ has property~$(u)$.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 15:45:24 GMT""}]","2016-09-06"
+"math/9210206",,"Michael Cwikel, Nigel J. Kalton","Interpolation of compact operators by the methods of Calder\'on and
+  Gustavsson-Peetre",,,,"Banach Archive 10/8/92","math.FA",,"  Let $ X=(X_0,X_1)$ and $ Y=(Y_0,Y_1)$ be Banach couples and suppose $T: X\to
+Y$ is a linear operator such that $T:X_0\to Y_0$ is compact. We consider the
+question whether the operator $T:[X_0,X_1]_{\theta}\to [Y_0,Y_1]_{\theta}$ is
+compact and show a positive answer under a variety of conditions. For example
+it suffices that $X_0$ be a UMD-space or that $X_0$ is reflexive and there is a
+Banach space so that $X_0=[W,X_1]_{\alpha}$ for some $0<\alpha<1.$
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 15:45:24 GMT""}]","2016-09-06"
+"nucl-th/9210005",,"I. R. Afnan and B. F. Gibson","Resonances in $\Lambda d$ Scattering and the $\Sigma$-hypertriton","34 pages",,"10.1103/PhysRevC.47.1000",,"nucl-th",,"  Using separable $NN$ and $\Lambda N$-$\Sigma N$ potentials in the Faddeev
+equations, we have demonstrated that the predicted enhancement in the $\Lambda
+d$ cross section near the $\Sigma d$ threshold is associated with resonance
+poles in the scattering amplitude. The positions of these poles, on the second
+Riemann sheet of the complex energy plane, are determined by examining the
+eigenvalues of the kernel of the Faddeev equations. This suggests that for a
+certain class of $\Lambda N$-$\Sigma N$ potentials we can form a
+$\Sigma$-hypertriton with a width of about 8 MeV.
+","[{""version"":""v1"",""created"":""Thu, 8 Oct 1992 09:10:10 GMT""}]","2009-10-22"

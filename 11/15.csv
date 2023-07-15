@@ -1,0 +1,50 @@
+"gr-qc/9211019",,"Lee Smolin","What can we learn from the study of non-perturbative quantum general
+  relativity?","LATEX 37 pages, no figures",,,,"gr-qc",,"  I attempt to answer the question of the title by giving an annotated list of
+the major results achieved, over the last six years, in the program to
+construct quantum general relativity using the Ashtekar variables and the loop
+representation. A summary of the key open problems is also included. Also
+included are expositions of several new results including the construction of
+spatially diffeomorphism invariant observables constructed by coupling general
+relativity to matter fields.
+","[{""version"":""v1"",""created"":""Sun, 15 Nov 1992 02:23:00 GMT""}]","2007-05-23"
+"hep-th/9211063","Malcolm Perry","Malcolm J. Perry and Edward Teo","Topological Conformal Gravity in Four Dimensions","35 pages, harvmac, DAMTP R92/42","Nucl.Phys. B401 (1993) 206-238","10.1016/0550-3213(93)90303-7",,"hep-th",,"  In this paper, we present a new formulation of topological conformal gravity
+in four dimensions. Such a theory was first considered by Witten as a possible
+gravitational counterpart of topological Yang-Mills theory, but several
+problems left it incomplete. The key in our approach is to realise a theory
+which describes deformations of conformally self-dual gravitational instantons.
+We first identify the appropriate elliptic complex which does precisely this.
+By applying the Atiyah-Singer index theorem, we calculate the number of
+independent deformations of a given gravitational instanton which preserve its
+self-duality. We then quantise topological conformal gravity by BRST
+gauge-fixing, and discover how the quantum theory is naturally described by the
+above complex. Indeed, it is a process which closely parallels that of the
+Yang-Mills theory, and we show how the partition function generates an uncanny
+gravitational analogue of the first Donaldson invariant.
+","[{""version"":""v1"",""created"":""Sat, 14 Nov 1992 17:58:35 GMT""}]","2009-10-22"
+"hep-th/9211064",,"D.V. Boulatov","Infinite Tension Strings at D>1","16 pages (Seriously revised)","Mod.Phys.Lett. A8 (1993) 557-572","10.1142/S0217732393000581","NBI-HE-92-78","hep-th",,"  A matrix model describing surfaces embedded in a Bethe lattice is considered.
+From the mean field point of view, it is equivalent to the Kazakov-Migdal
+induced gauge theory and therefore, at $N=\infty$ and $d>1$, the latter can be
+interpreted as a matrix model for infinite-tension strings. We show that, in
+the naive continuum limit, it is governed by the one-matrix-model saddle point
+with an upside-down potential. To derive mean field equations, we consider the
+one-matrix model in external field. As a simple application, its explicit
+solution in the case of the inverted W potential is given.
+","[{""version"":""v1"",""created"":""Sat, 14 Nov 1992 19:12:06 GMT""},{""version"":""v2"",""created"":""Fri, 27 Nov 1992 14:06:45 GMT""},{""version"":""v3"",""created"":""Mon, 21 Dec 1992 14:46:14 GMT""}]","2009-10-22"
+"math/9211213","Saharon Shelah","Haim Judah, Saharon Shelah","Baire property and Axiom of Choice","Proof has an irreparable gap","Israel J. Math. 84 (1993), 435--450",,"Shelah [JdSh:446]","math.LO",,"  We show that
+  (1) If ZF is consistent then the following theory is consistent ""ZF +
+DC(omega_{1}) + Every set of reals has Baire property"" and
+  (2) If ZF is consistent then the following theory is consistent ""ZFC + `every
+projective set of reals has Baire property' + `any union of omega_{1} meager
+sets is meager' "".
+","[{""version"":""v1"",""created"":""Sun, 15 Nov 1992 00:00:00 GMT""},{""version"":""v2"",""created"":""Wed, 24 Jul 2019 18:03:26 GMT""},{""version"":""v3"",""created"":""Fri, 23 Aug 2019 20:55:18 GMT""}]","2019-08-27"
+"math/9211214","Shelah Office","Renling Jin, Saharon Shelah","Planting Kurepa trees and killing Jech-Kunen trees in a model by using
+  one inaccessible cardinal",,"Fund. Math. 141 (1992), 287--296",,"Shelah [JiSh:469]","math.LO",,"  By an omega_1--tree we mean a tree of power omega_1 and height omega_1. Under
+CH and 2^{omega_1}> omega_2 we call an omega_1--tree a Jech--Kunen tree if it
+has kappa many branches for some kappa strictly between omega_1 and
+2^{omega_1}. In this paper we prove that, assuming the existence of one
+inaccessible cardinal,
+  (1) it is consistent with CH plus 2^{omega_1}> omega_2 that there exist
+Kurepa trees and there are no Jech--Kunen trees,
+  (2) it is consistent with CH plus 2^{omega_1}= omega_4 that only Kurepa trees
+with omega_3 many branches exist.
+","[{""version"":""v1"",""created"":""Sun, 15 Nov 1992 00:00:00 GMT""}]","2016-09-06"

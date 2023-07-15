@@ -1,0 +1,15 @@
+"hep-th/9201038",,"L. Feher, L. O'Raifeartaigh, P. Ruelle and I. Tsutsui","Rational vs Polynomial Character of W$_n^l$-Algebras","18 pages",,"10.1016/0370-2693(92)90015-V",,"hep-th",,"  The constraints proposed recently by Bershadsky to produce $W^l_n$ algebras
+are a mixture of first and second class constraints and are degenerate. We show
+that they admit a first-class subsystem from which they can be recovered by
+gauge-fixing, and that the non-degenerate constraints can be handled by
+previous methods. The degenerate constraints present a new situation in which
+the natural primary field basis for the gauge-invariants is rational rather
+than polynomial. We give an algorithm for constructing the rational basis and
+converting the base elements to polynomials.
+","[{""version"":""v1"",""created"":""Tue, 21 Jan 1992 03:18:51 GMT""},{""version"":""v2"",""created"":""Wed, 26 Feb 1992 20:24:11 GMT""}]","2009-10-22"
+"hep-th/9201039","Ian Jack","I. Jack, D. R. T. Jones and J. Panvel","Exact Bosonic and Supersymmetric String Black Hole Solutions","14p","Nucl.Phys. B393 (1993) 95-110","10.1016/0550-3213(93)90239-L",,"hep-th",,"  We show that Witten's two-dimensional string black hole metric is exactly
+conformally invariant in the supersymmetric case. We also demonstrate that this
+metric, together with a recently proposed exact metric for the bosonic case,
+are respectively consistent with the supersymmetric and bosonic $\sigma$-model
+conformal invariance conditions up to four-loop order.
+","[{""version"":""v1"",""created"":""Tue, 21 Jan 1992 13:52:46 GMT""}]","2009-10-22"

@@ -1,0 +1,168 @@
+"astro-ph/9207001","Paul Steinhardt","R.L. Davis, H.M. Hodges, G.F. Smoot, P.J. Steinhardt, M.S. Turner","Cosmic Microwave Background Probes Models of Inflation","12 pages, FERMILAB-Pub-92/168-A","Phys.Rev.Lett.69:1856-1859,1992; ERRATUM-ibid.70:1733,1993","10.1103/PhysRevLett.69.1856",,"astro-ph hep-ph",,"  Inflation creates both scalar (density) and tensor (gravity wave) metric
+perturbations. We find that the tensor mode contribution to the CMB anisotropy
+on large-angular scales can only exceed that of the scalar mode in models where
+the spectrum of perturbations deviates significantly from scale invariance
+(e.g., extended and power-law inflation models and extreme versions of chaotic
+inflation). If the tensor mode dominates at large-angular scales, then the
+value of $\Delta T/T$ predicted on $1^\circ$ is less than if the scalar mode
+dominates, and, for cold dark matter models, $b>1$ can be made consistent with
+the COBE DMR results.
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 21:19:05 GMT""}]","2009-09-15"
+"astro-ph/9207002","Paul Steinhardt","R. Crittenden and Paul J. Steinhardt","Graceful Exit in Extended Inflation and Implications for Density
+  Perturbations","10 pages, UPR-0510T","Phys.Lett.B293:32-36,1992","10.1016/0370-2693(92)91477-Q",,"astro-ph hep-ph",,"  Two qualitatively different modes of ending superluminal expansion are
+possible in extended inflation. One mode, different from the one envoked in
+most extended models to date, easily avoids making big bubbles that distort the
+cosmic microwave background radiation (CMBR). In this mode, the spectrum of
+density fluctuations is found to be scale-free, $P(k) \propto k^n$, where $n$
+might lie anywhere between 0.5 and 1.0 (whereas, previously, it appeared that
+the range $1.0> n \gtsim 0.84$ was disallowed).
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 22:13:17 GMT""}]","2009-09-15"
+"cond-mat/9207013",,"Alexander Moroz","The Majorana Fermions for Quantum S=1/2 Antiferromagnet?","5 pp., plain Latex, comment on cond-mat/9206007",,,,"cond-mat",,"  Recently it has been suggested by A. M. Tsvelik that quantum S=1/2
+antiferromagnet can be described by the Majorana fermions in an irreducible way
+and without any constraint. In contrast to this claim we shall show that this
+representation is highly reducible. It is a direct sum of four irreducible
+fundamental representations of $su(2)$ algebra.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 10:45:03 GMT""}]","2007-05-23"
+"hep-ph/9207236","Boris Blok","B. Blok and M. Shifman","The Rule of Discarding $1/N_c$ in Inclusive Weak Decays","preprint NSF-ITP-92-103,TPI-MINN-33/T, 27 pages +2 fig. we eliminate
+  several minor misprints","Nucl.Phys. B399 (1993) 441-458","10.1016/0550-3213(93)90504-I",,"hep-ph",,"  We continue to investigate the effects of the (dominant) subleading operator
+of the $\vec\sigma\vec H$ type in the $1/N_c$ parts of the weak nonleptonic
+amplitudes. If the previous work concentrated on exclusive decays now we
+analyse inclusive widths in a certain kinematic limit. Deviations from the
+parton model predictions are found due to soft-gluon color exchange. In the
+interference (i.e. $1/N_c$) terms they are stronger than in the
+non-interference terms. The sign is negative so that the $1/N_c$ parts tend to
+cancel. The absolute value of the effect is of order 1 in D-mesons and of order
+0.50 in B mesons.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 08:22:00 GMT""},{""version"":""v2"",""created"":""Fri, 17 Jul 1992 22:35:00 GMT""}]","2009-10-22"
+"hep-ph/9207237",,"J. Ellis, J. Lopez, and D. Nanopoulos","The prospects for CHORUS and NOMAD in the light of COBE and GALLEX","11 pages (no figures); CERN-TH.6569/92, CTP-TAMU-53/92","Phys.Lett.B292:189-194,1992","10.1016/0370-2693(92)90629-I",,"hep-ph",,"  The most natural MSW neutrino oscillation interpretation of the GALLEX and
+other solar neutrino data, which invokes $m_{\nu_\mu}\sim3\times10^{-3}\eV$,
+and a general GUT see-saw hierarchy of neutrino masses,
+$m_{\nu_{e,\mu,\tau}}\sim (m_{u,c,t})^2/M_U$, suggest that
+$m_{\nu_\tau}\sim10\eV$ in agreement with the preference of COBE and other data
+on large-scale structure in the Universe for a hot component in the Dark
+Matter. The general see-saw model also suggests that neutrino mixing angles are
+related to quark mixing angles, which is also consistent with the oscillation
+interpretation of the solar neutrino data, and suggests that the forthcoming
+CHORUS and NOMAD experiments at CERN have a good chance of observing $\nu_\mu -
+\nu_\tau$ oscillations. We present a minimal realization of the general see-saw
+hierarchy in the context of flipped $SU(5)$.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 14:29:00 GMT""}]","2009-09-11"
+"hep-ph/9207238",,"A. Zhitnitsky","Quark confinement , topological susceptibility and all that in 4
+  dimensional gluodynamics","14 pages, CERN-TH 6564/92","Phys.Lett. B302 (1993) 472-481","10.1016/0370-2693(93)90429-L",,"hep-ph hep-th",,"  We discuss a few tightly connected problems, such as the $U(1)$ problem,
+confinement, the $\theta$ -dependence within a framework of the dynamical toron
+approach. We calculate two fundamental characteristics of the theory: the
+vacuum expectation value (vev) of the Wilson loop and the topological
+susceptibility. The analogy with well known 2+1 dimensional QED which exhibits
+confinement phenomenon is also discussed.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 09:04:05 GMT""}]","2009-10-22"
+"hep-th/9207039","Gabriele Ferretti","G. Ferretti and S.G. Rajeev","Current Algebra in Three Dimensions","11 pages, UR-1266, ER40685-720","Phys.Rev.Lett. 69 (1992) 2033-2036","10.1103/PhysRevLett.69.2033",,"hep-th",,"  We study a three dimensional analogue of the Wess--Zumino--Witten model,
+which describes the Goldstone bosons of three dimensional Quantum
+Chromodynamics. The topologically non--trivial term of the action can also be
+viewed as a nonlinear realization of Chern--Simons form. We obtain the current
+algebra of this model by canonical methods. This is a three dimensional
+generalization of the Kac--Moody algebra.
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 17:13:00 GMT""}]","2009-10-22"
+"hep-th/9207040","Francesco Ravanini","F.Ravanini, R.Tateo and A.Valleriani","Dynkin TBA's","29 pages, Latex (no macros) DFUB-92-11, DFTT-31/92","Int.J.Mod.Phys. A8 (1993) 1707-1728","10.1142/S0217751X93000709",,"hep-th",,"  We prove a useful identity valid for all $ADE$ minimal S-matrices, that
+clarifies the transformation of the relative thermodynamic Bethe Ansatz (TBA)
+from its standard form into the universal one proposed by Al.B.Zamolodchikov.
+By considering the graph encoding of the system of functional equations for the
+exponentials of the pseudoenergies, we show that any such system having the
+same form as those for the $ADE$ TBA's, can be encoded on $A,D,E,A/Z_2$ only.
+This includes, besides the known $ADE$ diagonal scattering, the set of all
+$SU(2)$ related {\em magnonic} TBA's. We explore this class sistematically and
+find some interesting new massive and massless RG flows. The generalization to
+classes related to higher rank algebras is briefly presented and an intriguing
+relation with level-rank duality is signalled.
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 18:33:00 GMT""}]","2009-10-22"
+"hep-th/9207041",,"John C. Baez","Link Invariants of Finite Type and Perturbation Theory","11 pages","Lett.Math.Phys. 26 (1992) 43-52","10.1007/BF00420517",,"hep-th math.QA",,"  The Vassiliev-Gusarov link invariants of finite type are known to be closely
+related to perturbation theory for Chern-Simons theory. In order to clarify the
+perturbative nature of such link invariants, we introduce an algebra V_infinity
+containing elements g_i satisfying the usual braid group relations and elements
+a_i satisfying g_i - g_i^{-1} = epsilon a_i, where epsilon is a formal variable
+that may be regarded as measuring the failure of g_i^2 to equal 1.
+Topologically, the elements a_i signify crossings. We show that a large class
+of link invariants of finite type are in one-to-one correspondence with
+homogeneous Markov traces on V_infinity. We sketch a possible application of
+link invariants of finite type to a manifestly diffeomorphism-invariant
+perturbation theory for quantum gravity in the loop representation.
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 16:58:12 GMT""}]","2009-10-22"
+"hep-th/9207042",,"Sergei V. Ketov, Hitoshi Nishino and S. James Gates, Jr","Self-Dual Supersymmetry and Supergravity in Atiyah-Ward Space-Time","61 pages","Nucl.Phys. B393 (1993) 149-210","10.1016/0550-3213(93)90242-H","UMDEPP-92-211 (June 1992)","hep-th",,"  We study supersymmetry and self-duality in a four-dimensional space-time with
+the signature (2,2), that we call the Atiyah-Ward space-time. Dirac matrices
+and spinors, in particular Majorana-Weyl spinors, are investigated in detail.
+We formulate $ N\ge 1 $ supersymmetric self-dual Yang-Mills theories and
+self-dual supergravities. An N=1 ``self-dual'' tensor multiplet is constructed
+and a possible ten-dimensional theory that gives rise to the four-dimensional
+self-dual supersymmetric theories is found. Instanton solutions are given as
+the zero modes in the N=2 self-dual Yang-Mills theory. The N=2 superstrings are
+conjectured to have no possible counter-terms at quantum level to all orders.
+These self-dual supersymmetric theories are to generate exactly soluble
+supersymmetric systems in lower dimensions.
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 19:48:00 GMT""},{""version"":""v2"",""created"":""Mon, 13 Jul 1992 23:25:00 GMT""},{""version"":""v3"",""created"":""Wed, 22 Jul 1992 18:34:00 GMT""}]","2012-08-27"
+"hep-th/9207043","Warren Siegel","W. Siegel","Self-Dual N=8 Supergravity as Closed N=2(4) Strings","17 pg., (uuencoded dvi file; revision: forgot 1 stupid term in the
+  last equation) ITP-SB-92-31","Phys.Rev.D47:2504-2511,1993","10.1103/PhysRevD.47.2504",,"hep-th",,"  As open N=2 or 4 strings describe self-dual N=4 super Yang-Mills in 2+2
+dimensions, the corresponding closed (heterotic) strings describe self-dual
+ungauged (gauged) N=8 supergravity. These theories are conveniently formulated
+in a chiral superspace with general supercoordinate and local OSp(8|2) gauge
+invariances. The super-light-cone and covariant-component actions are analyzed.
+Because only half the Lorentz group is gauged, the gravity field equation is
+just the vanishing of the torsion.
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 21:09:04 GMT""},{""version"":""v2"",""created"":""Tue, 14 Jul 1992 14:54:18 GMT""}]","2010-11-01"
+"hep-th/9207044","Miao Li","Wei Chen and Miao Li","Operator content and modular property of Chern-Simons coupled to a
+  massless scalar",,,,,"hep-th cond-mat",,"  Corrected with some rewording
+","[{""version"":""v1"",""created"":""Mon, 13 Jul 1992 21:25:05 GMT""},{""version"":""v2"",""created"":""Sat, 8 Aug 1992 03:34:36 GMT""}]","2008-02-03"
+"hep-th/9207045",,"Michael Dine","Problems of Naturalness: Some Lessons from String Theory","17 pages, SCIPP 92/27 References Improved",,,,"hep-th hep-ph",,"  We consider some questions of naturalness which arise when one considers
+conventional field theories in the presence of gravitation: the problem of
+global symmetries, the strong CP problem, and the cosmological constant
+problem. Using string theory as a model, we argue that it is reasonable to
+postulate weakly broken global discrete symmetries. We review the arguments
+that gravity is likely to spoil the Peccei-Quinn solution of the strong CP
+problem, and update earlier analyses showing that discrete symmetries can lead
+to axions with suitable properties. Even if there are not suitable axions, we
+note that string theory is a theory in which CP is spontaneously broken and
+$\theta$ in principle calculable. $\theta$ thus might turn out to be small
+along lines suggested some time ago by Nelson and by Barr.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 00:03:00 GMT""},{""version"":""v2"",""created"":""Fri, 17 Jul 1992 20:18:00 GMT""}]","2008-02-03"
+"hep-th/9207046","E. Elizalde","E. Elizalde and S.D. Odintsov","One-Loop Renormalization in Two-Dimensional Matter-Dilaton Quantum
+  Gravity and Charged Black Holes","UB-ECM-PF 92/,latex file, 22 pages, 4 figures","Nucl.Phys.B399:581-600,1993","10.1016/0550-3213(93)90510-V",,"hep-th",,"  The quantum properties of two-dimensional matter-dilaton gravity
+  ---which includes a large family of actions for two-dimensional gravity (in
+particular, string-inspired models)--- are investigated. The one-loop
+divergences in linear covariant gauges are calculated and the structure of the
+one-loop renormalization is studied. The explicit forms of the dilaton
+potential, dilaton-Maxwell, and dilaton-scalar couplings for which the theory
+is one-loop multiplicatively renormalizable are found.
+  A comparison with the one-loop renormalization structure of four-dimensional
+gravity-matter theory is given. Charged multiple-horizon black holes which
+appear in the model are also considered.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 10:33:47 GMT""}]","2009-09-17"
+"hep-th/9207047","Alexios Polychronakos","Alexios P. Polychronakos and Rodanthy Tzani","Schrodinger Equation for Particle with Friction","11 pages","Phys.Lett. B302 (1993) 255-260","10.1016/0370-2693(93)90393-V",,"hep-th",,"  A new quantum mechanical wave equation describing a particle with frictional
+forces is derived. It depends on a parameter $\alpha$ whose range is determined
+by the coefficient of friction $\gamma$, that is, $0 \leq \alpha \leq \gamma$.
+For one extreme value of this parameter, $\alpha = 0$, we recover Kostin's
+equation. For the other extreme value, $\alpha = \gamma$, we obtain an equation
+in which friction manifests in ""magnetic"" type terms. It further exhibits
+breakdown of translational invariance, manifesting through a symmetry breaking
+parameter $\beta$, as well as localized stationary states in the absence of
+external potentials. Other physical properties of this new class of equations
+are also discussed.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 15:14:14 GMT""}]","2009-10-22"
+"hep-th/9207048",,"Emil Nissimov and Svetlana Pacheva","$\bf W_\infty$ Gravity - a Geometric Approach","13 pages, BGU-92/11/July-PH, LaTeX","Theor.Math.Phys. 93 (1992) 1268-1278; Teor.Mat.Fiz. 93 (1992)
+  273-285","10.1007/BF01083525",,"hep-th",,"  A brief review is given of an adaptation of the coadjoint orbit method
+appropriate for study of models with infinite-dimensional symmetry groups. It
+is illustrated on several examples, including derivation of the WZNW action of
+induced $D=2\,$ $(N,0)\,$ supergravity. As a main application, we present the
+geometric action on a generic coadjoint orbit of the deformed group of area
+preserving diffeomorphisms. This action is precisely the anomalous effective
+WZNW action of $D=2 \,$ matter fields coupled to chiral $W_\infty$ gravity
+background. Similar actions are given which produce the {\em KP} hierarchy as
+on-shell equations of motion.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 15:15:00 GMT""}]","2009-10-22"
+"hep-th/9207052",,"O.F.Dayi","Solution of the Master Equation in Terms of the Odd Time Formulation","11 pages",,,,"hep-th",,"  A systematic way of formulating the Batalin-Vilkovisky method of quantization
+was obtained in terms of the ``odd time'' formulation. We show that in a class
+of gauge theories it is possible to find an ``odd time lagrangian'' yielding,
+by a Legendre transformation, an ``odd time hamiltonian'' which is the minimal
+solution of the master equation. This constitutes a very simple method of
+finding the minimal solution of the master equation which is usually a tedious
+task. To clarify the general procedure we discussed its application to
+Yang-Mills theory, massive (abelian) theory in Stueckelberg formalism,
+relativistic particle and the self-interacting antisymmetric tensor field.
+","[{""version"":""v1"",""created"":""Tue, 14 Jul 1992 15:04:09 GMT""}]","2007-05-23"

@@ -1,0 +1,112 @@
+"cond-mat/9204013","Jennifer Hodgdon","Jennifer Hodgdon and James P. Sethna","Beyond the ``principle of local symmetry'': derivation of a general
+  crack propagation law","31 pages, including several figures","Phys. Rev. B 47, 4831 (1993)","10.1103/PhysRevB.47.4831",,"cond-mat",,"  We derive a general crack propagation law for slow brittle cracking, in two
+and three dimensions, using symmetry, gauge invariance, and gradient
+expansions. Our derivation provides explicit justification for the ``principle
+of local symmetry,'' which has been used extensively to describe two
+dimensional crack growth, but goes beyond that principle to describe three
+dimensional crack phenomena as well. We also find that there are new materials
+properties needed to describe the growth of general cracks in three dimensions,
+besides the fracture toughness and elastic constants previously used to
+describe cracking.
+","[{""version"":""v1"",""created"":""Fri, 24 Apr 1992 14:50:24 GMT""}]","2009-10-22"
+"hep-ph/9204232","Alexander Kusenko","Alexander Kusenko","New Tools for Analyzing Quark Mixing","9 pages, ITP-SB-92-5","Phys.Lett.B284:390-393,1992","10.1016/0370-2693(92)90450-I",,"hep-ph",,"  We present some new mathematical tools which help to derive information about
+the quark mass matrices directly from experimental data and to elucidate the
+structure of these mass matrices.
+","[{""version"":""v1"",""created"":""Fri, 24 Apr 1992 03:51:28 GMT""},{""version"":""v2"",""created"":""Mon, 1 Jun 1992 16:06:34 GMT""}]","2010-11-01"
+"hep-ph/9204233","S. Umasankar","D. Bhowmick, A. K. Ray, S. Raychaudhuri and S. Uma Sankar","CP-violating Phenomena in an $ SU(2)_L \times SU(2)_R \times U(1)_{B-L}
+  \times SU(3)_H^{VL}$ Horizontal Symmetric Model","19 pages, 2 figures, one included, other will be mailed on request
+  LaTeX file",,,,"hep-ph",,"  We consider an $SU(2)_L \times SU(2)_R \times U(1)_{B-L} \times SU(3)_H^{VL}$
+gauge model with natural flavour conservation in the Higgs sector, in which
+CP-violation occurs due to the horizontal interactions only. We calculate the
+CP-violating observables $\epsilon$ and $\epsilon'$ of the neutral kaon sector
+and $d_n$, the electric dipole moment of the neutron. The regions of the
+parameter space which yield a value of $\epsilon$ that is in agreement with the
+experiment, lead to predictions for $\epsilon'$ and $d_n$ which are at least
+five orders of magnitude smaller than the current experimental upper bounds.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 23:15:32 GMT""}]","2007-05-23"
+"hep-th/9204075","Gabriele Ferretti","G. Ferretti, S.G.Rajeev and Z. Yang","The Effective Lagrangian of Three Dimensional Quantum Chromodynamics","18 pages","Int.J.Mod.Phys. A7 (1992) 7989-8000","10.1142/S0217751X92003616",,"hep-th",,"  We consider the low energy limit of three dimensional Quantum Chromodynamics
+with an even number of flavors. We show that Parity is not spontaneously
+broken, but the global (flavor) symmetry is spontaneously broken. The low
+energy effective lagrangian is a nonlinear sigma model on the Grassmannian.
+Some Chern--Simons terms are necessary in the lagrangian to realize the
+discrete symmetries correctly. We consider also another parametrization of the
+low energy sector which leads to a three dimensional analogue of the
+Wess--Zumino--Witten--Novikov model. Since three dimensional QCD is believed to
+be a model for quantum anti--ferromagnetism, our effective lagrangian can
+describe their long wavelength excitations (spin waves).
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 16:34:00 GMT""}]","2015-06-26"
+"hep-th/9204076","Gabriele Ferretti","G. Ferretti, S.G.Rajeev and Z. Yang","Baryons as Solitons in Three Dimensional Quantum Chromodynamics","22 pages + 4 figures (figures not included, postscript files
+  available upon request)","Int.J.Mod.Phys. A7 (1992) 8001-8020","10.1142/S0217751X92003628",,"hep-th",,"  We show that baryons of three dimensional Quantum Chromodynamics can be
+understood as solitons of its effective lagrangian. In the parity preserving
+phase we study, these baryons are fermions for odd $N_c$ and bosons for even
+$N_c$, never anyons. We quantize the collective variables of the solitons and
+there by calculate the flavor quantum numbers, magnetic moments and mass
+splittings of the baryon. The flavor quantum numbers are in agreement with
+naive quark model for the low lying states. The magnetic moments and mass
+splittings are smaller in the soliton model by a factor of $\log {F_\pi\over
+N_c m_\pi}$. We also show that there is a dibaryon solution that is an analogue
+of the deuteron. These solitons can describe defects in a quantum
+anti--ferromagnet.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 16:36:00 GMT""}]","2015-06-26"
+"hep-th/9204077","Adrian Kent","A. Kent and G. Watts","Signature Characters for A_2 and B_2","22 pp","Commun.Math.Phys. 143 (1991) 1-16","10.1007/BF02100282",,"hep-th",,"  The signatures of the inner product matrices on a Lie algebra's highest
+weight representation are encoded in the representation's signature character.
+We show that the signature characters of a finite-dimensional Lie algebra's
+highest weight representations obey simple difference equations that have a
+unique solution once appropriate boundary conditions are imposed. We use these
+results to derive the signature characters of all $A_2$ and $B_2$ highest
+weight representations. Our results extend, and explain, signature patterns
+analogous to those observed by Friedan, Qiu and Shenker in the Virasoro
+algebra's representation theory.
+","[{""version"":""v1"",""created"":""Thu, 23 Apr 1992 17:29:42 GMT""}]","2015-06-26"
+"hep-th/9204078","Behrndt","K. Behrndt","Non-Critical Strings in Robertson-Walker Space Time","9 pages",,,,"hep-th",,"  I consider a D+1 dimensional nonlinear $\sigma$ model based on a possible
+interpretation of the Liouville field as a physical time. The Weyl invariance
+of this theory gives us restrictions for the background fields and the
+parameters of the theory, e.g.\ for trivial background one obtains the known
+regions for the dimension of the space-time ($\leq$1 or $\geq$25). For a
+Robertson-Walker space time a special solution of these equations is discussed.
+","[{""version"":""v1"",""created"":""Fri, 24 Apr 1992 11:41:10 GMT""},{""version"":""v2"",""created"":""Wed, 29 Apr 1992 08:54:38 GMT""}]","2008-02-03"
+"hep-th/9204080","Claudio Coriano","Claudio Coriano', Rajesh R. Parwani, Hidenaga Yamagishi, Ismail Zahed","Scattering in Soliton Models and the Bosonic Exchange description","16 pages","Phys.Rev. D45 (1992) 2542-2547","10.1103/PhysRevD.45.2542",,"hep-th",,"  We argue that the description of meson-nucleon dynamics based on the
+boson-exchange approach, is compatible with the description of the nucleon as a
+soliton in the nonrelativistic limit. Our arguments are based on an analysis of
+the meson-soliton form factor and the exact meson-soliton and soliton-soliton
+scattering amplitudes in the Sine-Gordon model.
+","[{""version"":""v1"",""created"":""Fri, 24 Apr 1992 13:29:17 GMT""}]","2009-10-22"
+"hep-th/9204081","Adrian Kent","A. Kent","Signature Characters for the Virasoro Algebra","9 pp. (Tex instructions corrected.)","Phys.Lett. B269 (1991) 315-318","10.1016/0370-2693(91)90177-R",,"hep-th",,"  The number of ghost states at each energy level in a non-unitary conformal
+field theory is encoded in the signature characters of the relevant Virasoro
+algebra highest weight representations. We give expressions for these signature
+characters. These results complete Friedan-Qiu-Shenker's analysis of the
+Virasoro algebra's highest weight representations.
+","[{""version"":""v1"",""created"":""Fri, 24 Apr 1992 13:41:49 GMT""},{""version"":""v2"",""created"":""Mon, 27 Apr 1992 17:44:03 GMT""}]","2009-10-22"
+"hep-th/9204082","Jean Zinn-Justin","B. Eynard and J. Zinn-Justin","The $O(n)$ model on a random surface: critical points and large order
+  behaviour","33 pages","Nucl.Phys. B386 (1992) 558-591","10.1016/0550-3213(92)90630-T",,"hep-th",,"  In this article we report a preliminary investigation of the large $N$ limit
+of a generalized one-matrix model which represents an $O(n)$ symmetric model on
+a random lattice. The model on a regular lattice is known to be critical only
+for $-2\le n\le 2$. This is the situation we shall discuss also here, using
+steepest descent. We first determine the critical and multicritical points,
+recovering in particular results previously obtained by Kostov. We then
+calculate the scaling behaviour in the critical region when the cosmological
+constant is close to its critical value. Like for the multi-matrix models, all
+critical points can be classified in terms of two relatively prime integers
+$p,q$. In the parametrization $p=(2m+1)q \pm l$, $m,l$ integers such that
+$0<l<q$, the string susceptibility exponent is found to be $\gamma_{\rm
+string}=-2l/(p+q-l)$. When $l=1$ we find that all results agree with those of
+the corresponding $(p,q)$ string models, otherwise they are different.\par We
+finally explain how to derive the large order behaviour of the corresponding
+topological expansion in the double scaling limit.
+","[{""version"":""v1"",""created"":""Fri, 24 Apr 1992 15:27:54 GMT""}]","2009-10-22"
+"hep-th/9204085","Theor. department Fian","B.~Gato-Rivera and A.~M.~Semikhatov","Minimal Models from W-Constrained Hierarchies via the Kontsevich-Miwa
+  Transform","11 pp REVISED (minor changes in the presentation, easier to read)","Phys.Lett. B288 (1992) 38-46","10.1016/0370-2693(92)91951-5","CERN.TH-6469/92. REVISED VERSION","hep-th",,"  A direct relation between the conformal formalism for 2d-quantum gravity and
+the W-constrained KP hierarchy is found, without the need to invoke
+intermediate matrix model technology. The Kontsevich-Miwa transform of the KP
+hierarchy is used to establish an identification between W constraints on the
+KP tau function and decoupling equations corresponding to Virasoro null
+vectors. The Kontsevich-Miwa transform maps the $W^{(l)}$-constrained KP
+hierarchy to the $(p^\prime,p)$ minimal model, with the tau function being
+given by the correlator of a product of (dressed) $(l,1)$ (or $(1,l)$)
+operators, provided the Miwa parameter $n_i$ and the free parameter (an
+abstract $bc$ spin) present in the constraints are expressed through the ratio
+$p^\prime/p$ and the level $l$.
+","[{""version"":""v1"",""created"":""Fri, 24 Apr 1992 11:03:02 GMT""},{""version"":""v2"",""created"":""Tue, 19 May 1992 12:35:37 GMT""}]","2009-10-22"
+"math/9204214","Nielsen","Niels Jorgen Nielsen","A Note on Unconditional Structures in Weak Hilbert Spaces",,,,"Banach Archive 4/24/92","math.FA",,"  We prove that if a non-atomic separable Banach lattice in a weak Hilbert
+space, then it is lattice isomorphic to $L_2(0,1)$.
+","[{""version"":""v1"",""created"":""Fri, 24 Apr 1992 14:54:03 GMT""}]","2008-02-03"

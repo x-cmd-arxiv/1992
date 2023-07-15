@@ -1,0 +1,92 @@
+"cond-mat/9212035","Igor Sandalov","I.S. Sandalov, M. Richter","On flux phase and N\'eel antiferromagnetism in the {\em t}-{\em
+  J}-model}}","28 pages, Ups.Univ",,,,"cond-mat",,"  We reanalyse the mathematical formulation of the flux-state problem within
+the $t$-$J$ model. The analysis of different parametrizations in the functional
+representation shows that (i) calculations which take into account constraints
+for the number of on-site-available states are describing quasiparticles in
+terms of wrong local statistics, and contain gauge non-invariant objects; (ii)
+application of the projection technique in the slave-boson(fermion)
+representation reproduces the correct statistics, and is exactly equivalent to
+the conventional diagram technique for Hubbard operators; (iii) it is necessary
+to introduce an additional equation for the effective hopping amplitude for the
+flux phase. With the technique for Hubbard operators, which allows one to
+separate charge and spin channels we construct the mean-field equations for a
+flux-like state which coexists with N\'eel antiferromagnetism (AF). The formal
+analysis shows that the equations for real and imaginary parts of the effective
+hopping amplitude are inconsistent for any $\theta \neq 0$ (including $\theta
+=\pi /4$ which gives flux 1/2). The hopping amplitude is slightly supressed by
+exchange renormalization. The N\'eel magnetization $m$ decreases with
+increasing concentration of holes. The region where antiferromagnetism exists
+is decreasing
+","[{""version"":""v1"",""created"":""Tue, 29 Dec 1992 18:45:31 GMT""}]","2007-05-23"
+"gr-qc/9212015",,"J.H. Yoon","(1+1)-Dimensional Methods for General Relativity","16pp, latex",,,"SNUTP-92-104","gr-qc",,"  This is an article contributed to the Brill Festschrift, in honor of the 60th
+birthday of Prof. D.R. Brill, which will appear in the Vol.2 of the Proceedings
+of the International Symposia on Directions in General Relativity. In this
+article we present the (1+1)-dimensional method for studying general relativity
+of 4-dimensions. We first discuss the general formalism, and subsequently draw
+attention to the algebraically special class of space-times, following the
+Petrov classification. It is shown that this class of space-times can be
+described by the (1+1)-dimensional Yang-Mills action interacting with matter
+fields, with the spacial diffeomorphisms of the 2-surface as the gauge
+symmetry. The constraint appears polynomial in part, whereas the non-polynomial
+part is a non-linear sigma model type in (1+1)-dimensions. It is also shown
+that the representations of $w_{\infty}$-gravity appear naturally as special
+cases of this description, and we discuss briefly the $w_{\infty}$-geometry in
+term of the fibre bundle.
+","[{""version"":""v1"",""created"":""Tue, 29 Dec 1992 18:32:16 GMT""}]","2007-05-23"
+"gr-qc/9212016",,"C.O.Lousto and N. S\'anchez","String Instabilities in Black Hole Spacetimes","26pages, Plain Tex","Phys.Rev. D47 (1993) 4498-4509","10.1103/PhysRevD.47.4498",,"gr-qc hep-th",,"  We study the emergence of string instabilities in $D$ - dimensional black
+hole spacetimes (Schwarzschild and Reissner - Nordstr\o m), and De Sitter space
+(in static coordinates to allow a better comparison with the black hole case).
+We solve the first order string fluctuations around the center of mass motion
+at spatial infinity, near the horizon and at the spacetime singularity. We find
+that the time components are always well behaved in the three regions and in
+the three backgrounds. The radial components are {\it unstable}: imaginary
+frequencies develop in the oscillatory modes near the horizon, and the
+evolution is like $(\tau-\tau_0)^{-P}$, $(P>0)$, near the spacetime
+singularity, $r\to0$, where the world - sheet time $(\tau-\tau_0)\to0$, and the
+proper string length grows infinitely. In the Schwarzschild black hole, the
+angular components are always well - behaved, while in the Reissner - Nordstr\o
+m case they develop instabilities inside the horizon, near $r\to0$ where the
+repulsive effects of the charge dominate over those of the mass. In general,
+whenever large enough repulsive effects in the gravitational background are
+present, string instabilities develop. In De Sitter space, all the spatial
+components exhibit instability. The infalling of the string to the black hole
+singularity is like the motion of a particle in a potential
+$\gamma(\tau-\tau_0)^{-2}$ where $\gamma$ depends on the $D$ spacetime
+dimensions and string angular momentum, with $\gamma>0$ for Schwarzschild and
+$\gamma<0$ for Reissner - Nordstr\o m black holes. For $(\tau-\tau_0)\to0$ the
+string ends trapped by the black hole singularity.
+","[{""version"":""v1"",""created"":""Wed, 30 Dec 1992 11:29:38 GMT""},{""version"":""v2"",""created"":""Sun, 10 Jan 1993 16:42:28 GMT""},{""version"":""v3"",""created"":""Mon, 25 Jan 1993 18:37:46 GMT""}]","2009-10-22"
+"hep-ph/9212314","Myron Bander","Myron Bander and H. R. Rubinstein","On the 545 keV Line in the Spectrum of the Crab Nebula","pages (set in Revtex II)",,,,"hep-ph",,"  The GRANAT group (R. Sunyaev {\it et al.\/}, Central Bureau of Astronomical
+Telegrams, International Astronomical Union, Circular No.~5481) recently
+reported the observation of a $(545 \pm 11)$ keV line in the spectrum of the
+Crab Nebula. It is tempting to associate this with the positron-electron
+annihilation line at 511 keV. If this line originates from some transition at
+the surface of the neutron star in the Crab, we expect a red shift of around
+10\% rather then the observed blue shift of $\sim 35$ keV; in fact, this
+gravitational red shift implies that the natural frequency of the observed line
+is also 10\% higher, or around 600 keV. In this article we shall present a
+mechanism for generating such a split from 511 keV. For this mechanism to be
+successful we require: (a) surface magnetic fields, in the annihilation region,
+to be $(3-8)\times 10^{12}$~G and to point in our direction, (b) surface
+densities of $(10^5-10^6)$ g/cc. Both of these assumptions are consistent with
+pulsar models.
+","[{""version"":""v1"",""created"":""Wed, 30 Dec 1992 01:03:00 GMT""}]","2007-05-23"
+"hep-th/9212155","Galperin","A. Galperin, E. Ivanov and O. Ogievetsky","Harmonic space and quaternionic manifolds","44 pages, LATEX, JHU-TIPAC-920023, ENSLAPP-L-405-92, MPI-Ph/92-85","Annals Phys. 230 (1994) 201-249","10.1006/aphy.1994.1025",,"hep-th",,"  We find a principle of harmonic analyticity underlying the quaternionic
+(quaternion-K\""ahler) geometry and solve the differential constraints which
+define this geometry. To this end the original $4n$-dimensional quaternionic
+manifold is extended to a bi-harmonic space. The latter includes additional
+harmonic coordinates associated with both the tangent local $Sp(1)$ group and
+an extra rigid $SU(2)$ group rotating the complex structures. Then the
+constraints can be rewritten as integrability conditions for the existence of
+an analytic subspace in the bi-harmonic space and solved in terms of two
+unconstrained potentials on the analytic subspace. Geometrically, the
+potentials have the meaning of vielbeins associated with the harmonic
+coordinates. We also establish a one-to-one correspondence between the
+quaternionic spaces and off-shell $N=2$ supersymmetric sigma-models coupled to
+$N=2$ supergravity. The general $N=2$ sigma-model Lagrangian when written in
+the harmonic superspace is composed of the quaternionic potentials. Coordinates
+of the analytic subspace are identified with superfields describing $N=2$
+matter hypermultiplets and a compensating hypermultiplet of $N=2$ supergravity.
+As an illustration we present the potentials for the symmetric quaternionic
+spaces.
+","[{""version"":""v1"",""created"":""Tue, 29 Dec 1992 17:27:00 GMT""}]","2009-10-22"

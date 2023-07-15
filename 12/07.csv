@@ -1,0 +1,97 @@
+"astro-ph/9212001","Heino Falcke","Heino Falcke, Peter L. Biermann, Wolfgang J. Duschl and Peter G.
+  Mezger","A rotating black hole in the Galactic Center","11 pages (using ordinary Latex, 8 using dinA4.sty, 5 using laa.sty) 1
+  PostScript Figure appended - the rest will be send on request, Latex, MPIfR
+  1603","Astron.Astrophys.270:102-106,1993",,,"astro-ph",,"  Recent observations of Sgr A* give strong constraints for possible models of
+the physical nature of Sgr A* and suggest the presence of a massive black~hole
+with M<2 10^6 M_sun surrounded by an accretion disk which we estimate to
+radiate at a luminosity of <7 10^5 L_sun. We therefore calculate the appearance
+of a standard accretion disk around a Kerr hole in Sgr A* following from
+general relativity and a few fundamental assumptions. Effective temperature and
+luminosity of the disk spectra do not depend on the unknown viscosity mechanism
+but instead are quite sensitive to variations of intrinsic parameters: the
+mass, the accretion rate, the angular momentum of the accreting hole and the
+inclination angle. A radiation field of L~7 10^4 - 7 10^5 L_sun and T_eff ~ 2-4
+10^4 K can be ascribed to a rapidly rotating Kerr~hole (a>0.9) accreting
+10^-8.5 - 10^-7 M_sun/yr at a black~hole mass of M=2 10^6 M_sunseen almost edge
+on. A low mass black hole of M<10^3 M_sun seems to be very unlikely. We provide
+a ``Hertzsprung-Russell diagram for black holes'' together with simple scaling
+laws to provide an easy-to-handle test for the black hole model.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 14:59:33 GMT""}]","2011-05-23"
+"cond-mat/9212005",,"David Cai (1), A.R. Bishop (1), and Angel Sanchez (1,2) ((1)
+  Theoretical Division and CNLS, Los Alamos National Laboratory, (2) Escuela
+  Politecnica Superior, Universidad Carlos III de Madrid)","Length-scale competition in the damped sine-Gordon chain","12 pages, REVTeX, 3 Figures (e-mail requests to A. Sanchez,
+  anxo@ing.uc3m.es)",,,"LA-UR-92-1234","cond-mat",,"  It is shown that there are two different regimes for the damped sine-Gordon
+chain driven by the spatio-temporal periodic force $\Gamma sin(\omega t - k_{n}
+x)$ with a flat initial condition. For $\Gamma_{c}(n)$ to a translating {\em
+2-breather} excitation from a state locked to the driver. For $\omega < k_{n}$,
+the excitations of the system are the locked states with the phase velocity
+$\omega/k_{n}$ in all the region of $\Gamma$ studied. In the first regime, the
+frequency of the breathers is controlled by $\omega$, and the velocity of the
+breathers, controlled by $k_{n}$, is shown to be the group velocity determined
+from the linear dispersion relation for the sine-Gordon equation. A linear
+stability analysis reveals that, in addition to two competing length-scales,
+namely, the width of the breathers and the spatial period of the driving, there
+is one more length-scale which plays an important role in controlling the
+dynamics of the system at small driving. In the second regime the length-scale
+$k_{n}$ controls the excitation. The above picture is further corroborated by
+numerical nonlinear spectral analysis. An energy balance estimate is also
+presented and shown to predict the critical value of $\Gamma$ in good agreement
+with the numerics.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 09:57:00 GMT""}]","2007-05-23"
+"hep-lat/9212005","Jim Hetrick","James E. Hetrick","Gauge fixing and Gribov copies in pure Yang-Mills on a circle","4 pages + 1 PostScript figure (appended),
+  UVA-ITFA-92-34/ETH-IPS-92-22. --just archiving published version","Nucl. Phys. Proc. Suppl. 30 (1993) 228","10.1016/0920-5632(93)90196-D",,"hep-lat hep-th",,"  %In order to understand how gauge fixing can be affected on the %lattice, we
+first study a simple model of pure Yang-mills theory on a %cylindrical
+spacetime [$SU(N)$ on $S^1 \times$ {\bf R}] where the %gauge fixed subspace is
+explicitly displayed. On the way, we find that %different gauge fixing
+procedures lead to different Hamiltonians and %spectra, which however coincide
+under a shift of states. The lattice %version of the model is compared and
+lattice gauge fixing issues are %discussed. (---TALK GIVEN AT LATTICE
+92---AMSTERDAM, 15 SEPT. 92)
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 15:55:08 GMT""},{""version"":""v2"",""created"":""Tue, 8 Dec 1992 13:06:09 GMT""},{""version"":""v3"",""created"":""Wed, 28 Jul 1993 14:07:34 GMT""},{""version"":""v4"",""created"":""Tue, 3 Aug 1993 13:29:34 GMT""}]","2009-10-22"
+"hep-ph/9212228","Leandros Perivolaropoulos","Leandros Perivolaropoulos","On the Statistics of CMB Fluctuations Induced by Topological Defects","18 pages plus 7 figures (available upon request), submitted to Phys.
+  Rev. D, use latex","Phys.Rev.D48:1530-1538,1993","10.1103/PhysRevD.48.1530",,"hep-ph astro-ph",,"  We use the analytical model recently introduced in Ref. \cite{lp92}, to
+investigate the statistics of temperature fluctuations on the cosmic microwave
+background (CMB), induced by topological defects. The cases of cosmic strings
+and textures are studied. We derive analytically the characteristic function of
+the probability distribution for ${\delta T}\over T$ and use it to obtain the
+lowest twelve moments including the skewness and the kurtosis. The distribution
+function is also obtained and it is compared with the Gaussian distribution
+thus identifying long non-Gaussian tails. We show that for both cosmic strings
+and textures all odd moments (including skewness) vanish while the relative
+deviation from the Gaussian for even moments increases with the order of the
+moment. The non-Gaussian signatures of textures, derived from the distribution
+function and the moments, are found to be much more prominent than the
+corresponding signatures for strings. We discuss the physical origin of this
+result.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 04:28:14 GMT""}]","2010-11-01"
+"hep-ph/9212229","Vegas","P. Hernandez and F.J. Vegas","One Loop Effects of Non-Standard Triple Gauge Boson Vertices","17 pags. 2 figures not included, available on request. Latex. CERN-TH
+  6670","Phys.Lett.B307:116-127,1993","10.1016/0370-2693(93)90200-2",,"hep-ph",,"  Low energy effects of generic extensions of the Standard Model can be
+comprehensively parametrized in terms of higher dimensional effective
+operators. After the success of all the recent precission tests on the Standard
+Model, we argue that any sensible description of these extensions at the
+Z-scale must be stable under higher order quantum corrections. The imposition
+of $SU(2)_L \times U(1)_Y$ gauge invariance seems to be the simplest and most
+natural way to fulfill this requirement. With this assumption, all the possible
+deviations from the standard triple gauge boson vertices can be consistently
+parametrized in terms of a finite set of gauge invariant operators. We deal
+here with those operators that do not give any tree level effect on present
+experimental observables and constrain them by computing their effects at the
+one-loop level. We conclude that for a light Higgs boson, the direct
+measurement at LEP200 can improve present bounds on these ""blind directions"",
+while for a heavy Higgs it is most unlikely to provide any new information.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 12:50:46 GMT""}]","2014-11-17"
+"hep-ph/9212233","Nikolai Uraltsev","N.G.Uraltsev","FSI phases and CP asymmetries in beauty: QCD point of view","(Talk presented at DPF meeting of APS, November 10-14, 1992). 4
+  pages, LaTeX; University of Notre Dame preprint UND-HEP-92-BIG08",,,,"hep-ph",,"  Inclusive and exclusive decays of heavy flavours look quite different from a
+theoretical viewpoint. We argue that inclusive decays can be treated
+quantitatively and report on the calculation of the perturbative corrections to
+the Final State Interaction phases in connection to their impact on effects of
+CP violation.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 14:52:33 GMT""}]","2007-05-23"
+"hep-th/9212042",,"J. Pawelczyk","Quark Spin and the Theta-Term for the QCD String","9 pages","Phys.Lett. B311 (1993) 98-102","10.1016/0370-2693(93)90540-X","IFT-20/92","hep-th",,"  We describe a way in which spin of quarks can enter a consistent QCD string
+theory. We show that the spin factor of the 4d massless, spin 1/2 fermions is
+related to the self-intersection number of a 2d surfaces immersed in the 4d
+space. We argue that the latter quantity should appear in a consistent
+description of the QCD string. We also calculate the chiral anomaly and show
+that the self-intersection number corresponds to the topological charge
+$F{\tilde F}$ of QCD.
+","[{""version"":""v1"",""created"":""Mon, 7 Dec 1992 15:16:23 GMT""},{""version"":""v2"",""created"":""Tue, 8 Dec 1992 17:18:05 GMT""}]","2009-10-22"

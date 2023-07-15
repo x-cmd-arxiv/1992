@@ -1,0 +1,79 @@
+"cond-mat/9211020","Hisao Nakanishi","Hisao Nakanishi and Hans J. Herrmann","Diffusion and spectral dimension on Eden tree","11 pages, Plain TeX with J-Phys.sty style, HLRZ 93/92",,"10.1088/0305-4470/26/18/018",,"cond-mat",,"  We calculate the eigenspectrum of random walks on the Eden tree in two and
+three dimensions. From this, we calculate the spectral dimension $d_s$ and the
+walk dimension $d_w$ and test the scaling relation $d_s = 2d_f/d_w$ ($=2d/d_w$
+for an Eden tree). Finite-size induced crossovers are observed, whereby the
+system crosses over from a short-time regime where this relation is violated
+(particularly in two dimensions) to a long-time regime where the behavior
+appears to be complicated and dependent on dimension even qualitatively.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 15:32:42 GMT""}]","2009-10-22"
+"funct-an/9211008","Vladimir Pestov","Vladimir G. Pestov","An analytic structure emerging in presence of infinitely many odd
+  coordinates","9 pages, AmS TeX 2.1",,,,"funct-an math.OA",,"  This is a contribution to the program of featuring even geometry as a
+``collective effect in infinite-dimensional odd geometry,'' as suggested by
+Manin. We show that the (Gel'fand) spectrum of the locally convex nonstandard
+hull (in the sense of Luxemburg) of a grassmannian algebra with infinitely many
+odd generators contains a nontrivial analytic part.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 12:39:59 GMT""}]","2008-02-03"
+"funct-an/9211009","Larry Schweitzer","Larry B. Schweitzer","Spectral Invariance of Dense Subalgebras of Operator Algebras","36 pages, AMS Tex 2.1, 11-27-92","Internat. J. Math. 4(2) (1993), 289-317",,,"funct-an math.OA",,"  We define the notion of strong spectral invariance for a dense Frechet
+subalgebra A of a Banach algebra B. We show that if A is strongly spectral
+invariant in a C*-algebra B, and G is a compactly generated polynomial growth
+Type R Lie group, not necessarily connected, then the smooth crossed product
+G\rtimes A is spectral invariant in the C*-crossed product G\rtimes B. Examples
+of such groups are given by finitely generated polynomial growth discrete
+groups, compact or connected nilpotent Lie groups, the group of Euclidean
+motions on the plane, the Mautner group, or any closed subgroup of one of
+these. Our theorem gives the spectral invariance of G\rtimes A if A is the set
+of C^{\infty}-vectors for the action of G on B, or if B= C_{0}(M), and A is a
+set of G-differentiable Schwartz functions S(M) on M. This gives many examples
+of spectral invariant dense subalgebras for the C*-algebras associated with
+dynamical systems. We also obtain relevant results about exact sequences,
+subalgebras, tensoring by smooth compact operators, and strong spectral
+invariance in L_{1}(G, B).
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 02:01:13 GMT""},{""version"":""v2"",""created"":""Tue, 16 Mar 1993 05:11:35 GMT""}]","2016-02-15"
+"hep-lat/9211061","Wolfgang Bock","Wolfgang Bock, Christoph Frick, Jan Smit and Jeroen C. Vink","No strong coupling regime in the fermion-Higgs sector of the standard
+  model","4 pages, 4 postscript figures (appended), ITFA-92-32, HLRZ-92-92,
+  UCSD/PTH 92-43, Contribution to the Conference Lattice'92","Nucl.Phys.Proc.Suppl. 30 (1993) 643-646","10.1016/0920-5632(93)90293-F",,"hep-lat",,"  We present results for the renormalized quartic self-coupling $\lm_R$ and the
+renormalized Yukawa coupling $y_R$ in a fermion-Higgs model with two SU(2)
+doublets, indicating that these couplings are not very strong.
+","[{""version"":""v1"",""created"":""Thu, 26 Nov 1992 19:48:46 GMT""}]","2009-10-22"
+"hep-lat/9211062","Andrew Conway","A R Conway, I G Enting and A J Guttmann","Algebraic Techniques for Enumerating Self-Avoiding Walks on the Square
+  Lattice","25 pages + 3 postscript figures. Tex. Uses preprint.sty","J.Phys.A26:1519-1534,1993","10.1088/0305-4470/26/7/012",,"hep-lat",,"  We describe a new algebraic technique for enumerating self-avoiding walks on
+the rectangular lattice. The computational complexity of enumerating walks of
+$N$ steps is of order $3^{N/4}$ times a polynomial in $N$, and so the approach
+is greatly superior to direct counting techniques. We have enumerated walks of
+up to 39 steps. As a consequence, we are able to accurately estimate the
+critical point, critical exponent, and critical amplitude.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 14:54:31 GMT""}]","2008-11-26"
+"hep-lat/9211063","Andrew Conway","A R Conway and A J Guttmann","Enumeration of self avoiding trails on a square lattice using a transfer
+  matrix technique","To be published in J. Phys. A:Math Gen. Pages: 16 Format: RevTeX","J.Phys. A26 (1993) 1535-1552","10.1088/0305-4470/26/7/013",,"hep-lat",,"  We describe a new algebraic technique, utilising transfer matrices, for
+enumerating self-avoiding lattice trails on the square lattice. We have
+enumerated trails to 31 steps, and find increased evidence that trails are in
+the self-avoiding walk universality class. Assuming that trails behave like $A
+\lambda ^n n^{11 \over 32}$, we find $\lambda = 2.72062 \pm 0.000006$ and $A =
+1.272 \pm 0.002$.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 15:10:36 GMT""}]","2009-10-22"
+"hep-lat/9211064","Yoshio Kikukawa","Sinya Aoki and Yoshio Kikukawa","Fermion mass in the Wilson-Yukawa approach for chiral Yukawa theory","17 pages, plain-TeX, UTHEP-243","Int. J. Mod. Phys. A9 (1994) 4565-4580","10.1142/S0217751X94001813",,"hep-lat",,"  We consider a modification of the Wilson-Yukawa model to overcome its
+difficulty that the fermion mass is not proportional to the Higgs vacuum
+expectation value. In the modification scalar and fermionic regulator fields
+are introduced so that all the physical fermion fields possess shift symmetry
+when the Yukawa coupling vanishes. With the fermionic hopping parameter
+expansion it is shown that the fermion mass is proportional to the Higgs vacuum
+expectation value and that the coupling of fermion to the external gauge field
+can be chiral if the hopping parameter of the scalar regulator field is taken
+to the critical value.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 01:30:24 GMT""}]","2015-06-25"
+"hep-ph/9211323","J. Gunion","John F. Gunion (Davis Institute for High Energy Physics, Department of
+  Physics, U.C. Davis, Davis CA)","Using Gluon Fusion to Probe CP Violation in the Higgs Sector","4 pages + 1 figure (not included but available upon request), uses
+  phyzzx.tex (not included), to appear in Proceedings of DPF92",,,"UCD-92-26","hep-ph",,"  A technique for directly probing CP violation in the Higgs sector of a
+multi-doublet model using gluon-gluon collisions at the SSC is reviewed.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 01:11:00 GMT""}]","2007-05-23"
+"hep-ph/9211324","J. Gunion","John F. Gunion (Davis Institute for High Energy Physics, Department of
+  Physics, U.C. Davis, Davis CA 95616)","Searching for the Minimal Supersymmetric Model Higgs Bosons","3 pages, uses phyzzx.tex (not included), to appear in Proceedings of
+  DPF92,ODOD report UCD-92-27",,,,"hep-ph",,"  A brief overview of the prospects for detecting the Higgs bosons of the
+Minimal Supersymmetric Model at future colliders is presented.
+","[{""version"":""v1"",""created"":""Fri, 27 Nov 1992 01:24:00 GMT""}]","2007-05-23"
+"hep-th/9211125",,"T. S. Hakobyan and A. G. Sedrakyan","R-matrices for highest weight representations of sl_q(2,C) at roots of
+  unity","9 pages","Phys.Lett. B303 (1993) 27-32","10.1016/0370-2693(93)90038-J","ENSLAPP-A-406/92","hep-th math.QA",,"  The general formula for R-matrices of slq(2,C) for the highest weight repre-
+sentations both for general q and for q being a root of unity by generalizing
+G.Gomez's and G.Sierra's one for semiperiodic representations of slq(2,C) at
+roots of unity is presented.
+","[{""version"":""v1"",""created"":""Thu, 26 Nov 1992 16:26:18 GMT""},{""version"":""v2"",""created"":""Fri, 8 Jan 1993 15:47:09 GMT""}]","2008-02-03"

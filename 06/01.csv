@@ -1,0 +1,56 @@
+"hep-ph/9206201",,"Shahar Ben-Menahem (SLAC) and Adrian R. Cooper (USC)","Baryogenesis from Unstable Domain Walls","SLAC-PUB-5828, May 92. 28 pp. Seven figures (not included). Use
+  PHYZZX","Nucl.Phys. B388 (1992) 409-434","10.1016/0550-3213(92)90620-Q",,"hep-ph astro-ph",,"  There exists a class of cosmic strings that turn matter into antimatter
+(Alice strings). In a GUT where the unbroken gauge group contains charge
+conjugation ($C$), such strings form when a phase transition renders $C$ a
+discrete symmetry. They become boundaries of domain walls at a later,
+$C$-breaking transition. These `Alice walls' are cosmologically harmless, but
+can play an important role in baryogenesis. We present a three-generation toy
+model with scalar baryons, where a quasi-static Alice wall (or a gas of such
+walls) temporarily gives rise to net baryogenesis of uniform sign everywhere in
+space. This becomes a permanent baryon excess if the wall shrinks away early
+enough.
+  We comment on the possible relevance of a similar mechanism to baryogenesis
+in a realistic $\soten$ unification model, where
+  Alice walls would form at the scale of left-right symmetry breaking.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 12:13:00 GMT""}]","2016-09-01"
+"hep-th/9206001","Rodolfo Cuerno","A. Berkovich, G. Sierra and C. Gomez","q--Magnetism at roots of unity","7 pages, LaTeX file, IMFF-6/92","J.Phys.A26:L45-L52,1993","10.1088/0305-4470/26/2/004",,"hep-th",,"  We study the thermodynamic properties of a family of integrable 1D spin chain
+hamiltonians associated with quantum groups at roots of unity. These
+hamiltonians depend for each primitive root of unit on a parameter $s$ which
+plays the role of a continuous spin. The model exhibits ferrimagnetism even
+though the interaction involved is between nearest neighbors. The latter
+phenomenon is interpreted as a genuine quantum group effect with no
+``classical"" analog. The discussion of conformal properties is given.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 08:42:18 GMT""}]","2019-06-05"
+"hep-th/9206002","Olivier Babelon","Olivier Babelon, Denis Bernard","Affine Solitons: A Relation Between Tau Functions, Dressing and
+  B\""acklund Transformations","33 pages. SPhT-92-055; LPTHE-92-16","Int.J.Mod.Phys.A8:507-543,1993","10.1142/S0217751X93000199",,"hep-th",,"  We reconsider the construction of solitons by dressing transformations in the
+sine-Gordon model. We show that the $N$-soliton solutions are in the orbit of
+the vacuum, and we identify the elements in the dressing group which allow us
+to built the $N$-soliton solutions from the vacuum solution. The dressed
+$\tau$-functions can be computed in two different ways~: either using adjoint
+actions in the affine Lie algebra $\hat {sl_2}$, and this gives the relation
+with the B\""acklund transformations, or using the level one representations of
+the affine Lie algebra $\widehat{sl_2}$, and this directly gives the formulae
+for the $\tau$-functions in terms of vertex operators.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 08:35:43 GMT""}]","2008-11-26"
+"hep-th/9206003","Olivier Babelon","Olivier Babelon, Denis Bernard","From Form Factors to Correlation Functions: The Ising Model","SPhT-92-062; LPTHE-92-20","Phys.Lett.B288:113-120,1992","10.1016/0370-2693(92)91964-B",,"hep-th",,"  Using exact expressions for the Ising form factors, we give a new very simple
+proof that the spin-spin and disorder-disorder correlation functions are
+governed by the Painlev\'e III non linear differential equation. We also show
+that the generating function of the correlation functions of the descendents of
+the spin and disorder operators is a $N$-soliton, $N\to\infty$, $\tau$-function
+of the sinh-Gordon hierarchy. We discuss a relation of our approach to
+isomonodromy deformation problems, as well as further possible generalizations.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 14:13:58 GMT""}]","2008-11-26"
+"math/9206201",,"Stephen J. Dilworth, Stephen J. Montgomery-Smith","The distribution of vector-valued Rademacher series",,"Annals Prob. 21, (1993), 2046-2052",,,"math.FA",,"  Let $X=\sum \epsilon_n x_n$ be a Rademacher series with vector-valued
+coefficients. We obtain an approximate formula for the distribution of the
+random variable $||X||$ in terms of its mean and a certain quantity derived
+from the K-functional of interpolation theory. Several applications of the
+formula are given.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 15:07:07 GMT""},{""version"":""v2"",""created"":""Mon, 6 Dec 1999 05:03:49 GMT""}]","2008-02-03"
+"math/9206204","Peter W. Michor","Andreas Kriegl, Peter W. Michor","More smoothly real compact spaces",,"Proc. Amer. Math. Soc. 117 (1993), 467-471",,"Michor 99-08","math.FA",,"  A topological space $X$ is called $\Cal A$-real compact, if every algebra
+homomorphism from $\Cal A$ to the reals is an evaluation at some point of $X$,
+where $\Cal A$ is an algebra of continuous functions. Our main interest lies on
+algebras of smooth functions. In \cite{AdR} it was shown that any separable
+Banach space is smoothly real compact. Here we generalize this result to a huge
+class of locally convex spaces including arbitrary products of separable
+Fr\'echet spaces.
+","[{""version"":""v1"",""created"":""Mon, 1 Jun 1992 00:00:00 GMT""}]","2016-09-06"

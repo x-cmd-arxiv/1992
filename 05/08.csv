@@ -1,0 +1,98 @@
+"alg-geom/9205003","Xian Wu","Xian Wu","Chern classes and degenerations of hypersurfaces and their lines","18 pages, AmS-Tex V2.1",,,,"alg-geom math.AG",,"  We study limiting lines on degenerations of generic hypersurfaces in $P^n$.
+","[{""version"":""v1"",""created"":""Thu, 7 May 1992 19:52:33 GMT""}]","2008-02-03"
+"alg-geom/9205004","Takao Fujita","Takao Fujita","Notes on Kodaira energies of polarized varieties","4 pages, AMS TeX",,,,"alg-geom math.AG",,"  The Kodaira energy of a polarized manifold (M,L) is defined by
+\kappa\epsilon(M,L)=-Inf{t\in Q|\kappa(K+tL)\ge 0}. Here we propose a couple of
+conjectures and announce several partial results. 3-dimensional cases are
+mainly considered. A hard copy is available on request to the author.
+","[{""version"":""v1"",""created"":""Fri, 8 May 1992 05:59:24 GMT""}]","2008-02-03"
+"astro-ph/9205004",,"A. Cappi & S. Maurogordato","The Spatial Distribution of Nearby Galaxy Clusters in the Northern and
+  Southern Galactic Hemispheres","20 pages","Astron.Astrophys.259:423-434,1992",,,"astro-ph",,"  We compare the spatial distributions of galaxy clusters in the northern and
+southern galactic hemispheres, and the Abell and ACO clusters distributions. We
+perform a statistical (correlation and cluster) analysis of a sample of Abell
+and ACO galaxy clusters in the southern galactic hemisphere. We compare these
+results with a symmetric sample at northern galactic latitude taken from
+Postman et al. (1992). For the northern sample, we substantially confirm the
+results of Postman et al. We find that the two-point spatial correlation
+function of northern and southern clusters is comparable, with mean correlation
+length 19.6 Mpc and slope -1.8 positive up to about 45 Mpc. Percolation
+properties are remarkably similar in the northern and southern cluster samples.
+We give also a catalog of superclusters. In the south galactic hemisphere the
+main feature is a very rich, extended supercluster in the Horologium region at
+a redshift 0.06, near to a large void.
+","[{""version"":""v1"",""created"":""Fri, 8 May 1992 12:22:00 GMT""}]","2011-05-23"
+"hep-lat/9205006",,"Geoffrey T. Bodwin, Eric Braaten, G. Peter Lepage","Rigorous QCD Predictions for Decays of P-Wave Quarkonia","13 pages","Phys.Rev.D46:1914-1918,1992","10.1103/PhysRevD.46.R1914",,"hep-lat hep-ph",,"  Rigorous QCD predictions for decay rates of the P-wave states of heavy
+quarkonia are presented. They are based on a new factorization theorem which is
+valid to leading order in the heavy quark velocity and to all orders in the
+running coupling constant of QCD. The decay rates for all four P states into
+light hadronic or electromagnetic final states are expressed in terms of two
+phenomenological parameters, whose coefficients are perturbatively calculable.
+Logarithms of the binding energy encountered in previous perturbative
+calculations of P-wave decays are factored into a phenomenological parameter
+that is related to the probability for the heavy quark-antiquark pair to be in
+a color-octet S-wave state. Applying these predictions to charmonium, we use
+measured decay rates for the $\chione$ and $\chitwo$ to predict the decay rates
+of the $\chizero$ and $h_c$.
+","[{""version"":""v1"",""created"":""Thu, 7 May 1992 18:10:57 GMT""}]","2010-11-01"
+"hep-lat/9205007","Lorenzo Magnea","G. P. Lepage, L. Magnea, C. Nakhleh, U. Magnea, K. Hornbostel","Improved Nonrelativistic QCD for Heavy Quark Physics","40 pages, 2 figures (not included), in LaTeX","Phys.Rev.D46:4052-4067,1992","10.1103/PhysRevD.46.4052",,"hep-lat",,"  We construct an improved version of nonrelativistic QCD for use in lattice
+simulations of heavy quark physics, with the goal of reducing systematic errors
+from all sources to below 10\%. We develop power counting rules to assess the
+importance of the various operators in the action and compute all leading order
+corrections required by relativity and finite lattice spacing. We discuss
+radiative corrections to tree level coupling constants, presenting a procedure
+that effectively resums the largest such corrections to all orders in
+perturbation theory. Finally, we comment on the size of nonperturbative
+contributions to the coupling constants.
+","[{""version"":""v1"",""created"":""Thu, 7 May 1992 20:25:18 GMT""}]","2010-11-01"
+"hep-ph/9205208",,"Sang-Jin Sin","Late time Cosmological Phase Transition and Galactic Halo as Bose-liquid","4 pages 3 figs (Top-drawer file will be sent upon request)","Phys.Rev.D50:3650-3654,1994","10.1103/PhysRevD.50.3650",,"hep-ph astro-ph",,"  We consider the ultra light pseudo Nambu-Goldstone boson appearing in the
+late time cosmological phase transition theories as a dark matter candidate.
+Since it is almost massless, its nature is more wave like than particle like.
+Hence we apply quantum mechanics to study how they form the galactic halos.
+Three predictions are made; (1)the mass profile $\rho\sim r^{-1.6}$, (2)there
+are ripple-like fine structures in rotation curve, (3) the rotation velocity
+times ripple's wave length is largely galaxy independent. We compare the
+rotation curves predicted by our theory with the data observed.
+","[{""version"":""v1"",""created"":""Fri, 8 May 1992 01:44:53 GMT""}]","2010-11-30"
+"hep-ph/9205209","Geert Jan van Oldenborgh","Frank Cuypers, Geert Jan van Oldenborgh and Reinhold R\""uckl","Supersymmetric Signals in Electron-Photon Collision","15 pages","Nucl.Phys. B383 (1992) 45-57","10.1016/0550-3213(92)90669-3",,"hep-ph",,"  Associated selectron-neutralino production in the process $e^-\gamma\to\tilde
+e^-\tilde\chi^0$ provides a striking supersymmetric signal: events with a
+single high $p_\perp$ electron and otherwise only invisible particles. For
+$e^-\gamma$ collisions obtained at high energy linear colliders through
+back-scattering of a laser beam, this reaction is shown to be complementary to
+selectron pair production in the processes $e^+e^-\to\tilde e^+\tilde e^-$ and
+$e^-e^-\to\tilde e^-\tilde e^-$, and to be a probe of heavy selectrons beyond
+the kinematical limit of pair production. The standard model background from
+$e^-\gamma\to e^-Z^0$ and $W^-\nu$ is studied and substantially reduced by
+rapidity and transverse momentum cuts. The minimum required integrated
+luminosities for observing this \susic\ signal are given as functions of
+several model parameters and collider energies.
+","[{""version"":""v1"",""created"":""Fri, 8 May 1992 07:39:32 GMT""}]","2009-10-22"
+"hep-th/9205014",,"G.P.Korchemsky","Matrix Model Perturbed by Higher Order Curvature Terms","19 pages, 1 figure (included)","Mod.Phys.Lett. A7 (1992) 3081-3100","10.1142/S0217732392002470",,"hep-th",,"  The critical behaviour of the $D=0$ matrix model with potential perturbed by
+nonlocal term generating touchings between random surfaces is studied. It is
+found that the phase diagram of the model has many features of the phase
+diagram of discretized Polyakov's bosonic string with higher order curvature
+terms included. It contains the phase of smooth (Liouville) surfaces, the
+intermediate phase and the phase of branched polymers. The perturbation becomes
+irrelevant at the first phase and dominates at the third one.
+","[{""version"":""v1"",""created"":""Thu, 7 May 1992 18:46:00 GMT""}]","2015-06-26"
+"hep-th/9205015","Ignatios Antoniadis","I. Antoniadis, P.O. Mazur and E. Mottola","Conformal Symmetry and Central Charges in 4 Dimensions","20 pages, corrected tex version","Nucl.Phys. B388 (1992) 627-647","10.1016/0550-3213(92)90557-R",,"hep-th",,"  The trace anomaly of matter in curved space generates an effective action for
+the conformal factor of the metric tensor in $D=4$ dimensions, analogous to the
+Polyakov action for $D=2$. We compute the contributions of the
+reparameterization ghosts to the central charges for $D=4$, as well as the
+quantum contribution of the conformal factor itself. The ghost contribution
+satisfies the necessary Wess-Zumino consistency condition only if combined with
+the spin-2 modes, whose contributions to the trace anomaly we also discuss.
+","[{""version"":""v1"",""created"":""Thu, 7 May 1992 18:35:35 GMT""},{""version"":""v2"",""created"":""Mon, 18 May 1992 17:55:01 GMT""}]","2009-10-22"
+"hep-th/9205016","J. Maharana","Jnanadeva Maharana","Duality and $O(d,d)$ Symmetries in String Theory","11 pages","Phys.Lett. B296 (1992) 65-70","10.1016/0370-2693(92)90804-D",,"hep-th",,"  The evolution of a closed bosonic string is envisaged in the time-dependent
+background of its massless modes. A duality transformation is implemented on
+the spatial component of string coordinates to obtain a dual string. It is
+shown that the evolution equations are manifestly $O(d,d)$ invariant. The tree
+level string effective actions for the original and the dual string theory are
+shown to be equivalent.
+","[{""version"":""v1"",""created"":""Fri, 8 May 1992 00:35:53 GMT""}]","2009-10-22"
+"hep-th/9205020","Irina Ya. Aref'eva","I.Ya.Aref'eva and A.P.Zubarev","Divergences of Discrete States Amplitudes and Effective Lagrangian in 2D
+  String Theory",,"Mod.Phys.Lett. A8 (1993) 1469-1476","10.1142/S0217732393001197",,"hep-th",,"  Scattering amplitudes for discrete states in 2D string theory are considered.
+Pole divergences of tree-level amplitudes are extracted and residues are
+interpreted as renormalized amplitudes for discrete states. An effective
+Lagrangian generating renormalized amplitudes for open string is written and
+corresponding Ward identities are presented. A relation of this Lagrangian with
+homotopy Lie algebra is discussed.
+","[{""version"":""v1"",""created"":""Fri, 8 May 1992 12:04:17 GMT""}]","2015-06-26"

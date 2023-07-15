@@ -1,0 +1,56 @@
+"alg-geom/9205007","Subhashis Nag","Subhashis Nag","On the Tangent Space to the Universal Teichmuller Space","25 pages. latex paper",,,,"alg-geom math.AG",,"  We find a remarkably simple relationship between the following two models of
+the tangent space to the Universal Teichm\""uller Space: (1) The real-analytic
+model consisting of Zygmund class vector fields on the unit circle; (2) The
+complex-analytic model comprising 1-parameter families of schlicht functions on
+the exterior of the unit disc which allow quasiconformal extension. Indeed, the
+Fourier coefficients of the vector field in (1) turn out to be essentially the
+same as (the first variations of) the corresponding power series coefficients
+in (2). These identities have many applications; in particular, to conformal
+welding, to the almost complex structure of Teichm\""uller space, to study of
+the Weil-Petersson metric, to variational formulas for period matrices, etc.
+These utilities are explored.
+","[{""version"":""v1"",""created"":""Fri, 22 May 1992 11:15:05 GMT""}]","2008-02-03"
+"hep-ph/9205228","Michael Luke","Michael Luke and Aneesh V. Manohar","Reparameterisation Invariance Constraints on Heavy Particle Effective
+  Field Theories","(14 pages, 0 figures), UCSD/PTH 92-15","Phys.Lett.B286:348-354,1992","10.1016/0370-2693(92)91786-9",,"hep-ph",,"  Since fields in the heavy quark effective theory are described by both a
+velocity and a residual momentum, there is redundancy in the theory: small
+shifts in velocity may be absorbed into a redefinition of the residual
+momentum. We demonstrate that this trivial reparameterisation invariance has
+non-trivial consequences: it relates coefficients of terms of different orders
+in the $1/m$ expansion and requires linear combinations of these operators to
+be multiplicatively renormalised. For example, the operator $-D^2/2m$ in the
+effective lagrangian has zero anomalous dimension, coefficient one, and does
+not receive any non-perturbative contributions from matching conditions. We
+also demonstrate that this invariance severely restricts the forms of operators
+which may appear in chiral lagrangians for heavy particles.
+","[{""version"":""v1"",""created"":""Thu, 21 May 1992 18:16:09 GMT""}]","2010-11-01"
+"hep-ph/9205229","Jihn E. Kim","E. J. Chun, Jihn E. Kim and H. P. Nilles","Axino Mass","11 pages","Phys.Lett.B287:123-127,1992","10.1016/0370-2693(92)91886-E",,"hep-ph",,"  The mass of the axino is computed in realistic supersymmetric extensions of
+the standard model. It is found to be strongly model dependent and can be as
+small as a few keV but also as large as the gravitino mass. Estimates of this
+mass can only be believed once a careful analysis of the scalar potential has
+been performed.
+","[{""version"":""v1"",""created"":""Fri, 22 May 1992 08:20:02 GMT""}]","2008-11-26"
+"hep-ph/9205230",,"Eugeni Akhmedov, Zurab Berezhiani and Goran Senjanovic","Planck-Scale Physics and Neutrino Masses","10 pages, IC/92/79, SISSA-83/92/EP, LMU-04/92 (the preprint number
+  has been corrected; no other changes)","Phys.Rev.Lett.69:3013-3016,1992","10.1103/PhysRevLett.69.3013",,"hep-ph",,"  We discuss gravitationally induced masses and mass splittings of Majorana,
+Zeldovich-Konopinski-Mahmoud and Dirac neutrinos. Among other implications,
+these effects can provide a solution of the solar neutrino puzzle. In
+particular, we show how this may work in the 17 keV neutrino picture.
+","[{""version"":""v1"",""created"":""Fri, 22 May 1992 09:10:32 GMT""},{""version"":""v2"",""created"":""Fri, 5 Jun 1992 14:07:29 GMT""}]","2008-11-26"
+"hep-th/9205078",,"Swapna Mahapatra","Four Dimensional 2-Brane Solution in Chiral Gauged Wess-Zumino-Witten
+  Model","10 pages","Mod.Phys.Lett. A7 (1992) 2999-3006","10.1142/S0217732392002378","TIFR/TH/92-28, May 1992","hep-th",,"  An exact conformal field theory describing a four dimensional 2-brane
+solution is found by considering a chiral gauged Wess-Zumino -Witten theory
+corresponding to $SL(2, R)\times R$ , where one gauges the one dimensional
+$U(1)$ subgroup together with a translation in $R$. The backgrounds for string
+propagation are explicitly obtained and the target space is shown to have a
+true curvature singularity.
+","[{""version"":""v1"",""created"":""Thu, 21 May 1992 21:44:00 GMT""}]","2015-06-26"
+"hep-th/9205079","Mns Hennigson","M{\aa}ns Henningson","Duality of string amplitudes in a curved background","29 pages","Int.J.Mod.Phys.A8:5409-5440,1993","10.1142/S0217751X93002150","G\""{o}teborg ITP 92-27","hep-th",,"  We initiate a program to study the relationship between the target space, the
+spectrum and the scattering amplitudes in string theory. We consider scattering
+amplitudes following from string theory and quantum field theory on a curved
+target space, which is taken to be the $SU(2)$ group manifold, with special
+attention given to the duality between contributions from different channels.
+We give a simple example of the equivalence between amplitudes coming from
+string theory and quantum field theory, and compute the general form of a
+four-scalar field theoretical amplitude. The corresponding string theory
+calculation is performed for a special case, and we discuss how more general
+string theory amplitudes could be evaluated.
+","[{""version"":""v1"",""created"":""Fri, 22 May 1992 14:29:05 GMT""}]","2010-11-01"

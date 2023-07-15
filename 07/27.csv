@@ -1,0 +1,107 @@
+"cond-mat/9207027","A. Middleton","Daniel S. Fisher and A. Alan Middleton","Critical Behavior of Charge Density Waves Below Threshold: Numerical and
+  Scaling Analysis","66 pages + 21 Postscript figures - if problems with downloading,
+  e-mail to middle@nova.syr.edu for a copy sent in pieces -- REVTEX)",,,,"cond-mat",,"  The critical behavior of pinned charge density waves (CDW's) is studied as
+the threshold for sliding is approached. Using the Fukuyama-Lee-Rice
+Hamiltonian with relaxational dynamics, the polarization and linear response
+are calculated numerically. ... On the irreversible approach to threshold, the
+response due to avalanches triggered by local instabilities dominates the
+polarizability, which diverges in one and two dimensions. Characteristic
+diverging length scales are studied using finite-size scaling of the
+sample-to-sample variations of the threshold field in finite systems and
+finite-size effects in the linear polarizability and the irreversible
+polarization. A dominant diverging correlation length is found which controls
+the threshold field distribution, finite-size effects in the irreversible
+polarization, and a cutoff size for the avalanche size distribution. Our
+results are compared with those for related models and questions are raised
+concerning the relationship of the static critical behavior below threshold to
+the dynamic critical behavior in the sliding state above threshold.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 15:27:40 GMT""}]","2009-09-25"
+"hep-lat/9207029","P. van Baal","Pierre van Baal","Topology of the Yang-Mills Configuration space","4 pages. Invited talk at ISATQP, June 11-16, Shanxi University, China",,,,"hep-lat hep-th",,"  It will be described how to uniquely fix the gauge using Coulomb gauge
+fixing, avoiding the problem of Gribov copies. The fundamental modular domain,
+which represents a one-to-one representation of the set of gauge invariant
+degrees of freedom, is a bounded convex subset of the trans- verse gauge
+fields. Boundary identifications are the only remnants of the Gribov copies,
+and carry all the information about the topology of the Yang-Mills
+configuration space. Conversely, the known topology can be shown to imply that
+(on a set of measure zero on the boundary) some points of the boundary coincide
+with the Gribov horizon. For the low-lying energies, wavefunctionals can be
+shown to spread out ""across"" certain parts of these boundaries. This is how the
+topology of Yang-Mills configuration space has an essential influence on the
+low-lying spectrum, in a situation where these non- perturbative effects are
+not exponentially suppressed.
+  This write-up is a short summary, with adequate references, where details on
+most of the material I have presented can be found. However, not published
+before, is a new observation concerning Henyey's gauge copies.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 13:52:34 GMT""}]","2007-05-23"
+"hep-ph/9207260","Niigata Kazuki","H. Hata and I. Niigata","Color Confinement, Abelian Gauge and Renormalization Group Flow","20 pages + 3 figures (not included), phyzzx.tex","Nucl.Phys. B389 (1993) 133-152","10.1016/0550-3213(93)90288-Z","KUNS-1146","hep-ph hep-th",,"  Under the assumption that the color charge can be written in a BRST exact
+form, the color confinement mechanism proposed by Kugo and Ojima (KO) explains
+the confinement of any colored particles including dynamical quarks and gluons.
+This mechanism, however, is known to break down in the Abelian gauge which
+treats the maximal Abelian subgroup of the gauge group in a special manner. In
+order to study whether the failure of the KO mechanism is particular only to
+the Abelian gauge or whether this failure occurs in a wide class of gauges
+including the ordinary Lorentz type gauge, we carry out a renormalization group
+study of the $SU(2)$ gauge theory in the gauge fixing space. Our gauge fixing
+space consists of four distinct regions that are not connected with each other
+by renormalization group flows, and we find that the Abelian gauge is {\it
+infrared unstable} in three regions which include the Lorentz type gauge. This
+suggests that the failure of the KO mechanism is a phenomenon which occurs only
+in the Abelian gauge. We also find that the Lorentz gauge is infrared stable.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 05:32:24 GMT""}]","2009-10-22"
+"hep-ph/9207262","Vicente Pleitez","C. Escobar, O. L. G. Peres, V. Pleitez and R. Zukanovich Funchal","Comment on $\tau$ decay puzzle","5 pages, 1 figure (available from de authors), Latex, preprint
+  IFT-P.022/92","Europhys.Lett.21:169-172,1993","10.1209/0295-5075/21/2/008",,"hep-ph",,"  We analize the current data on $\tau$-lepton decays and show that they are
+consistent with the Standard Model
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 13:46:00 GMT""}]","2014-11-17"
+"hep-ph/9207263","Vicente Pleitez","C. Escobar, O.L.G. Peres, V. Pleitez and R. Zukanovich Funchal","Three generations mixing and the $\tau$ decay puzzle","7 pages, Revtex, preprint IFT-P.023",,,,"hep-ph",,"  We consider the possibility that the $\tau$ decay puzzle, if it is confirmed
+in future experiments, is a consequence of the Kobayashi-Maskawa mixing in the
+leptonic sector
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 13:50:00 GMT""}]","2007-05-23"
+"hep-ph/9207264","Vicente Pleitez","R. Foot, O.F. Hernandez, F. Pisano and V. Pleitez","Leptons masses in an $SU(3)_L\otimes U(1)_N$ Gauge Model","Latex, 7 pages revised version of preprint McGill/92-31 (We have
+  corrected some typos and expanded the explanation of the Higgs potential
+  analysis and introduced discrete symmetries which assure that neutrinos
+  remain massless.)","Phys.Rev.D47:4158-4161,1993","10.1103/PhysRevD.47.4158",,"hep-ph",,"  The $SU(3)_c\otimes SU(3)_L\otimes U(1)_N$ model of Pisano and Pleitez
+extends the Standard Model in a particularly nice way, so that for example the
+anomalies cancel only when the number of generations is divisible by three. The
+original version of the model has some problems accounting for the lepton
+masses. We resolve this problem by modifying the details of the symmetry
+breaking sector in the model.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 13:54:00 GMT""},{""version"":""v2"",""created"":""Fri, 31 Jul 1992 15:01:00 GMT""},{""version"":""v3"",""created"":""Mon, 7 Dec 1992 14:21:00 GMT""}]","2009-07-28"
+"hep-th/9207086",,"M. Caselle, A.D'Adda and S. Panzeri","Exact solution of d=1 Kazakov-Migdal induced gauge theory","9 pages, Latex file DFTT 38/92 (revised version,with just a couple of
+  references added)","Phys.Lett. B293 (1992) 161-167","10.1016/0370-2693(92)91496-V",,"hep-th hep-lat",,"  We give the exact solution of the Kazakov-Migdal induced gauge model in the
+case of a D=1 compactified lattice with a generic number $S$ of sites and for
+any value of N. Due to the peculiar features of the model, the partition
+function that we obtain also describes the vortex-free sector of the D=1
+compactified bosonic string, and it coincides in the continuum limit with the
+one obtained by Boulatov and Kazakov in this context.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 12:30:00 GMT""},{""version"":""v2"",""created"":""Mon, 3 Aug 1992 14:59:00 GMT""}]","2009-10-22"
+"hep-th/9207087","Marco Fabbrichesi","M. Fabbrichesi and R. Iengo","The Gravitational Field of String Matter When the Dilaton is Massive","10 pages, preprint SISSA/ISAS 128-92-EP. (Latex File, figures not
+  included)","Phys.Lett. B292 (1992) 262-268","10.1016/0370-2693(92)91173-7",,"hep-th",,"  We study numerically the gravitational field of a star made of massive and
+neutral string states for the case in which the dilaton is massive. The
+solution exhibits very simple scaling properties in the dilaton mass. There is
+no horizon and the singularity is surrounded by a halo (the physical size of
+which is inversely proportional to the dilaton mass) where the scalar curvature
+is very large and proportional to the square of the dilaton mass.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 13:51:19 GMT""}]","2009-10-22"
+"hep-th/9207088","Martin Schlichenmaier","Andreas Ruffing, Thomas Deck, Martin Schlichenmaier","String branchings and complex tori and algebraic representations of
+  generalized Krichever-Novikov algebras","11 pages, amstex","Lett.Math.Phys. 26 (1992) 23-32",,,"hep-th",,"  The propagation differential for bosonic strings on a complex torus with
+three symmetric punctures is investigated. We study deformation aspects between
+two point and three point differentials as well as the behaviour of the
+corresponding Krichever-Novikov algebras. The structure constants are
+calculated and from this we derive a central extension of the Krichever-Novikov
+algebras by means of b-c systems. The defining cocycle for this central
+extension deforms to the well known Virasoro cocycle for certain kinds of
+degenerations of the torus.
+  AMS subject classification (1991): 17B66, 17B90, 14H52, 30F30, 81T40
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 14:51:39 GMT""}]","2016-09-06"
+"math/9207222","Maggie McLoughlin","Donald E. Knuth","Johann Faulhaber and sums of powers",,"Math. Comp. 61 (1993), no. 203, 277--294","10.1090/S0025-5718-1993-1197512-7","Knuth migration 11/2004","math.CA",,"  Early 17th-century mathematical publications of Johann Faulhaber contain some
+remarkable theorems, such as the fact that the $r$-fold summation of
+$1^m,2^m,...,n^m$ is a polynomial in $n(n+r)$ when $m$ is a positive odd
+number. The present paper explores a computation-based approach by which
+Faulhaber may well have discovered such results, and solves a 360-year-old
+riddle that Faulhaber presented to his readers. It also shows that similar
+results hold when we express the sums in terms of central factorial powers
+instead of ordinary powers. Faulhaber's coefficients can moreover be
+generalized to factorial powers of noninteger exponents, obtaining asymptotic
+series for $1^{\alpha}+2^{\alpha}+...+n^{\alpha}$ in powers of
+$n^{-1}(n+1)^{-1}$.
+","[{""version"":""v1"",""created"":""Mon, 27 Jul 1992 00:00:00 GMT""}]","2015-06-26"

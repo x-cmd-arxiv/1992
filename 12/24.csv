@@ -1,0 +1,118 @@
+"cond-mat/9212031",,"M.Troyer, H. Tsunetsugu, T.M. Rice, J. Riera and E. Dagotto","Spin Gap and Superconductivity in the One-Dimensional t-J Model with
+  Coulomb Repulsion","26 pages (RevTeX), 10 figures available upon request as PostScript
+  file or hardcopy, IPS-Report Nr. 93/01","Phys. Rev. B 48, 004002 (1993)","10.1103/PhysRevB.48.4002",,"cond-mat",,"  The one-dimensional t-J model with density-density repulsive interactions is
+investigated using exact diagonalization and quantum Monte Carlo methods. A
+short-range repulsion pushes phase separation to larger values of J/t, and
+leads to a widened precursor region in which a spin gap and strengthened
+superconducting correlations appear. The correlation exponent is calculated. On
+the contrary, a long-range repulsion of $1/r$-form suppresses superconductivity
+in the precursor region.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 17:22:00 GMT""}]","2007-05-23"
+"hep-lat/9212032","Tony Guttmann Rba3","A J Guttmann and I G Enting","Series studies of the Potts model. I: The simple cubic Ising model","submitted to J. Phys. A: Math. Gen. Uses preprint.sty: included. 24
+  pages","J.Phys.A26:807-822,1993","10.1088/0305-4470/26/4/010",,"hep-lat",,"  The finite lattice method of series expansion is generalised to the $q$-state
+Potts model on the simple cubic lattice.
+  It is found that the computational effort grows exponentially with the square
+of the number of series terms obtained, unlike two-dimensional lattices where
+the computational requirements grow exponentially with the number of terms. For
+the Ising ($q=2$) case we have extended low-temperature series for the
+partition functions, magnetisation and zero-field susceptibility to $u^{26}$
+from $u^{20}$. The high-temperature series for the zero-field partition
+function is extended from $v^{18}$ to $v^{22}$. Subsequent analysis gives
+critical exponents in agreement with those from field theory.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1992 05:41:43 GMT""}]","2011-07-19"
+"hep-ph/9212306",,"Dan-di Wu and Chung Kao","A Z' Model Which May Be Relevant to the New LEP Events","LaTeX, 11 pages, 1 Figure (not included, available upon request),
+  PVAMUHEP-92-2 and FSUHEP-921126",,,,"hep-ph",,"  A multi-Higgs model with an extra neutral gauge boson ($Z'$) is introduced.
+One scalar Higgs boson ($H_2$) in this model decays dominantly into a photon
+pair. The $Z'$ decay to $\mu^+\mu^-$ gets a much larger branching ratio than
+the $Z$ decay to this channel. The $Z Z' H_2$ vertex provides a final state
+from $Z$ decay resembling the new $l^+l^-\gamma\gamma$ events at the LEP. Other
+promising phenomenology, such as $Z \rightarrow l\bar l Z'$ is also discussed.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 19:17:33 GMT""}]","2007-05-23"
+"hep-ph/9212307",,"John F. Donoghue and Jusak Tandean","The Equivalence Theorem and Global Anomalies","8 pages, LaTeX, figure available upon request, UMHEP-381","Phys.Lett. B301 (1993) 372-375","10.1016/0370-2693(93)91165-J",,"hep-ph",,"  In the presence of some forms of global anomalies, the equivalence theorem,
+which relates the interactions of longitudinal gauge bosons to those of the
+Goldstone bosons, is not always valid. This can occur when the Goldstone sector
+contains an anomaly which is canceled in the gauge currents by the effects of a
+different sector of the theory. The example of the Standard Model without Higgs
+particles is used to illustrate this phenomena.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 18:43:44 GMT""}]","2009-10-22"
+"hep-th/9212142","Euro Spallucci","A.Smailagic, E.Spallucci","General treatment of anomalies in (1,0) and (1,1) two-dimensional
+  super-gravity","21 pages, Phyzzx","Class.Quant.Grav.10:451-460,1993","10.1088/0264-9381/10/3/006","UTS-DFT-92-15","hep-th",,"  In this paper we discuss the interplay among (~super-~)coordinate, Weyl and
+\l\ anomaly both in chiral and non-chiral super-gravity represented by $(1,0)$
+and $(1,1)$ two-dimensional models. It is shown that for this purpose two
+regularization dependent parameters are needed in the effective action. We
+discuss in {\it full generality} the regularization ambiguities of the induced
+effective action and recover the corresponding general form of the anomalous
+Ward Identities. Finally, we explain the difference between chiral and
+non-chiral super-gravity models in terms of the free parameters and establish
+relation between these two models by projecting $(1,1)$ into $(1,0)$
+super-symmetry.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 16:43:00 GMT""}]","2010-04-06"
+"hep-th/9212144","Roger Brooks","Roger Brooks","Diff(SIGMA) and Metrics from Hamiltonian-TQFT's in 2+1 Dimensions","9 pages, Plain TeX, MIT-CTP#2175","Mod.Phys.Lett. A8 (1993) 2277-2284","10.1142/S0217732393003585",,"hep-th",,"  The constraints of $BF$ topological gauge theories are used to construct
+Hamiltonians which are anti-commutators of the BRST and anti-BRST operators.
+Such Hamiltonians are a signature of Topological Quantum Field Theories
+(TQFT's). By construction, both classes of topological field theories share the
+same phase spaces and constraints. We find that, for 2+1 and 1+1 dimensional
+space-times foliated as $M=\Sigma\times\IR$, a homomorphism exists between the
+constraint algebras of our TQFT and those of canonical gravity. The metrics on
+the two-dimensional hypersurfaces are also obtained.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 17:16:35 GMT""}]","2015-06-26"
+"hep-th/9212145","Ian Kogan","A.M. Polyakov","The Theory of Turbulence in Two Dimensions","18 pages (Plain LateX), PUPT - 1369","Nucl.Phys. B396 (1993) 367-385","10.1016/0550-3213(93)90656-A",,"hep-th cond-mat",,"  The methods of conformal field theory are used to obtain the series of exact
+solutions of the fundamental equations of the theory of turbulence. The basic
+conjecture, proved to be self-consistent ,is the conformal invariance of the
+inertial range. The resulting physical picture is different from the standard
+one , since the enstrophy transfer is catalyzed by the large scale motions. The
+theory gives some unambiguous predictions for the correlations in the inertial
+range.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 18:10:51 GMT""}]","2009-10-22"
+"hep-th/9212146",,"S. Mignemi and N.R. Stewart","Charged black holes in effective string theory","17 pages, 5 figures not included, plain TeX","Phys.Rev. D47 (1993) 5259-5269","10.1103/PhysRevD.47.5259",,"hep-th",,"  We investigate the qualitative new features of charged dilatonic black holes
+which emerge when both the Yang-Mills and Gauss-Bonnet curvature corrections
+are included in the effective action. We consider perturbative effects by an
+expansion up to second order in the inverse string tension on the four
+dimensional Schwarzschild background and determine the backreaction. We
+calculate the thermodynamical functions and show that for magnetic charge above
+a critical value, the temperature of the black hole has a maximum and goes to
+zero for a finite value of the mass. This indicates that the conventional
+Hawking evaporation law is modified by string theory at a classical level.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 19:37:00 GMT""}]","2009-10-22"
+"hep-th/9212148","David Gross","David J. Gross","Some New/Old Approaches to QCD","20 pages",,,"LBL-33232 PUPT 1335","hep-th hep-lat hep-ph",,"  This is a talk delivered at the Meeting on Integrable Quantum Field Theories,
+Villa Olmo and at STRINGS 1992, Rome, September 1992. I discuss some recent
+attempts to revive two old ideas regarding an analytic approach to QCD-the
+development of a string representation of the theory and the large N limit of
+QCD.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1992 01:13:38 GMT""}]","2007-05-23"
+"hep-th/9212149","David Gross","David J. Gross","Two Dimensional QCD as a String Theory","24 pages","Nucl.Phys. B400 (1993) 161-180","10.1016/0550-3213(93)90402-B","PUPT-1356","hep-th hep-ph",,"  I explore the possibility of finding an equivalent string representation of
+two dimensional QCD. I develop the large N expansion of the ${\rm QCD_2}$
+partition function on an arbitrary two dimensional Euclidean manifold. If this
+is related to a two-dimensional string theory then many of the coefficients of
+the ${1\over N}$ expansion must vanish. This is shown to be true to all orders,
+giving strong evidence for the existence of a string representation.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1992 01:39:46 GMT""}]","2009-10-22"
+"hep-th/9212150","Anatol Kirillov","Anatol N. Kirillov","Dilogarithm identities, partitions and spectra in conformal field
+  theory, I","25 pages",,,"IN-92020","hep-th math.CA math.CO",,"  We prove new identities betweenthe values of Rogers dilogarithm function and
+describe a connection between these identities and spectra in conformal field
+theory.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1992 13:44:00 GMT""}]","2008-02-03"
+"hep-th/9212151","Shahn Majid","Shahn Majid","Beyond Supersymmetry and Quantum Symmetry (an introduction to braided
+  groups and braided matrices)","52 pages, DAMTP/92-71 (to appear in Proc. 5th Nankai Workshop, China,
+  June 92, Wld Sci.) Some typos corrected in this replacement re. eqns (77),
+  (101), (121). Also, the figures are now submitted as Figures file to the
+  database",,,,"hep-th",,"  This is a systematic introduction for physicists to the theory of algebras
+and groups with braid statistics, as developed over the last three years by the
+author. There are braided lines, braided planes, braided matrices and braided
+groups all in analogy with superlines, superplanes etc. The main idea is that
+the bose-fermi $\pm1$ statistics between Grassmannn coordinates is now replaced
+by a general braid statistics $\Psi$, typically given by a Yang-Baxter matrix
+$R$. Most of the algebraic proofs are best done by drawing knot and tangle
+diagrams, yet most constructions in supersymmetry appear to generalise well.
+Particles of braid statistics exist and can be expected to be described in this
+way. At the same time, we find many applications to ordinary quantum group
+theory: how to make quantum-group covariant (braided) tensor products and spin
+chains, action-angle variables for quantum groups, vector addition on
+$q$-Minkowski space and a semidirect product q-Poincar\'e group are among the
+main applications so far. Every quantum group can be viewed as a braided group,
+so the theory contains quantum group theory as well as supersymmetry. There
+also appears to be a rich theory of braided geometry, more general than
+super-geometry and including aspects of quantum geometry. Braided-derivations
+obey a braided-Leibniz rule and recover the usual Jackson $q$-derivative as the
+1-dimensional case.
+","[{""version"":""v1"",""created"":""Wed, 23 Dec 1992 16:45:25 GMT""},{""version"":""v2"",""created"":""Mon, 4 Jan 1993 12:35:32 GMT""},{""version"":""v3"",""created"":""Sun, 24 Jan 1993 15:19:14 GMT""}]","2008-02-03"

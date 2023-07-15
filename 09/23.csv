@@ -1,0 +1,121 @@
+"gr-qc/9209008","Alberto Vazquez Saa","E.E. Donets and D.V. Gal'tsov","Continuous Family of Einstein-Yang-Mills Wormholes","15 pages","Phys.Lett.B294:44-48,1992","10.1016/0370-2693(92)91637-O","IFUSP/P-1007","gr-qc hep-th",,"  It is shown that for some particular value of the cosmological constant
+depending on the gauge coupling constant a continuous one-parameter family of
+Einstein-Yang-Mills wormholes exists which interpolates between the instanton
+and the gravitating meron solutions. In contradistinction with the previously
+known solutions the topological charge of these wormholes is not quantized. For
+all of them the contribution of gravity to the action exactly cancels that of
+the gauge field.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 13:05:10 GMT""}]","2010-11-01"
+"hep-lat/9209022","Peter Lepage","G.P.Lepage and P.B.Mackenzie","On the Viability of Lattice Perturbation Theory","37","Phys.Rev. D48 (1993) 2250-2264","10.1103/PhysRevD.48.2250",,"hep-lat",,"  In this paper we show that the apparent failure of QCD lattice perturbation
+theory to account for Monte Carlo measurements of perturbative quantities
+results from choosing the bare lattice coupling constant as the expansion
+parameter. Using instead ``renormalized'' coupling constants defined in terms
+of physical quantities, like the heavy-quark potential, greatly enhances the
+predictive power of lattice perturbation theory. The quality of these
+predictions is further enhanced by a method for automatically determining the
+coupling-constant scale most appropriate to a particular quantity. We present a
+mean-field analysis that explains the large renormalizations relating lattice
+quantities, like the coupling constant, to their continuum analogues. This
+suggests a new prescription for designing lattice operators that are more
+continuum-like than conventional operators. Finally, we provide evidence that
+the scaling of physical quantities is asymptotic or perturbative already at
+$\beta$'s as low as 5.7, provided the evolution from scale to scale is analyzed
+using renormalized perturbation theory. This result indicates that reliable
+simulations of (quenched) QCD are possible at these same low $\beta$'s.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 17:05:11 GMT""}]","2009-10-22"
+"hep-ph/9209264",,"S. Y. Choi and H. S. Song","Exclusive heavy meson pair production by $\gamma\gamma$ collision in
+  heavy quark effective theory","10pages (LaTex) (two figures, available on request), SNUTP 92-57","Phys.Lett. B296 (1992) 420-424","10.1016/0370-2693(92)91342-7",,"hep-ph",,"  The spin and flavor symmetries of the heavy quark effective theory are
+employed to discuss the exclusive cross sections for pair production of heavy
+mesons in photon-photon collision. The ratios of the exclusive cross sections
+for heavy mesons are obtained explicitly and the validity of results is
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 19:17:12 GMT""}]","2009-10-22"
+"hep-ph/9209265","Fernando T. C. Brandt","F. T. Brandt and J. Frenkel","The 3-graviton vertex function in thermal quantum gravity","19 pages, plain TeX, IFUSP/P-1009","Phys.Rev. D47 (1993) 4688-4697","10.1103/PhysRevD.47.4688",,"hep-ph",,"  The high temperature limit of the 3-graviton vertex function is studied in
+thermal quantum gravity, to one loop order. The leading ($T^4$) contributions
+arising from internal gravitons are calculated and shown to be twice the ones
+associated with internal scalar particles, in correspondence with the two
+helicity states of the graviton. The gauge invariance of this result follows in
+consequence of the Ward and Weyl identities obeyed by the thermal loops, which
+are verified explicitly.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 18:00:00 GMT""}]","2009-10-22"
+"hep-ph/9209266","Pat LaBelle","Patrick Labelle","Nrqed in Bound States: Applying Renormalization to an Effective Field
+  Theory","11 pages (4 figs included as comments in the LaTeX file), CLNS
+  92/1161",,,,"hep-ph",,"  This is a pedagogical introduction to NRQED, a low enery approximation of QED
+which can be made to reproduce QED to an arbitrary precision. It is especially
+useful when applied to nonrelativistic bound states. We start by explaining why
+QED is so difficult to apply to nr bound states, why NRQED makes it much
+simpler and then proceed to do an explicit calculation. We also briefly discuss
+what this can teach us about ``new'' physics beyond QED. This is based on a
+talk given at the XIV MRST meeting in Toronto.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 23:13:25 GMT""}]","2007-05-23"
+"hep-ph/9209267","Cern","Darwin Chang, Wai-Yee Keung, and Ivan Phillips","CP violation in top pair production at an e^+e^- collider","9 pages, 3 postscript figures not included but availabel upon
+  request, CERN-TH.6658/92",,,,"hep-ph",,"  We investigate a possible CP violating effect in $e^+e^-$ annihilation into
+$t\bar t$ top quark pairs. As an illustrative example, we assume the source of
+the CP nonconservation is in the Yukawa couplings of a neutral Higgs boson
+which contain both scalar and pseudoscalar pieces. One of the interesting
+observable effects is the difference in production rates between the two CP
+conjugate polarized $t\bar t$ states.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 07:19:46 GMT""}]","2007-05-23"
+"hep-th/9209078","Francois Gieres","Francois Gieres","On the holomorphic factorization for superconformal fields","5 pages, LATEX, MPI-Ph/92-78","Lett.Math.Phys. 28 (1993) 43-48","10.1007/BF00739565",,"hep-th",,"  For a generic value of the central charge, we prove the holomorphic
+factorization of partition functions for free superconformal fields which are
+defined on a compact Riemann surface without boundary. The partition functions
+are viewed as functionals of the Beltrami coefficients and their fermionic
+partners which variables parametrize superconformal classes of metrics.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 16:03:12 GMT""}]","2009-10-22"
+"hep-th/9209084","Judy Mack","Ashok Das and C.A.P. Galvao","Self-Duality and the KdV Hierarchy","7 pages","Mod.Phys.Lett. A8 (1993) 661-666","10.1142/S0217732393000684","UR1274","hep-th",,"  We derive the entire KdV hierarchy as well as the recursion relations from
+the self-duality condition on gauge fields in four dimensions.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 16:38:00 GMT""}]","2015-06-26"
+"hep-th/9209085","Cumrun Vafa","S.Cecotti and C.Vafa","Ising Model and $N=2$ Supersymmetric Theories","60 pages, HUTP-92/A044,SISSA-167/92/EP","Commun.Math.Phys. 157 (1993) 139-178","10.1007/BF02098023",,"hep-th",,"  We establish a direct link between massive Ising model and arbitrary massive
+$N=2$ supersymmetric QFT's in two dimensions. This explains why the equations
+which appear in the computation of spin-correlations in the non-critical Ising
+model are the same as those describing the geometry of vacua in $N=2$ theories.
+The tau-function appearing in the Ising model (i.e., the spin correlation
+function) is reinterpreted in the $N=2$ context as a new `index'. In special
+cases this new index is related to Ray-Singer analytic torsion, and can be
+viewed as a generalization of that to loop space of K\""ahler manifolds.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 16:57:05 GMT""}]","2009-10-22"
+"hep-th/9209087","Robert Perret","Robert Perret","Three dimensional field theories from infinite dimensional lie algebras","11 pages, USC-92/018","Int. J. Mod. Phys. A9 (1994) 4063","10.1142/S0217751X94001643",,"hep-th",,"  A procedure for constructing topological actions from centrally extended Lie
+groups is introduced. For a \km\ group, this produces \3al \cs, while for the
+\vir\ group the result is a new \3al \tft\ whose physical states satisfy the
+\vir\ \wi. This \tft\ is shown to be a first order formulation of two
+dimensional induced gravity in the chiral gauge. The extension to $W_3$-gravity
+is discussed.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 04:02:41 GMT""}]","2015-06-26"
+"hep-th/9209088","Mark Hindmarsh","Mark Hindmarsh, Richard Holman, Thomas W.Kephart, and Tanmay
+  Vachaspati","Generalized Semilocal Theories and Higher Hopf Maps","15 pages, uses amssymbols.sty","Nucl.Phys. B404 (1993) 794-804","10.1016/0550-3213(93)90597-I","NSF-ITP-92-93, CMU-HEP92-16, VAND-TH-92-10, DAMTP-HEP-92-61","hep-th hep-ph",,"  \def\mon{S^3\stackrel{S^1}{\rightarrow}S^2}
+\def\inst{S^7\stackrel{S^3}{\rightarrow}S^4}
+\def\octo{S^{15}\stackrel{S^7}{\rightarrow}S^8} In semilocal theories, the
+vacuum manifold is fibered in a non-trivial way by the action of the gauge
+group. Here we generalize the original semilocal theory (which was based on the
+Hopf bundle $\mon$) to realize the next Hopf bundle $\inst$, and its extensions
+$S^{2n+1}\stackrel{S^3}\rightarrow \H P^n$. The semilocal defects in this class
+of theories are classified by $\pi_3(S^3)$, and are interpreted as constrained
+instantons or generalized sphaleron configurations. We fail to find a field
+theoretic realization of the final Hopf bundle $\octo$, but are able to
+construct other semilocal spaces realizing Stiefel bundles over Grassmanian
+spaces.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 09:39:00 GMT""}]","2016-09-06"
+"hep-th/9209089","Gao Hong Bo","H.B. Gao","On Renormalization Group Flow In Matrix Model","5 pages, IC 302/92, ZIMP 92-18",,,,"hep-th",,"  The renormalization group flow recently found by Br\'ezin and Zinn- Justin by
+integrating out redundant entries of the $(N+1)\times (N+1)$ hermitian random
+matrix is studied. By introducing explicitly the RG flow parameter, and adding
+suitable counter terms to the matrix potential of the one matrix model, we
+deduce some interesting properties of the RG trajectories. In particular, the
+string equation for the general massive model interpolating between the UV and
+IR fixed points turns out to be a consequence of RG flow. An ambiguity in the
+UV regime of the RG trajectory is remarked to be related to the large order
+behavior of the one matrix model.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 11:24:01 GMT""}]","2007-05-23"
+"hep-th/9209090",,"Stany Schrans","Generalised Virasoro Constructions from Affine Inonu-Wigner Contractions","11 pages, plain TeX, KUL-TF-92/37","Class.Quant.Grav.10:L173-L181,1993","10.1088/0264-9381/10/9/011",,"hep-th",,"  We present a new method to find solutions of the Virasoro master equations
+for any affine Lie algebra $\widehat{g}$. The basic idea is to consider first
+the simplified case of an In\""on\""u-Wigner contraction $\widehat{g}_c$ of
+$\widehat{g}$ and to extend the Virasoro constructions of $\widehat{g}_c$ to
+$\widehat{g}$ by a perturbative expansion in the contraction parameter. The
+method is then applied to the orthogonal algebras, leading to fixed-level
+multi-parameter Virasoro constructions, which are the generalisations of the
+one-parameter Virasoro construction of $\widehat{su}(2)$ at level four.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 15:21:43 GMT""}]","2010-04-06"
+"math/9209215",,"William B. Johnson, Gideon Schechtman","Computing p-summing norms with few vectors",,,,"Banach Archive 9/22/92","math.FA",,"  It is shown that the p-summing norm of any operator with n-dimensional domain
+can be well-aproximated using only ``few"" vectors in the definition of the
+p-summing norm. Except for constants independent of n and log n factors, ``few""
+means n if 1<p<2 and n^{p/2} if 2<p<infinity.
+","[{""version"":""v1"",""created"":""Tue, 22 Sep 1992 18:29:48 GMT""}]","2016-09-06"

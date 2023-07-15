@@ -1,0 +1,70 @@
+"alg-geom/9202025",,"A. Grassi","The Singularities of the parameter surface of a minimal elliptic
+  threefold","27 pages AmS-Tex 2.0 (plus 3 figures in LaTex)",,,,"alg-geom math.AG",,"  Let f : X -> S be any elliptic fibration. If X has dimension 3 and is not
+uniruled, then X has a minimal model (with terminal singularities) [Mori]. In
+earlier work we have shown that there exists a birationally equivalent elliptic
+fibration p: Y -> T such that Y is minimal and a multiple of K_Y can be
+expressed as the pullback of a divisor from T. Moreover T has at worst quotient
+singularities; it is not difficult to find examples where T is actually
+singular. In this paper we describe the singularities of this parameter surface
+T in the case of no multiple fibers. Although T is not uniquely determined by
+the birational equivalence class of the fibration, any two such T are related
+by a particular kind of birational map.
+","[{""version"":""v1"",""created"":""Fri, 21 Feb 1992 22:29:56 GMT""}]","2008-02-03"
+"hep-th/9202075","Mark Alford","Mark Alford and Andrew Strominger","S-Wave Scattering of Charged Fermions by a Magnetic Black Hole","9pp","Phys.Rev.Lett.69:563-566,1992","10.1103/PhysRevLett.69.563",,"hep-th",,"  We argue that, classically, $s$-wave electrons incident on a magnetically
+charged black hole are swallowed with probability one: the reflection
+coefficient vanishes. However, quantum effects can lead to both electromagnetic
+and gravitational backscattering. We show that, for the case of extremal,
+magnetically charged, dilatonic black holes and a single flavor of low-energy
+charged particles, this backscattering is described by a perturbatively
+computable and unitary $S$-matrix, and that the Hawking radiation in these
+modes is suppressed near extremality. The interesting and much more difficult
+case of several flavors is also discussed.
+","[{""version"":""v1"",""created"":""Fri, 21 Feb 1992 22:03:00 GMT""}]","2009-09-17"
+"hep-th/9202076",,"Lee Smolin","The G_Newton --> 0 Limit of Euclidean Quantum Gravity","14 pages","Class.Quant.Grav.9:883-894,1992","10.1088/0264-9381/9/4/007",,"hep-th",,"  Using the Ashtekar formulation, it is shown that the G_{Newton} --> 0 limit
+of Euclidean or complexified general relativity is not a free field theory, but
+is a theory that describes a linearized self-dual connection propagating on an
+arbitrary anti-self-dual background. This theory is quantized in the loop
+representation and, as in the full theory, an infinite dimnensional space of
+exact solutions to the constraint is found. An inner product is also proposed.
+The path integral is constructed from the Hamiltonian theory and the measure is
+explicitly computed nonperturbatively, without relying on a semiclassical
+expansion. This theory could provide the starting point for a new approach to
+perturbation theory in $G_{Newton}$ that does not rely on a background field
+expansion and in which full diffeomorphism invariance is satisfied at each
+order.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1992 14:22:00 GMT""}]","2010-04-06"
+"hep-th/9202077",,"B. S. Balakrishna and Kameshwar C. Wali","Non-Abelian Monopoles Coupled to Gravity","9 pages","Phys.Rev.D46:5228-5231,1992","10.1103/PhysRevD.46.R5228",,"hep-th",,"  A static configuration of point charges held together by the gravitational
+attraction is known to be given by the Majumdar-Papapetrou solution in the
+Einstein-Maxwell theory. We consider a generalization of this solution to
+non-Abelian monopoles of the Yang-Mills Higgs system coupled to gravity. The
+solution is governed by an analog of the Bogomol'nyi equations that had played
+a central role in the analysis of non-Abelian monopoles.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1992 15:54:00 GMT""},{""version"":""v2"",""created"":""Fri, 28 Feb 1992 15:56:00 GMT""}]","2009-12-30"
+"math/9202202",,"D. H. Fremlin, Jose Mendoza","On the integration of vector-valued functions",,,,"Banach Archive 2/21/92","math.FA",,"  We discuss relationships between the McShane, Pettis, Talagrand and Bochner
+integrals. A large number of different methods of integration of
+Banach-space-valued functions have been introduced, based on the various
+possible constructions of the Lebesgue integral. They commonly run fairly
+closely together when the range space is separable (or has w^*-separable dual)
+and diverge more or less sharply for general range spaces. The McShane integral
+as described by [Go] is derived from the `gauge-limit' integral of [McS]. Here
+we give both positive and negative results concerning it and the other three
+integrals listed above.
+","[{""version"":""v1"",""created"":""Fri, 21 Feb 1992 16:16:55 GMT""}]","2016-09-06"
+"math/9202210","Alfredo Poirier","John W. Milnor, Alfredo Poirier","Hyperbolic components in spaces of polynomial maps","Main text by John W. Milnor, appendix by Alfredo Poirier. Fonts
+  changed by arXiv admin to fix compilation problem (Dec2002)",,,"Stony Brook IMS 1992/3","math.DS",,"  We consider polynomial maps $f:\C\to\C$ of degree $d\ge 2$, or more generally
+polynomial maps from a finite union of copies of $\C$ to itself which have
+degree two or more on each copy. In any space $\p^{S}$ of suitably normalized
+maps of this type, the post-critically bounded maps form a compact subset
+$\cl^{S}$ called the connectedness locus, and the hyperbolic maps in $\cl^{S}$
+form an open set $\hl^{S}$ called the hyperbolic connectedness locus. The
+various connected components $H_\alpha\subset \hl^{S}$ are called hyperbolic
+components. It is shown that each hyperbolic component is a topological cell,
+containing a unique post-critically finite map which is called its center
+point. These hyperbolic components can be separated into finitely many distinct
+``types'', each of which is characterized by a suitable reduced mapping schema
+$\bar S(f)$. This is a rather crude invariant, which depends only on the
+topology of $f$ restricted to the complement of the Julia set. Any two
+components with the same reduced mapping schema are canonically biholomorphic
+to each other. There are similar statements for real polynomial maps, or for
+maps with marked critical points.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1992 00:00:00 GMT""}]","2009-09-25"

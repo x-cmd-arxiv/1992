@@ -1,0 +1,201 @@
+"astro-ph/9209004",,"Valerio Faraoni and Sebastiano Sonego","On the Tail Problem in Cosmology","12 pages","Phys.Lett. A170 (1992) 413-420","10.1016/0375-9601(92)90744-7",,"astro-ph",,"  The tail problem for the propagation of a scalar field is considered in a
+cosmological background, taking a Robertson-Walker spacetime as a specific
+example. The explicit radial dependence of the general solution of the
+Klein-Gordon equation with nonminimal coupling is derived, and the
+inapplicability of the standard calculation of the reflection and transmission
+coefficients to the study of scattering of waves by the cosmological curvature
+is discussed.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 21:18:13 GMT""}]","2009-10-22"
+"astro-ph/9209005","Georg Raffelt","G. Raffelt and G. Sigl","Neutrino Flavor Conversion in a Supernova Core","24 pages, 3 figures from authors upon request, LaTeX, MPI-Ph/92-68","Astropart.Phys. 1 (1993) 165-184","10.1016/0927-6505(93)90020-E",,"astro-ph hep-ph",,"  If $\nu_\mu$ or $\nu_\tau$ mix with $\nu_e$, neutrino oscillations and
+collisions in a supernova (SN) core allow these flavors effectively to
+participate in $\beta$ equilibrium and thus to obtain a large chemical
+potential. If a sterile species mixes with $\nu_e$, these effects lead to an
+anomalous loss of energy and lepton number. We study flavor conversion in a SN
+core on the basis of a new kinetic equation which rigorously includes neutrino
+interference and degeneneracy effects. Our discussion serves as an example and
+illustration of the properties of this ``non-abelian Boltzmann equation''.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 12:42:32 GMT""}]","2009-10-22"
+"cond-mat/9209030",,"A.H.Castro Neto and A.O.Caldeira","An alternative approach for the dynamics of polarons in one dimension","57 pages",,"10.1103/PhysRevB.46.8858",,"cond-mat",,"  We developed a new method based on functional integration to treat the
+dynamics of polarons in one-dimensional systems. We treat the acoustical and
+the optical case in an unified manner, showing their differences and
+similarities. The mobility and diffusion coefficients are calculated in the
+Markovian approximation in the strong coupling limit.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 21:28:25 GMT""}]","2009-10-22"
+"gr-qc/9209009","Dieter Brill","Dieter Brill","Euclidean Maxwell-Einstein Theory","8 pages, to appear in L. Witten Festschrift",,,"UMD 93-038","gr-qc",,"  After reviewing the context in which Euclidean propagation is useful we
+compare and contrast Euclidean and Lorentzian Maxwell-Einstein theory and give
+some examples of Euclidean solutions.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 13:32:14 GMT""}]","2007-05-23"
+"hep-lat/9209023","M. Mueller-Preussker","V.G. Bornyakov, V.K. Mitrjushkin and M. M\""uller-Preussker","Modified $U(1)$ lattice gauge theory: towards realistic lattice QED","13 pages, 11 figures not included, sorry, preprint HU
+  Berlin-IEP-92/5, submitted to Nucl. Phys. B",,,,"hep-lat",,"  We study properties of the compact $~4D~$ $U(1)$ lattice gauge theory with
+monopoles {\it removed}. Employing Monte Carlo simulations we calculate
+correlators of scalar, vector and tensor operators at zero and nonzero momenta
+$~\vec{p}~$. We confirm that the theory without monopoles has no phase
+transition, at least, in the interval $~0 < \beta \leq 2~$. There the photon
+becomes massless and fits the lattice free field theory dispersion relation
+very well. The energies of the $~0^{++}~$, $~1^{+-}~$ and $~2^{++}~$ states
+show a rather weak dependence on the coupling in the interval of $~\beta~$
+investigated, and their ratios are practically constant. We show also a further
+modification of the theory suppressing the negative plaquettes to improve
+drastically the overlap with the lowest states (at least, for $~J=1$).
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 20:17:40 GMT""}]","2007-05-23"
+"hep-ph/9209268",,"Adam F. Falk and Matthias Neubert","Second Order Power Corrections in the Heavy Quark Effective Theory I.
+  Formalism and Meson Form Factors","(34 pages, REVTEX, two postscript figures available upon request),
+  SLAC-PUB-5897","Phys.Rev. D47 (1993) 2965-2981","10.1103/PhysRevD.47.2965",,"hep-ph",,"  In the heavy quark effective theory, hadronic matrix elements of currents
+between two hadrons containing a heavy quark are expanded in inverse powers of
+the heavy quark masses, with coefficients that are functions of the kinematic
+variable $v\cdot v'$. For the ground state pseudoscalar and vector mesons, this
+expansion is constructed at order $1/m_Q^2$. A minimal set of universal form
+factors is defined in terms of matrix elements of higher dimension operators in
+the effective theory. The zero recoil normalization conditions following from
+vector current conservation are derived. Several phenomenological applications
+of the general results are discussed in detail. It is argued that at zero
+recoil the semileptonic decay rates for $B\to D\,\ell\,\nu$ and $B\to
+D^*\ell\,\nu$ receive only small second order corrections, which are unlikely
+to exceed the level of a few percent. This supports the usefulness of the heavy
+quark expansion for a reliable determination of $V_{cb}$.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 17:13:00 GMT""}]","2009-10-22"
+"hep-ph/9209269",,"Adam F. Falk and Matthias Neubert","Second Order Power Corrections in the Heavy Quark Effective Theory II.
+  Baryon Form Factors","(18 pages, REVTEX), SLAC-PUB-5898","Phys.Rev.D47:2982-2990,1993","10.1103/PhysRevD.47.2982",,"hep-ph",,"  The analysis of $1/m_Q^2$ corrections of the previous paper is extended to
+the semileptonic decays of heavy baryons. We focus on the simplest case, the
+ground state $\Lambda_Q$ baryons, in which the light degrees of freedom are in
+a state of zero total angular momentum. The formalism, while identical in
+spirit, is considerably less cumbersome than for heavy mesons. The general
+results are applied to the semileptonic decay
+$\Lambda_b\to\Lambda_c\,\ell\,\nu$. An estimate of the leading power
+corrections to the decay rate at zero recoil, which are of order $1/m_Q^2$, is
+presented. It is pointed out that a measurement of certain asymmetry parameters
+would provide a direct measurement of $1/m_Q^2$ corrections. Finally, it is
+shown how the analysis could be extended to include excited heavy baryons such
+as the $\Sigma_Q$ and the $\Sigma_Q^*$.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 17:27:00 GMT""}]","2011-05-05"
+"hep-ph/9209270",,"M.B. Voloshin","Comment on ""Summing One-Loop Graphs at Multi-Particle Threshold""","7 pages, LaTeX, TPI-MINN-92/46-T","Phys.Rev. D47 (1993) 1712-1714","10.1103/PhysRevD.47.1712",,"hep-ph",,"  The propagator of a virtual $\phi$-field with emission of $n$ on-mass-shell
+particles all being exactly at rest is calculated at the tree-level in $\lambda
+\phi^4$ theory by directly solving recursion equations for the sum of Feynman
+graphs. It is shown that the generating function for these propagators is
+equivalent to a Fourier transform of the recently found Green's function within
+the background-field technique for summing graphs at threshold suggested by
+Lowell Brown. Also the derivation of the result that the tree-level
+on-mass-shell scattering amplitudes of the processes $2 \to n$ are exactly
+vanishing at threshold for $n > 4$ is thus given in the more conventional
+Feynman diagram technique.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 16:42:59 GMT""}]","2009-10-22"
+"hep-ph/9209271",,"M. Neubert, Z. Ligeti and Y. Nir","QCD Sum Rule Analysis of the Subleading Isgur-Wise Form Factor
+  $\chi_2(v\cdot v')$","(10 pages, REVTEX, 2 figures not included) SLAC-PUB-5915,
+  WIS-92/70/Sep-PH","Phys.Lett.B301:101-107,1993","10.1016/0370-2693(93)90728-Z",,"hep-ph",,"  We present a QCD sum rule calculation of the spin-symmetry violating
+universal function $\chi_2(v\cdot v')$, which appears at order $1/m_Q$ in the
+heavy quark expansion of meson form factors. This function vanishes in the
+standard approximation, where radiative effects are neglected. For the first
+time, the complete set of diagrams arising at order $\alpha_s$ is evaluated. In
+particular, we find $\chi_2(1) = -(3.8\pm 0.4)\%$ at zero recoil, indicating
+that $1/m_Q$ corrections induced by the chromo-magnetic moment operator are
+small.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 18:08:00 GMT""}]","2010-11-01"
+"hep-ph/9209272",,"M. A. Nowak, M. Rho, I. Zahed","Chiral effective action with heavy quark symmetry","14 pages, SUNY-NTG-92/27","Phys.Rev. D48 (1993) 4370-4374","10.1103/PhysRevD.48.4370",,"hep-ph",,"  We derive an effective action combining chiral and heavy quark symmetry,
+using approximate bosonization techniques of QCD. We explicitly show that the
+heavy-quark limit is compatible with the large $N_c$ (number of color) limit in
+the meson sector, and derive specific couplings between the light and heavy
+mesons ($D$, $D^*$, ...) and their chiral partners. The relevance of this
+effective action to solitons with heavy quarks describing heavy baryons is
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 00:10:40 GMT""}]","2009-10-22"
+"hep-ph/9209273","Judy Mack","Paulo F. Bedaque and Ashok Das","Feynman Parametrization and the Degenerate Electron Gas","14 pages","Phys.Rev.D47:601-607,1993","10.1103/PhysRevD.47.601","UR1275","hep-ph hep-th",,"  We give an alternate derivation of Weldon's formula for combining products of
+factors with non identical analytic behavior. While such a formula would appear
+to be useful in finite temperature calculations, we give an example of a zero
+temperature calculation, namely, the degenerate electron gas, to justify the
+result.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 01:44:00 GMT""}]","2011-04-12"
+"hep-ph/9209274",,"Volker Rieckert","Note on Tests of the Factorization Hypothesis and the Determination of
+  Meson Decay Constants","(9 pages, ReVTeX, no figures), HD-THEP-92-32","Phys.Rev. D47 (1993) 3053-3056","10.1103/PhysRevD.47.3053",,"hep-ph",,"  We discuss various tests of the factorization hypothesis making use of the
+close relationship between semi-leptonic and factorized nonleptonic decay
+amplitudes. It is pointed out that factorization leads to truely
+model-independent predictions for the ratio of nonleptonic to semi-leptonic
+decay rates, if in the nonleptonic decay a spin one meson of arbitrary mass or
+a pion take the place of the lepton pair. Where the decay constants of those
+mesons are known, these predictions represent ideal tests of the factorization
+hypothesis. In other cases they may be used to extract the decay constants.
+Currently available data on the decays $\bar B^0 \to D^+\pi^-,\, D^{*+}\pi^-,\,
+D^+\varrho^-,\, D^{*+}\varrho^-$ are shown to be in excellent agreement with
+the factorization results. A weighted average of the four independent values
+for the QCD coefficient $a_1$ extracted from the data gives $a_1=1.15\pm 0.06$
+suggesting that it may be equal to the Wilson coefficient $c_1(\mu)$ evaluated
+at the scale $\mu = m_b$.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 05:52:00 GMT""}]","2009-10-22"
+"hep-ph/9209275","D. P. Min","D.-P. Min, Y. Oh, B.-Y. Park and M. Rho","Soliton Structure of Heavy Baryons","11 pages, LaTeX, SNUTP-92/78",,,,"hep-ph",,"  Heavy-quark baryons are described as a bound heavy-meson-soliton system in a
+Lagrangian that combines chiral symmetry and heavy-quark symmetry. We introduce
+a ``Wess-Zumino type"" term and show that it dominates the binding of a heavy
+meson to a soliton. The connection between this model and the Callan-Klebanov
+model is established to $O(N_c^{-1} \cdot m_\Phi^0)$ where $m_\Phi$ is the mass
+of the heavy-meson (isospin) doublet $\Phi$ or $\Phi^*$.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 15:49:28 GMT""}]","2007-05-23"
+"hep-ph/9209276","Georg Raffelt","G. Raffelt, G. Sigl, and L. Stodolsky","Non-Abelian Boltzmann Equation for Mixing and Decoherence","12 pages, no figures, PLAIN-TeX, Preprint MPI-Ph/92-65","Phys.Rev.Lett.70:2363-2366,1993; Erratum-ibid.98:069902,2007","10.1103/PhysRevLett.70.2363 10.1103/PhysRevLett.98.069902",,"hep-ph astro-ph",,"  We consider particle oscillations and their damping in second-quantized form.
+We find that the damping or ""decoherence"" may be described by a Boltzmann-like
+collision integral with ""non-abelian blocking factors"" (fermions). Earlier
+results are generalized in that the momentum degrees of freedom are included
+and that the mixing equations become intrinsically non-linear at high
+densities.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 12:23:48 GMT""}]","2008-11-26"
+"hep-ph/9209280",,"J.E.Horvath","Stable diquark matter ?","10p. PlainTeX, 2 Figures available upon request. IAG-USP Report No 32","Phys.Lett. B294 (1992) 412-416","10.1016/0370-2693(92)91542-H",,"hep-ph",,"  Two-quark correlations ({\it diquarks}) may play an important role in
+hadronic physics, particularly near the deconfinement point. This opens the
+possibility of a net energy gain by means of a (non-perturbative) quark pairing
+effect, perheps up to stabilize diquark droplets. We address in this work the
+possibility of a self-bound, stable state of bulk diquark matter.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 14:55:00 GMT""}]","2009-10-22"
+"hep-th/9209091",,"D.V.Boulatov","Local symmetry in the Kazakov-Migdal gauge model","5 pages, latex, NBI-HE-92-62",,,,"hep-th hep-lat",,"  The spectrum of observables in the induced lattice gauge model proposed
+recently by V.A.Kazakov and A.A.Migdal obeys the local-confinement selection
+rule. The underlying local continuous symmetry cannot be spontaneously broken
+within the model.
+","[{""version"":""v1"",""created"":""Wed, 23 Sep 1992 17:29:43 GMT""}]","2007-05-23"
+"hep-th/9209092","Thomas Larsson","T. A. Larsson","Vect(N) Invariants and Quantum Gravity","36 pages, Plain TeX",,,,"hep-th",,"  The Feigin-Fuks construction of irreducible lowest-weight Virasoro
+representations is reviewed using physics terminology. The procedure consists
+of two steps: constructing invariants and applying them to the Fock vacuum. We
+attempt to generalize this construction to the diffeomorphism algebra in higher
+dimensions. The first step is straightforward, but the second is difficult, due
+to the appearence of infinite Schwinger terms. This might be avoided by
+imposing constraints on the fields, which should be of the recently discovered
+conformal type. The resulting representations are reminiscent of quantum
+gravity.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 14:41:45 GMT""}]","2007-05-23"
+"hep-th/9209093","Horst Kausch","H.G. Kausch","W-algebras arising as chiral algebras of conformal field theory","5 pages LaTeX, Imperial/TH/91-92/38",,,,"hep-th",,"  It is argued that chiral algebras of conformal field theory possess a
+W-algebra structure. A survey of explicitly known W-algebras and their
+constructions is given. (Talk given at the XIX International Colloquium on
+``Group Theoretical Methods in Physics'', Salamanca, Spain, June 29 -- July 4,
+1992)
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 10:27:42 GMT""}]","2007-05-23"
+"hep-th/9209094","Thordur Jonsson","B. Durhuus and T. Jonsson","On subdivision invariant actions for random surfaces","7 pages, Latex, RH-08-92 and YITP/U-92-31","Phys.Lett. B297 (1992) 271-274","10.1016/0370-2693(92)91261-7",,"hep-th",,"  We consider a subdivision invariant action for dynamically triangulated
+random surfaces that was recently proposed (R.V. Ambartzumian et. al., Phys.
+Lett. B 275 (1992) 99) and show that it is unphysical: The grand canonical
+partition function is infinite for all values of the coupling constants. We
+conjecture that adding the area action to the action of Ambartzumian et. al.
+leads to a well-behaved theory.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 11:44:34 GMT""}]","2009-10-22"
+"hep-th/9209095",,"G.Papadopoulos and B. Spence","The phase space of the Wess-Zumino-Witten model","pages 9",,,,"hep-th",,"  We prove that the covariant and Hamiltonian phase spaces of the
+Wess-Zumino-Witten model on the cylinder are diffeomorphic and we derive the
+Poisson brackets of the theory.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 13:19:47 GMT""}]","2007-05-23"
+"hep-th/9209096",,"M. Nolasco, C.Reina","Topological Observables in Semiclassical Field Theories","11 pages","Phys.Lett.B297:82-88,1992","10.1016/0370-2693(92)91073-I",,"hep-th",,"  We give a geometrical set up for the semiclassical approximation to euclidean
+field theories having families of minima (instantons) parametrized by suitable
+moduli spaces ${\cal M}$. The standard examples are of course Yang-Mills theory
+and non-linear $\sigma$-models. The relevant space here is a family of measure
+spaces $\tilde {\cal N} \ra {\cal M}$, with standard fibre a distribution
+space, given by a suitable extension of the normal bundle to ${\cal M}$ in the
+space of smooth fields. Over $\tilde {\cal N}$ there is a probability measure
+$d\mu$ given by the twisted product of the (normalized) volume element on
+${\cal M}$ and the family of gaussian measures with covariance given by the
+tree propagator $C_\phi$ in the background of an instanton $\phi \in {\cal M}$.
+The space of ``observables"", i.e. measurable functions on ($\tilde {\cal N}, \,
+d\mu$), is studied and it is shown to contain a topological sector,
+corresponding to the intersection theory on ${\cal M}$. The expectation value
+of these topological ``observables"" does not depend on the covariance; it is
+therefore exact at all orders in perturbation theory and can moreover be
+computed in the topological regime by setting the covariance to zero.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 14:33:08 GMT""}]","2010-11-01"
+"hep-th/9209097",,"B. Rusakov","From hermitian matrix model to lattice gauge theory","8pages, Latex",,,"TAUP 1996-92","hep-th hep-lat",,"  I consider a lattice model of a gauge field interacting with matrix-valued
+scalars in $D$ dimensions. The model includes an adjustable parameter $\s$,
+which plays role of the string tension. In the limit $\s=\infty$ the model
+coincides with Kazakov-Migdal's ``induced QCD"", where Wilson loops obey a zero
+area law. The limit $\s=0$, where Wilson loops $W(C)=1$ independently of the
+size of the loop, corresponds to the Hermitian matrix model. For $D=2$ and
+$D=3$ I show that the model obeys the same combinatorics as the standard LGT
+and therefore one may expect the area law behavior. In the strong coupling
+expansion such a behavior is demonstrated.
+","[{""version"":""v1"",""created"":""Thu, 24 Sep 1992 15:13:12 GMT""}]","2007-05-23"

@@ -1,0 +1,118 @@
+"hep-ph/9210228","Maekawa","Masako Bando, Taichiro Kugo, Nobuhiro Maekawa and Hiroaki Nakano","Improving the Effective Potential","13pages, no Figures, phyzzx.tex","Phys.Lett. B301 (1993) 83-89","10.1016/0370-2693(93)90725-W","KUNS1161","hep-ph",,"  A general procedure is presented how to improve the effective potential by
+using the renormalization group equation (RGE) in MS bar scheme. If one knows
+the L-loop effective potential and the RGE coefficient functions up to
+(L+1)-loop level, this procedure gives an improved potential which satisfies
+the RGE and contains all of the leading, next-to-leading,... , and
+L-th-to-leading log terms.
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 08:12:28 GMT""}]","2009-10-22"
+"hep-ph/9210229","Maekawa","Masako Bando, Taichiro Kugo, Nobuhiro Maekawa and Hiroaki Nakano","Improving the Effective Potential:Multi-Mass-Scale Case","14pages, no Figures, phyzzx.tex","Prog.Theor.Phys. 90 (1993) 405-418","10.1143/ptp/90.2.405","KUNS1162","hep-ph",,"  Previously proposed procedure for improving the effective potential by using
+renormalization group equation (RGE) is generalized so as to be applicable to
+any system containing several different mass scales. If one knows L-loop
+effective potential and (L+1)-loop RGE coefficient functions, this procedure
+gives an improved potential which satisfies the RGE and contains all of the
+leading, next-to-leading,..., and L-th-to-leading log terms. Our procedure here
+also clarifies how naturally the so-called effective field theory can be
+incorporated in the RGE in MS bar scheme.
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 10:39:43 GMT""}]","2017-02-01"
+"hep-th/9210061","Ergin Sezgin","R. Percacci and E. Sezgin","Symmetries of P-Branes","15 pages, CTP-TAMU-32/92, SISSA 182/92/EP","Int. J. Mod. Phys. A8 (1993) 5367-5382","10.1142/S0217751X93002137",,"hep-th",,"  Using canonical methods, we study the invariance properties of a bosonic
+$p$--brane propagating in a curved background locally diffeomorphic to $M\times
+G$, where $M$ is spacetime and $G$ a group manifold. The action is that of a
+gauged sigma model in $p+1$ dimensions coupled to a Yang--Mills field and a
+$(p+1)$--form in $M$. We construct the generators of Yang-Mills and tensor
+gauge transformations and exhibit the role of the $(p+1)$--form in cancelling
+the potential Schwinger terms. We also discuss the Noether currents associated
+with the global symmetries of the action and the question of the existence of
+infinite dimensional symmetry algebras, analogous to the Kac-Moody symmetry of
+the string.
+","[{""version"":""v1"",""created"":""Sun, 11 Oct 1992 18:39:47 GMT""}]","2015-06-26"
+"hep-th/9210062","Netah","Rolf Schimmrigk","Critical String Vacua from Noncritical Manifolds: A Novel Framework for
+  String Compactification","11 pages, HD-THEP-92-29","Phys.Rev.Lett.70:3688-3691,1993","10.1103/PhysRevLett.70.3688",,"hep-th",,"  A new framework is found for the compactification of supersymmetric string
+theory. It is shown that the massless spectra of Calabi--Yau manifolds of
+complex dimension $D_{crit}$ can be derived from noncritical manifolds of
+complex dimension $2k + D_{crit}$, $k\geq 1$. These higher dimensional
+manifolds are spaces whose nonzero Ricci curvature is quantized in a particular
+way. This class is more general than that of Calabi--Yau manifolds because it
+contains spaces which correspond to critical string vacua with no K\""ahler
+deformations, i.e. no antigenerations, thus providing mirrors of rigid
+Calabi--Yau manifolds. The constructions introduced here lead to new insights
+into the relation between exactly solvable models and their mean field theories
+on the one hand and Calabi--Yau manifolds on the other. They also raise
+fundamental questions about the Kaluza--Klein concept of string
+compactification, in particular regarding the r\^{o}le played by the dimension
+of the internal theories.
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 09:20:11 GMT""}]","2010-11-01"
+"hep-th/9210063",,"Yas-hiro Quano and Akira Fujii","Yang-Baxter Equation for $A^{(1)}_{n-1}$ Broken ${\Bf Z}_N $ Models","19 pages. UT-603","Mod.Phys.Lett. A8 (1993) 1585-1598","10.1142/S021773239300132X",,"hep-th",,"  We construct a factorized representation of the $\frak g \frak l _n$-Sklyanin
+algebra from the vertex-face correspondence. Using this representation, we
+obtain a new solvable model which gives an $\frak s \frak l _n$-generalization
+of the broken $\bz _N $ model. We further prove the Yang-Baxter equation for
+this model.
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 11:22:50 GMT""},{""version"":""v2"",""created"":""Wed, 14 Oct 1992 11:39:09 GMT""}]","2009-10-22"
+"hep-th/9210064","Keith R. Dienes","Keith R. Dienes (McGill Univ.)","Fractional Superstrings with Critical Spacetime Dimensions Four and Six:
+  A Status Report","15 pages (LaTeX), McGill/92-42",,,,"hep-th",,"  Fractional superstrings are non-trivial generalizations of ordinary
+superstrings and heterotic strings, and have critical spacetime dimensions
+which are less than ten by virtue of a worldsheet fractional supersymmetry
+relating worldsheet bosons to worldsheet parafermions. In this paper, I provide
+a short non-technical survey of the fundamental issues involved in these
+recently-proposed theories. After introducing the basic ideas which underlie
+these new string theories, I review their early successes and outline some
+related outstanding questions.
+  ( Talk given at the Internal Workshop on String Theory,
+  Quantum Gravity, and the Unification of the Fundamental
+  Interactions, held in Rome, Italy, 21-26 September 1992. )
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 14:34:37 GMT""}]","2007-05-23"
+"nucl-th/9210006",,"M. K. Liou, Dahang Lin, and B. F. Gibson","Anatomy of the Soft-Photon Approximation in Hadron-Hadron Bremsstrahlung","49 pages report # LA-UR-92-2702",,"10.1103/PhysRevC.47.973",,"nucl-th",,"  A modified Low procedure for constructing soft-photon amplitudes has been
+used to derive two general soft-photon amplitudes, a two-s-two-t special
+amplitude $M^{TsTts}_{\mu}$ and a two-u-two-t special amplitude
+$M^{TuTts}_{\mu}$, where s, t and u are the Mandelstam variables.
+$M^{TsTts}_{\mu}$ depends only on the elastic T-matrix evaluated at four sets
+of (s,t) fixed by the requirement that the amplitude be free of derivatives
+($\partial$T/$\partial$s and /or $\partial$T/$\partial t$). Likewise
+$M^{TuTts}_{\mu}$ depends only on the elastic T-matrix evaluated at four sets
+of (u,t). In deriving these amplitudes, we impose the condition that
+$M^{TsTts}_{\mu}$ and $M^{TuTts}_{\mu}$ reduce to $\bar{M}^{TsTts}_{\mu}$ and
+$\bar{M}^{TuTts}_{\mu}$, respectively, their tree level approximations. The
+amplitude $\bar{M}^{TsTts}_{\mu}$ represents photon emission from a sum of
+one-particle t-channel exchange diagrams and one-particle s-channel exchange
+diagrams, while the amplitude $\bar{M}^{TuTts} _{\mu}$ represents photon
+emission from a sum of one-particle t-channel exchange diagrams and
+one-particle u-channel exchange diagrams. The precise expressions for
+$\bar{M}^{TsTts}_{\mu}$ and $\bar{M}^{TuTts}_{\mu}$ are determined by using the
+radiation decomposition identities of Brodsky and Brown. We point out that it
+is theoretically impossible to describe all bremsstrahlung processes by using
+only a single class of soft-photon amplitudes. At least two different classes
+are required: the amplitudes which depend on s and t or the amplitudes which
+depend on u and t. When resonance effects are important, the amplitude
+$M^{TsTts}_{\mu}$, not $M^{Low(st)}_{\mu}$, should be used. For processes with
+strong u-channel exchange effects, the amplitude $M^{TuTts}_{\mu}$ should be
+the first choice.
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 08:39:58 GMT""}]","2009-10-22"
+"nucl-th/9210007",,"Paolo M. Gensini (Dip. di Fisica dell{\'} Universit\`a di Perugia, and
+  I.N.F.N., Sezione di Perugia, Italy) and Galileo Violini (Centro
+  Internacional de F\'isica, Santa Fe de Bogot\'a, Colombia, Dip. di Fisica
+  dell{\'} Universit\`a della Calabria, Rende (Cosenza), Italy, and I.N.F.N.,
+  Gruppo Collegato di Cosenza, Italy)","Old Problems in Low-Energy $K N$ Physics and Perspectives Opening Up at
+  New Machines","14 pages, PlainTeX, DFUPG-36 -91-rev",,,,"nucl-th hep-ph",,"  We survey the open problems in low--energy $KN$ physics, in the perspective
+of using the new machines presently planned, such as the $\phi$--factory
+DA$\Phi$NE at I.N.F.N. Nat. Labs. in Frascati (as a source of {\sl tagged},
+low--energy kaons) and the KAON Factory at TRIUMF (as a producer of intense,
+intermediate--energy kaon beams).
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 15:06:00 GMT""}]","2016-08-14"
+"nucl-th/9210008",,"Paolo M. Gensini (Dip. di Fisica dell{\'} Universit\`a di Perugia,
+  Perugia, and I.N.F.N., Sezione di Perugia, Italy)","Low-Energy $KN$ Interactions at a $\phi$-Factory","20 pages, PlainTex, DFUPG-54-92","Common Problems an Trends in Mod. Phys, p. 387",,,"nucl-th hep-ph",,"  The paper is the written version of a talk presented at the ""VIIth Winter
+School of Hadronic Physics"", held in Folgaria (Trento), Italy, February 10--15,
+1992.
+  We intend to illustrate in this lecture the possibilities opening up at
+machines planned for the nineties for low--energy kaon--nucleon interactions,
+keeping the focus on the theoretical problems they should help to solve.
+  We shall deal here only with the $\phi$--factory DA$\Phi$NE$^1$ and consider,
+for brevity, interactions with light, gaseous targets, using gaseous $H_2$ as a
+benchmark for which to estimate the rates to be expected in a typical
+apparatus.
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 15:07:00 GMT""}]","2007-05-23"
+"nucl-th/9210009",,"Paolo M. Gensini (Dip. di Fisica dell{\'} Universit\`a di Perugia,
+  Perugia, and I.N.F.N., Sezione di Perugia, Italy)","Low-Energy Kaon Interactions and Scattering on Nucleons and Light Nuclei","20 pages, PlainTex",,,"DFUPG-51-92","nucl-th hep-ph",,"  A chapter to be included in ""The DA$\mit\Phi$NE Physics Handbook"" by the
+DA$\Phi$NE Theory Working Group, this paper covers the phenomenology of
+low--energy $K N$ physics, with particular emphasis on the problems still to be
+solved by a careful experimental investigation and on the theoretical tools to
+analyse it.
+","[{""version"":""v1"",""created"":""Mon, 12 Oct 1992 15:07:00 GMT""}]","2007-05-23"

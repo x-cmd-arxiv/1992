@@ -1,0 +1,88 @@
+"gr-qc/9207007","Neil Cornish","N. J. Cornish and J. W. Moffat","Comments on Theoretical Problems in Nonsymmetric Gravitational Theory","11 pages","Phys.Rev. D47 (1993) 4421-4424","10.1103/PhysRevD.47.4421","UTPT-91-33","gr-qc astro-ph",,"  Damour, Deser and McCarthy have claimed that the nonsymmetric gravitational
+theory (NGT) is untenable due to curvature coupled ghost modes and bad
+asymptotic behavior. This claim is false for it is based on a physically
+inaccurate treatment of wave propagation on a curved background and an
+incorrect method for extracting asymptotic behavior. We show that the flux of
+gravitational radiation in NGT is finite in magnitude and positive in sign.
+","[{""version"":""v1"",""created"":""Fri, 24 Jul 1992 23:57:12 GMT""}]","2009-10-22"
+"hep-lat/9207027",,"V. Azcoiti, G. Di Carlo and A.F. Grillo","A new approach to noncompact lattice qed with light fermions","20 pages","Int.J.Mod.Phys. A8 (1993) 4235-4260","10.1142/S0217751X93001739","DFTUZ-91.34","hep-lat",,"  We discuss detailed simulations of the non compact abelian model coupled to
+light fermions, using a method previously developed that includes the effects
+of the fermionic interactions in an effective action. The approximations
+involved are related to an expansion in the flavour number. We address the
+problem of the (non) triviality of the theory through a study of the analytical
+properties of the effective action as a function of the pure gauge energy. New
+numerical results for the plaquette energy, chiral condensate and a qualitative
+analysis of the phase diagram are also presented.
+","[{""version"":""v1"",""created"":""Fri, 24 Jul 1992 16:42:00 GMT""}]","2015-06-25"
+"hep-ph/9207258","Jean Orloff","J.-M. Fr\`ere J.M. Moreno M. Tytgat J. Orloff","LEP1 vs. Future Colliders: Effective Operators And Extended Gauge Group","14 pages , CERN-TH.6573/92 ULB.TH.04/92 (phyzzx, 3 eps-figs incl.)","Phys.Lett. B292 (1992) 348-352","10.1016/0370-2693(92)91186-D",,"hep-ph",,"  In an effective Lagrangian approach to physics beyond the Standard Model, it
+has been argued that imposing $SU(2) \times U(1)$ invariance severely restricts
+the discovery potential of future colliders. We exhibit a possible way out in
+an extended gauge group context.
+","[{""version"":""v1"",""created"":""Fri, 24 Jul 1992 18:30:36 GMT""}]","2009-10-22"
+"hep-ph/9207259",,"R. L. Jaffe (Center for Theoretical Physics, MIT)","Spin Structure Functions","23 single-spaced pages",,,"MIT-CTP-2114","hep-ph",,"  I review the spin dependent structure functions which control dominant
+(twist-2) and sub-dominant (twist-3) phenomena in hard processes. Novel effects
+associated with chirally odd parton distributions and with transverse
+polarization are emphasized.
+","[{""version"":""v1"",""created"":""Fri, 24 Jul 1992 23:10:53 GMT""}]","2007-05-23"
+"hep-th/9207082","Paul A. Griffin","Paul A. Griffin","The sine-Gordon model and the small k^+ region of light-cone
+  perturbation theory","8 pages, UFIFT-HEP-92-17","Phys.Rev. D46 (1992) 3538-3543","10.1103/PhysRevD.46.3538",,"hep-th hep-ph",,"  The non-perturbative ultraviolet divergence of the sine-Gordon model is used
+to study the $k^+ = 0$ region of light-cone perturbation theory. The light-cone
+vacuum is shown to be unstable at the non-perturbative $\beta^2 = 8\pi$
+critical point by a light-cone version of Coleman's variational method. Vacuum
+bubbles, which are $k^+=0$ diagrams in light-cone field theory and are
+individually finite and non-vanishing for all $\beta$, conspire to generate
+ultraviolet divergences of the light-cone energy density. The $k^+ = 0$ region
+of momentum also contributes to connected Green's functions; the connected two
+point function will not diverge, as it should, at the critical point unless
+diagrams which contribute only at $k^+ = 0$ are properly included. This
+analysis shows in a simple way how the $k^+ =0$ region cannot be ignored even
+for connected diagrams. This phenomenon is expected to occur in higher
+dimensional gauge theories starting at two loop order in light-cone
+perturbation theory.
+","[{""version"":""v1"",""created"":""Fri, 24 Jul 1992 19:25:49 GMT""}]","2009-10-22"
+"hep-th/9207083","Paul A. Griffin","Paul A. Griffin","Staggered fermions and chiral symmetry breaking in transverse lattice
+  regulated QED","30 pages, UFIFT-HEP-92-19","Phys.Rev. D47 (1993) 3530-3542","10.1103/PhysRevD.47.3530",,"hep-th hep-lat",,"  Staggered fermions are constructed for the transverse lattice regularization
+scheme. The weak perturbation theory of transverse lattice non-compact QED is
+developed in light-cone gauge, and we argue that for fixed lattice spacing this
+theory is ultraviolet finite, order by order in perturbation theory. However,
+by calculating the anomalous scaling dimension of the link fields, we find that
+the interaction Hamiltonian becomes non-renormalizable for $g^2(a) > 4\pi$,
+where $g(a)$ is the bare (lattice) QED coupling constant. We conjecture that
+this is the critical point of the chiral symmetry breaking phase transition in
+QED. Non-perturbative chiral symmetry breaking is then studied in the strong
+coupling limit. The discrete remnant of chiral symmetry that remains on the
+lattice is spontaneously broken, and the ground state to lowest order in the
+strong coupling expansion corresponds to the classical ground state of the
+two-dimensional spin one-half Heisenberg antiferromagnet.
+","[{""version"":""v1"",""created"":""Fri, 24 Jul 1992 19:26:28 GMT""}]","2009-10-22"
+"math/9207203","Marion Scheepers","Tomek Bartoszynski, Winfried Just and Marion Scheepers","Covering games and the Banach-Mazur game: k-tactics",,,,"Logic E-prints July 25, 1992","math.LO",,"  Given a free ideal J of subsets of a set X, we consider games where player
+ONE plays an increasing sequence of elements of the sigma completion of J, and
+TWO tries to cover the union of this sequence by playing one set at a time from
+J. We describe various conditions under which player TWO has has a winning
+strategy that uses only information about the most recent k moves of ONE, and
+apply some of these results to the Banach-Mazur game.
+","[{""version"":""v1"",""created"":""Sat, 25 Jul 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9207220","John W. Milnor","John W. Milnor","Local connectivity of Julia sets: expository lectures",,,,"Stony Brook IMS 1992/11","math.DS",,"  The following notes provide an introduction to recent work of Branner,
+Hubbard and Yoccoz on the geometry of polynomial Julia sets. They are an
+expanded version of lectures given in Stony Brook in Spring 1992. I am indebted
+to help from the audience.
+  Section 1 describes unpublished work by J.-C. Yoccoz on local connectivity of
+quadratic Julia sets. It presents only the ""easy"" part of his work, in the
+sense that it considers only non-renormalizable polynomials, and makes no
+effort to describe the much more difficult arguments which are needed to deal
+with local connectivity in parameter space. It is based on second hand sources,
+namely Hubbard together with lectures by Branner and Douady. Hence the
+presentation is surely quite different from that of Yoccoz.
+  Section 2 describes the analogous arguments used by Branner and Hubbard to
+study higher degree polynomials for which all but one of the critical orbits
+escape to infinity. In this case, the associated Julia set J is never locally
+connected. The basic problem is rather to decide when J is totally
+disconnected. This Branner-Hubbard work came before Yoccoz, and its technical
+details are not as difficult. However, in these notes their work is presented
+simply as another application of the same geometric ideas.
+  Chapter 3 complements the Yoccoz results by describing a family of examples,
+due to Douady and Hubbard (unpublished), showing that an infinitely
+renormalizable quadratic polynomial may have non-locally-connected Julia set.
+An Appendix describes needed tools from complex analysis, including the
+Gr\""otzsch inequality.
+","[{""version"":""v1"",""created"":""Sat, 25 Jul 1992 00:00:00 GMT""}]","2016-09-06"

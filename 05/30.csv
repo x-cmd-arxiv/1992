@@ -1,0 +1,74 @@
+"hep-lat/9205028","Gernot Muenster","Sabine Klessinger and Gernot Muenster","Numerical Investigation of the Interface Tension in the
+  three-dimensional Ising Model","17 pages, MS-TPI-92-13 (replaced due to correction of minor numerical
+  errors)","Nucl.Phys.B386:701-714,1992","10.1016/0550-3213(92)90634-N",,"hep-lat",,"  The interface tension in the three-dimensional Ising model in the low
+temperature phase is investigated by means of the Monte Carlo method. Together
+with other physically relevant quantities it is obtained from a calculation of
+time-slice correlation functions in a cylindrical geometry. The results at
+three different values of the temperature are compared with the predictions
+from a semiclassical approximation in the framework of renormalized $\phi^4$
+theory in three dimensions, and are in good agreement with them.
+","[{""version"":""v1"",""created"":""Fri, 29 May 1992 16:30:52 GMT""},{""version"":""v2"",""created"":""Thu, 11 Jun 1992 11:59:25 GMT""}]","2010-12-23"
+"hep-ph/9205245","Jiang Liu","Jiang Liu and York-Peng Yao","QCD Corrections to the Charged-Higgs-Boson Decay of a Heavy Top Quark","12 pages, UPR-0508T, UM-TH-92-13","Phys.Rev. D46 (1992) 5196-5199","10.1103/PhysRevD.46.5196",,"hep-ph",,"  It is shown that up to an over all scale the lowest-order QCD corrections to
+$t\to H^+b$ and to $t\to W^+b$ are the same in the heavy top limit.
+Asymptotically, they are given by $-{4\alpha_s\over 3\pi}[{\pi^2\over
+3}-{5\over 4}]$, resulting in a reduction in the decay rate by about $9\%$,
+rather than $6\%$ reported previously in the literature. This is verified
+explicitly by an analytic calculation. The application of the equivalence
+theorem to this process is also discussed.
+","[{""version"":""v1"",""created"":""Fri, 29 May 1992 21:37:44 GMT""}]","2009-10-22"
+"hep-ph/9205246",,"Gary R. Goldstein, K. Sliwa, and R.H. Dalitz","On Observing Top Quark Production at the Tevatron","8 pages, TUFTS-TH-92-G01 (Two minor TeX mistakes corrected)","Phys.Rev.D47:967-972,1993","10.1103/PhysRevD.47.967",,"hep-ph",,"  A technique for separating top quark production from Standard Model
+background events is introduced. It is applicable to the channel in which one
+top quark decays semi-leptonically and its anti-quark decays hadronically into
+three jets, or vice versa. The method is shown to discriminate dramatically
+between Monte Carlo generated events with and without simulated top quarks of
+mass around 120 GeV and above. The simulations were performed with CDF detector
+characteristics incorporated, showing that the method is applicable to existing
+data.
+","[{""version"":""v1"",""created"":""Sat, 30 May 1992 02:54:00 GMT""},{""version"":""v2"",""created"":""Sat, 30 May 1992 20:59:00 GMT""}]","2010-11-01"
+"hep-ph/9205247",,"Alex Pomarol","Higgs sector CP violation in the Minimal Supersymmetric Model","8 pgs, SCIPP-92/19","Phys.Lett.B287:331-334,1992","10.1016/0370-2693(92)90992-D",,"hep-ph",,"  We study the possibility that CP is spontaneously broken in the Minimal
+Supersymmetric Model when radiative corrections to the Higgs potential are
+included. We show that this can only occur if a light Higgs boson exists.
+Considering the recent ALEPH Higgs search, we exclude most of the parameter
+space of the model. The possibility of explicit CP violation in the model is
+also briefly discussed.
+","[{""version"":""v1"",""created"":""Sat, 30 May 1992 04:00:00 GMT""}]","2010-11-01"
+"hep-th/9205112","Arley","Arlen Anderson","The Global Problem of Time","8 pp., McGill 92-15",,,,"hep-th",,"  Time does not obviously appear amongst the coordinates on the constrained
+phase space of general relativity in the Hamiltonian formulation. Recent work
+in finite-dimensional models claims that topological obstructions generically
+make the global definition of time impossible. It is shown here that a time
+coordinate can be globally defined on a constrained phase space by patching
+together local time coordinates, just as coordinates are defined on
+topologically non-trivial manifolds.
+","[{""version"":""v1"",""created"":""Fri, 29 May 1992 18:04:42 GMT""}]","2007-05-23"
+"hep-th/9205113","Philip Argyres","P.C. Argyres, E. Lyman, and S.-H.H. Tye","Low-Lying States of the Six-Dimensional Fractional Superstring","69 pages, LaTeX, CLNS 91/1121","Phys.Rev.D46:4533-4565,1992","10.1103/PhysRevD.46.4533",,"hep-th",,"  The $K=4$ fractional superstring Fock space is constructed in terms of
+$\bZ_4$ parafermions and free bosons. The bosonization of the $\bZ_4$
+parafermion theory and the generalized commutation relations satisfied by the
+modes of various parafermion fields are reviewed. In this preliminary analysis,
+we describe a Fock space which is simply a tensor product of $\bZ_4$
+parafermion and free boson Fock spaces. It is larger than the Lorentz-covariant
+Fock space indicated by the fractional superstring partition function. We
+derive the form of the fractional superconformal algebra that may be used as
+the constraint algebra for the physical states of the FSS. Issues concerning
+the associativity, modings and braiding properties of the fractional
+superconformal algebra are also discussed. The use of the constraint algebra to
+obtain physical state conditions on the spectrum is illustrated by an
+application to the massless fermions and bosons of the $K=4$ fractional
+superstring. However, we fail to generalize these considerations to the massive
+states. This means that the appropriate constraint algebra on the fractional
+superstring Fock space remains to be found. Some possible ways of doing this
+are discussed.
+","[{""version"":""v1"",""created"":""Fri, 29 May 1992 22:06:46 GMT""}]","2010-11-01"
+"hep-th/9205114","Larus Thorlacius","Amanda Peet, Leonard Susskind and Larus Thorlacius","Information Loss and Anomalous Scattering","18 pages, 3 figures (postscript files available soon on request),
+  (earlier version got corrupted by mail system)","Phys.Rev.D46:3435-3443,1992","10.1103/PhysRevD.46.3435","SU-ITP-92-16","hep-th",,"  The approach of 't Hooft to the puzzles of black hole evaporation can be
+applied to a simpler system with analogous features. The system is $1+1$
+dimensional electrodynamics in a linear dilaton background. Analogues of black
+holes, Hawking radiation and evaporation exist in this system. In perturbation
+theory there appears to be an information paradox but this gets resolved in the
+full quantum theory and there exists an exact $S$-matrix, which is fully
+unitary and information conserving. 't Hooft's method gives the leading terms
+in a systematic approximation to the exact result.
+","[{""version"":""v1"",""created"":""Sat, 30 May 1992 00:19:05 GMT""},{""version"":""v2"",""created"":""Sat, 30 May 1992 22:28:47 GMT""}]","2009-10-07"
+"hep-th/9205115","Kimyeong Lee","Hsien-Chung Kao and Kimyeong Lee","Self-Dual Chern-Simons Higgs Systems with an N=3 Extended Supersymmetry","22 pages, phyzzx, CU-TP-564","Phys.Rev. D46 (1992) 4691-4697","10.1103/PhysRevD.46.4691",,"hep-th",,"  We construct and study an N=3 supersymmetric Chern-Simons Higgs theory. This
+theory is the maximally supersymmetric one containing the self-dual models with
+a single gauge field and no gravity.
+","[{""version"":""v1"",""created"":""Sat, 30 May 1992 00:32:28 GMT""}]","2009-10-22"

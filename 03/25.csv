@@ -1,0 +1,74 @@
+"alg-geom/9203005",,"A.Libgober","Homotopy groups of the complements to singular hypersurfaces,II","34 pages, Plain TEX, Version 3.1",,,,"alg-geom math.AG",,"  The homotopy group $\pi_{n-k} ({\bf C}^{n+1}-V)$ where $V$ is a hypersurface
+with a singular locus of dimension $k$ and good behavior at infinity is
+described using generic pencils. This is analogous to the van Kampen procedure
+for finding a fundamental group of a plane curve. In addition we use a certain
+representation generalizing the Burau representation of the braid group. A
+divisibility theorem is proven that shows the dependence of this homotopy group
+on the local type of singularities and behavior at infinity. Examples are given
+showing that this group depends on certain global data in addition to local
+data on singularities.
+","[{""version"":""v1"",""created"":""Tue, 24 Mar 1992 21:19:06 GMT""}]","2008-02-03"
+"hep-ph/9203219","Rohini Godbole","M. Drees and R.M. Godbole","Aspects of Two-Photon Physics at Linear e+e- Colliders","51 pages, 13 figures(not included)","Z.Phys.C59:591-616,1993","10.1007/BF01562552",,"hep-ph",,"  We discuss various reactions at future e+e- and gamma-gamma colliders
+involving real (beamstrahlung or backscattered laser) or quasi--real
+(bremsstrahlung) photons in the initial state and hadrons in the final state.
+The production of two central jets with large pT is described in some detail;
+we give distributions for the rapidity and pT of the jets as well as the
+di--jet invariant mass, and discuss the relative importance of various initial
+state configurations and the uncertainties in our predictions. We also present
+results for `mono--jet' production where one jet goes down a beam pipe, for the
+production of charm, bottom and top quarks, and for single production of W and
+Z bosons. Where appropriate, the two--photon processes are compared with
+annihilation reactions leading to similar final states. We also argue that the
+behaviour of the total inelastic gamma-gamma cross section at high energies
+will probably have little impact on the severity of background problems caused
+by soft and semi--hard (`minijet') two--photon reactions. We find very large
+differences in cross sections for all two--photon processes between existing
+designs for future e+e- colliders, due to the different beamstrahlung spectra;
+in particular, both designs with <<1 and >>1 events per bunch crossing exist.
+","[{""version"":""v1"",""created"":""Tue, 24 Mar 1992 17:17:00 GMT""}]","2010-11-01"
+"hep-th/9203063",,"Dileep P. Jatkar","The Spectrum of Sl(2, R)/U(1) Black Hole Conformal Field Theory","21 pages","Nucl.Phys. B395 (1993) 167-184","10.1016/0550-3213(93)90213-9",,"hep-th",,"  We study string theory in the background of a two-dimensional black hole
+which is described by an $SL(2, R)/U(1)$ coset conformal field theory. We
+determine the spectrum of this conformal field theory using supersymmetric
+quantum mechanics and give an explicit form of the vertex operators in terms of
+the Jacobi functions. We also discuss the applicability of SUSY quantum
+mechanics techniques to non-linear $\sigma$-models.
+","[{""version"":""v1"",""created"":""Tue, 24 Mar 1992 16:22:00 GMT""}]","2009-10-22"
+"hep-th/9203066",,"S. Cecotti and C. Vafa","Massive Orbifold","12 pages","Mod. Phys. Lett. A7 (1992) 1715-1724","10.1142/S0217732392001415",,"hep-th",,"  We study some aspects of 2d supersymmetric sigma models on orbifolds. It
+turns out that independently of whether the 2d QFT is conformal the operator
+products of twist operators are non-singular, suggesting that massive
+(non-conformal) orbifolds also `resolve singularities' just as in the conformal
+case. Moreover we recover the OPE of twist operators for conformal theories by
+considering the UV limit of the massive orbifold correlation functions.
+Alternatively, we can use the OPE of twist fields at the conformal point to
+derive conditions for the existence of non-singular solutions to special
+non-linear differential equations (such as Painleve III).
+","[{""version"":""v1"",""created"":""Tue, 24 Mar 1992 22:16:33 GMT""}]","2015-06-26"
+"hep-th/9203067","Vincent G. J. Rodgers","Ralph Lano and V.G.J. Rodgers","Applications of W-algebras to BF theories, QCD and 4D Gravity","14 pages","Mod.Phys.Lett. A7 (1992) 1725-1736","10.1142/S0217732392001427",,"hep-th",,"  We are able to show that BF theories naturally emerge from the coadjoint
+orbits of $W_2$ and $w_\infty$ algebras which includes a Kac-Moody sector.
+Since QCD strings can be identified with a BF theory, we are able to show a
+relationship between the orbits and monopole-string solutions of QCD.
+Furthermore, we observe that when 4D gravitation is cast into a BF form through
+the use of Ashtekar variables, we are able to get order $\hbar$ contributions
+to gravity which can be associated with the $W_2$ anomaly. We comment on the
+relationship to gravitational monopoles.
+","[{""version"":""v1"",""created"":""Wed, 25 Mar 1992 00:32:41 GMT""},{""version"":""v2"",""created"":""Wed, 25 Mar 1992 17:40:51 GMT""}]","2009-10-22"
+"hep-th/9203068","Vincent G. J. Rodgers","V.G.J. Rodgers","$W_\infty$ and Anomalies of Self-Dual Einstein Theories","(revised due to TeXnical errors), 11 pages","Mod.Phys.Lett. A6 (1991) 1893-1990","10.1142/S0217732391002049",,"hep-th",,"  This manuscripts corrects some minor error in the paper, Mod. Phys. Lett. A 6
+1893 (1991)
+","[{""version"":""v1"",""created"":""Wed, 25 Mar 1992 01:15:09 GMT""},{""version"":""v2"",""created"":""Wed, 25 Mar 1992 18:03:46 GMT""}]","2009-10-22"
+"hep-th/9203069",,"Lev Rozansky, Herbert Saleur","S and T matrices for the super $U(1,1)$ WZW model. Application to
+  surgery and 3-manifold invariants based on the Alexander Conway polynomial","43 pages + 37 figures (not included)","Nucl.Phys.B389:365-423,1993","10.1016/0550-3213(93)90326-K",,"hep-th math.QA",,"  We carry on the study of the Alexander Conway invariant from the quantum
+field theory point of view started in \cite{RS91}.
+  We first discuss in details $S$ and $T$ matrices for the $U(1,1)$ super WZW
+model and obtain, for the level $k$ an integer, new finite dimensional
+representations of the modular group. These have the remarkable property that
+some of the $S$ matrix elements are infinite. Moreover, typical and atypical
+representations as well as indecomposable blocks are mixed: truncation to
+maximally atypical representations, as advocated in some recent papers, is not
+consistent.
+  The main topological application of this work is the computation of Alexander
+invariants for 3-manifolds and for links in 3-manifolds. Invariants of
+3-manifolds seem to depend trivially on the level $k$, but still contain
+interesting topological information. For Seifert manifolds for instance, they
+coincide with the order of the first homology group. Examples of invariants of
+links in 3-manifolds are given. They exhibit interesting arithmetic properties.
+","[{""version"":""v1"",""created"":""Wed, 25 Mar 1992 15:28:00 GMT""}]","2011-07-18"

@@ -1,0 +1,165 @@
+"astro-ph/9208006",,"Sandip K. Chakrabarti (Tata Institute of Fundamental Research, Bombay,
+  INDIA)","Binary Black Holes in Stationary Orbits","ApJ (Submitted)",,,,"astro-ph gr-qc",,"  We show that under certain astrophysical conditions a binary system
+consisting of two compact objects can be stabilized against indefinite
+shrinking of orbits due to the emission of gravitational radiation. In this
+case, the lighter binary companion settles down to a stable orbit when the loss
+of the angular momentum due to gravitational radiation becomes equal to its
+gain from the accreting matter from the disk around the more massive primary.
+We claim that such systems can be stable against small perturbations and can be
+regarded as steady emitters of gravitational waves of constant frequency and
+amplitude. Furthermore, X-rays emitted by the secondary can also produce
+astrophysically interesting situations when coupled with gravitational lensing
+and Doppler effects.
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 09:14:00 GMT""}]","2007-05-23"
+"astro-ph/9208007",,"David H Lyth and Andrew R Liddle","COBE, Gravitational Waves, Inflation and Extended Inflation",,"Phys.Lett. B291 (1992) 391-398","10.1016/0370-2693(92)91393-N",,"astro-ph gr-qc hep-ph",,"  We analyse the implications for inflationary models of the cosmic microwave
+background (cmb) anisotropy measured by COBE. Vacuum fluctuations during
+inflation generate an adiabatic density perturbation, and also gravitational
+waves. The ratio of these two contributions to the cmb anisotropy is given for
+an arbitrary slow-roll inflaton potential. Results from the IRAS/QDOT and
+POTENT galaxy surveys are used to normalise the spectrum of the density
+perturbation on the scale $20h^{-1}\Mpc$, so that the COBE measurement on the
+scale $10^3h^{-1}\Mpc$ provides a lower bound on the spectral index $n$. For
+`power law' and `extended' inflation, gravitational waves are significant and
+the bound is $n>0.84$ at the $2$-sigma level. For `natural' inflation,
+gravitational waves are negligible and the constraint is weakened to $n>0.70$,
+at best marginally consistent with a recent proposal for explaining the excess
+clustering observed in the APM galaxy survey. Many versions of extended
+inflation, including those based on the Brans--Dicke theory, are ruled out,
+because they require $n\lsim 0.75$ in order that bubbles formed at the end of
+inflation should not be observed now in the cmb.
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 15:17:00 GMT""},{""version"":""v2"",""created"":""Mon, 31 Aug 1992 12:40:00 GMT""}]","2009-10-22"
+"cond-mat/9208023","Pierre Ledoussal","Pierre Le Doussal and Leo Radzihovsky","Self-Consistent Theory of Polymerized Membranes","12 pages, Latex, figures available on request, radz@cmts.harvard.edu","Phys.Rev.Lett.69:1209,1992","10.1103/PhysRevLett.69.1209",,"cond-mat",,"  We study $D$-dimensional polymerized membranes embedded in $d$ dimensions
+using a self-consistent screening approximation. It is exact for large $d$ to
+order $1/d$, for any $d$ to order $\epsilon=4-D$ and for $d=D$. For flat
+physical membranes ($D=2,d=3$) it predicts a roughness exponent $\zeta=0.590$.
+For phantom membranes at the crumpling transition the size exponent is
+$\nu=0.732$. It yields identical lower critical dimension for the flat phase
+and crumpling transition $D_{lc}(d)={2 d \over {d+1}}$ ($D_{lc}={\sqrt{2}}$ for
+codimension 1). For physical membranes with ${\it random}$ quenched curvature
+$\zeta=0.775$ in the new $T=0$ flat phase in good agreement with simulations.
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 15:08:47 GMT""}]","2009-01-23"
+"hep-lat/9208025","Derek Leinweber","Derek B. Leinweber, Terrence Draper, and R.M. Woloshyn","Decuplet Baryon Structure from Lattice QCD","RevTeX manuscript, 34 pages plus 21 figures (available upon request)","Phys.Rev.D46:3067-3085,1992","10.1103/PhysRevD.46.3067","U. of MD PP #92-188, U. of KY PP #UK/92-4, TRIUMF PP #TRI-PP-92-28","hep-lat hep-ph",,"  The electromagnetic properties of the SU(3)-flavor baryon decuplet are
+examined within a lattice simulation of quenched QCD. Electric charge radii,
+magnetic moments, and magnetic radii are extracted from the E0 and M1 form
+factors. Preliminary results for the E2 and M3 moments are presented giving the
+first model independent insight to the shape of the quark distribution in the
+baryon ground state. As in our octet baryon analysis, the lattice results give
+evidence of spin-dependent forces and mass effects in the electromagnetic
+properties. The quark charge distribution radii indicate these effects act in
+opposing directions. Some baryon dependence of the effective quark magnetic
+moments is seen. However, this dependence in decuplet baryons is more subtle
+than that for octet baryons. Of particular interest are the lattice predictions
+for the magnetic moments of $\Omega^-$ and $\Delta^{++}$ for which new recent
+experimental measurements are available. The lattice prediction of the
+$\Delta^{++}/p$ ratio appears larger than the experimental ratio, while the
+lattice prediction for the $\Omega^-/p$ magnetic moment ratio is in good
+agreement with the experimental ratio.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 23:33:35 GMT""}]","2008-11-26"
+"hep-lat/9208026","Alain Billoire","Alain Billoire","Numerical Study of Finite Size Scaling for First Order Phase Transitions","Talk presented at the Workshop on Dynamics of First Order
+  Transitions, HLRZ, Forschungszentrum J\""ulich,Germany, June 1-3, 1992, 7
+  pages, 2 PostScript Figures (typing mistakes in figure captions corrected)",,"10.1142/S0129183192000579",,"hep-lat cond-mat",,"  I present results of simulations of the q=10 and q=20 2-d Potts models in the
+transition region. The asymptotic finite size behavior sets in only for
+extremely large lattices. We learn from this simulation that finite size
+scaling cannot be used to decide that a transition is first order.
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 09:29:11 GMT""},{""version"":""v2"",""created"":""Wed, 2 Sep 1992 14:24:12 GMT""}]","2016-04-26"
+"hep-lat/9208027","P. van Baal","Pierre van Baal and R.E. Cutkosky","Non-perturbative analysis, Gribov horizons and the boundary of the
+  fundamental domain","5 pages, 1 figure (added as Postscript file suitable for \psfig, see
+  header of TeX file). Contributed talk presented at 21st Conference on
+  Differential Geometric Methods in Theoretical Physics (XXI DGM), June 5-9,
+  Nankai University, Tianjin, P.R. China",,,"THU-92/20, CMU-HEP92-19","hep-lat hep-th",,"  In this contribution to the proceedings we will describe some of the details
+for constructing the Gribov horizon and the boundary of the fundamental modular
+domain, when restricting to some low energy modes of pure SU(2) gauge theory in
+a spherical spatial geometry. The fundamental domain is a one-to-one
+representation of the set of gauge invariant degrees of freedom, in terms of
+transverse gauge fields. Boundary identifications are the only remnants of the
+Gribov copies.
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 10:44:38 GMT""}]","2007-05-23"
+"hep-lat/9208028","Gunnar Bali","Gunnar S. Bali and Klaus Schilling","Running Coupling and the Lambda-Parameter from SU(3) Lattice Simulations","19 pages (LaTex), +6 pages with figures (Postscript, 432K), WUB
+  92--29","Phys.Rev. D47 (1993) 661-672","10.1103/PhysRevD.47.661",,"hep-lat",,"  We present new results on the static qq-potential from high statistics
+simulations on 32^4 and smaller lattices, using the standard Wilson beta = 6.0,
+6.4, and 6.8. Within our statistical errors we do not observe any finite size
+effects affecting the potential values, on varying the spatial lattice extent
+from 0.9fm up to 3.3fm. We are able to see and quantify the running of the
+coupling from the Coulomb behaviour of the interquark force. From this we
+extract the ratio \sqrt{sigma}/Lambda_L. We demonstrate that scaling violations
+on the string tension can be considerably reduced by introducing effective
+coupling schemes, which allow for a safe extrapolation of \Lambda_L to its
+continuum value. Both methods yield consistent values for Lambda: Lambda_MSbar
+= 0.558_{-0.007}^{+0.017}\sqrt{sigma} = 246_{-3}^{+7}MeV. At the highest energy
+scale attainable to us we find alpha(5 GeV) = 0.150(3)
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 11:04:40 GMT""}]","2016-08-31"
+"hep-ph/9208252",,"W. Broniowski and T. D. Cohen","The structure of the pion and effective electroweak currents in soliton
+  models of the nucleon","9 pages, report DOE/ER/40322-170, U. of MD PP \#93-001, (uses RevTeX)","Phys.Rev.D48:2299-2303,1993","10.1103/PhysRevD.48.2299",,"hep-ph",,"  Nonminimal substitution terms in electroweak currents are studied in
+effective chiral soliton models. It is found that the terms describing the
+structure of the pion lead to sizable effects in form factors and
+polarizabilities of the nucleon.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 16:30:47 GMT""}]","2011-07-19"
+"hep-ph/9208253",,"Thomas D. Cohen and Wojciech Broniowski","The role of the Delta isobar in chiral perturbation theory and hedgehog
+  soliton models","12 pages, report DOE/ER/40322-154, U. of MD PP \#92-191","Phys.Lett. B292 (1992) 5-9","10.1016/0370-2693(92)90599-Y",,"hep-ph",,"  Hedgehog model predictions for the leading nonanalytic behavior (in
+$m^{2}_{\pi }$) of certain observables are shown to agree with the predictions
+of chiral perturbation theory up to an overall factor which depends on the
+operator. This factor can be understood in terms of contributions of the
+$\Delta$ isobar in chiral loops. These physically motivated contributions are
+analyzed in an expansion in which both $m_{\pi}$ and $M_{\Delta}-M_N$ are taken
+as small parameters, and are shown to yield large corrections to both hedgehog
+models and chiral perturbation theory.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 17:38:15 GMT""}]","2009-10-22"
+"hep-ph/9208254",,"Geoffrey T. Bodwin, Eric Braaten, Tzu Chiang Yuan, G. Peter Lepage","P-Wave Charmonium Production in B-Meson Decays","14 pages","Phys.Rev.D46:3703-3707,1992","10.1103/PhysRevD.46.R3703",,"hep-ph",,"  We calculate the decay rates of $B$ mesons into P-wave charmonium states
+using new factorization formulas that are valid to leading order in the
+relative velocity of the charmed quark and antiquark and to all orders in the
+running coupling constant of QCD. We express the production rates for all four
+P states in terms of two nonperturbative parameters, the derivative of the
+wavefunction at the origin and another parameter related to the probability for
+a charmed-quark-antiquark pair in a color-octet S-wave state to radiate a soft
+gluon and form a P-wave bound state. Using existing data on $B$ meson decays
+into $\chi_{c1}$ to estimate the color-octet parameter, we find that the
+color-octet mechanism may account for a significant fraction of the $\chi_{c1}$
+production rate and that $B$ mesons should decay into $\chi_{c2}$ at a similar
+rate.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 20:30:37 GMT""}]","2009-12-30"
+"hep-ph/9208255",,"M. Urban, A. Bouquet, B. Degrange, P. Fleury, J. Kaplan, A.L.Melchior
+  and E. Par\'e","Searching for TeV dark matter by atmospheric Cerenkov techniques","10 pp, LaTex (3 figures available by e-mail) PAR-LPTHE 92XX","Phys.Lett. B293 (1992) 149-156","10.1016/0370-2693(92)91494-T",,"hep-ph astro-ph",,"  There is a growing interest in the possibility that dark matter could be
+formed of weakly interacting particles with a mass in the 100 GeV - 2 TeV
+range, and supersymmetric particles are favorite candidates. If they constitute
+the dark halo of our Galaxy, their mutual annihilations produce energetic gamma
+rays that could be detected using existing atmospheric \u{C}erenkov techniques.
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 11:19:42 GMT""}]","2009-10-22"
+"hep-th/9208065",,"Shibaji Roy and Sudhakar Panda","The Lax Operator Approach for the Virasoro and the W-Constraints in the
+  Generalized KdV Hierarchy","26, IC-92-226","Int. J. Mod. Phys. A8 (1993) 3457","10.1142/S0217751X93001387",,"hep-th",,"  We show directly in the Lax operator approach how the Virasoro and
+W-constraints on the $\tau$-function arise in the $p$-reduced KP hierarchy or
+generalized KdV hierarchy. In partiacular, we consider the KdV and Boussinesq
+hierarchy to show that the Virasoro and W-constraints follow from the string
+equation by expanding the ``additional symmetry"" operator in terms of the Lax
+operator. We also mention how this method could be generalized for higher KdV
+hierarchies.
+","[{""version"":""v1"",""created"":""Wed, 26 Aug 1992 19:06:00 GMT""}]","2015-06-26"
+"hep-th/9208066","Tetsuji Miwa","Makoto Idzumi, Kenji Iohara, Michio Jimbo, Tetsuji Miwa, Toshiki
+  Nakashima and Tetsuji Tokihiro","Quantum affine symmetry in vertex models","29 pages","Int. J. Mod. Phys. A8 (1993) 1479-1511","10.1142/S0217751X9300062X","RIMS-892","hep-th",,"  We study the higher spin anologs of the six vertex model on the basis of its
+symmetry under the quantum affine algebra $U_q(\slth)$. Using the method
+developed recently for the XXZ spin chain, we formulate the space of states,
+transfer matrix, vacuum, creation/annihilation operators of particles, and
+local operators, purely in the language of representation theory. We find that,
+regardless of the level of the representation involved, the particles have spin
+$1/2$, and that the $n$-particle space has an RSOS-type structure rather than a
+simple tensor product of the $1$-particle space. This agrees with the picture
+proposed earlier by Reshetikhin.
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 01:39:03 GMT""}]","2015-06-26"
+"hep-th/9208067","Tetsuji Miwa","Michio Jimbo, Tetsuji Miwa and Yasuhiro Ohta","Structure of the space of states in RSOS models","18 pages","Int.J.Mod.Phys. A8 (1993) 1457-1478","10.1142/S0217751X93000618","RIMS-893","hep-th nlin.SI solv-int",,"  The restricted solid-on-solid models in the anti-ferromagnetic regime is
+studied in the framework of quantum affine algebras. Following the line
+developed recently for vertex models, a representation theoretical picture is
+presented for the structure of the space of states. The local operators and the
+creation/annihilation operators of quasi-particles are defined using vertex
+operators, and their commutation relations are calculated.
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 02:38:25 GMT""}]","2009-10-22"
+"hep-th/9208068","Robert Perret","Robert Perret","Dual formulation of classical W-algebras","(only change is an added reference), 9 pages, USC--92/016","Lett.Math.Phys. 27 (1993) 27-36","10.1007/BF00739586",,"hep-th",,"  By extending the concept of \mc, I introduce a dual formulation of
+(classical) nonlinear extensions of the \vir\ algebra. This dual formulation is
+closely related to three dimensional actions which are analogous to a \cs\
+action. I present an explicit construction in terms of superfields of the $N=2$
+super \wfour.
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 07:27:59 GMT""},{""version"":""v2"",""created"":""Sun, 13 Sep 1992 06:02:14 GMT""}]","2009-10-22"
+"hep-th/9208069","Ralph Blumenhagen","Ralph Blumenhagen","N=2 supersymmetric W-algebras","33 pages, plain tex, BONN-HE-92-23","Nucl.Phys. B405 (1993) 744-776","10.1016/0550-3213(93)90565-7",,"hep-th",,"  We investigate extensions of the N=2 super Virasoro algebra by one additional
+super primary field and its charge conjugate. Using a supersymmetric covariant
+formalism we construct all N=2 super W-algebras up to spin 5/2 of the
+additional generator. Led by these first examples we close with some
+conjectures on the classification of N=2 ${\cal SW}(1,\Dt)$ algebras.
+","[{""version"":""v1"",""created"":""Thu, 27 Aug 1992 09:46:37 GMT""}]","2009-10-22"

@@ -1,0 +1,110 @@
+"cond-mat/9207001","Vladimir Privman","Vladimir Privman","Exact Results for a Three-Body Reaction-Diffusion System","10 pages","Phys.Rev.A46:6140-6142,1992","10.1103/PhysRevA.46.R6140",,"cond-mat hep-lat",,"  A system of particles hopping on a line, singly or as merged pairs, and
+annihilating in groups of three on encounters, is solved exactly for certain
+symmetrical initial conditions. The functional form of the density is nearly
+identical to that found in two-body annihilation, and both systems show
+non-mean-field, ~1/t**(1/2) instead of ~1/t, decrease of particle density for
+large times.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 11:13:55 GMT""}]","2010-10-12"
+"cond-mat/9207002",,"Vladimir Privman","Model of Cluster Growth and Phase Separation: Exact Results in One
+  Dimension","12 pages","J.Statist.Phys.69:629-642,1992","10.1007/BF01050428",,"cond-mat hep-lat",,"  We present exact results for a lattice model of cluster growth in 1D. The
+growth mechanism involves interface hopping and pairwise annihilation
+supplemented by spontaneous creation of the stable-phase, +1, regions by
+overturning the unstable-phase, -1, spins with probability p. For cluster
+coarsening at phase coexistence, p=0, the conventional structure-factor scaling
+applies. In this limit our model falls in the class of diffusion-limited
+reactions A+A->inert. The +1 cluster size grows diffusively, ~t**(1/2), and the
+two-point correlation function obeys scaling. However, for p>0, i.e., for the
+dynamics of formation of stable phase from unstable phase, we find that
+structure-factor scaling breaks down; the length scale associated with the size
+of the growing +1 clusters reflects only the short-distance properties of the
+two-point correlations.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 14:51:36 GMT""}]","2014-10-13"
+"cond-mat/9207003",,"Vladimir Privman","Fluctuating Interfaces, Surface Tension, and Capillary Waves: An
+  Introduction","21 pages","Int.J.Mod.Phys.C3:857-877,1992","10.1142/S0129183192000531",,"cond-mat astro-ph hep-lat",,"  We present an introduction to modern theories of interfacial fluctuations and
+the associated interfacial parameters: surface tension and surface stiffness,
+as well as their interpretation within the capillary wave model. Transfer
+matrix spectrum properties due to fluctuation of an interface in a
+long-cylinder geometry are reviewed. The roughening transition and properties
+of rigid interfaces below the roughening temperature in 3d lattice models are
+surveyed with emphasis on differences in fluctuations and transfer matrix
+spectral properties of rigid vs. rough interfaces.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 15:38:11 GMT""}]","2014-10-13"
+"hep-lat/9207001",,"M. Caselle, R. Fiore, F. Gliozzi and S. Vinti","The Effective String of 3D Z_2 Gauge Theory as a c=1 compactified CFT","DFTT 23/92","Int. J. Mod. Phys. A8 (1993) 2839","10.1142/S0217751X93001144",,"hep-lat hep-th",,"  We report on a high precision Montecarlo test of the three dimensional Ising
+gauge model at finite temperature. The string tension $\sigma$ is extracted
+from the expectation values of correlations of Polyakov lines. Agreement with
+the string tension extracted from Wilson loops is found only if the quantum
+fluctuations of the flux tube are properly taken into account. The central
+charge of the underlying conformal field theory is c=1.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 16:41:00 GMT""}]","2015-06-25"
+"hep-ph/9207201",,"Paul Langacker","Particle Physics Summary, Where are We and Where are We Going?","33 pages, LaTex, UPR-0512T",,,,"hep-ph",,"  The XXVII$^{\rm th}$ Rencontres de Moriond featured approximately 84 talks on
+a wide range of topics. I will try to summarize the highlights under the
+hypothesis that $SU_3 \x SU_2 \x U_1$ is correct to first approximation,
+concentrating on probes for new physics at various scales.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 17:50:13 GMT""}]","2007-05-23"
+"hep-ph/9207202",,"HoSeong La","Dilatonic Domain Walls","11pp","Phys.Lett. B315 (1993) 51-54","10.1016/0370-2693(93)90157-D","CTP-TAMU-52/92","hep-ph gr-qc hep-th",,"  Eq.(19) is added and related issues are further clarified. Also some typos
+and signs a re corrected.
+","[{""version"":""v1"",""created"":""Wed, 1 Jul 1992 19:20:59 GMT""},{""version"":""v2"",""created"":""Wed, 18 Nov 1992 18:59:17 GMT""}]","2009-10-22"
+"hep-ph/9207203","Ken-ichiro Aoki","Kenichiro Aoki and Santiago Peris","Non--decoupling, triviality and the $\rho$ parameter","16pp, Figures NOT included, harvmac, minor modifications incl.
+  wording, refs., UCLA/92/TEP/23,OHSTPY-HEP-T-92-008","Z.Phys. C61 (1994) 303-312","10.1007/BF01413109",,"hep-ph",,"  The dependence of the $\rho$ parameter on the mass of the Higgs scalar and
+the top quark is computed non--perturbatively using the $1/N_F$ expansion in
+the standard model. We find an explicit expression for the $\rho$ parameter
+that requires the presence of a physical cutoff. This should come as no
+surprise since the theory is presumably trivial. By taking this cutoff into
+account, we find that the $\rho$ parameter can take values only within a
+limited range and has finite ambiguities that are suppressed by inverse powers
+of the cutoff scale, the so called ``scaling--violations"". We find that large
+deviations from the perturbative results are possible, but only when the cutoff
+effects are also large.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 00:31:04 GMT""},{""version"":""v2"",""created"":""Wed, 4 Nov 1992 17:24:00 GMT""}]","2009-10-22"
+"hep-ph/9207204","Jean Cleymans","Jean Cleymans and Helmut Satz","Thermal Hadron Production in High Energy Heavy Ion Collisions","12 pages (not included :13 figures + tables) report CERN-TH 6523/92
+  and Bielefeld preprint BI-TP 92/08","Z.Phys. C57 (1993) 135-148","10.1007/BF01555746",,"hep-ph",,"  We provide a method to test if hadrons produced in high energy heavy ion
+collisions were emitted at freeze-out from an equilibrium hadron gas. Our
+considerations are based on an ideal gas at fixed temperature $T_f$, baryon
+number density $n_B$, and vanishing total strangeness. The constituents of this
+gas are all hadron resonances up to a mass of 2 GeV; they are taken to decay
+according to the experimentally observed branching ratios. The ratios of the
+various resulting hadron production rates are tabulated as functions of $T_f$
+and $n_B$. These tables can be used for the equilibration analysis of any heavy
+ion data; we illustrate this for some specific cases.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 10:57:28 GMT""}]","2009-10-22"
+"hep-th/9207004",,"B. Gato-Rivera and A.M.Semikhatov","d\leq1\bigcup d\geq25$ and Constrained KP Hierarchy from BRST Invariance
+  in the $c\neq3$ Topological Algebra","12 pages, revised version","Phys.Lett.B293:72-80,1992; Theor.Math.Phys.95:536-545,1993","10.1016/0370-2693(92)91482-O","CERN-TH.6527/92","hep-th",,"  The BRST invariance condition in a highest-weight representation of the
+topological ($\equiv$ twisted $N=2$) algebra captures the `invariant' content
+of two-dimensional gravity coupled to matter. The standard DDK formulation is
+recovered by splitting the topological generators into $c=-26$
+reparametrization ghosts+matter +`Liouville', while a similar splitting
+involving $c=-2$ ghosts gives rise to the matter dressed in exactly the way
+required in order that the theory be equivalent to Virasoro constraints on the
+KP hierarchy. The two dressings of matter with the `Liouville' differ also by
+their `ghost numbers', which is similar to the existence of representatives of
+BRST cohomologies with different ghost numbers. The topological central charge
+$\ctop\neq3$ provides a two-fold covering of the allowed region $d\leq1\cup
+d\geq25$ of the matter central charge $d$ via $d=(\ctop+1)(\ctop+6)/(\ctop-3)$.
+The `Liouville' field is identified as the ghost-free part of the topological
+$U(1)$ current. The construction thus allows one to establish a direct relation
+(presumably an equivalence) between the Virasoro-constrained KP hierarchies,
+minimal models, and the BRST invariance condition for highest-weight states of
+the topological algebra.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 03:38:41 GMT""},{""version"":""v2"",""created"":""Mon, 20 Jul 1992 22:24:12 GMT""},{""version"":""v3"",""created"":""Fri, 25 Sep 1992 12:51:01 GMT""}]","2011-04-20"
+"hep-th/9207005",,"J. Isberg, U. Lindstr\""om and B. Sundborg","Space-Time Symmetries of Quantized Tensionless Strings","15pp, plain latex, USITP-92-4","Phys.Lett. B293 (1992) 321-326","10.1016/0370-2693(92)90890-G",,"hep-th",,"  The tensionless limit of the free bosonic string is space-time conformally
+symmetric classically. Requiring invariance of the quantum theory in the light
+cone gauge tests the reparametrization symmetry needed to fix this gauge. The
+full conformal symmetry gives stronger constraints than the Poincar\'e
+subalgebra. We find that the symmetry may be preserved in any space-time
+dimension, but only if the spectrum is drastically reduced (part of this
+reduction is natural in a zero tension limit of the ordinary string spectrum).
+The quantum states are required to be symmetric ({\it i.e.} singlets) under
+space-time diffeomorphisms, except for the centre of mass wave function.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 12:01:00 GMT""}]","2016-08-14"
+"hep-th/9207006",,"A. Mikovic","Exactly Solvable Models of 2d Dilaton Quantum Gravity","12 pgs","Phys.Lett.B291:19-25,1992","10.1016/0370-2693(92)90113-I",,"hep-th",,"  We study canonical quantization of a class of 2d dilaton gravity models,
+which contains the model proposed by Callan, Giddings, Harvey and Strominger. A
+set of non-canonical phase space variables is found, forming an $SL(2,{\bf R})
+\times U(1)$ current algebra, such that the constraints become quadratic in
+these new variables. In the case when the spatial manifold is compact, the
+corresponding quantum theory can be solved exactly, since it reduces to a
+problem of finding the cohomology of a free-field Virasoro algebra. In the
+non-compact case, which is relevant for 2d black holes, this construction is
+likely to break down, since the most general field configuration cannot be
+expanded into Fourier modes. Strategy for circumventing this problem is
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 2 Jul 1992 13:43:29 GMT""}]","2009-01-16"

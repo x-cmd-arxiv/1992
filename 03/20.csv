@@ -1,0 +1,50 @@
+"alg-geom/9203002","Motohico Mulase","Yingchen Li and Motohico Mulase","Prym Varieties and Integrable Systems","37 pages in AMS-LaTeX format. Article updated following the published
+  version. Default page size is US Letter","Communications in Analysis and Geometry, Volume 5, (1997) 279--332",,,"alg-geom math.AG",,"  A new relation between Prym varieties of arbitrary morphisms of algebraic
+curves and integrable systems is discovered. The action of maximal commutative
+subalgebras of the formal loop algebra of GL(n) defined on certain
+infinite-dimensional Grassmannians is studied. It is proved that every
+finite-dimensional orbit of the action of traceless elements of these
+commutative Lie algebras is isomorphic to the Prym variety associated with a
+morphism of algebraic curves. Conversely, it is shown that every Prym variety
+can be realized as a finite-dimensional orbit of the action of traceless
+diagonal elements of the formal loop algebra, which defines the multicomponent
+KP system.
+","[{""version"":""v1"",""created"":""Fri, 20 Mar 1992 13:36:46 GMT""},{""version"":""v2"",""created"":""Sat, 20 Jul 2002 19:32:36 GMT""}]","2008-02-03"
+"alg-geom/9203004","Emili Bifet","Emili Bifet, Franco Ghione and Maurizio Letizia","On the Abel-Jacobi Map for Divisors of Higher Rank on a Curve","34 pages, AmS-TeX 2.0",,,,"alg-geom math.AG",,"  The aim of this paper is to present an algebro-geometric approach to the
+study of the geometry of the moduli space of stable bundles on a smooth
+projective curve defined over an algebraically closed field $k$, of arbitrary
+characteristic. This establishes a bridge between the arithmetic approach of
+Harder, Narasimhan et al. and the gauge group approach of Atiyah and Bott. One
+of the basic ideas is to consider a notion of divisor of higher rank and a
+suitable Abel-Jacobi map generalizing the classical notions in rank one.
+","[{""version"":""v1"",""created"":""Thu, 19 Mar 1992 19:58:20 GMT""}]","2008-02-03"
+"hep-ph/9203218",,"Markus A. Luty","Electroweak Symmetry Breaking via a Technicolor Nambu--Jona-Lasinio
+  Model","(27 pages)",,,,"hep-ph",,"  We consider a theory of gauge fields and fermions which we argue gives rise
+to dynamics similar to that of the Nambu--Jona-Lasinio (NJL) model when a gauge
+coupling constant is appropriately fine-tuned. We discuss the application of
+this model to dynamical electroweak symmetry breaking by a top-quark
+condensate. In this model, custodial symmetry is violated solely by
+perturbatively weak interactions, and the top--bottom mass splitting is due to
+the enhanced sensitivity to custodial symmetry violation near the critical
+point. We also consider models in which electroweak symmetry is broken by new
+strongly- interacting fermions with NJL-like dynamics. We argue that these
+models require additional fine-tuning in order to keep corrections to the
+electroweak $\rho$-parameter acceptably small.
+","[{""version"":""v1"",""created"":""Thu, 19 Mar 1992 19:30:34 GMT""},{""version"":""v2"",""created"":""Sat, 21 Mar 1992 01:09:17 GMT""}]","2016-09-01"
+"hep-th/9203054",,"L. Susskind and L. Thorlacius","Hawking Radiation and Back-Reaction","23 pages, 8 figures (not included)","Nucl.Phys.B382:123-147,1992","10.1016/0550-3213(92)90081-L",,"hep-th",,"  The puzzles of black hole evaporation can be studied in the simplified
+context of 1+1 dimensional gravity. The semi-classical equations of Callan,
+Giddings, Harvey and Strominger provide a consistent description of the
+evaporation process which we describe in detail. We consider the possibility
+that black hole evolution leads to massive stable remnants. We show that such
+zero temperature remnant solutions exist but we also prove that a decaying
+black hole cannot evolve into one of them. Finally we consider the issue of
+loss of quantum information behind the global event horizon which develops in
+these geometries. An analogy with a well known solvable system shows that there
+may be less to information than meets the eye.
+","[{""version"":""v1"",""created"":""Fri, 20 Mar 1992 01:55:00 GMT""}]","2008-11-26"
+"hep-th/9203055",,"G.Bonacina, A.Gamba and M.Martellini","Interacting Euclidean 3D Quantum Gravity","19 pages","Phys.Rev.D45:3577-3583,1992","10.1103/PhysRevD.45.3577",,"hep-th",,"  We show that Euclidean 3D-gravity coupled to a Gaussian scalar massive matter
+field in first-order dreibein formalism gives a quantum theory which has a
+finite perturbative expansion around a non-vanishing background. We also
+discuss a possible mechanism to generate a non-trivial background metric
+starting from Rovelli-Smolin's loop observables.
+","[{""version"":""v1"",""created"":""Fri, 20 Mar 1992 13:17:00 GMT""}]","2014-11-18"

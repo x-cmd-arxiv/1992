@@ -1,0 +1,46 @@
+"hep-th/9203004","David Senechal","A.N. Kirillov, P. Mathieu, D. Senechal and M. Walton","Can fusion coefficients be calculated from the depth rule ?","27 pages","Nucl.Phys. B391 (1993) 651-674","10.1016/0550-3213(93)90087-6",,"hep-th",,"  The depth rule is a level truncation of tensor product coefficients expected
+to be sufficient for the evaluation of fusion coefficients. We reformulate the
+depth rule in a precise way, and show how, in principle, it can be used to
+calculate fusion coefficients. However, we argue that the computation of the
+depth itself, in terms of which the constraints on tensor product coefficients
+is formulated, is problematic. Indeed, the elements of the basis of states
+convenient for calculating tensor product coefficients do not have a
+well-defined depth! We proceed by showing how one can calculate the depth in an
+`approximate' way and derive accurate lower bounds for the minimum level at
+which a coupling appears. It turns out that this method yields exact results
+for $\widehat{su}(3)$ and constitutes an efficient and simple algorithm for
+computing $\widehat{su}(3)$ fusion coefficients.
+","[{""version"":""v1"",""created"":""Mon, 2 Mar 1992 18:43:44 GMT""},{""version"":""v2"",""created"":""Mon, 28 Sep 1992 19:25:27 GMT""}]","2009-10-22"
+"hep-th/9203005","Konstantinos Anagnostopoulos","K.N. Anagnostopoulos and M. J. Bowick","Unitary One Matrix Models: String Equations and Flows","20 pages (Invited talk delivered by M. J. Bowick at the Vth Regional
+  Conference on Mathematical Physics, Edirne Turkey: December 15-22, 1991.)",,,,"hep-th",,"  We review the Symmetric Unitary One Matrix Models. In particular we discuss
+the string equation in the operator formalism, the mKdV flows and the Virasoro
+Constraints. We focus on the $\t$-function formalism for the flows and we
+describe its connection to the (big cell of the) Sato Grassmannian $\Gr$ via
+the Plucker embedding of $\Gr$ into a fermionic Fock space. Then the space of
+solutions to the string equation is an explicitly computable subspace of
+$\Gr\times\Gr$ which is invariant under the flows.
+","[{""version"":""v1"",""created"":""Mon, 2 Mar 1992 23:36:00 GMT""}]","2007-05-23"
+"hep-th/9203006",,"Kiyoshi Kamimura, Sinobu Makita and Takeshi Fukuyama","Mtric from Non-Metric Action of Gravity","9p","Int.J.Mod.Phys.D1:363-370,1992","10.1142/S0218271892000185",,"hep-th",,"  The action of general relativity proposed by Capovilla, Jacobson and Dell is
+written in terms of $SO(3)$ gauge fields and gives Ashtekar's constraints for
+Einstein gravity. However, it does not depend on the space-time metric nor its
+signature explicitly. We discuss how the space-time metric is introduced from
+algebraic relations of the constraints and the Hamiltonian by focusing our
+attention on the signature factor. The system describes both Euclidian and
+Lorentzian metrics depending on reality assignments of the gauge connections.
+That is, Euclidian metrics arise from the real gauge fields. On the other hand,
+self-duality of the gauge fields, which is well known in the Ashtekar's
+formalism, is also derived in this theory from consistency condition of
+Lorentzian metric. We also show that the metric so determined is equivalent to
+that given by Urbantke, which is usually accepted as a definition of the metric
+for this system.
+","[{""version"":""v1"",""created"":""Tue, 3 Mar 1992 06:21:09 GMT""},{""version"":""v2"",""created"":""Wed, 4 Mar 1992 01:13:36 GMT""}]","2010-11-01"
+"hep-th/9203013","T. R. Govindarajan","T.R.Govindarajan, R.Shankar, N.Shaji and M.Sivakumar","Is the $O(3)~\sigma$ Model with the Hopf Term Exactly Equivalent to a
+  Higher Spin Theory?","11 pages","Phys.Rev.Lett. 69 (1992) 721-724","10.1103/PhysRevLett.69.721",,"hep-th",,"  We write down a local $CP_1$ model involving two gauge fields, which is
+exactly equivalent to the O(3) $\sigma$ model with the Hopf term. We impose the
+$CP_1$ constraint by using the gaussian representation of the delta function.
+For the coefficient of the Hopf term, $\theta = {\pi \over 2s}$, 2s being an
+integer, we show that the resulting model is exactly equivalent to an
+interacting theory of spin-$s$ fields. Thus we conjecture that there should be
+a fixed point in the spin-$s$ theory near which it is exactly equal to the
+$\sigma$ model.
+","[{""version"":""v1"",""created"":""Mon, 2 Mar 1992 18:01:58 GMT""}]","2009-10-22"

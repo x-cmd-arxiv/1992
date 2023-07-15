@@ -1,0 +1,104 @@
+"cond-mat/9204007","Randall Kamien","R.D. Kamien, P. Le Doussal, and D.R. Nelson","Theory of Directed Polymers","29 pages (small) - requires harvmac.tex (16 figures, not included)","Phys. Rev. A 45 (1992) 8727","10.1103/PhysRevA.45.8727",,"cond-mat",,"  We develop a theory of polymers in a nematic solvent by exploiting an analogy
+with two-dimensional quantum bosons at zero temperature. We argue that the
+theory should also describe polymers in an {\sl isotropic} solvent. The dense
+phase is analyzed in a Bogoliubov-like approximation, which assumes a broken
+symmetry in the phase of the boson order parameter. We find a stiffening of the
+longitudinal fluctuations of the nematic field, calculate the density-density
+correlation function, and extend the analysis to the case of ferro- and
+electrorheological fluids. The boson formalism is used to derive a simple
+hydrodynamic theory which is indistinguishable from the corresponding theory of
+polymer nematics in an isotropic solvent at long wavelengths. We also use
+hydrodynamics to discuss the physical meaning of the boson order parameter. A
+renormalization group treatment in the dilute limit shows that logarithmic
+corrections to polymer wandering, predicted by de Gennes, are unaffected by
+interpolymer interactions. A continuously variable Flory exponent appears for
+polymers embedded in a {\sl two}-dimensional nematic solvent. We include free
+polymer ends and hairpin configurations in the theory and show that hairpins
+are described by an Ising-like symmetry-breaking term in the boson field
+theory.
+","[{""version"":""v1"",""created"":""Tue, 14 Apr 1992 18:00:54 GMT""}]","2009-10-22"
+"hep-th/9204035","Wolfgang Lerche","A. Ceresole, R. D'Auria, S. Ferrara, W. Lerche and J. Louis","Picard-Fuchs Equations and Special Geometry","43 pages","Int.J.Mod.Phys. A8 (1993) 79-114","10.1142/S0217751X93000047",,"hep-th",,"  We investigate the system of holomorphic differential identities implied by
+special K\""ahlerian geometry of four-dimensional N=2 supergravity. For
+superstring compactifications on \cy threefolds these identities are equivalent
+to the Picard-Fuchs equations of algebraic geometry that are obeyed by the
+periods of the holomorphic three-form. For one variable they reduce to linear
+fourth-order equations which are characterized by classical $W$-generators; we
+find that the instanton corrections to the Yukawa couplings are directly
+related to the non-vanishing of $w_4$. We also show that the symplectic
+structure of special geometry can be related to the fact that the Yukawa
+couplings can be written as triple derivatives of some holomorphic function
+$F$. Moreover, we give the precise relationship of the Yukawa couplings of
+special geometry with three-point functions in topological field theory.
+","[{""version"":""v1"",""created"":""Wed, 15 Apr 1992 05:33:04 GMT""}]","2015-06-26"
+"hep-th/9204037",,"S. Stieberger, D. Jungnickel, J. Lauer, M. Spalinski","Yukawa Couplings for Bosonic $Z_N$ Orbifolds: Their Moduli and Twisted
+  Sector Dependence","12 pages","Mod.Phys.Lett.A7:3059-3070,1992","10.1142/S0217732392002457",,"hep-th",,"  The three point correlation functions with twist fields are determined for
+bosonic $Z_N$ orbifolds. Both the choice of the modular background (compatible
+with the twist) and of the (higher) twisted sectors involved are fully general.
+We point out a necessary restriction on the set of instantons contributing to
+twist field correlation functions not obtained in previous calculations. Our
+results show that the theory is target space duality invariant.
+","[{""version"":""v1"",""created"":""Tue, 14 Apr 1992 17:54:28 GMT""}]","2010-11-01"
+"hep-th/9204038",,"H. Lu and C.N. Pope","On Realisations of W Algebras","11 pages","Phys.Lett.B286:63-70,1992","10.1016/0370-2693(92)90159-2",,"hep-th",,"  It has been known for some time that $W$ algebras can be realised in terms of
+an energy-momentum tensor together with additional free scalar fields. Some
+recent results have shown that more general realisations are also possible. In
+this paper, we consider a wide class of realisations that may be obtained from
+the Miura transformation, related to the existence of canonical subalgebras of
+the Lie algebras on which the $W$ algebras are based. We give explicit formulae
+for all realisations of this kind, and discuss their applications in $W$-string
+theory.
+","[{""version"":""v1"",""created"":""Tue, 14 Apr 1992 19:30:05 GMT""}]","2009-10-07"
+"hep-th/9204039",,"A.Aurilia, A.Smailagic, E.Spallucci","Membrane Pregeometry and the Vanishing of the Cosmological Constant","14 pages, no figures, phyzzx macro","Class.Quant.Grav.9:1883-1890,1992","10.1088/0264-9381/9/8/010",,"hep-th",,"  We suggest a model of induced gravity in which the fundamental object is a
+relativistic {\it membrane} minimally coupled to a background metric and to an
+external three index gauge potential. We compute the low energy limit of the
+two-loop effective action as a power expansion in the surface tension. A
+generalized bootstrap hypothesis is made in order to identify the physical
+metric and gauge field with the lowest order terms in the expansion of the
+vacuum average of the composite operators conjugate to the background fields.
+We find that the large distance behaviour of these classical fields is
+described by the Einstein action with a cosmological term plus a Maxwell type
+action for the gauge potential. The Maxwell term enables us to apply the
+Hawking-Baum argument to show that the physical cosmological constant is
+``~probably~'' zero.
+","[{""version"":""v1"",""created"":""Wed, 15 Apr 1992 12:36:00 GMT""}]","2010-04-06"
+"hep-th/9204042",,"E. Raiten","Asymptotic Behavior of 2-d Black Holes","10 pages","Phys.Lett. B289 (1992) 287-292","10.1016/0370-2693(92)91221-T",,"hep-th",,"  We consider the solutions of the field equations for the large $N$ dilaton
+gravity model in $1+1$ dimensions recently proposed by Callan, Giddings, Harvey
+and Strominger (CGHS). We find time dependant solutions with finite mass and
+vanishing flux in the weak coupling regime, as well as solutions which lie
+entirely in the Liouville region.
+","[{""version"":""v1"",""created"":""Wed, 15 Apr 1992 15:43:41 GMT""}]","2009-10-22"
+"math/9204206","Thomas Jech","Thomas Jech","A short proof of the irreflexivity conjecture",,,,"Logic E-prints April 15, 1992","math.LO",,"  Gives a short proof of Dehornoy's latest result. The same simple argument
+(and more) was discovered by Laver's student Larue.
+","[{""version"":""v1"",""created"":""Wed, 15 Apr 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9204207","Thomas Jech","Thomas Jech","On G\""odel's second incompleteness theorem",,,,"Logic E-prints April 15, 1992","math.LO",,"  A very short proof of G\""odel's second incompleteness theorem (for set
+theory, second order arithmetic etc.)
+","[{""version"":""v1"",""created"":""Wed, 15 Apr 1992 00:00:00 GMT""}]","2009-09-25"
+"math/9204212",,"Mathieu Meyer, Shlomo Reisner, M. Schmuckenschlager","The volume of the intersection of a convex body with its translates",,,,"Banach Archive 4/14/92","math.FA",,"  It is proved that for a symmetric convex body K in R^n, if for some tau > 0,
+|K cap (x+tau K)| depends on ||x||_K only, then K is an ellipsoid. As a part of
+the proof, smoothness properties of convolution bodies ls are studied.
+","[{""version"":""v1"",""created"":""Tue, 14 Apr 1992 21:41:02 GMT""}]","2016-09-06"
+"math/9204218","Shelah Office","Thomas Jech, Saharon Shelah","Full reflection of stationary sets at regular cardinals",,"Amer. J. Math. 115 (1993), 435-455",,"Shelah [JeSh:383]","math.LO",,"  A stationary subset S of a regular uncountable cardinal kappa reflects fully
+at regular cardinals if for every stationary set T subseteq kappa of higher
+order consisting of regular cardinals there exists an alpha in T such that S
+cap alpha is a stationary subset of alpha. We prove that the Axiom of Full
+Reflection which states that every stationary set reflects fully at regular
+cardinals, together with the existence of n-Mahlo cardinals is equiconsistent
+with the existence of Pi^1_n-indescribable cardinals. We also state the
+appropriate generalization for greatly Mahlo cardinals.
+","[{""version"":""v1"",""created"":""Wed, 15 Apr 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9204219","Shelah Office","Paul C. Eklof, Alan H. Mekler, Saharon Shelah","Uniformization and the diversity of Whitehead groups",,"Israel J. Math. 80 (1992), 301--321",,"Shelah [EMSh:441]","math.LO math.RA",,"  The connections between Whitehead groups and uniformization properties were
+investigated by the third author in [Sh:98]. In particular it was essentially
+shown there that there is a non-free Whitehead (respectively,
+aleph_1-coseparable) group of cardinality aleph_1 if and only if there is a
+ladder system on a stationary subset of omega_1 which satisfies
+2-uniformization (respectively, omega-uniformization). These techniques allowed
+also the proof of various independence and consistency results about Whitehead
+groups, for example that it is consistent that there is a non-free Whitehead
+group of cardinality aleph_1 but no non-free aleph_1-coseparable group.
+However, some natural questions remained open, among them the following two:
+(i) Is it consistent that the class of W-groups of cardinality aleph_1 is
+exactly the class of strongly aleph_1-free groups of cardinality aleph_1 ? (ii)
+If every strongly aleph_1-free group of cardinality aleph_1 is a W-group, are
+they also all aleph_1-coseparable? In this paper we use the techniques of
+uniformization to answer the first question in the negative and give a partial
+affirmative answer to the second question.
+","[{""version"":""v1"",""created"":""Wed, 15 Apr 1992 00:00:00 GMT""}]","2016-09-06"

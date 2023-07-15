@@ -1,0 +1,110 @@
+"alg-geom/9208004","Rick Miranda","Rick Miranda","Torsion Sections of Semistable Elliptic Surfaces","16 pages, AmsLatex 1.0",,,,"alg-geom math.AG",,"  Let S be a torsion section of an elliptic surface with only I_n fibers. This
+article addresses the question: which components of singular fibers can S pass
+through? We give necessary criteria for the ""component numbers"", and show an
+equidistribution result for torsion sections of prime order.
+","[{""version"":""v1"",""created"":""Fri, 21 Aug 1992 22:14:54 GMT""}]","2008-02-03"
+"hep-lat/9208023","Alexander Migdal","A.A. Migdal","Mixed Model of Induced QCD","14 pages, Latex, no figures, ( after final debugging )","Mod.Phys.Lett. A8 (1993) 245-258","10.1142/S0217732393000258",,"hep-lat hep-th",,"  The problems with the $Z_N$ symmetry breaking in the induced QCD are
+analyzed. We compute the Wilson loops in the strong coupling phase, but we do
+not find the $Z_N$ symmetry breaking, for arbitrary potential. We suggest to
+bypass this problem by adding to the model a heavy fermion field in a
+fundamental representation of $ SU(N) $. Remarkably, the model still can be
+solved exactly by the Rieman-Hilbert method, for arbitrary number $N_f$ of
+flavors. At $ N_f \ll N \rightarrow \infty $ there is a new regime, with two
+vacuum densities. The $Z_N$ symmetry breaking density satisfies the linear
+integral equation, with the kernel, depending upon the old density. The
+symmetry breaking requires certain eigenvalue condition, which takes some extra
+parameter adjustment of the scalar potential.
+","[{""version"":""v1"",""created"":""Sat, 22 Aug 1992 14:05:25 GMT""},{""version"":""v2"",""created"":""Sun, 23 Aug 1992 16:00:20 GMT""},{""version"":""v3"",""created"":""Mon, 24 Aug 1992 14:37:01 GMT""}]","2009-10-22"
+"hep-ph/9208236",,"William A. Ponce, Arnulfo Zepeda and Ricardo Gaitan Lozano","The Generational Seesaw Mechanism in [SU(6)]$^{3}\times$Z$_{3}$}",,"Phys.Rev.D49:4954-4957,1994","10.1103/PhysRevD.49.4954",,"hep-ph",,"  In the context of the left-right symmetric gauge group [SU(6)]$^3\times$
+Z$_3$ which unifies nongravitational forces with flavors, we analyze the
+generational seesaw mechanism. At tree level we get
+m$_{\nu_\tau}\sim$m$_{\nu_\mu}\sim$M$^2_L$/M$_H$, m$_{\nu_e}=0$, where
+M$_L\sim10^2$ GeVs and M$_H\ge 100$ TeVs is the mass scale at which the
+horizontal interactions get spontaneously broken. The right handed neutrinos
+get a Majorana mass M$_R\gg $M$_H$ of the order of the scale where SU(2)$_R$ is
+broken. An exotic neutral lepton with a mass of the order of M$^2_H$/M$_R$ is
+predicted. First order radiative corrections will produce m$_{\nu_e}\neq0$
+which is at least two orders of magnitude smaller than the other two neutrino
+masses.
+","[{""version"":""v1"",""created"":""Fri, 21 Aug 1992 16:30:14 GMT""}]","2009-08-26"
+"hep-ph/9208237",,"Vineer Bhansali (Harvard University)","Renormalization Group Coefficients for the Un-Truncated Derivative
+  Expansion in Effective Field Theory","Summary of paper presented at the XXVI International Conference on
+  High Energy Physics, Dallas, TX, Aug. 5 - Aug. 12, 1992, 4 pages. Submitted
+  to the proceedings. LaTex, 1 figure in PicTex",,"10.1063/1.43400",,"hep-ph",,"  We investigate the renormalization of ``nonlocal"" interactions which arise as
+an infinite sum of higher derivative interactions in an effective field theory.
+Using dimensional regularization with minimal subtraction in a general scalar
+field theory, we write an integro-differential renormalization group equation
+for the most general graph at one loop order.
+","[{""version"":""v1"",""created"":""Fri, 21 Aug 1992 17:38:31 GMT""}]","2009-10-22"
+"hep-ph/9208238","Aneesh V. Manohar","Elizabeth Jenkins and Aneesh V. Manohar","Hyperfine Splittings of Baryons Containing a Heavy Quark in the Skyrme
+  Model","(12 pages, 0 figures, uses harvmac.tex), UCSD/PTH 92-26","Phys.Lett.B294:273-280,1992","10.1016/0370-2693(92)90694-Y",,"hep-ph",,"  The $\Sigma_c^*-\Sigma_c$ and $\Sigma_b^*-\Sigma_b$ hyperfine mass splittings
+are computed in the Skyrme model. The hyperfine splittings are suppressed by
+both $1/N_c$ and by $1/m_Q$, where $N_c$ is the number of colors and $m_Q$ is
+the mass of the heavy quark. The $\Sigma_c$, $\Sigma_c^*$, $\Sigma_b$,
+$\Sigma_b^*$, and $\Lambda_b$ masses are predicted in terms of the known values
+of the $\Lambda_c$, $D$, $D^*$, $B$ and $B^*$ masses.
+","[{""version"":""v1"",""created"":""Fri, 21 Aug 1992 18:22:26 GMT""}]","2008-11-26"
+"hep-ph/9208239",,"James. M. Gelb, Ben-Ami Gradwohl, and Joshua A. Frieman","Large- and Small-Scale Constraints on Power Spectra in $\Omega=1$
+  Universes","12 pages, Plain TeX, 3 figures included as postscript files.
+  FERMILAB-Pub-92/217-A, UCLA/92/TEP/27","Astrophys.J. 403 (1993) L5-L8","10.1086/186708",,"hep-ph astro-ph",,"  The cold dark matter (CDM) model of structure formation, normalized on large
+scales, leads to excessive pairwise velocity dispersions on small scales. In an
+attempt to circumvent this problem, we study three scenarios (all with
+$\Omega=1$) which have more large-scale power and less small-scale power than
+the CDM model: 1) an admixture of cold and hot dark matter; 2) cold dark matter
+with a non-scale-invariant, power-law primordial power spectrum; and 3) cold
+dark matter with coupling of dark matter to a long-range vector field. Despite
+the {reduced} small-scale power, when such models are evolved in the nonlinear
+regime to large amplitude, the velocities on small scales are actually {\it
+increased} over CDM with the same value of $\sigma_8$. This `flip-over', in
+disagreement with the expectation from linear perturbation theory, arises from
+the nonlinear coupling of the extra power on large scales with shorter
+wavelengths. However, due to the extra large-scale power, the recent COBE DMR
+results indicate smaller amplitudes for these models, $\sigma_8 \sim 0.5 -
+0.7$, than for CDM (for which $\sigma_8 \sim 1.2$). Therefore, when normalized
+to COBE on large scales, such models do lead to reduced velocities on small
+scales and they produce fewer halos compared with CDM. Quantitatively it seems,
+however, that models that produce sufficiently low small-scale velocities fail
+to produce an adequate distribution of halos.
+","[{""version"":""v1"",""created"":""Fri, 21 Aug 1992 20:21:00 GMT""}]","2009-10-22"
+"hep-ph/9208240","Andrzej Czarnecki","Andrzej Czarnecki and Sacha Davidson","On the QCD corrections to the charged Higgs decay of a heavy quark","6 pages, report Alberta Thy-25-92","Phys.Rev. D47 (1993) 3063-3064","10.1103/PhysRevD.47.3063",,"hep-ph",,"  Using dimensional regularization for both infrared and ultraviolet
+divergences, we confirm that the QCD corrections to the decay width
+$\Gamma(t\to H^+b)$ are equal to those to $\Gamma(t\to W^+b)$ in the limit of a
+large $t$ quark mass.
+","[{""version"":""v1"",""created"":""Fri, 21 Aug 1992 20:30:58 GMT""}]","2009-10-22"
+"hep-th/9208053","Ivan Kostov","I. Kostov","Gauge Invariant Matrix Model for the \^A-\^D-\^E Closed Strings","9 pages, SPhT/92-096","Phys.Lett.B297:74-81,1992","10.1016/0370-2693(92)91072-H",,"hep-th",,"  The models of triangulated random surfaces embedded in (extended) Dynkin
+diagrams are formulated as a gauge-invariant matrix model of Weingarten type.
+The double scaling limit of this model is described by a collective field
+theory with nonpolynomial interaction.
+  The propagator in this field theory is essentially two-loop correlator in the
+corresponding string theory.
+","[{""version"":""v1"",""created"":""Fri, 21 Aug 1992 19:30:49 GMT""}]","2010-11-01"
+"hep-th/9208054","Gordon Semenoff","I.I. Kogan, A. Morozov, G.W. Semenoff and N. Weiss","Continuum Limits of ``Induced QCD"": Lessons of the Gaussian Model at d=1
+  and Beyond","31 pages","Int.J.Mod.Phys. A8 (1993) 1411-1436","10.1142/S0217751X9300059X","UBCTP 92-27, ITEP M7/92","hep-th",,"  We analyze the scalar field sector of the Kazakov--Migdal model of induced
+QCD. We present a detailed description of the simplest one dimensional
+{($d$$=$$1$)} model which supports the hypothesis of wide applicability of the
+mean--field approximation for the scalar fields and the existence of critical
+behaviour in the model when the scalar action is Gaussian. Despite the
+ocurrence of various non--trivial types of critical behaviour in the $d=1$
+model as $N\rightarrow\infty$, only the conventional large-$N$ limit is
+relevant for its {\it continuum} limit. We also give a mean--field analysis of
+the $N=2$ model in {\it any} $d$ and show that a saddle point always exists in
+the region $m^2>m_{\rm crit}^2(=d)$. In $d=1$ it exhibits critical behaviour as
+$m^2\rightarrow m_{\rm crit}^2$. However when $d$$>$$1$ there is no critical
+behaviour unless non--Gaussian terms are added to the scalar field action. We
+argue that similar behaviour should occur for any finite $N$ thus providing a
+simple explanation of a recent result of D. Gross. We show that critical
+behaviour at $d$$>$$1$ and $m^2>m^2_{\rm crit}$ can be obtained by adding a
+$logarithmic$ term to the scalar potential. This is equivalent to a local
+modification of the integration measure in the original Kazakov--Migdal model.
+Experience from previous studies of the Generalized Kontsevich Model implies
+that, unlike the inclusion of higher powers in the potential, this minor
+modification should not substantially alter the behaviour of the Gaussian
+model.
+","[{""version"":""v1"",""created"":""Fri, 21 Aug 1992 19:13:00 GMT""},{""version"":""v2"",""created"":""Sat, 22 Aug 1992 04:08:00 GMT""}]","2009-10-22"
+"hep-th/9208055",,"J. A. Dixon, M. J. Duff and J. C. Plefka","Putting String/Fivebrane Duality to the Test","14 pages, CERN TH-6614/92, CTP-TAMU 60/92","Phys.Rev.Lett.69:3009-3012,1992","10.1103/PhysRevLett.69.3009",,"hep-th",,"  According to string/fivebrane duality, the Green-Schwarz factorization of the
+$D=10$ spacetime anomaly polynomial $I_{12}$ into $X_4\, X_8$ means that just
+as $X_4$ is the anomaly polynomial of the $d=2$ string worldsheet so $X_8$
+should be the anomaly polynomial of the $d=6$ fivebrane worldvolume. To test
+this idea we perform a fivebrane calculation of $X_8$ and find perfect
+agreement with the string one--loop result.
+","[{""version"":""v1"",""created"":""Fri, 21 Aug 1992 19:47:38 GMT""}]","2008-11-26"

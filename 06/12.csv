@@ -1,0 +1,51 @@
+"alg-geom/9206004","Yun-Gang Ye","Yun-Gang Ye","Extremal Rays and Null Geodesics on a Complex Conformal Manifold","17 pages, AMS-TeX version 2.1",,,,"alg-geom math.AG",,"  This is a revised version of the paper submitted before.
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 19:23:30 GMT""},{""version"":""v2"",""created"":""Tue, 30 Jun 1992 21:52:58 GMT""}]","2008-02-03"
+"hep-lat/9206015","Clive Baillie","C.F. Baillie and D.A. Johnston","The XY Model Coupled to Two-Dimensional Quantum Gravity","8 pages","Phys.Lett. B291 (1992) 233-240","10.1016/0370-2693(92)91037-A",,"hep-lat",,"  We perform Monte Carlo simulations using the Wolff cluster algorithm of the
+XY model on both fixed and dynamical phi-cubed graphs (i.e. without and with
+coupling to two-dimensional quantum gravity). We compare the numerical results
+with the theoretical expectation that the phase transition remains of KT type
+when the XY model is coupled to gravity. We also examine whether the
+universality we discovered in our earlier work on various Potts models with the
+same value of the central charge, $c$, carries over to the XY model, which has
+$c=1$.
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 19:19:49 GMT""}]","2009-10-22"
+"hep-ph/9206218",,"S. Kelley, J. Lopez, D. Nanopoulos, H. Pois, and K. Yuan","Aspects of Radiative Electroweak Symmetry Breaking in Supergravity
+  Models","48 pages plus 17 figures (not included but available);
+  CERN-TH.6498/92, CTP-TAMU-16/92","Nucl.Phys. B398 (1993) 3-51","10.1016/0550-3213(93)90626-Z",,"hep-ph",,"  We discuss several aspects of state-of-the-art calculations of radiative
+electroweak symmetry breaking in supergravity models. These models have a
+five-dimensional parameter space in contrast with the 21-dimensional one of the
+MSSM. We examine the Higgs one-loop effective potential $V_1=V_0+\Delta V$, in
+particular how its renormalization-scale ($Q$) independence is affected by the
+approximations used to calculate $\Delta V$ and by the presence of a
+Higgs-field-independent term which makes $V_1(0)\not=0$. We show that the
+latter must be subtracted out to achieve $Q$-independence. We also discuss our
+own approach to the exploration of the five-dimensional parameter space and the
+fine-tuning constraints within this approach. We apply our methods to the
+determination of the allowed region in parameter space of two models which we
+argue to be the prototypes for conventional (SSM) and string (SISM) unified
+models. To this end we impose the electroweak breaking constraint by minimizing
+the one-loop effective potential and study the shifts in $\mu$ and $B$ relative
+to the values obtained using the tree-level potential. These shifts are most
+significant for small values of $\mu$ and $B$, and induce corresponding shifts
+on the lightest $\mu$- and/or $B$-dependent particle masses, \ie, those of the
+lightest stau, neutralino, chargino, and Higgs boson states. Finally, we
+discuss the predictions for the squark, slepton, and one-loop corrected Higgs
+boson masses.
+","[{""version"":""v1"",""created"":""Thu, 11 Jun 1992 18:59:00 GMT""}]","2009-10-22"
+"hep-ph/9206219","Lluis Ametller","F. del Aguila, B. Alles, Ll. Ametller and A. Grau","Z' Decays into Four Fermions","9 pages plus 1 figure (not included but available), UG-FT-22/92","Phys.Rev. D48 (1993) 425-428","10.1103/PhysRevD.48.425",,"hep-ph",,"  If a new $Z'$ is discovered with a mass $\sim 1 \ TeV$ at LHC/SSC, its (rare)
+decays into two charged leptons plus missing transverse energy will probe the
+$Z'$ coupling to the lepton doublet $(\nu,e)_L$ and to $W^+W^-$, allowing
+further discrimination among extended electroweak models.
+","[{""version"":""v1"",""created"":""Fri, 12 Jun 1992 11:14:10 GMT""}]","2009-10-22"
+"hep-th/9206053","H. J. Otto","H. Dorn and H.-J. Otto","On Correlation Functions for Non-critical Strings with c<1 but d>1","8 pages","Phys.Lett.B291:39-43,1992","10.1016/0370-2693(92)90116-L",,"hep-th",,"  We construct a Goulian-Li-type continuation in the number of insertions of
+the cosmological constant operator which is no longer restricted to one
+dimensional target space. The method is applied to the calculation of the
+three-point and a special four-point correlation function. Various aspects of
+the emerging analytical structure are discussed.
+","[{""version"":""v1"",""created"":""Fri, 12 Jun 1992 10:46:52 GMT""}]","2008-11-26"
+"hep-th/9206054","Elcio Abdalla","E. Abdalla, M.C.B. Abdalla, D. Dalmazi","On the amplitudes for non-critical n=2 supuerstrings","10 pages","Phys.Lett. B291 (1992) 32-38","10.1016/0370-2693(92)90115-K",,"hep-th",,"  We compute correlation functions in $N=2$ non critical superstrings on the
+sphere. Our calculations are restrained to the ($s=0$) bulk amplitudes. We show
+that the four point function factorizes as a consequence of the non-critical
+kinematics, but differently from the $N=0,1$ cases no extra discrete state
+appears in the $\hat c\to 1^-$ limit.
+","[{""version"":""v1"",""created"":""Fri, 12 Jun 1992 13:27:12 GMT""}]","2009-10-22"

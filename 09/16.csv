@@ -1,0 +1,169 @@
+"cond-mat/9209017","Rahul Basu","M. Arjunwadkar, G. Baskaran, R. Basu and V. N. Muthukumar","Numerical Study of the Wheatley-Hsu-Anderson Interlayer Tunneling
+  mechanism of High $T_c$ Superconductivity","11 pages( 4 figures as ps files appended), RevTeX macro. IMSc 92/38",,"10.1103/PhysRevLett.70.674",,"cond-mat",,"  We present results obtained (by exact diagonalization) for the problem of two
+t-J planes with an interlayer coupling $t_\perp$. Our results for small hole
+concentrations show that in-plane superconducting correlations are enhanced by
+$t_\perp$. When the constraint on double occupancy in the t-J model is relaxed,
+the enhancement disappears. These results illustrate the inter--layer tunneling
+mechanism for superconductivity.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 14:50:17 GMT""}]","2009-10-22"
+"cond-mat/9209018","Alessandro Pelizzola","Arianna Montorsi and Alessandro Pelizzola","Fermi-linearization scheme for itinerant electrons with Clifford
+  variables","12 pages, 3 figures (appended as PostScript files), POLFIS-TH.03.92",,"10.1088/0305-4470/25/22/009",,"cond-mat",,"  We propose here an alternative interpretation of the fermi-linarization
+approach to interacting electron systems, based on the requirement that the
+coefficients of the linearized operators are Clifford-like variables, whose
+anticommutator equals an unknown constant $c$. We apply the approximation to
+the Falicov-Kimball model, explicitly solving the self-consistency equation for
+the unknown, which turns out to behave as an order parameter. We discuss its
+relation with a metal-insulator transition and some thermodynamical quantities.
+In particular we show that our approximation in the $T=0$ limit reproduces
+exactly the Gutzwiller results for the Hubbard model.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 15:41:00 GMT""}]","2009-10-22"
+"cond-mat/9209019",,"Yan-Chr Tsai and Yonathan Shapir","Kinetic Roughening in Surfaces of Crystals Growing on Disordered
+  Substrates","13 pages, 2 figures (not included). Submitted to Phys. Rev. Letts.
+  Use Latex twice","Phys.Rev.Lett.69:1773-1776,1992; ERRATUM-ibid.69:3420,1992","10.1103/PhysRevLett.69.1773",,"cond-mat hep-th",,"  Substrate disorder effects on the scaling properties of growing crystalline
+surfaces in solidification or epitaxial deposition processes are investigated.
+Within the harmonic approach there is a phase transition into a low-temperature
+(low-noise) superrough phase with a continuously varying dynamic exponent z>2
+and a non-linear response. In the presence of the KPZ nonlinearity the disorder
+causes the lattice efects to decay on large scales with an intermediate
+crossover behavior. The mobility of the rough surface hes a complex dependence
+on the temperature and the other physical parameters.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 13:47:00 GMT""}]","2016-08-31"
+"gr-qc/9209006",,"Boro Grubisic and Vincent Moncrief","Asymptotic Behavior of the $T^3 \times R$ Gowdy Spacetimes","30 pages","Phys.Rev. D47 (1993) 2371-2382","10.1103/PhysRevD.47.2371",,"gr-qc",,"  We present new evidence in support of the Penrose's strong cosmic censorship
+conjecture in the class of Gowdy spacetimes with $T^3$ spatial topology.
+Solving Einstein's equations perturbatively to all orders we show that
+asymptotically close to the boundary of the maximal Cauchy development the
+dominant term in the expansion gives rise to curvature singularity for almost
+all initial data. The dominant term, which we call the ``geodesic loop
+solution'', is a solution of the Einstein's equations with all space
+derivatives dropped. We also describe the extent to which our perturbative
+results can be rigorously justified.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 03:31:25 GMT""}]","2009-10-22"
+"gr-qc/9209007",,"E. Calzetta and M. Sakellariadou","Semiclassical Effects and the Onset of Inflation","22 pages, file written in RevTex","Phys.Rev.D47:3184-3193,1993","10.1103/PhysRevD.47.3184","GTCRG 92-2","gr-qc",,"  We present a class of exact solutions to the constraint equations of General
+Relativity coupled to a Klein - Gordon field, these solutions being isotropic
+but not homogeneous. We analyze the subsequent evolution of the consistent
+Cauchy data represented by those solutions, showing that only certain special
+initial conditions eventually lead to successfull Inflationary cosmologies. We
+argue, however, that these initial conditions are precisely the likely outcomes
+of quantum events occurred before the inflationary era.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 11:59:43 GMT""}]","2010-11-01"
+"hep-ph/9209237",,"G. Valencia","Anomalous Gauge-Boson Couplings at Hadron Supercolliders","10 pages Latex file. Talk presented at the XXVI International
+  Conference on High Energy Physics, Dallas 1992",,"10.1063/1.43410","FERMILAB-CONF-92/246-T","hep-ph",,"  We discuss anomalous gauge boson couplings at hadron supercolliders. We
+review the usual description of these couplings, as well as the studies of a
+strongly interacting electroweak symmetry breaking sector. We present an
+effective field theory formulation of the problem that relates the two
+subjects, and that allows a consistent and systematic analysis. We end with
+some phenomenology.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 16:41:21 GMT""}]","2009-10-22"
+"hep-ph/9209238","Sean Carroll","W. Daniel Garretson, George B. Field, and Sean M. Carroll
+  (Harvard-Smithsonian Center for Astrophysics)","Primordial magnetic fields from pseudo-Goldstone bosons","18 pages","Phys.Rev.D46:5346-5351,1992","10.1103/PhysRevD.46.5346",,"hep-ph astro-ph",,"  The existence of large-scale magnetic fields in galaxies is well established,
+but there is no accepted mechanism for generating a primordial field which
+could grow into what is observed today. We discuss a model which attempts to
+account for the necessary primordial field by invoking a pseudo-Goldstone boson
+coupled to electromagnetism. The evolution of this boson during inflation
+generates a magnetic field; however, it seems difficult on rather general
+grounds to obtain fields of sufficient strength on astrophysically interesting
+scales.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 21:24:42 GMT""}]","2011-05-05"
+"hep-ph/9209239",,"Peter Cho and Howard Georgi","Electromagnetic Interactions in Heavy Hadron Chiral Theory","12 pages, 0 figures","Phys.Lett.B296:408-414,1992; ERRATUM-ibid.B300:410,1993","10.1016/0370-2693(92)91340-F","HUTP-92/A043","hep-ph",,"  Electromagnetic interactions are incorporated into Heavy Hadron Chiral
+Perturbation Theory. Short and long distance magnetic moment contributions to
+the chiral Lagrangian are identified, and $M1$ radiative decays of heavy vector
+mesons and sextet baryons are studied. Using recent CLEO $D^*$ branching
+fraction ratio data, we fit the meson coupling to the axial vector Goldstone
+current and find $g_1^2 = 0.34 \pm 0.48$ for $\mc = 1700 \MeV$. Finally, we
+obtain model independent predictions for total and partial widths of charm and
+bottom vector mesons.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 21:37:04 GMT""}]","2009-09-11"
+"hep-ph/9209240",,"M.B. Voloshin","Summing One-Loop Graphs at Multi-Particle Threshold","13 pages, LaTeX, TPI-MINN-92/45-T","Phys.Rev.D47:357-361,1993","10.1103/PhysRevD.47.R357",,"hep-ph",,"  It is shown that the technique recently suggested by Lowell Brown for summing
+the tree graphs at threshold can be extended to calculate the loop effects.
+Explicit result is derived for the sum of one-loop graphs for the amplitude of
+threshold production of $n$ on-mass-shell particles by one virtual in the
+unbroken $\lambda \phi^4$ theory. It is also found that the tree-level
+amplitude of production of $n$ particles by two incoming on-mass-shell
+particles vanishes at the threshold for $n > 4$.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 19:45:07 GMT""}]","2009-12-30"
+"hep-ph/9209241","Michael Luke","J.F. Amundson, C.G. Boyd, E. Jenkins, M. Luke, A.V. Manohar, J.L.
+  Rosner, M.J. Savage and M.B. Wise","Radiative $D^*$ Decay Using Heavy Quark and Chiral Symmetry","9 pages plus 3 pages of figures in POSTSCRIPT file appended to TeX
+  file (uses harvmac.tex and tables.tex), UCSD/PTH 92-31, CALT-68-1816,
+  EFI-92-45, CERN-TH.6650/92","Phys.Lett.B296:415-419,1992","10.1016/0370-2693(92)91341-6",,"hep-ph",,"  The implications of chiral $SU(3)_L \times SU(3)_R$ symmetry and heavy quark
+symmetry for the radiative decays $D^{*0}\to D^0\gamma$, $D^{*+}\to D^+\gamma$,
+and $D_s^*\to D_s\gamma$ are discussed. Particular attention is paid to $SU(3)$
+violating contributions of order $m_q^{1/2}$. Experimental data on these
+radiative decays provide constraints on the $D^* D\pi$ coupling.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 22:42:18 GMT""}]","2008-11-26"
+"hep-ph/9209242",,"Richard F. Lebed","Meson Mass Splittings in the Nonrelativistic Model","29 pages with 2 tables and 4 figures, LBL-32872 and UCB-PTH-92/33","Phys.Rev. D47 (1993) 1134-1144","10.1103/PhysRevD.47.1134",,"hep-ph",,"  Mass splittings between isodoublet meson pairs and between $0^{-}$ and
+$1^{-}$ mesons of the same valence quark content are computed in a detailed
+nonrelativistic model. The field theoretic expressions for such splittings are
+shown to reduce to kinematic and Breit-Fermi terms in the nonrelativistic
+limit. Algebraic results thus obtained are applied to the specific case of the
+linear-plus-Coulomb potential, with resultant numbers compared to experiment.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 23:49:05 GMT""}]","2009-10-22"
+"hep-ph/9209243","Jihn E. Kim","Jihn E. Kim","The $\mu$ Problem and the Invisible Axion","8pages",,"10.1063/1.43439","SNUTP 92-77","hep-ph",,"  The $\mu$ term in the supersymmetric standard model is known to"" be nonzero.
+Supersymmetry breaking at the intermediate scale may provide the needed $\mu$
+term and the invisible axion. A possible solution of this $\mu$ problem in
+superstring models is also discussed.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 15:33:55 GMT""}]","2009-10-22"
+"hep-ph/9209244",,"Howard Georgi","Physics from Vacuum Alignment in A Technicolor Model","13pages (landscape mode) LATEX + PICTEX","Nucl.Phys.B416:699-721,1994","10.1016/0550-3213(94)90550-9",,"hep-ph",,"  I describe a technicolor model (without walking) of all interactions up to
+energies of the order of 1000~TeV. The low energy extended technicolor model
+has the CTSM form. But at intermediate energy scales, additional interactions
+are required to give the KM mixing. I discuss the characteristic flavor
+changing neutral current interactions arising from this flavor physics below
+1000~TeV.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 15:01:15 GMT""}]","2009-09-11"
+"hep-th/9209051","Suresh Govindarajan","S. Govindarajan","On Physical States in c<1 String Theory","9 pages, harvmac, IMSc--92/36. (Talk presented at ICTP Workshop --
+  July 1991)",,,,"hep-th",,"  The BRST cohomology analysis of Lian and Zuckerman leads to physical states
+at all ghost number for $c<1$ matter coupled to Liouville gravity. We show how
+these states are related to states at ghost numbers zero(pure vertex operator
+states -- DK states) and ghost number one(ring elements) by means of descent
+equations. These descent equations follow from the double cohomology of the
+String BRST and Felder BRST operators. We briefly discuss how the ring elements
+allow one to determine all correlation functions on the sphere.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 18:10:08 GMT""}]","2007-05-23"
+"hep-th/9209054","Sklyanin Evgueni","P. P. Kulish, E. K. Sklyanin","Algebraic Structures Related to Reflection Equations","18 pages","J.Phys.A25:5963-5976,1992","10.1088/0305-4470/25/22/022","YITP/-980","hep-th math.QA nlin.SI solv-int",,"  Quadratic algebras related to the reflection equations are introduced. They
+are quantum group comodule algebras. The quantum group $F_q(GL(2))$ is taken as
+the example. The properties of the algebras (center, representations,
+realizations, real forms, fusion procedure etc) as well as the generalizations
+are discussed.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 03:34:32 GMT""}]","2014-11-18"
+"hep-th/9209055","Jeff Harvey","J. A. Harvey and A. Strominger","Quantum Aspects of Black Holes","54 pages with 16 figures (as two uuencoded compressed tar files),
+  harvmac",,,"EFI-92-41","hep-th gr-qc",,"  This review is based on lectures given at the 1992 Trieste Spring School on
+String Theory and Quantum Gravity and at the 1992 TASI Summer School in
+Boulder, Colorado.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 02:21:21 GMT""}]","2009-09-25"
+"hep-th/9209056",,"D. Dalmazi","Tree Amplitudes in Noncritical $N=2$ Strings","(misprints in formulae (7),(10) and (34) have been corrected) 9 pages
+  (Talk given at ICTP-Trieste, July '92)-Plain tex file",,,,"hep-th",,"  Recent results for tree amplitudes for the $N=2$ noncritical strings are
+presented and compared with the critical case. Arguments are given which
+indicate a certain discontinuity in passing from the $\hat c < 1$ model (in a
+Coulomb gas representation) to the $\hat c = 1$ critical case.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 07:35:00 GMT""},{""version"":""v2"",""created"":""Wed, 7 Oct 1992 07:52:00 GMT""}]","2008-02-03"
+"hep-th/9209057","A. Jevicki","A. Jevicki, J. P. Rodrigues, A. J. van Tonder (Brown)","Scattering States and Symmetries in the Matrix Model and Two Dimensional
+  String Theory","25 pages (Phyzzx), Brown-HET-874","Nucl.Phys. B404 (1993) 91-108","10.1016/0550-3213(93)90474-4","BROWN-HET-874, CNLS-92-10","hep-th",,"  We study the correspondence between the linear matrix model and the
+interacting nonlinear string theory. Starting from the simple matrix harmonic
+oscillator states, we derive in a direct way scattering amplitudes of
+2-dimensional strings, exhibiting the nonlinear equation generating arbitrary
+N-point tree amplitudes. An even closer connection between the matrix model and
+the conformal string theory is seen in studies of the symmetry algebra of the
+system.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 15:34:20 GMT""}]","2007-05-23"
+"hep-th/9209059","Ingo Allekotte","G. Aldazabal, I. Allekotte, E. Andr\'es and C. N\'u\~nez","Nondiagonal $CP_m$ Coset Models and their Poincar\'E Polynomials","22 pages, (RevTex), preprint GTCRG-92-1 and CNEA-CAB-039/92. % Minor
+  changes in the results","Int.J.Mod.Phys.A8:2825-2838,1993","10.1142/S0217751X93001132",,"hep-th",,"  $N=2$ coset models of the type $SU(m+1)/SU(m)\times U(1)$ with nondiagonal
+modular invariants for both $SU(m+1)$ and $SU(m)$ are considered. Poincar\'e
+polynomials of the corresponding chiral rings of these algebras are
+constructed. They are used to compute the number of chiral generations of the
+associated string compactifications. Moddings by discrete symmetries are also
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 15:42:00 GMT""},{""version"":""v2"",""created"":""Tue, 9 Mar 1993 02:16:00 GMT""}]","2009-03-27"
+"math/9209207",,"Avner Landver","Finite Combinations of Baire Numbers",,,,"Logic E-prints September 16, 1992","math.LO",,"  Let $\kappa$ be a regular cardinal. Consider the Baire numbers of the spaces
+$(2^{\theta})_\kappa$ (functions from $\theta$ to 2 and the less than $\kappa$
+topology) for various $\theta \geq \kappa$. Let l be the number of such
+different Baire numbers. Models of set theory with l=1 or l=2 are known and it
+is also known that l is finite. We show here that if $\kappa > \omega$, then l
+could be any given finite number. We do not know whether the same is true for
+$\kappa = \omega$.
+","[{""version"":""v1"",""created"":""Wed, 16 Sep 1992 00:00:00 GMT""}]","2008-02-03"
+"math/9209214",,"Vitali D. Milman, Nicole Tomczak-Jaegermann","Asymptotic $l_p$ spaces and bounded distortions",,,,"Banach Archive 9/15/92","math.FA",,"  The new class of Banach spaces, so-called asymptotic $l_p$ spaces, is
+introduced and it is shown that every Banach space with bounded distortions
+contains a subspace from this class.
+  The proof is based on an investigation of certain functions, called
+enveloping functions, which are intimately connected with stabilization
+properties of the norm.
+","[{""version"":""v1"",""created"":""Tue, 15 Sep 1992 18:42:43 GMT""}]","2009-09-25"

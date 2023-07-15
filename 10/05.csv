@@ -1,0 +1,66 @@
+"gr-qc/9210001","Ingemar Bengtsson","Ingemar Bengtsson","Clifford Algebra of Two-Forms, Conformal Structures and Field Equations","7 pages",,,"ITP-Goteborg 92-41","gr-qc",,"  I review the equivalence between duality operators on two-forms and conformal
+structures in four dimensions, from a Clifford algebra point of view (due to
+Urbantke and Harnett). I also review an application, which leads to a set of
+""neighbours"" of Einstein's equations. An attempt to formulate reality
+conditions for the ""neighbours"" is discussed.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 11:40:18 GMT""}]","2007-05-23"
+"gr-qc/9210002",,"R.B. Orellana and H. Vucetich","The Nordtvedt effect in the Trojan asteroids","10 pages, <Latex, laa style>, FISILP-92-xx","Astron.Astrophys.273:313,1993",,,"gr-qc",,"  Bounds to the Nordtvedt parameter are obtained from the motion of the first
+twelve Trojan asteroids in the period 1906-1990. From the analysis performed,
+we derive a value for the inverse of the Saturn mass 3497.80 \pm 0.81 and the
+Nordtvedt parameter -0.56 \pm 0.48, from a simultaneous solution for all
+asteroids.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 13:17:14 GMT""}]","2011-05-23"
+"hep-ph/9210211",,"Luis E. Ibanez","More About Discrete Gauge Anomalies","25 pages CERN-TH.6662/92 (replaced version contains additional
+  tex-macros)","Nucl.Phys. B398 (1993) 301-318","10.1016/0550-3213(93)90111-2",,"hep-ph",,"  I discuss and extend several results concerning the cancellation of discrete
+gauge anomalies. I show how heavy fermions do not decouple in the presence of
+discrete gauge anomalies. As a consequence, in general, cancellation of
+discrete gauge anomalies cannot be described merely in terms of low energy
+operators involving only the light fermions. I also discuss cancellation of
+discrete gauge anomalies through a discrete version of the Green-Schwarz (GS)
+mechanism as well as the possibility of discrete gauge R-symmetries and their
+anomalies.
+  Finally, some phenomenological applications are discussed. This includes
+symmetries guaranteeing absence of FCNC in two-Higgs models and generalized
+matter parities stabilizing the proton in the supersymmetric standard model. In
+the presence of a discrete GS mechanism or/and gauge R-symmetries, new
+possibilities for anomaly free such symmetries are found.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 10:20:11 GMT""},{""version"":""v2"",""created"":""Thu, 8 Oct 1992 09:05:00 GMT""}]","2009-10-22"
+"hep-th/9210019",,"M. Temple-Raston","On the quantisation of SU(2) magnetic monopole dynamics","4 pages, TeX",,,"Con-92-4","hep-th",,"  We argue that there is no consistent quantisation of the two BPS SU(2)
+magnetic monopole dynamical system compatible with the correspondence
+principle.
+","[{""version"":""v1"",""created"":""Sun, 4 Oct 1992 19:11:00 GMT""}]","2007-05-23"
+"hep-th/9210020","Francesco Toppan","F. Constantinescu, F. Toppan","On the Linearized Artin Braid Representation","13 pages. Frankfurt a. M. preprint",,,,"hep-th math.GR math.QA",,"  We linearize the Artin representation of the braid group given by (right)
+automorphisms of a free group providing a linear faithful representation of the
+braid group. This result is generalized to obtain linear representations for
+the coloured braid groupoid and pure braid group too. Applications to some
+areas of two-dimensional physics are discussed.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 09:47:59 GMT""}]","2008-02-03"
+"hep-th/9210021",,"Xenia C. de la Ossa and Fernando Quevedo","Duality Symmetries from Non--Abelian Isometries in String Theories","18 pages, preprint NEIPH92-004, to be published in Nuclear Physics B.
+  (corrected minor typos and references, other minor changes)","Nucl.Phys. B403 (1993) 377-394","10.1016/0550-3213(93)90041-M",,"hep-th gr-qc",,"  In string theory it is known that abelian isometries in the sigma model lead
+to target space duality. We generalize this duality to backgrounds with
+non--abelian isometries. The procedure we follow consists of gauging the
+isometries of the original action and constraining the field strength $F$ to
+vanish. This new action generates dual theories by integrating over either the
+Lagrange multipliers that set F=0 or the gauge fields. We find that this new
+duality transformation maps spaces with non--abelian isometries to spaces that
+may have no isometries at all. This suggests that duality symmetries in string
+theories need to be understood in a more general context without regard to the
+existence of continuous isometries on the target space (this is also indicated
+by the existence of duality in string compactifications on Calabi--Yau
+manifolds which have no continuous isometries). Physically interesting examples
+to which our formalism apply are the Schwarzschild metric and the 4D charged
+dilatonic black hole. For these spherically symmetric black holes in four
+dimensions, the dual backgrounds are presented and explicitly shown to be new
+solutions of the leading order string equations. Some of these new backgrounds
+are found to have no continuous isometries (except for time translations) and
+also have naked singularities.
+","[{""version"":""v1"",""created"":""Mon, 5 Oct 1992 14:08:30 GMT""},{""version"":""v2"",""created"":""Tue, 16 Feb 1993 13:06:34 GMT""}]","2009-10-22"
+"nucl-th/9210004","Charles Benesh","C.J. Benesh","Quadrupole Contribution to Two Neutron Removal in Heavy Ion Collisions","8 pages,LA-UR 92-2680","Phys.Rev.C46:2635-2637,1992","10.1103/PhysRevC.46.2635",,"nucl-th",,"  In this report, electric quadrupole corrections to the two neutron removal
+cross section measured in heavy ion collisions are estimated for $^{197}$Au and
+$^{59}$Co targets. The quadrupole process is assumed to proceed primarily
+through excitation of the giant isovector quadrupole resonance, which then
+decays by neutron emission. For $^{59}$Co, the contribution from E2 radiation
+is found to be small, while for $^{197}$Au we find the quadrupole contribution
+resolves the discrepancy between experiment and the simple predictions of the
+Weissacker-Williams virtual photon method.
+","[{""version"":""v1"",""created"":""Sun, 4 Oct 1992 17:14:33 GMT""}]","2008-11-26"

@@ -1,0 +1,111 @@
+"cond-mat/9209009","Jaime Ferrer","Jaime Ferrer","Spin liquid phase for the frustrated Quantum Heisenberg Antiferromagnet
+  on a square lattice","21 pages",,"10.1103/PhysRevB.47.8769",,"cond-mat",,"  The existance of a spin disordered ground state for the frustrated Quantum
+Heisenberg Antiferromagnet on a square lattice is reconsidered. It is argued
+that there is a unique action which is continuous through the whole phase
+diagram, except at the Lifshitz point, so that the Neel and helicoidal states
+can not coexist and there has to be an intermediate spin liquid state. To show
+it, a detailed study combining Spin-Wave theory, Schwinger Bosons Mean Field
+Theory and a scaling analysis of the appropriate hydrodynamic action is
+performed. When done carefully, all these theories agree and strongly support
+the existance of the spin liquThe manuscript has eight figures, which are
+available upon request to the author. e-mail address is
+ferrer@physics.rutgers.edu
+","[{""version"":""v1"",""created"":""Fri, 11 Sep 1992 14:41:51 GMT""}]","2009-10-22"
+"gr-qc/9209004",,"Edward Malec and Niall \'O Murchadha","A Quasilocal Test of the Finiteness of the Universe","4pages, plaintex",,,,"gr-qc astro-ph",,"  The Cosmological Principle states that the universe is both homogeneous and
+isotropic. This, alone, is not enough to specify the global geometry of the
+spacetime. If we were able to measure both the Hubble constant and the energy
+density we could determine whether the universe is open or closed.
+Unfortunately, while some agreement exists on the value of the Hubble constant,
+the question of the energy density seems quite intractable. This Letter
+describes a possible way of avoiding this difficulty and shows that if one
+could measure the rate at which light-rays emerging from a surface expand, one
+might well be able to deduce whether the universe is closed.
+","[{""version"":""v1"",""created"":""Fri, 11 Sep 1992 10:41:00 GMT""}]","2007-05-23"
+"hep-ph/9209225","Lawrence Krauss","Lawrence M. Krauss and David Schramm","Angular Diameters as a Probe of a Cosmological Constant and $\Omega$","10 pages plus 4 figures (not included)","Astrophys.J. 405 (1993) L43-L46","10.1086/186761","YCTP-P32-92","hep-ph astro-ph",,"  The lensing effect of curved space, which can cause the angular diameter of a
+fixed reference length seen on the sky to reach a minimum and then increase
+with redshift, depends sensitively on the value of the cosmological constant,
+$\Lambda$, in a flat universe. The redshift of an observed minimum and the
+asymptotic slope can in principle provide strong constraints on $\Lambda$. The
+sensitivity to a non-zero cosmological constant in a flat universe is compared
+to the sensitivity to $q_0$ in an open universe without a cosmological
+constant, and to inherent ambiguities due to uncertainties in distance measures
+and the possible effects of evolution. If evolutionary uncertainties can be
+overcome, the reported observations of the angular diameter of compact radio
+jets as a function of redshift, which appear to exhibit such a minimum, could
+provide the strongest available limit on the cosmological constant in a flat
+universe, and on $\Omega$ in an open universe.
+","[{""version"":""v1"",""created"":""Thu, 10 Sep 1992 20:50:44 GMT""}]","2009-10-22"
+"hep-ph/9209226","Madore","J. Madore","On a Noncommutative Extension of Electrodynamics","12 pages Plain Tex",,,"LPTHE Orsay 92/21, May 1992","hep-ph",,"  The Maxwell vector potential and the Dirac spinor used to describe the
+classical theory of electrodynamics both have components which are considered
+to be ordinary smooth functions on space-time. We reformulate electrodynamics
+by adding an additional structure to the algebra of these functions in the form
+of the algebra $M_n$ of $n \times n$ complex matrices. This involves a
+generalization of the notions of geometry to include the geometry of matrices.
+Some rather general constraints on the reformulation are imposed which can be
+motivated by considering matrix geometry in the limit of very large $n$. A few
+of the properties of the resulting models are given for the values $n=2,3$. One
+of the more interesting is the existence of several distinct stable phases or
+vacua. The fermions can be quark-like in one and lepton-like in another.
+","[{""version"":""v1"",""created"":""Fri, 11 Sep 1992 15:20:46 GMT""}]","2007-05-23"
+"hep-ph/9209227","Vidyut Jain","Vidyut Jain","The 3d effective field theory of the high temperature abelian Higgs
+  model","22 Pages",,,,"hep-ph",,"  We study the 3d effective theory of the high T Abelian Higgs model with N
+real scalars and gauge and scalar couplings denoted g and $\lambda$,
+respectively. We find for the three cases a) $6g^2/\lambda =0(1)$, b)
+$6g^2/\lambda=0(N)$ and c) $6g^2/\lambda=O(N^{2\over3})$ the following results:
+a) The O(N)+O(1) potential admits only a second order phase transition, b) The
+O(1) potential admits a first order transition and c) the O(N^{1\over3}) +O(1)
+result gives a first order transition whose strength diminshes with N.
+","[{""version"":""v1"",""created"":""Fri, 11 Sep 1992 15:13:08 GMT""}]","2016-09-01"
+"hep-th/9209031",,"J.E.Nelson and T.Regge","Invariants of 2+1 Quantum Gravity","10 pages, plain TEX, no figures, DFTT 46/92","Commun.Math.Phys. 155 (1993) 561-568","10.1007/BF02096728",,"hep-th gr-qc",,"  In [1,2] we established and discussed the algebra of observables for 2+1
+gravity at both the classical and quantum level. Here our treatment broadens
+and extends previous results to any genus $g$ with a systematic discussion of
+the centre of the algebra. The reduction of the number of independent
+observables to $6g-6 (g > 1)$ is treated in detail with a precise
+classification for $g = 1$ and $g = 2$.
+","[{""version"":""v1"",""created"":""Thu, 10 Sep 1992 18:42:00 GMT""}]","2009-10-22"
+"hep-th/9209032","Ignatios Antoniadis","C. Bachas and M. Porrati","Pair Creation of Open Strings in an Electric Field","13 pages, CPTH-A182.0892","Phys.Lett. B296 (1992) 77-84","10.1016/0370-2693(92)90806-F",,"hep-th",,"  We calculate exactly the rate of pair production of open bosonic and
+supersymmetric strings in a constant electric field. The rate agrees with
+Schwinger's classic result in the weak-field limit, but diverges when the
+electric field approaches some critical value of the order of the string
+tension. (Phyzzx file)
+","[{""version"":""v1"",""created"":""Thu, 10 Sep 1992 17:35:03 GMT""}]","2009-10-22"
+"hep-th/9209033","Ramy Brustein","R. Brustein and B. Ovrut","Non-perturbative interactions in string theory","6 pages, double coulumn Latex, 3 figures not included available as
+  eps files on request, UPR-524T",,"10.1063/1.43395",,"hep-th",,"  New non-perturbative interactions in the effective action of two dimensional
+string theory are described. These interactions are due to ``stringy""
+instantons
+","[{""version"":""v1"",""created"":""Thu, 10 Sep 1992 21:57:07 GMT""}]","2009-10-22"
+"hep-th/9209034","Krzysztof Pilch","Peter Bouwknegt, Jim McCarthy, and Krzysztof Pilch","Semi-infinite cohomology in conformal field theory and 2d gravity","22 pages, USC-92/020, ADP-92-194/M12, CERN-TH.6646/92","J.Geom.Phys.11:225-249,1993","10.1016/0393-0440(93)90055-J",,"hep-th",,"  We discuss various techniques for computing the semi-infinite cohomology of
+highest weight modules which arise in the BRST quantization of two dimensional
+field theories. In particular, we concentrate on two such theories -- the $G/H$
+coset models and $2d$ gravity coupled to $c\leq 1$ conformal matter. (to appear
+in the proceedings of the XXV Karpacz Winter School)
+","[{""version"":""v1"",""created"":""Fri, 11 Sep 1992 06:35:09 GMT""}]","2009-09-11"
+"hep-th/9209035","Wolfgang Kalau","Wolfgang Kalau","BRST Quantization of 2d-Yang Mills Theory with Anomalies","25p., NIKHEF-H/92-13","Nucl.Phys.B395:263-287,1993","10.1016/0550-3213(93)90217-D",,"hep-th",,"  In this paper we discuss the BRST-quantization of anomalous 2d-Yang Mills
+(YM) theory. Since we use an oscillator basis for the YM-Fock-space the anomaly
+appears already for a pure YM-system and the constraints form a Kac-Moody
+algebra with negative central charge. We also discuss the coupling of chiral
+fermions and find that the BRST-cohomology for systems with chiral fermions in
+a sufficiently large representation of the gauge group is completely equivalent
+to the cohomology of the finite dimensional gauge group. For pure YM theory or
+YM theory coupled to chiral fermions in small representations there exists an
+infinite number of inequivalent cohomology classes. This is discussed in some
+detail for the example of $SU(2)$.
+","[{""version"":""v1"",""created"":""Fri, 11 Sep 1992 10:36:10 GMT""}]","2011-07-19"
+"hep-th/9209036","Antal Jevicki","J. Avan, and A. Jevicki","Interacting Theory of Collective and Topological Fields in 2 Dimensions","41 pages, (Phyzzx), BROWN-HET-869 (Tex Errors)","Nucl.Phys. B397 (1993) 672-704","10.1016/0550-3213(93)90190-Z",,"hep-th",,"  We propose a generalization of the collective field theory hamiltonian,
+including interactions between the original bosonic collective field $w_0 (z)$
+and supplementary fields ${\bar w}_j (z)$ realizing classically a $w_\infty$
+algebra. The latter are then shown to represent a 3--dimensional topological
+field theory. This generalization follows from a conjectured representation of
+the $W_{1 + \infty}$ algebra of bilinear fermion operators underlying the
+original matrix model. It provides an improved bosonization scheme for $1+1$
+dimensional fermion theories.
+","[{""version"":""v1"",""created"":""Fri, 11 Sep 1992 12:29:40 GMT""},{""version"":""v2"",""created"":""Mon, 14 Sep 1992 19:28:08 GMT""}]","2009-10-22"
+"hep-th/9209038",,"Enrique F. Moreno","Functional determinant and Green functions for a fermionic gauge theory
+  on the disk","27 pages","Phys.Rev. D48 (1993) 921-931","10.1103/PhysRevD.48.921","Urbana P-92-09-107","hep-th",,"  We study a theory of Dirac fermions on a disk in presence of an
+electromagnetic field. Using the heat-kernel technique we compute the
+functional determinant which results after decoupling the zero-flux gauge
+degrees of freedom from the fermions. We also compute the Green functions of
+the remaining fermionic theory with the appropriate boundary conditions.
+Finally we analyze the coset model associated to this gauge theory and compute
+all its correlations functions.
+","[{""version"":""v1"",""created"":""Thu, 10 Sep 1992 16:41:17 GMT""}]","2009-10-22"

@@ -1,0 +1,110 @@
+"cond-mat/9205014","Kikuo Harigaya","Kikuo Harigaya (Fundamental Physics Section, Electrotechnical
+  Laboratory, Japan)","Lattice distortion and energy level structures in doped C_{60} and
+  C_{70} studied with the extended Su-Schrieffer-Heeger model: Polaron
+  excitations and optical absorption","21 pages","Phys. Rev. B 45 (1992) 13676-13684","10.1103/PhysRevB.45.13676",,"cond-mat",,"  We extend the Su-Schrieffer-Heeger model of polyacetylene to C_{60} and
+C_{70} molecules, and solve numerically. The calculations of the undoped
+systems agree well with the known results. When the system (C_{60} or C_{70})
+is doped with one or two electrons (or holes), the additional charges
+accumulate almost along an equatorial line of the molecule. The dimerization
+becomes weaker almost along the same line. Two energy levels intrude largely in
+the gap. The intrusion is larger in C_{70} than in C_{60}. Therefore,
+``polarons'' are predicted in doped buckminster- fullerenes. We calculate
+optical absorption coefficient for C_{60} in order to look at how ``polarons''
+will be observed. It is predicted that there appears a new peak at the lower
+energy than the intergap transition peaks. It is also found that C_{60} and
+C_{70} are related mutually with respect to electronical structures as well as
+lattice geometries. (to be published in Phys. Rev. B 45, June 15 issue)
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 03:01:47 GMT""}]","2007-05-23"
+"hep-lat/9205024","Elyakum Klepfish","I.M. Barbour and E.G. Klepfish","Grand Canonical Partition Function of a 2-dimensional Hubbard Model","33 pages, GUTPA/91/11-1:",,"10.1103/PhysRevB.46.469",,"hep-lat",,"  We present a new technique for a numerical analysis of the phase structure of
+the 2D Hubbard model as a function of the hole chemical potential. The grand
+canonical partition function for the model is obtained via Monte Carlo
+simulations. The dependence of the hole occupation number on the chemical
+potential and the temperature is evaluated. These calculations, together with a
+study of the Yang-Lee zeros of the grand canonical partition function, show
+evidence of a phase transition at zero temperature and particle density below
+half-filling. The binding energy of a pair of holes is calculated in the low
+temperature regime and the possibility for pairing is explored.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 16:47:28 GMT""}]","2009-10-22"
+"hep-lat/9205025","Sinya Aoki","Sinya Aoki","Regularizations, Anomalies and Fermion Number Non-Conservation in Chiral
+  Gauge Theories","14 pages(Tex, no figures)","Int. J. Mod. Phys. A8 (1993) 5629-5640","10.1142/S0217751X93002228","UTHEP-236","hep-lat hep-th",,"  We study how fermion number conservation fails in fermion number preserving
+regularization schemes. We show that the fermion number have to be carried by
+the gauge field configurations with non-zero winding number in this scheme and
+this fermion number is not conserved in the presence of instantons. We also
+consider other types of regularization scheme which have different global
+symmetries. In particular, we point out that the fermion number is conserved in
+the lattice chiral gauge theories with the Wilson-Yukawa coupling.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 01:46:41 GMT""}]","2015-06-25"
+"hep-ph/9205236",,"Reinhard Oehme","Dispersion Relations in Quantum Chromodynamics","32 pages, EFI 92-17",,,,"hep-ph",,"  Dispersion relations for the scattering of hadrons are considered within the
+framework of Quantum Chromodynamics. It is argued that the original methods of
+proof remain applicable. The setting and the spectral conditions are provided
+by an appropriate use of the BRST cohomology. Confinement arguments are used in
+order to exclude quarks and gluons from the physical subspace. Local,
+BRST-invariant hadron fields are considered as leading terms in operator
+product expansions for products of fundamental fields. The hadronic amplitudes
+have neither ordinary nor anomalous thresholds which are directly associated
+with the underlying quark-gluon-structure. Proofs involving the Edge of the
+Wedge Theorem and analytic completion are discussed briefly.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 18:37:33 GMT""}]","2007-05-23"
+"hep-ph/9205237","K. Yuan","L. Clavelli, P.W. Coulter and Kajia Yuan","Best Fit to the Gluino Mass","(15 pages (if not reduced), 7 figures not included), UAHEP924","Phys.Rev.D47:1973-1980,1993","10.1103/PhysRevD.47.1973",,"hep-ph",,"  Assuming that perturbative QCD is the dominant explanation for the narrowness
+of the vector quarkonia, we perform a $\chi^2$ minimization analysis of their
+hadronic decays as a function of two parameters, the mass of the gluino and the
+value of ${\alpha}_3(M_Z)$. A value below 1 GeV for the gluino mass is strongly
+preferred. Consequences for SUSY breaking scenarios are discussed.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 00:42:54 GMT""}]","2008-11-26"
+"hep-th/9205089","Curtis Callan","Adel Bilal and Curtis Callan","Liouville Models of Black Hole Evaporation","27 pages, revised (""Note Added"" is expanded to show how careful
+  treatment of quantum effects makes the Hawking radiation rate proportional to
+  N/12 rather than (N-24)/12 and also to show that the cosmic censorship
+  mechanism proposed by Russo et.al. for a somewhat different model works for
+  our model as well. New references are added and the preprint number is
+  corrected.) PUPT-1320","Nucl.Phys. B394 (1993) 73-100","10.1016/0550-3213(93)90102-U",,"hep-th",,"  We construct new theories of dilation gravity coupled to conformal matter
+which are exact $c=26$ conformal field theories and presumably consistent
+frameworks for discussing black hole physics in two dimensions. They differ
+from the CGHS equations in the precise dilaton dependence of the cosmological
+constant. A further modification proposed by Strominger with a view to
+eliminating unphysical ghost Hawking radiation is also considered. The new
+classical equations of motion are explicitly soluble, thus permitting an exact
+analysis of both static and dynamic senarios. While the static solutions are
+physically reasonable, the dynamical solutions include puzzling examples with
+wrong-sign Hawking radiation. We indicate how the latter problem may be
+resolved in the full quantum theory.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 02:37:29 GMT""},{""version"":""v2"",""created"":""Thu, 1 Oct 1992 16:14:00 GMT""}]","2009-10-22"
+"hep-th/9205091",,"Ramzi R. Khuri","Monopoles and Instantons in String Theory","16 pages","Phys.Rev. D46 (1992) 4526-4532","10.1103/PhysRevD.46.4526",,"hep-th",,"  In recent work, several classes of solitonic solutions of string theory with
+higher-membrane structure have been obtained. These solutions can be classified
+according to the symmetry possessed by the solitons in the subspace of the
+spacetime transverse to the membrane. Solitons with four-dimensional spherical
+symmetry represent instanton solutions in string theory, while those with
+three-dimensional spherical symmetry represent magnetic monopole-type
+solutions. For both of these classes, we discuss bosonic as well as heterotic
+solutions.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 21:43:49 GMT""}]","2009-10-22"
+"hep-th/9205095","Ian Kogan","Ian I. Kogan","About some exact solutions for 2+1 gravity coupled to gauge fields","10 pages","Mod. Phys. Lett. A7 (1992) 2341-2350","10.1142/S0217732392002111","UBCTP 92-17","hep-th",,"  Some exact static solutions for Einstein gravity in 2+1 dimensions coupled to
+abelian gauge field are discussed. Some of these solutions are
+three-dimensional analogs of the Schwarzschild black holes. The metrics in the
+regions inside and outside the horison are connected by the changing of the
+Planck mass sign.
+","[{""version"":""v1"",""created"":""Tue, 26 May 1992 18:07:00 GMT""}]","2009-10-22"
+"hep-th/9205096","Hideyuki Kato","H. Cateau & K. Sumiyoshi","Thermal history of the string universe","39 pages, no figures, use revtex.sty, aps.sty, aps10.sty &
+  preprint.sty","Phys.Rev. D46 (1992) 2366-2380","10.1103/PhysRevD.46.2366","UT-608","hep-th",,"  Thermal history of the string universe based on the Brandenberger and Vafa's
+scenario is examined. The analysis thereby provides a theoretical foundation of
+the string universe scenario. Especially the picture of the initial oscillating
+phase is shown to be natural from the thermodynamical point of view. A new tool
+is employed to evaluate the multi state density of the string gas. This
+analysis points out that the well-known functional form of the multi state
+density is not applicable for the important region $T \leq T_H$, and derives a
+correct form of it.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 08:02:30 GMT""}]","2009-10-22"
+"hep-th/9205097","Lee Montag","J. Lee Montag","The One-Loop Five-Graviton Scattering Amplitude and Its Low-Energy Limit","23 pages, ITP-SB-92-63","Nucl.Phys. B393 (1993) 337-360","10.1016/0550-3213(93)90248-N",,"hep-th",,"  A covariant path integral calculation of the even spin structure contribution
+to the one-loop N-graviton scattering amplitude in the type-II superstring
+theory is presented. The apparent divergence of the $N=5$ amplitude is resolved
+by separating it into twelve independent terms corresponding to different
+orders of inserting the graviton vertex operators. Each term is well defined in
+an appropriate kinematic region and can be analytically continued to physical
+regions where it develops branch cuts required by unitarity. The zero-slope
+limit of the $N=5$ amplitude is performed, and the Feynman diagram content of
+the low-energy field theory is examined. Both one-particle irreducible (1PI)
+and one-particle redicible (1PR) graphs with massless internal states are
+generated in this limit. One set of 1PI graphs has the same divergent
+dependence on the cut-off as that found in the four-graviton case, and it is
+proved that such graphs exist for all~$N$. The 1PR graphs are contributed by
+the poles in the world-sheet chiral Green functions.
+","[{""version"":""v1"",""created"":""Wed, 27 May 1992 14:33:59 GMT""}]","2015-06-26"

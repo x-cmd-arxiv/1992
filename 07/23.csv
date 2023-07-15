@@ -1,0 +1,170 @@
+"gr-qc/9207003","Jim McCarthy","T. Damour (IHES and DARC) S. Deser (Brandeis University) J. McCarthy
+  (University of Adelaide)","Nonsymmetric Gravity Theories: Inconsistencies and a Cure","34 pages","Phys.Rev.D47:1541-1556,1993","10.1103/PhysRevD.47.1541","BRX TH-324","gr-qc",,"  Motivated by the apparent dependence of string $\sigma$--models on the sum of
+spacetime metric and antisymmetric tensor fields, we reconsider gravity
+theories constructed from a nonsymmetric metric. We first show that all such
+""geometrical"" theories homogeneous in second derivatives violate standard
+physical requirements: ghost-freedom, absence of algebraic inconsistencies or
+continuity of degree-of-freedom content. This no-go result applies in
+particular to the old unified theory of Einstein and its recent avatars.
+However, we find that the addition of nonderivative, ``cosmological'' terms
+formally restores consistency by giving a mass to the antisymmetric tensor
+field, thereby transmuting it into a fifth-force-like massive vector but with
+novel possible matter couplings. The resulting macroscopic models also exhibit
+``van der Waals''-type gravitational effects, and may provide useful
+phenomenological foils to general relativity.
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 22:51:38 GMT""}]","2008-11-26"
+"gr-qc/9207004","Daniel Cangemi","Daniel Cangemi","One Formulation for both Lineal Gravities through a Dimensional
+  Reduction","13 pages","Phys.Lett. B297 (1992) 261","10.1016/0370-2693(92)91259-C","CTP#2124","gr-qc hep-th",,"  The two lineal gravities --- based on the de Sitter group or a central
+extension of the Poincar\'e group in 1+1 dimensions --- are shown to derive
+classically from a unique topological gauge theory. This one is obtained after
+a dimensional reduction of a Chern--Simons model, which describes pure gravity
+in 2+1 dimensions, the gauge symmetry being given by an extension of ISO(2,1).
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 14:08:55 GMT""}]","2016-08-31"
+"gr-qc/9207005",,"Ted Jacobson and Joseph D. Romano","Degenerate Extensions of General Relativity","9 pages","Class.Quant.Grav.9:L119-L124,1992","10.1088/0264-9381/9/9/003","UMDGR-92-154","gr-qc",,"  General relativity has previously been extended to incorporate degenerate
+metrics using Ashtekar's hamiltonian formulation of the theory. In this letter,
+we show that a natural alternative choice for the form of the hamiltonian
+constraints leads to a theory which agrees with GR for non-degenerate metrics,
+but differs in the degenerate sector from Ashtekar's original degenerate
+extension. The Poisson bracket algebra of the alternative constraints closes in
+the non-degenerate sector, with structure functions that involve the {\it
+inverse} of the spatial triad. Thus, the algebra does {\it not} close in the
+degenerate sector. We find that it must be supplemented by an infinite number
+ofsecondary constraints, which are shown to be first class (although their
+explicit form is not worked out in detail). All of the constraints taken
+together are implied by, but do not imply, Ashtekar's original form of
+constraints. Thus, the alternative constraints give rise to a different
+degenerate extension of GR. In the corresponding quantum theory, the single
+loop and intersecting loop holonomy states found in the connection
+representation satisfy {\it all} of the constraints. These states are therefore
+exact (formal) solutions to this alternative degenerate extension of quantum
+gravity, even though they are {\it not} solutions to the usual vector
+constraint.
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 15:51:00 GMT""}]","2010-04-06"
+"gr-qc/9207006",,"Ted Jacobson and Joseph D. Romano","The Spin Holonomy Group In General Relativity","21 pages","Commun.Math.Phys. 155 (1993) 261-276","10.1007/BF02097393","UMDGR-92-208","gr-qc",,"  It has recently been shown by Goldberg et al that the holonomy group of the
+chiral spin-connection is preserved under time evolution in vacuum general
+relativity. Here, the underlying reason for the time-independence of the
+holonomy group is traced to the self-duality of the curvature 2-form for an
+Einstein space. This observation reveals that the holonomy group is
+time-independent not only in vacuum, but also in the presence of a cosmological
+constant. It also shows that once matter is coupled to gravity, the
+""conservation of holonomy"" is lost. When the fundamental group of space is
+non-trivial, the holonomy group need not be connected. For each homotopy class
+of loops, the holonomies comprise a coset of the full holonomy group modulo its
+connected component. These cosets are also time-independent. All possible
+holonomy groups that can arise are classified, and examples are given of
+connections with these holonomy groups. The classification of local and global
+solutions with given holonomy groups is discussed.
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 15:53:00 GMT""}]","2009-10-22"
+"hep-lat/9207024","Pavlos Vranas","Urs M. Heller, Herbert Neuberger and Pavlos Vranas","Large $N$ analysis of the Higgs mass triviality bound","76 pages with 8 ps figures included. Tex file","Nucl.Phys. B399 (1993) 271-348","10.1016/0550-3213(93)90499-F","FSU-SCRI-92-99","hep-lat hep-ph",,"  We calculate the triviality bound on the Higgs mass in scalar field theory
+models whose global symmetry group $SU(2)_L \times SU(2)_{\rm custodial}
+\approx O(4)$ has been replaced by $O(N)$ and $N$ has been taken to infinity.
+Limits on observable cutoff effects at four percent in several regularized
+models with tunable couplings in the bare action yield triviality bounds
+displaying a large degree of universality. Extrapolating from $N=\infty$ to
+$N=4$ we conservatively estimate that a Higgs particle with mass up to
+$0.750~TeV$ and width up to $0.290~TeV$ is realizable without large cutoff
+effects, indicating that strong scalar self interactions in the standard model
+are not ruled out.
+  Note: The full ps file of this preprint is also available via anonymous ftp
+to ftp.scri.fsu.edu. To get the ps file, ftp to this address and use for
+username ""anonymous"" and for password your name. The file is in the directory
+pub/vranas (to go to that directory type: cd pub/vranas) and is called
+lrg_n_hig.ps (to get it type: get lrg_n_hig.ps)
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 21:11:39 GMT""}]","2009-10-22"
+"hep-lat/9207025","Bob Sugar","Claude Bernard, Michael C. Ogilvie, Thomas A. DeGrand, Carleton DeTar,
+  Steven Gottlieb, Alex Krasnitz, R. L. Sugar, and D. Toussaint","QCD thermodynamics with two flavors of Wilson quarks at N_t=6","24 pages",,"10.1103/PhysRevD.46.4741",,"hep-lat",,"  We report on a study of hadron thermodynamics with two flavors of Wilson
+quarks on 12^3x6 lattices. We have studied the crossover between the high and
+low temperature regimes for three values of the hopping parameter, kappa=0.16,
+0.17, and 0.18. At each of these values of kappa we have carried out spectrum
+calculations on 12^3x24 lattices for two values of the gauge coupling in the
+vicinity of the crossover in order to set an energy scale for our
+thermodynamics calculations and to determine the critical value of the gauge
+coupling for which the pion and quark masses vanish. For kappa=0.17 and 0.18 we
+find coexistence between the high and low temperature regimes over 1,000
+simulation time units indicating either that the equilibration time is
+extremely long or that there is a possibility of a first order phase
+transition. The pion mass is large at the crossover values of the gauge
+coupling, but the crossover curve has moved closer to the critical curve along
+which the pion and quark masses vanish, than it was on lattices with four time
+slices. In addition, values of the dimensionless quantity T_c/m_rho are in
+closer agreement with those for staggered quarks than was the case at N_t=4. (A
+POSTSCRIPT VERSION OF THIS PAPER IS AVAILABLE BY ANONYMOUS FTP FROM
+sarek.physics.ucsb.edu (128.111.8.250) IN THE FILE pub/wilson_thermo.ps)
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 20:36:11 GMT""}]","2009-10-22"
+"hep-lat/9207026","B. Grossmann","B.Grossmann, M.L.Laursen, T.Trappenberg, U.-J.Wiese","A Multicanonical Algorithm and the Surface Free Energy in SU(3) Pure
+  Gauge Theory","6 pages, HLRZ-92-31","Phys.Lett. B293 (1992) 175-180","10.1016/0370-2693(92)91498-X",,"hep-lat astro-ph cond-mat",,"  We present a multicanonical algorithm for the SU(3) pure gauge theory at the
+deconfinement phase transition. We measure the tunneling times for lattices of
+size L^3x2 for L=8,10, and 12. In contrast to the canonical algorithm the
+tunneling time increases only moderately with L. Finally, we determine the
+interfacial free energy applying the multicanonical algorithm.
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 13:19:52 GMT""}]","2009-10-22"
+"hep-ph/9207253",,"S. Kelley, J. Lopez, D. Nanopoulos, H. Pois, and K. Yuan","New Constraints on Neutralino Dark Matter in the Supersymmetric Standard
+  Model","12 pages plus 6 figures (not included), CERN-TH.6584/92,
+  CTP-TAMU-56/92, UAHEP9212","Phys.Rev.D47:2461-2467,1993","10.1103/PhysRevD.47.2461",,"hep-ph",,"  We investigate the prospects for neutralino dark matter within the
+Supersymmetric Standard Model (SSM) including the constraints from universal
+soft supersymmetry breaking and radiative breaking of the electroweak symmetry.
+The latter is enforced by using the one-loop Higgs effective potential which
+automatically gives the one-loop corrected Higgs boson masses. We perform an
+exhaustive search of the allowed five-dimensional parameter space and find that
+the neutralino relic abundance $\Omega_\chi h^2_0$ depends most strongly on the
+ratio $\xi_0\equiv m_0/m_{1/2}$. For $\xi_0\gg1$ the relic abundance is almost
+always much too large, whereas for $\xi_0\ll1$ the opposite occurs. For
+$\xi_0\sim1$ there are wide ranges of the remaining parameters for which
+$\Omega_\chi\sim1$. We also determine that $m_{\tilde q}\gsim250\GeV$ and
+$m_{\tilde l}\gsim100\GeV$ are necessary in order to possibly achieve
+$\Omega_\chi\sim1$. These lower bounds are much weaker than the corresponding
+ones derived previously when radiative breaking was {\it not} enforced.
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 19:51:00 GMT""}]","2008-11-26"
+"hep-ph/9207254","K. Yuan","L. Clavelli, P.H. Cox and Kajia Yuan","Supersymmetry and Tau Decay","7 pages, no figures, UAHEP9211",,,,"hep-ph",,"  The impact of the new tau decay data on the various $\tau$ puzzles and on the
+possibility of approximate supersymmetry is discussed. The most economical
+solution of the problems in $\tau$ decay and that favored by recent new data
+supports the existence of gluinos below one GeV.
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 20:39:04 GMT""}]","2007-05-23"
+"hep-th/9207074","Stephen Naculich","Stephen G. Naculich","Quantum Kinks: Solitons at Strong Coupling","21 pp. + 2 figs., phyzzx, JHU-TIPAC-920014","Phys.Rev. D46 (1992) 5487-5496","10.1103/PhysRevD.46.5487",,"hep-th hep-ph",,"  We examine solitons in theories with heavy fermions. These ``quantum''
+solitons differ dramatically from semi-classical (perturbative) solitons
+because fermion loop effects are important when the Yukawa coupling is strong.
+We focus on kinks in a $(1+1)$--dimensional $\phi^4$ theory coupled to
+fermions; a large-$N$ expansion is employed to treat the Yukawa coupling $g$
+nonperturbatively. A local expression for the fermion vacuum energy is derived
+using the WKB approximation for the Dirac eigenvalues. We find that fermion
+loop corrections increase the energy of the kink and (for large $g$) decrease
+its size. For large $g$, the energy of the quantum kink is proportional to $g$,
+and its size scales as $1/g$, unlike the classical kink; we argue that these
+features are generic to quantum solitons in theories with strong Yukawa
+couplings. We also discuss the possible instability of fermions to solitons.
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 20:32:00 GMT""}]","2009-10-22"
+"hep-th/9207075","Ivan","D. Chang, I. Phillips, Lev Rozansky","R-matrix Approach to Quantum Superalgebras su_{q}(m|n)","14 pages","J.Math.Phys. 33 (1992) 3710-3715","10.1063/1.529866","NUHEP-TH-91-04","hep-th math.QA",,"  Quantum superalgebras $su_{q}(m\mid n)$ are studied in the framework of
+$R$-matrix formalism. Explicit parametrization of $L^{(+)}$ and $L^{(-)}$
+matrices in terms of $su_{q}(m\mid n)$ generators are presented. We also show
+that quantum deformation of nonsimple superalgebra $su(n\mid n)$ requires its
+extension to $u(n\mid n)$.
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 19:47:10 GMT""}]","2009-10-22"
+"hep-th/9207076","John Preskill","H. David Politzer","Simple Quantum Systems in Spacetimes with Closed Timelike Curves","15 pages, CALT-68-1805","Phys.Rev. D46 (1992) 4470-4476","10.1103/PhysRevD.46.4470",,"hep-th",,"  Three simple examples illustrate properties of path integral amplitudes in
+fixed background spacetimes with closed timelike curves: non-relativistic
+potential scattering in the Born approximation is non-unitary, but both an
+example with hard spheres and the exact solution of a totally discrete model
+are unitary.
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 23:14:40 GMT""}]","2009-10-22"
+"hep-th/9207077","""Shin'ichi Nojiri    ""","Shin'ichi Nojiri and Ichiro Oda","Semi-classical Approach to Charged Dilatonic Black Hole in Two
+  Dimensions","21pp, NDA-FP-5/92, OCHA-PP-27","Nucl.Phys.B406:499-515,1993","10.1016/0550-3213(93)90179-S",,"hep-th",,"  We consider exactly solvable semi-classical theory of two dimensional
+dilatonic gravity with electromagnetic interactions. As was done in the paper
+by Russo, Susskind and Thorlacius, the term which changes the kinetic term is
+added to the action. The theory contains massless fermions as matter fields and
+there appear the quantum corrections including chiral anomaly. The screening
+effect due to the chiral anomaly has a tendency to cloak the singularity. In a
+region of the parameter space, the essential behavior of the theory is similar
+to that of Callan, Giddings, Harvey and Strominger's dilatonic black hole
+theory modified in the paper by Russo, Susskind and Thorlacius and the
+singularity formed by the collapsing matter emerges naked. We find, however,
+another region of the parameter space where the singularity disappears in a
+finite proper time. Furthermore, in the region of the parameter space, there
+appears a discontinuity in the metric on the trajectory of the collapsing
+matter, which would be a signal of topology change
+","[{""version"":""v1"",""created"":""Wed, 22 Jul 1992 23:57:51 GMT""},{""version"":""v2"",""created"":""Tue, 28 Jul 1992 02:48:00 GMT""}]","2010-11-01"
+"hep-th/9207078","Sarmadi Hossein","H. Kanno and M.H. Sarmadi","BRST cohomology ring in 2D gravity coupled to minimal models","19 pages IC/92/150","Int. J. Mod. Phys. A9 (1994) 39",,,"hep-th",,"  The ring structure of Lian-Zuckerman states for $(q,p)$ minimal models
+coupled to gravity is shown to be ${\cal R}={\cal R}_0\otimes {\bf C}
+[w,w^{-1}]$ where ${\cal R}_0$ is the ring of ghost number zero operators
+generated by two elements and $w$ is an operator of ghost number $-1$. Some
+examples are discussed in detail. For these models the currents are also
+discussed and their algebra is shown to contain the Virasoro algebra.
+","[{""version"":""v1"",""created"":""Thu, 23 Jul 1992 14:35:05 GMT""}]","2007-05-23"

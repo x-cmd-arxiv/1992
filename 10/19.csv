@@ -1,0 +1,100 @@
+"astro-ph/9210003","Kathleen Wills","Yukio Tomozawa","Cosmic Rays, Gamma Rays and Neutrinos from Point Sources","4, UM-TH-92-20",,"10.1063/1.43872",,"astro-ph",,"  The suggestion has been made that the energy spectrum from point sources such
+as AGN (Active Galactic Nuclei) and GBHC (Galactic Black Hole Candidates) is
+universal, irrespective of the nature of the emitted particles. A comparison of
+the energy spectrum for cosmic rays at the source and $\gamma$-rays from
+quasars obtained recently by CGRO (Compton Gamma Ray Observatory) indicates
+that the prediction is in agreement with the data in the average sense. This
+suggests that neutrinos from point sources should have a spectral index
+identical to that of $\gamma$-rays for an individual point source. This
+prediction is also consistent with the recent observation of neutrinos by
+Kamiokande and IMB in which the ratio of $\nu_\mu/\nu_e$ is close to 1, instead
+of 2 as expected from atmospheric neutrinos. For a further test of the model,
+analysis of the time variation of $\gamma$-ray spectra from quasars is
+suggested.
+","[{""version"":""v1"",""created"":""Mon, 19 Oct 1992 12:36:00 GMT""}]","2009-10-22"
+"cond-mat/9210016",,"M. Fabrizio and A. Parola","Spin-Charge separation in a model of two coupled chains","12 pages, LATEX(REVTEX), SISSA 150/92/CM/MB",,"10.1103/PhysRevLett.70.226",,"cond-mat",,"  A model of interacting electrons living on two chains coupled by a transverse
+hopping $t_\perp$, is solved exactly by bosonization technique. It is shown
+that $t_\perp$ does modify the shape of the Fermi surface also in presence of
+interaction, although charge and spin excitations keep different velocities
+$u_\rho$, $u_\sigma$. Two different regimes occur: at short distances, $x\ll
+\xi = (u_\rho - u_\sigma)/4t_\perp$, the two chain model is not sensitive to
+$t_\perp$, while for larger separation $x\gg \xi$ inter--chain hopping is
+relevant and generates further singularities in the electron Green function
+besides those due to spin-charge decoupling. (2 figures not included. Figure
+requests: FABRIZIO@ITSSISSA)
+","[{""version"":""v1"",""created"":""Mon, 19 Oct 1992 10:55:39 GMT""}]","2009-10-22"
+"hep-lat/9210021","Enzo Marinari","E. Marinari, M. L. Paciello, G. Parisi and B. Taglienti","The String Tension in Gauge Theories: a Suggestion for a New Measurement
+  Method","9 pages, Latex style, 4 postscript figures appended, ROMA 92-903","Phys.Lett. B298 (1993) 400-404","10.1016/0370-2693(93)91840-J",,"hep-lat",,"  We discuss a new method for testing confinement and measuring the string
+tension (in the Coulomb gauge). Our numerical simulations demonstrate that the
+problems related to Gribov copies are not harmful and that the method is
+effective in the case of pure gauge Q.C.D.. We discuss the relevance of the
+method for studying gauge theories coupled to fermionic matter.
+","[{""version"":""v1"",""created"":""Mon, 19 Oct 1992 15:37:05 GMT""}]","2009-10-22"
+"hep-ph/9210244",,"M.B. Voloshin","Zeros of Tree-Level Amplitudes at Multi-Boson Thresholds","10 pages, LaTeX, TPI-MINN-92/56-T","Phys.Rev. D47 (1993) 2573-2577","10.1103/PhysRevD.47.2573",,"hep-ph",,"  Propagation of particles with emission of arbitrary number of identical
+bosons all being at rest is considered. It is shown that in certain models the
+tree-level amplitudes for production of $n$ scalar bosons by two incoming
+particles are all equal to zero at the threshold starting from some small
+number $n$. In particular this nullification occurs for production of massive
+scalars by two Goldstone bosons in the linear sigma model for $n > 1$ and also
+for production of Higgs bosons in the Standard Model by gauge bosons and/or by
+fermions, provided that the ratia of their masses to that of the Higgs boson
+take special discrete values.
+","[{""version"":""v1"",""created"":""Mon, 19 Oct 1992 15:54:38 GMT""}]","2009-10-22"
+"hep-th/9210097",,"V.Spiridonov","Exactly Solvable Potentials and Quantum Algebras","4 pages, LATEX, UdeM-LPN-113/92","Proc. of XIX ICGTMP, Anales de Fisica, Monografias, CIEMAT/RSEF,
+  Madrid (1993) Vol. I, pp. 198-201",,,"hep-th",,"  Self-similar potentials and corresponding symmetry algebras are briefly
+discussed.
+  Talk presented at the XIXth ICGTMP, Salamanca, 29 June - 4July 1992.
+","[{""version"":""v1"",""created"":""Sun, 18 Oct 1992 21:11:45 GMT""}]","2011-02-15"
+"hep-th/9210098","Andrzej Sitarz","Andrzej Sitarz","Noncommutative Geometry and Gauge Theories on Discrete Groups","LaTeX file, 23 pages, TPJU 7/92 (revised version)","J.Geom.Phys. 15 (1995) 123-136","10.1016/0393-0440(94)00009-S",,"hep-th",,"  We build and investigate a pure gauge theory on arbitrary discrete groups. A
+systematic approach to the construction of the differential calculus is
+presented. We discuss the metric properties of the models and introduce the
+action functionals for unitary gauge theories. A detailed analysis of two
+simple models based on $\z_2$ and $\z_3$ follows. Finally we study the method
+of combining the discrete and continuous geometry.
+","[{""version"":""v1"",""created"":""Mon, 19 Oct 1992 08:53:11 GMT""}]","2015-06-26"
+"hep-th/9210099",,"M. de Roo, H. Suelmann and A. Wiedemann","The Supersymmetric Effective Action of the Heterotic String in Ten
+  Dimensions","42 pages, UG-9/92","Nucl.Phys. B405 (1993) 326-366","10.1016/0550-3213(93)90550-9",,"hep-th",,"  We construct the supersymmetric completion of quartic $R+R^4$-actions in the
+ten-dimensional effective action of the heterotic string. Two invariants, of
+which the bosonic parts are known from one-loop string amplitude calculations,
+are obtained. One of these invariants can be generalized to an
+$R+F^2+F^4$-invariant for supersymmetric Yang-Mills theory coupled to
+supergravity.
+  Supersymmetry requires the presence of $B\wedge R\wedge R\wedge
+  R\wedge R$-terms, ($B\wedge F\wedge F\wedge F\wedge F$ for
+  Yang-Mills) which correspond to counterterms in the Green-Schwarz anomaly
+cancellation. Within the context of our calculation the $\zeta(3)R^4$-term from
+the tree-level string effective action does not allow supersymmetrization.
+","[{""version"":""v1"",""created"":""Mon, 19 Oct 1992 08:38:00 GMT""}]","2009-10-22"
+"hep-th/9210100",,"Krzysztof Gaw\c{e}dzki","Quantum Group Symmetries in Conformal Field Theory","13 pages, Talk given at Oji Seminar on Quantum Analysis, Kyoto, June
+  25-29, 1992",,,"IHES/P/92/80","hep-th",,"  Quantum groups play the role of hidden symmetries of some two-dimensional
+field theories. We discuss how they appear in this role in the
+Wess-Zumino-Witten model of conformal field theory.
+","[{""version"":""v1"",""created"":""Mon, 19 Oct 1992 10:24:45 GMT""}]","2007-05-23"
+"hep-th/9210101","Kenji Hamada","K. Hamada","Gravitational Collapse in 1+1 Dimensions and Quantum Gravity","14 pages. phyztex. UT-Komaba 92-9",,,,"hep-th",,"  We investigate the quantum theory of 1+1 dimensional dilaton gravity, which
+is an interesting toy model of the black hole dynamics. The functional measures
+of gravity part are explicitly evaluated and derive the Wheeler-DeWitt like
+equations as physical state conditions. In ADM formalism the measures are very
+ambiguous, but in our formalism they are explicitly defined. Then the new
+features which are not seen in ADM formalism come out. A singularity appears at
+$\df^2 =\kappa (>0) $, where $\kappa =(N-51/2)/12 $ and $ N$ is the number of
+matter fields. At the final stage of the black hole evaporation, the Liouville
+term becomes important, which just comes from the measures of the fields.
+Behind the singularity the quantum mechanical region $\kappa > \df^2 >0 $
+extends, where the sign of the kinetic term in the Wheeler-DeWitt like equation
+changes. If $\kappa <0 $, the singularity disappears. We briefly discuss the
+possibility of gravitational tunneling and the issue of the information loss.
+  (Talk given at ""YITP Workshop on Theories of Quantum Fields -Beyond
+Perturbation-"", Kyoto, Japan, 14-17 July 1992.
+  Some misleading arguments in the preprint UT-Komaba 92-7 entitled ""Quamtum
+Theory of Dilaton Gravity in 1+1 Dimensions"" are corrected. The several remarks
+on the quantization are included. The difference from the other quantum theory
+is clarified.
+","[{""version"":""v1"",""created"":""Mon, 19 Oct 1992 10:26:41 GMT""}]","2007-05-23"
+"hep-th/9210102","Malte Henkel","Malte Henkel","On the Two-Point Correlation Function in Dynamical Scaling and
+  SCHR\""Odinger Invariance","Geneva preprint UGVA/DPT 1992/09-783, plain Tex 6pp (to appear in
+  Int. J. Mod. Phys. C)","Int. J. Mod. Phys. C3, 1011 (1992)","10.1142/S012918319200066X",,"hep-th cond-mat hep-lat",,"  The extension of dynamical scaling to local, space-time dependent rescaling
+factors is investigated. For a dynamical exponent $z=2$, the corresponding
+invariance group is the Schr\""odinger group. Schr\""odinger invariance is shown
+to determine completely the two-point correlation function. The result is
+checked in two exactly solvable models.
+","[{""version"":""v1"",""created"":""Mon, 19 Oct 1992 12:29:43 GMT""}]","2015-06-26"

@@ -1,0 +1,18 @@
+"hep-lat/9208001","Enzo Marinari","G. Iori, E. Marinari and G. Parisi","Non-Exponential Relaxation Time Scales in Disordered Systems: an
+  Application to Protein Dynamics","14 pages, Latex files, 5 figures not included, sorry. SCCS 331,
+  ROM2F-92-35",,,,"hep-lat cond-mat q-bio.QM",,"  We study the dynamics of an heteropolymeric chain relaxing toward a new
+equilibrium configuration after the action of an external perturbation. We
+compare the results from Monte Carlo simulations with the results of a Langevin
+normal mode decomposition. We discuss, for sake of comparison, the case of an
+ordered homopolymeric chain.
+","[{""version"":""v1"",""created"":""Sun, 2 Aug 1992 10:08:44 GMT""}]","2008-02-03"
+"hep-th/9208001","Itzhak Bars","I. Bars and K. Sfetsos","$SL(2,R)xSU(2)/R^2$ string model in curved spacetime and exact conformal
+  results","USC-92/HEP-B3, 13 pages and 1 figure","Phys.Lett. B301 (1993) 183-190","10.1016/0370-2693(93)90686-C",,"hep-th",,"  Pursuing further the recent methods in the algebraic Hamiltonian approach to
+gauged WZW models, we apply them to the bosonic SL(2,R) X SU(2)/R^2 model
+recently investigated by Nappi and Witten. We find the global space and compute
+the conformally exact metric and dilaton fields to all orders in the $1/k$
+expansion. The semiclassical limit $k',k\to \infty$ of our exact results agree
+with the lowest order perturbation computation which was done in the Lagrangian
+formalism. We also discuss the supersymmetric type-II and heterotic versions of
+this model and verify the non-renormalization of $e^\Phi\sqrt{-G}$.
+","[{""version"":""v1"",""created"":""Sun, 2 Aug 1992 04:49:41 GMT""}]","2009-10-22"

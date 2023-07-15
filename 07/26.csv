@@ -1,0 +1,30 @@
+"hep-lat/9207028","Jun Nishimura","Jun Nishimura","Monte Carlo Calculation of Phase Shift in Four Dimensional O(4) $\phi^4$
+  Theory","10 pages, 3 figures (not included but available by mail), UT-615","Phys.Lett. B294 (1992) 375-379","10.1016/0370-2693(92)91536-I",,"hep-lat hep-th",,"  The phase shift of the O(4) symmetric $\phi^4$ theory in the symmetric phase
+is calculated numerically using the relation between phase shift and energy
+levels of two-particle states recently derived by L\""{u}scher. The results
+agree with the prediction of perturbation theory. A practical difficulty of the
+method for a reliable extraction of the phase shift for large momenta due to
+the necessity of a precise determination of excited two-particle energy levels
+is pointed out.
+","[{""version"":""v1"",""created"":""Sun, 26 Jul 1992 07:57:40 GMT""}]","2009-10-22"
+"hep-th/9207084",,"P. Aschieri and L. Castellani","An introduction to non-commutative differential geometry on quantum
+  groups","45 pages","Int.J.Mod.Phys. A8 (1993) 1667-1706","10.1142/S0217751X93000692","CERN-TH.6565/92; DFTT-22/92","hep-th math.QA",,"  We give a pedagogical introduction to the differential calculus on quantum
+groups by stressing at all stages the connection with the classical case ($q
+\rightarrow 1$ limit). The Lie derivative and the contraction operator on forms
+and tensor fields are found. A new, explicit form of the Cartan--Maurer
+equations is presented. The example of a bicovariant differential calculus on
+the quantum group $GL_q(2)$ is given in detail. The softening of a quantum
+group is considered, and we introduce $q$-curvatures satisfying q-Bianchi
+identities, a basic ingredient for the construction of $q$-gravity and
+$q$-gauge theories.
+","[{""version"":""v1"",""created"":""Sun, 26 Jul 1992 10:59:00 GMT""}]","2009-10-22"
+"hep-th/9207085",,"A.Babichenko, S.Elitzur","Deviations from Scale Invariance near a General Conformal Background","24 pages.; latex file; RI-147; (07/92)","Nucl.Phys. B414 (1994) 147-173","10.1016/0550-3213(94)90426-X",,"hep-th",,"  Deviations from scale invariance resulting from small perturbations of a
+general two dimensional conformal field theory are studied. They are expressed
+in terms of beta functions for renormalization of general couplings under local
+change of scale. The beta functions for homogeneous background are given
+perturbatively in terms of the data of the original conformal theory without
+any specific assumptions on its nature. The renormalization of couplings to
+primary operators and to first descendents is considered as well as that of
+couplings of a dilatonic type which involve explicit dependence on world sheet
+curvature.
+","[{""version"":""v1"",""created"":""Sun, 26 Jul 1992 14:07:00 GMT""}]","2009-10-22"
